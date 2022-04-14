@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="video/mpeg">
+  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
+  <glob pattern="*.m1v"/>
+  <glob pattern="*.mp2v"/>
+  <glob pattern="*.mpa"/>
+  <glob pattern="*.mpv2"/>
+  <comment>Movie Clip</comment>
+</mime-type>

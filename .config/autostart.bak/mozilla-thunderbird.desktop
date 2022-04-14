@@ -1,0 +1,16 @@
+[Desktop Entry]
+Categories=Network;Email;
+Comment[fi_FI]=Lue ja kirjoita sähköposteja
+Comment=Send and Receive Email
+Exec=thunderbird %u
+GenericName=Email
+Icon=thunderbird
+MimeType=message/rfc822;x-scheme-handler/mailto;
+Name[fi_FI]=Thunderbird-sähköposti
+Name=Thunderbird
+StartupNotify=true
+Terminal=false
+TryExec=thunderbird
+Type=Application
+Version=1.0
+X-Desktop-File-Install-Version=0.26

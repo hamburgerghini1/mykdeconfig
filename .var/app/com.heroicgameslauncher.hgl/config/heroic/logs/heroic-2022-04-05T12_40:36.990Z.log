@@ -1,0 +1,44 @@
+(15:40:36) INFO:    [Legendary]:       Location: /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(15:40:36) INFO:    [Gog]:             Location: /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(15:40:37) INFO:    [Backend]:         
+  Heroic Version: 2.2.6 Oden
+  Legendary Version:  0.20.25 Our Benefactors
+  OS: Freedesktop.org KERNEL: 5.16.18-201.fsync.fc35.x86_64 ARCH: x64
+  CPU: Intel Core™ i5-10600K @4.1 GOVERNOR: powersave
+  RAM: Total: 33.5 GB Available: 25.8 GB
+  GRAPHICS: GPU0: TU106 [GeForce RTX 2060 Rev. A]  VRAM: 32MB DRIVER:  
+  PROTOCOL: x11
+  
+(15:40:37) INFO:    [Gog]:             Getting data about the user
+(15:40:37) INFO:    [Gog]:             Refreshing access_token
+(15:40:37) ERROR:   [Backend]:         Failed to register protocol with OS.
+(15:40:37) ERROR:   [Gog]:             Error with refreshing token, reauth required
+(15:40:37) INFO:    [Frontend]:        Refreshing Library
+(15:40:37) INFO:    [Gog]:             Refreshing access_token
+(15:40:38) ERROR:   [Gog]:             Error with refreshing token, reauth required
+(15:40:38) INFO:    [Legendary]:       Refreshing library...
+(15:40:38) INFO:    [Legendary]:       Refreshing Epic Games...
+(15:40:38) INFO:    [Legendary]:       Refreshing Epic Games...
+(15:40:38) INFO:    [Legendary]:       [cli] INFO: Logging in...
+(15:40:38) INFO:    [Legendary]:       [Core] INFO: Trying to re-use existing login session...
+(15:40:39) INFO:    [Legendary]:       [cli] INFO: Getting game list... (this may take a while)
+(15:40:39) INFO:    [Legendary]:       Updating game list
+(15:40:39) INFO:    [Legendary]:       Game List Updated
+(15:40:40) INFO:    [Legendary]:       Checking for game updates
+(15:40:40) INFO:    [Legendary]:       Found 0 game(s) to update
+(15:40:40) INFO:    [Gog]:             Found 0 game(s) to update
+(15:40:42) INFO:    [Backend]:         checking for heroic updates
+(15:40:42) INFO:    [Backend]:         skipping heroic updates
+(15:40:50) INFO:    [Backend]:         launching Aven Colony dc07b9ead8214591b8df6d2546d2a0e3
+(15:40:50) INFO:    [DXVKInstaller]:   installing dxvk on... /home/tommi/Games/Heroic/Prefixes/Aven-Colony
+(15:41:01) INFO:    [DXVKInstaller]:   dxvk installed on /home/tommi/Games/Heroic/Prefixes/Aven-Colony
+(15:41:01) INFO:    [Legendary]:       Launch Command: DXVK_HUD=fps /app/bin/gamemoderun mangohud --dlsym /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch dc07b9ead8214591b8df6d2546d2a0e3 --wine '/home/tommi/.local/share/lutris/runners/wine/lutris-6.21-6-x86_64/bin/wine' --wine-prefix '/home/tommi/Games/Heroic/Prefixes/Aven-Colony'
+(15:41:08) INFO:    [Backend]:         Log was written to /home/tommi/.var/app/com.heroicgameslauncher.hgl/config/heroic/GamesConfig/dc07b9ead8214591b8df6d2546d2a0e3-lastPlay.log
+(15:43:16) INFO:    [Backend]:         trying to run WINEPREFIX='/home/tommi/Games/Heroic/Prefixes/Aven-Colony' '/home/tommi/.local/share/lutris/runners/wine/lutris-6.21-6-x86_64/bin/wine' '/home/tommi/Lataukset/vc_redist.x64.exe'
+(15:43:22) ERROR:   [Backend]:         Something went wrong! Check if runExe is available and '/home/tommi/.local/share/lutris/runners/wine/lutris-6.21-6-x86_64/bin/wine' exists
+(15:43:29) INFO:    [Backend]:         trying to run WINE='/home/tommi/.local/share/lutris/runners/wine/lutris-6.21-6-x86_64/bin/wine' WINEPREFIX='/home/tommi/Games/Heroic/Prefixes/Aven-Colony' winetricks
+(15:43:29) ERROR:   [Backend]:         Something went wrong! Check if winetricks is available and '/home/tommi/.local/share/lutris/runners/wine/lutris-6.21-6-x86_64/bin/wine' exists
+(15:43:37) INFO:    [Backend]:         trying to run WINE='/home/tommi/.local/share/lutris/runners/wine/lutris-6.14-4-x86_64/bin/wine' WINEPREFIX='/home/tommi/Games/Heroic/Prefixes/Aven-Colony' '/home/tommi/.local/share/lutris/runners/wine/lutris-6.14-4-x86_64/bin/wine' winecfg
+(15:45:26) INFO:    [Backend]:         launching Aven Colony dc07b9ead8214591b8df6d2546d2a0e3
+(15:45:27) INFO:    [Legendary]:       Launch Command: DXVK_HUD=fps /app/bin/gamemoderun mangohud --dlsym /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch dc07b9ead8214591b8df6d2546d2a0e3 --wine '/home/tommi/.local/share/lutris/runners/wine/lutris-6.14-4-x86_64/bin/wine' --wine-prefix '/home/tommi/Games/Heroic/Prefixes/Aven-Colony'
+(15:45:38) INFO:    [Backend]:         Log was written to /home/tommi/.var/app/com.heroicgameslauncher.hgl/config/heroic/GamesConfig/dc07b9ead8214591b8df6d2546d2a0e3-lastPlay.log

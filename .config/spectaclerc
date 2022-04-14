@@ -1,0 +1,14 @@
+[$Version]
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
+
+[GuiConfig]
+window-position=26,43
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Kuvat/Screenshot_20220327_132733.png,file:$HOME/Kuvat/Screenshot_20220402_104616.png,file:$HOME/Kuvat/Screenshot_20220401_171201.png,file:$HOME/Kuvat/Screenshot_20220327_144445.png
+Recent URLs[$e]=file:$HOME/Kuvat/,file:$HOME/,file:$HOME/Asiakirjat/
+detailViewIconSize=16
+
+[Save]
+lastSaveAsLocation=file:///home/tommi/Kuvat/Screenshot_20220402_104616.png
+lastSaveLocation=file:///home/tommi/.config/plasmaConfSaver/default/screenshot.png

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="563">
+  <name>Dash To Panel</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Psifidotos</author>
+  <homepage>https://store.kde.org/p/1310555</homepage>
+  <licence></licence>
+  <version>0.5.0</version>
+  <rating>77</rating>
+  <downloads>31559</downloads>
+  <installedfile>/tmp/latte-indicator-dashtopanel-0.5.0.zip</installedfile>
+  <id>1310555</id>
+  <releasedate>2021-05-11</releasedate>
+  <summary>Options:&lt;br />
+-- Line Style: Metro/Ciliora/Dashes&lt;br />
+-- Background options (max opacity / line thickness)&lt;br />
+-- Reverse Lines position</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/02/97/22/1310555/eb919f18c5811c6fdbb0bf36527b467f98e2.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/02/97/22/1310555/eb919f18c5811c6fdbb0bf36527b467f98e2.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjA3NTcxMDciLCJvIjoiMSIsInMiOiI1ZGQ3OTJjZmM4NDYzYWI4YTBkZjMwYmI1NTNhYWM4NjA1ZGJlZGViZmMyYzMwMmU1NmYzMWY3ZThmNjU1ODI1ODAyZmExYzhkZjg0ZDJkNDRmNzZmMWU4OTlkYmEwZGY1MTIzNzU4NjhjYjFmZGJiYjQwZDczMmE2NDZjNDhiMSIsInQiOjE2NDgzMjExNzIsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuNC40MCJ9.VuqYzdPV_Fo_QdHQVwrxYFRoFLsH8cwRI1w02rPOxPQ/latte-indicator-dashtopanel-0.5.0.zip</payload>
+  <tags>original-product,panel,unix,extension,latte,indicator,gplv2-later,linux,dash</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

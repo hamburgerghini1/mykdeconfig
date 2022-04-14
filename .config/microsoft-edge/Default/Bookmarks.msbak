@@ -1,0 +1,45 @@
+{
+   "checksum": "ca6bb9483c1e9253373185e788397059",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13293299076805897",
+            "guid": "9c9cda5b-cc3f-42a4-8ee3-0e34f7bab0dd",
+            "id": "5",
+            "name": "Xbox Cloud Gaming (Beta) on Xbox.com",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://www.xbox.com/en-US/play"
+         } ],
+         "date_added": "13293299060627060",
+         "date_modified": "13293299076805897",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Suosikit-palkki",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13293299060627065",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Muut suosikit",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13293299060627066",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobiililaitteen suosikit",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

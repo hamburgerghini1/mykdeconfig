@@ -1,0 +1,2474 @@
+{
+   "About_Sync2": {
+      "message": "Konto:"
+   },
+   "About_Version2": {
+      "message": "Version:"
+   },
+   "AccountLicenseStatus_LicenseExpired": {
+      "message": "Licensen udløb for %1 dag(e) siden"
+   },
+   "AccountLicenseStatus_LicenseExpiresIn": {
+      "message": "Licensen udløber om %1 dag(e)"
+   },
+   "AccountLicenseStatus_NoLicense": {
+      "message": "Ingen licens"
+   },
+   "AccountLicenseStatus_TrialExpired": {
+      "message": "Prøveperioden udløb for %1 dag(e) siden"
+   },
+   "AccountLicenseStatus_TrialExpiresIn": {
+      "message": "Prøveperiode udløber om %1 dag(e)"
+   },
+   "BEM_Description": {
+      "message": "RoboForm, the #1 ranked Password Manager makes your life easier by remembering passwords and logging you into websites automatically"
+   },
+   "BEM_FullName": {
+      "message": "RoboForm Password Manager"
+   },
+   "BEM_FullNameBeta": {
+      "message": "RoboForm Password Manager (Beta)"
+   },
+   "Btn_No": {
+      "message": "Nej"
+   },
+   "Btn_Yes": {
+      "message": "Ja"
+   },
+   "CheckedRunMB_CheckButton": {
+      "message": "Vis ikke denne besked igen"
+   },
+   "Cmd_About_Key": {
+      "message": "Om..."
+   },
+   "Cmd_Cancel_Flat": {
+      "message": "Fortryd"
+   },
+   "Cmd_ClearList_Key": {
+      "message": "(Ryd liste)"
+   },
+   "Cmd_Close_Flat": {
+      "message": "Luk"
+   },
+   "Cmd_Delete_Confirm": {
+      "message": "Vil du slette %1 '%2'?"
+   },
+   "Cmd_Delete_Flat": {
+      "message": "Slet"
+   },
+   "Cmd_Edit_Flat": {
+      "message": "Redigér"
+   },
+   "Cmd_EmergencyAccess_Key": {
+      "message": "Nødadgang"
+   },
+   "Cmd_FillEmptyOnly_Key": {
+      "message": "Udfyld kun tomme felter"
+   },
+   "Cmd_FillForms_Flat": {
+      "message": "Udfyld"
+   },
+   "Cmd_FillGenPassword_Flat": {
+      "message": "Generer"
+   },
+   "Cmd_GoFill_Flat": {
+      "message": "Gå til & udfyld"
+   },
+   "Cmd_Goto_Flat": {
+      "message": "Gå til"
+   },
+   "Cmd_Help_ContactSupport_Key": {
+      "message": "Kontakt support"
+   },
+   "Cmd_Help_FaqAll_Key": {
+      "message": "FAQ (ofte stillede spørgsmål)"
+   },
+   "Cmd_Help_Flat": {
+      "message": "Hjælp"
+   },
+   "Cmd_Help_HomePage_Key": {
+      "message": "Hjemmeside"
+   },
+   "Cmd_Help_ProblemStepsRecorder_Key": {
+      "message": "Registrer problemer"
+   },
+   "Cmd_Login_Flat": {
+      "message": "Login"
+   },
+   "Cmd_Logins_Flat": {
+      "message": "Login"
+   },
+   "Cmd_Logoff_Flat": {
+      "message": "Logaf"
+   },
+   "Cmd_NewFolder_Error": {
+      "message": "Fejl ved oprettelse af ny mappe: %1"
+   },
+   "Cmd_NewFolder_Exist_Error": {
+      "message": "Mappen '%1' findes allerede"
+   },
+   "Cmd_NewFolder_Title": {
+      "message": "Ny mappe"
+   },
+   "Cmd_Options_Flat": {
+      "message": "Indstillinger"
+   },
+   "Cmd_PasswordAuditRun_Key": {
+      "message": "Kodeordstest"
+   },
+   "Cmd_Rename_Flat": {
+      "message": "Omdøb"
+   },
+   "Cmd_Rename_Name_Prompt": {
+      "message": "Omdøb til:"
+   },
+   "Cmd_RoboForm_Flat": {
+      "message": "RoboForm"
+   },
+   "Cmd_RunEditor_Flat": {
+      "message": "Editor"
+   },
+   "Cmd_Safenote_CopyClipboard_Flat": {
+      "message": "Kopiér tekst"
+   },
+   "Cmd_SaveForms_Flat": {
+      "message": "Gem"
+   },
+   "Cmd_SaveForms_Key": {
+      "message": "Gem formularer"
+   },
+   "Cmd_SendFile_Key": {
+      "message": "Send"
+   },
+   "Cmd_SharedFileSettings_Key": {
+      "message": "Deling ..."
+   },
+   "Cmd_SharedFolderSettings_Key": {
+      "message": "Delt mappe indstillinger"
+   },
+   "Cmd_Skip_Flat": {
+      "message": "Skip"
+   },
+   "Cmd_StartPage_Tip": {
+      "message": "Åbn RoboForm startside"
+   },
+   "Cmd_ToolBarSync": {
+      "message": "Synkroniser"
+   },
+   "ContextMenuAndShortcuts_ClearFields_Acc": {
+      "message": "0"
+   },
+   "ContextMenuAndShortcuts_ClearFields_Text": {
+      "message": "Ryd felter"
+   },
+   "ContextMenuAndShortcuts_FillForms_Acc": {
+      "message": "]"
+   },
+   "ContextMenuAndShortcuts_FillForms_Text": {
+      "message": "Udfyld formularer"
+   },
+   "ContextMenuAndShortcuts_FillSubmit_Acc3": {
+      "message": "Z"
+   },
+   "ContextMenuAndShortcuts_FillSubmit_Text": {
+      "message": "Udfyld  send"
+   },
+   "ContextMenuAndShortcuts_IdentitiesEditor_Acc": {
+      "message": ","
+   },
+   "ContextMenuAndShortcuts_IdentitiesEditor_Text": {
+      "message": "Identitets Editor"
+   },
+   "ContextMenuAndShortcuts_Identities_Acc2": {
+      "message": "N"
+   },
+   "ContextMenuAndShortcuts_Identities_Text": {
+      "message": "Identiteter"
+   },
+   "ContextMenuAndShortcuts_Logins_Acc2": {
+      "message": "X"
+   },
+   "ContextMenuAndShortcuts_Logins_Text": {
+      "message": "Login"
+   },
+   "ContextMenuAndShortcuts_Logoff_Acc": {
+      "message": "L"
+   },
+   "ContextMenuAndShortcuts_Logoff_Text": {
+      "message": "Logaf"
+   },
+   "ContextMenuAndShortcuts_MatchingPasscard_Acc": {
+      "message": "M"
+   },
+   "ContextMenuAndShortcuts_MatchingPasscard_Text": {
+      "message": "Matchende Adgangskort"
+   },
+   "ContextMenuAndShortcuts_MyIdentity_Acc": {
+      "message": "19"
+   },
+   "ContextMenuAndShortcuts_MyIdentity_Text": {
+      "message": "Min Identitet"
+   },
+   "ContextMenuAndShortcuts_Options_Acc": {
+      "message": "O"
+   },
+   "ContextMenuAndShortcuts_Options_Text": {
+      "message": "Indstillinger"
+   },
+   "ContextMenuAndShortcuts_PasscardsEditor_Acc": {
+      "message": "."
+   },
+   "ContextMenuAndShortcuts_PasscardsEditor_Text": {
+      "message": "Adgangskort Editor"
+   },
+   "ContextMenuAndShortcuts_ResetFields_Acc": {
+      "message": "-"
+   },
+   "ContextMenuAndShortcuts_ResetFields_Text": {
+      "message": "Nulstil felter"
+   },
+   "ContextMenuAndShortcuts_RoboFormMenu_Acc2": {
+      "message": "U"
+   },
+   "ContextMenuAndShortcuts_RoboFormMenu_Text": {
+      "message": "RoboForm menu"
+   },
+   "ContextMenuAndShortcuts_RoboFormToolbar_Acc3": {
+      "message": "R"
+   },
+   "ContextMenuAndShortcuts_RoboFormToolbar_Text": {
+      "message": "RF værktøjslinie"
+   },
+   "ContextMenuAndShortcuts_RunPassGen_Acc": {
+      "message": "P"
+   },
+   "ContextMenuAndShortcuts_RunPassGen_Text": {
+      "message": "Kodeordsgenerator"
+   },
+   "ContextMenuAndShortcuts_RunTaskbar_Acc": {
+      "message": "I"
+   },
+   "ContextMenuAndShortcuts_RunTaskbar_Text": {
+      "message": "RoboForm proceslinieikon"
+   },
+   "ContextMenuAndShortcuts_SafenotesEditor_Acc": {
+      "message": "/"
+   },
+   "ContextMenuAndShortcuts_SafenotesEditor_Text": {
+      "message": "Sikre noter Editor"
+   },
+   "ContextMenuAndShortcuts_Safenotes_Acc": {
+      "message": "C"
+   },
+   "ContextMenuAndShortcuts_Safenotes_Text": {
+      "message": "Sikre noter"
+   },
+   "ContextMenuAndShortcuts_SaveForms_Acc": {
+      "message": "["
+   },
+   "ContextMenuAndShortcuts_SaveForms_Text": {
+      "message": "Gem formularer"
+   },
+   "ContextMenuAndShortcuts_SearchBox_Acc": {
+      "message": "S"
+   },
+   "ContextMenuAndShortcuts_SearchBox_Text": {
+      "message": "Søgeboks"
+   },
+   "ContextMenuAndShortcuts_SetFields_Acc": {
+      "message": "="
+   },
+   "ContextMenuAndShortcuts_SetFields_Text": {
+      "message": "Afkryds felter"
+   },
+   "Copyright": {
+      "message": ""
+   },
+   "DuplicateFields_Text1_2": {
+      "message": "RoboForm fandt felter der optræder flere gange. Vil du udfylde disse felter:"
+   },
+   "DuplicateFields_Text2_2": {
+      "message": "\n\nIHvis du kun vil udfylde en del af formularen fra Identitet\nså marker en del af formularen, klik 'Udfyld'\nog kun den valgte del vil blive udfyldt."
+   },
+   "DuplicateFields_Title": {
+      "message": "Duplikatfelter udfyldt - RoboForm"
+   },
+   "Editor_Cmd_Selector_All_Flat": {
+      "message": "Alle"
+   },
+   "FillDlg_FindFill_Title": {
+      "message": "Udfyld formularer - RoboForm"
+   },
+   "Filler_FillEmptyOnlyOnMessage": {
+      "message": "Der er ingen tomme felter på denne webside og Udfyld kun tomme felter er aktiveret"
+   },
+   "Filler_FillTheSameValues": {
+      "message": "Ingen felter på denne webside (eller den valgte del) kan udfyldes fra Identitet/Adgangskort, da matchende felter allerede er udfyldt"
+   },
+   "Filler_NoFormsFound": {
+      "message": "Kan ikke finde noget at udfylde på denne webside"
+   },
+   "Filler_NoMatchingFields": {
+      "message": "Ingen felter på denne webside (eller den valgte del) kan udfyldes fra Identitet/Adgangskort, da ingen felter matcher"
+   },
+   "FolderTree_NewItem": {
+      "message": "Ny mappe"
+   },
+   "HomeFolder": {
+      "message": "Hjem"
+   },
+   "Identities_Cmd_Instance_AlreadyExists_Error": {
+      "message": "Emnet findes allerede i gruppen"
+   },
+   "Identities_Cmd_Instance_NotExists_Error": {
+      "message": "Der er intet specifiseret emne i gruppen"
+   },
+   "Identities_ConfirmDeleteInstance": {
+      "message": "Vil du slette '%1' af '%2'?"
+   },
+   "Identities_CustomFieldOverrideHeader": {
+      "message": "Tilpassede felter forhindrer korrekt udfyldning af nogle standard RoboForm felter.\nFjern disse tilpassede felter fra Identiteten hvis du ønsker at standardfelterne skal kunne udfyldes korrekt."
+   },
+   "Identities_CustomFieldOverride_1": {
+      "message": "'%1' overtager %2"
+   },
+   "Identities_InstanceNameInvalidCharacter": {
+      "message": "Emnenavn kan kun indeholde bogstaver, tal og tegnene '_' og '-'"
+   },
+   "Identities_Instance_Main": {
+      "message": "Oversigt"
+   },
+   "Install_AccountCreated_Text": {
+      "message": "Din RoboFormkonto er nu oprettet"
+   },
+   "Install_ConfirmRoboFormMasterPassword2": {
+      "message": "Bekræft kodeord:"
+   },
+   "Install_Email": {
+      "message": "Email:"
+   },
+   "Install_Next": {
+      "message": "Næste"
+   },
+   "Install_No": {
+      "message": "Nej"
+   },
+   "Install_PasswordTooShort": {
+      "message": "Kodeordet skal være på mindst 6 tegn."
+   },
+   "Install_RoboFormMasterPassword": {
+      "message": "Masterkodeord:"
+   },
+   "Install_WarningSheet_Title": {
+      "message": "RoboForm setup advarsel"
+   },
+   "Install_Yes": {
+      "message": "Ja"
+   },
+   "InterfaceLanguage_Warning": {
+      "message": "Vil ændre brugerflade sprog fra '%1' til '%2'?\nHvis du ikke behersker det sprog du skifter til, kan det blive vanskelig at skifte tilbage.\nDet kan være nødvendigt at genstarte browseren for at aktivere sprogændringen"
+   },
+   "Loading_Status_Text": {
+      "message": "Indlæser..."
+   },
+   "MasterPass_DoNotMatch_Status": {
+      "message": "Kodeordene er ikke ens"
+   },
+   "MasterPass_New_BlanksOnly_Error": {
+      "message": "Et masterkodeord kan ikke kun bestå af mellemrum"
+   },
+   "MasterPass_New_DigitChars_Error": {
+      "message": "Mindste antal cifre i kodeord skal være %1"
+   },
+   "MasterPass_New_Length_Error": {
+      "message": "Masterkodeordet skal være mellem %1 og %2 tegn"
+   },
+   "MasterPass_New_LowerCaseChars_Error": {
+      "message": "Mindste antal små bogstaver i kodeord skal være %1"
+   },
+   "MasterPass_New_NonNumChars_Error": {
+      "message": "Mindste antal ikke numeriske tegn i kodeord skal være %1"
+   },
+   "MasterPass_New_TheSameAsPrevious_Error": {
+      "message": "Et nyt masterkodeord skal være anderledes end det gamle."
+   },
+   "MasterPass_New_UpperCaseChars_Error": {
+      "message": "Mindste antal store bogstaver i kodeord skal være %1"
+   },
+   "MasterPass_Prompt_TypeNew": {
+      "message": "Nyt Masterkodeord:"
+   },
+   "MasterPass_Prompt_TypeOld": {
+      "message": "Gammelt Masterkodeord:"
+   },
+   "MasterPassword_Error2": {
+      "message": "Forkert kodeord. Angiv dit masterkodeord"
+   },
+   "NameInvalidCharacter_Error2": {
+      "message": "Navn skal udfyldes og kan ikke indeholde følgende tegn \\ / : * ? \" \u003C > |"
+   },
+   "Options_Adapter_Chrome_Text": {
+      "message": "Google Chrome"
+   },
+   "Options_Adapter_ChromiumBased_Text": {
+      "message": "Chromium og Chromiumbaserede browsere"
+   },
+   "Options_Adapter_FirefoxBased_Text": {
+      "message": "Firefoxbaserede browsere"
+   },
+   "Options_Adapter_Opera_Text": {
+      "message": "Opera"
+   },
+   "Options_AutoFillThreshold_Tip": {
+      "message": "Det mindste antal felter, der skal forekomme på en side, før Autoudfyld aktiveres"
+   },
+   "Options_AutoFill_Title": {
+      "message": "Autoudfyld"
+   },
+   "Options_AutoForgetTime_Text": {
+      "message": "Antal minutter inden automatisk logaf"
+   },
+   "Options_AutoSave_Title": {
+      "message": "Autogem"
+   },
+   "Options_BackupRestoreFrame_Text": {
+      "message": "Backup og gendan"
+   },
+   "Options_DisableShortcuts_Text": {
+      "message": "Aktiver RoboForm genveje i browser"
+   },
+   "Options_DisableShortcuts_Tip": {
+      "message": "Aktiverer RoboForm genveje i browser.\nRoboForm Genveje:\nALT+R - RoboForm værktøjlinie\nALT+S - RoboForm søgeboks\nALT+- - Nulstil felter\nALT+P - Kodeordsgenerator\nALT+n - Minidialog for  Identitet\nALT+M - Vis minidialog der viser alle adgangskort som matcher denne side"
+   },
+   "Options_Domains_Equivalences_Custom_Tip": {
+      "message": "Liste med brugerdefinerede domæne ækvivalenter. Hver linie definerer lignende domæner adskilt af '='. Tilføj domæner uden 'http' eller 'www'.\nDomæne ækvivalenter er overgange, f. eks:\naaa.com=bbb.com=ccc.com\nddd.com=bbb.com\nddd.com=eee\ni resultat er alle disse domæner ens."
+   },
+   "Options_Domains_Equivalences_Frame": {
+      "message": "Domæne ækvivalent"
+   },
+   "Options_Domains_Title": {
+      "message": "Domæner"
+   },
+   "Options_General_Title": {
+      "message": "Generelt"
+   },
+   "Options_IncorrectValue_AuxKey": {
+      "message": "Mindst en udvidelsesnøgle skal være afkrydset"
+   },
+   "Options_Keyboard_Title": {
+      "message": "Tastatur"
+   },
+   "Options_RightAltForShortcuts_Text": {
+      "message": "Brug højre ALT til genveje"
+   },
+   "Options_RightAltForShortcuts_Tip": {
+      "message": "Med flueben: Højre ALT + tast påkalder også RoboForm tastaturgenveje lige som venstre ALT + tast.\nUden flueben: Kun venstre ALT + tast påkalder RoboForm genveje"
+   },
+   "Options_Security_Title": {
+      "message": "Sikkerhed"
+   },
+   "Options_Shortcut_Alt_Text": {
+      "message": "Alt"
+   },
+   "Options_Shortcut_Ctrl_Text": {
+      "message": "Ctrl"
+   },
+   "Options_Shortcut_Shift_Text": {
+      "message": "Skift"
+   },
+   "Options_ShortcutsList_Text": {
+      "message": "Genvejsliste"
+   },
+   "Options_ShortcutsList_Tip": {
+      "message": "Liste med RoboForm genveje i browser. De kan slås til/fra enkeltvis"
+   },
+   "Options_ShowBookmarksAndLoginsTogether_Text": {
+      "message": "Vis Bogmærker og Login sammen"
+   },
+   "Options_StoreMPInSystemProtectedStorage_Text2": {
+      "message": "Spørg ikke efter masterkodeord"
+   },
+   "Options_StoreMPInSystemProtectedStorage_Tip2": {
+      "message": "Når du har udfyldt masterkodeordet, gemmes det beskyttet, så det ikke skal udfyldes igen.\nHvis RoboForm skal spørge efter masterkodeordet igen, skal du selv logge ud. RoboForm logger ikke selv automatisk ud."
+   },
+   "PassAud_PwdStrengthGood": {
+      "message": "Godt"
+   },
+   "PassAud_PwdStrengthMedium": {
+      "message": "Medium"
+   },
+   "PassAud_PwdStrengthStrong": {
+      "message": "Stærkt"
+   },
+   "PassAud_PwdStrengthWeak": {
+      "message": "Svagt"
+   },
+   "PassCards_LoginTip_EditTipText": {
+      "message": "Redigér logintip"
+   },
+   "PassCards_LoginTip_HideMonospaceText": {
+      "message": "Deaktiver monospace skrift"
+   },
+   "PassCards_LoginTip_ShowMonospaceText": {
+      "message": "Aktiver monospace skrift"
+   },
+   "PassCards_LoginTip_Title": {
+      "message": "Login tips"
+   },
+   "PassCards_Note": {
+      "message": "Noter"
+   },
+   "PassCards_Password": {
+      "message": "Kodeord"
+   },
+   "PassCards_UserId": {
+      "message": "Bruger ID"
+   },
+   "PassGen_BitStrength": {
+      "message": "Bitstyrke = "
+   },
+   "PassGen_CharNumber_Text": {
+      "message": "Antal tegn:"
+   },
+   "PassGen_CharNumber_Tip": {
+      "message": "Antal tegn i genererede kodeord"
+   },
+   "PassGen_Copy": {
+      "message": "Kopier"
+   },
+   "PassGen_Copy_Tip": {
+      "message": "Kopier det genererede kodeord til udklipsholder"
+   },
+   "PassGen_ExcludeSimilar_Tip": {
+      "message": "Udeluk ens tegn fra genererede kodeord"
+   },
+   "PassGen_Fill": {
+      "message": "Udfyld"
+   },
+   "PassGen_Fill_Tip": {
+      "message": "Indsæt det genererede kodeord i alle kodeordsfelter på browsersiden"
+   },
+   "PassGen_Generate": {
+      "message": "Generér"
+   },
+   "PassGen_Generate_Tip": {
+      "message": "Generér nyt kodeord"
+   },
+   "PassGen_Generated_Tip": {
+      "message": "Generéret kodeord"
+   },
+   "PassGen_Lower_Tip": {
+      "message": "Brug a-z i genererede kodeord"
+   },
+   "PassGen_Numb_Tip": {
+      "message": "Brug 0-9 i genererede kodeord"
+   },
+   "PassGen_ShowAdvanced": {
+      "message": "Vis avanceret"
+   },
+   "PassGen_Title": {
+      "message": "Kodeordsgenerator - RoboForm"
+   },
+   "PassGen_Upper_Tip": {
+      "message": "Brug A-Z i genererede kodeord"
+   },
+   "PassGen_UseHexChars": {
+      "message": "Hexadecimal 0-9, A-F"
+   },
+   "PassGen_UseHexChars_Tip": {
+      "message": "Brug kun hexadecimale tegn: 0-9, A-F"
+   },
+   "PassGen_UseSpecial_Tip": {
+      "message": "Brug specielle tegn i genererede kodeord"
+   },
+   "PassType_Blocking_Suffix": {
+      "message": " -Blokeret-"
+   },
+   "Passw_Generic_Header": {
+      "message": "Angiv kodeord"
+   },
+   "Policy_CommandDisabled_Message": {
+      "message": "Kommandoen er forbudt ved politik"
+   },
+   "Policy_MasterPasswordChangeDisabled": {
+      "message": "Oprettelse og ændring af Masterkodeord er forbudt ved politik"
+   },
+   "ProAd_UpgradeNow_Button": {
+      "message": "Upgrader nu"
+   },
+   "RFOError_WrongUserIDOrPassword": {
+      "message": "Forkert RoboForm bruger ID eller kodeord"
+   },
+   "RFOSetup_EnterPasswordForAccount": {
+      "message": "Indsæt kodeord til RoboFormkonto:"
+   },
+   "RFO_TwoFactorCaption_Text": {
+      "message": "Engangskodeord"
+   },
+   "RFO_TwoFactorIsOn_TextShort": {
+      "message": "Engangskodeord (OTP) er aktiveret på denne konto."
+   },
+   "RFO_TwoFactor_ByEmail_Text2": {
+      "message": "Engangskodeordet er sendt på mail."
+   },
+   "RFO_TwoFactor_BySMS_Text2": {
+      "message": "Engangskodeordet er sendt via SMS."
+   },
+   "RI_AOL_Screen_Name": {
+      "message": "AOL navn"
+   },
+   "RI_Abbr": {
+      "message": "Fork."
+   },
+   "RI_Address": {
+      "message": "Adresse"
+   },
+   "RI_Address_Line_1": {
+      "message": "Adresse 1"
+   },
+   "RI_Address_Line_2": {
+      "message": "Adresse 2"
+   },
+   "RI_Age": {
+      "message": "Alder"
+   },
+   "RI_Alphabet": {
+      "message": "Alfabet"
+   },
+   "RI_Alphabet_Name": {
+      "message": "Alfabet"
+   },
+   "RI_Apartment_Number": {
+      "message": "Lejlighedsnummer"
+   },
+   "RI_Bank_Account_Number": {
+      "message": "Kontonr."
+   },
+   "RI_Bank_Account_Owner": {
+      "message": "Kontoejer"
+   },
+   "RI_Bank_Account_Type": {
+      "message": "Kontotype"
+   },
+   "RI_Bank_Account_Type_Checking": {
+      "message": "Check"
+   },
+   "RI_Bank_Account_Type_Current": {
+      "message": "Løn"
+   },
+   "RI_Bank_Account_Type_Money_Manager": {
+      "message": "Budget"
+   },
+   "RI_Bank_Account_Type_Savings": {
+      "message": "Opsparing"
+   },
+   "RI_Bank_Address": {
+      "message": "Adresse"
+   },
+   "RI_Bank_Branch_Name": {
+      "message": "Afdeling"
+   },
+   "RI_Bank_Branch_Type": {
+      "message": "Afd.type"
+   },
+   "RI_Bank_Corr_Account": {
+      "message": "Kernekonto"
+   },
+   "RI_Bank_Interest_Rate": {
+      "message": "Rente"
+   },
+   "RI_Bank_Name": {
+      "message": "Banknavn"
+   },
+   "RI_Bank_Phone": {
+      "message": "Tlf."
+   },
+   "RI_Bank_Routing_Number": {
+      "message": "Reg.nr."
+   },
+   "RI_Bank_Swift_Code": {
+      "message": "SWIFT"
+   },
+   "RI_Bank_Type": {
+      "message": "Banktype"
+   },
+   "RI_Birth_Date": {
+      "message": "Fødselsdato"
+   },
+   "RI_Birth_Day": {
+      "message": "Fødselsdag"
+   },
+   "RI_Birth_Month": {
+      "message": "Fødselsmåned"
+   },
+   "RI_Birth_Place": {
+      "message": "Fødested"
+   },
+   "RI_Birth_Year": {
+      "message": "Fødselsår"
+   },
+   "RI_Bundesland": {
+      "message": "Bundesland"
+   },
+   "RI_Canton": {
+      "message": "Kanton"
+   },
+   "RI_Car_Make": {
+      "message": "Mærke"
+   },
+   "RI_Car_Model": {
+      "message": "Model"
+   },
+   "RI_Car_Plate": {
+      "message": "Reg.type"
+   },
+   "RI_Car_Plate_Number": {
+      "message": "Reg.nr."
+   },
+   "RI_Car_Year": {
+      "message": "År"
+   },
+   "RI_Card_Credit_Limit": {
+      "message": "Kreditgrænse"
+   },
+   "RI_Card_Customer_Service_Phone": {
+      "message": "Kundeservice tlf. "
+   },
+   "RI_Card_Expires": {
+      "message": "Udløbsdato"
+   },
+   "RI_Card_Interest_Rate": {
+      "message": "Rente"
+   },
+   "RI_Card_Issuing_Bank": {
+      "message": "Udstedende bank"
+   },
+   "RI_Card_Number": {
+      "message": "Kortnummer"
+   },
+   "RI_Card_PIN_Number": {
+      "message": "PIN kode"
+   },
+   "RI_Card_Password": {
+      "message": "Kodeord"
+   },
+   "RI_Card_Type": {
+      "message": "Korttype"
+   },
+   "RI_Card_User_Name": {
+      "message": "Brugernavn"
+   },
+   "RI_Card_Validation_Code": {
+      "message": "Kontrolcifre"
+   },
+   "RI_Cell_Phone": {
+      "message": "Mobiltlf."
+   },
+   "RI_City": {
+      "message": "By"
+   },
+   "RI_Code_OKPO": {
+      "message": "OKPO"
+   },
+   "RI_Code_OKVED": {
+      "message": "OKVED"
+   },
+   "RI_Colony": {
+      "message": "Koloni"
+   },
+   "RI_Company": {
+      "message": "Firmanavn"
+   },
+   "RI_Company_Department": {
+      "message": "Afdeling"
+   },
+   "RI_Company_Registration_Number": {
+      "message": "Firmareg. nr."
+   },
+   "RI_Company_Registration_Place": {
+      "message": "Firmareg. sted"
+   },
+   "RI_Company_Tax_ID": {
+      "message": "SE nr."
+   },
+   "RI_Company_VAT_Number": {
+      "message": "Momsnr."
+   },
+   "RI_Contact": {
+      "message": "Kontakt"
+   },
+   "RI_Country": {
+      "message": "Land"
+   },
+   "RI_CountryAlt_United_States": {
+      "message": "United States of America;USA;US"
+   },
+   "RI_CountryCode": {
+      "message": "Landekode"
+   },
+   "RI_Country_Afghanistan": {
+      "message": "Afghanistan"
+   },
+   "RI_Country_Andorra": {
+      "message": "Andorra"
+   },
+   "RI_Country_Argentina": {
+      "message": "Argentina"
+   },
+   "RI_Country_Armenia": {
+      "message": "Armenien"
+   },
+   "RI_Country_Australia": {
+      "message": "Australien"
+   },
+   "RI_Country_Austria": {
+      "message": "Østrig"
+   },
+   "RI_Country_Belarus": {
+      "message": "Hviderusland"
+   },
+   "RI_Country_Belgium": {
+      "message": "Belgien"
+   },
+   "RI_Country_Bolivia": {
+      "message": "Bolivia"
+   },
+   "RI_Country_Bosnia_And_Herzegovina": {
+      "message": "Bosnien og Herzegovina"
+   },
+   "RI_Country_Brazil": {
+      "message": "Brasilien"
+   },
+   "RI_Country_Bulgaria": {
+      "message": "Bulgarien"
+   },
+   "RI_Country_Canada": {
+      "message": "Canada"
+   },
+   "RI_Country_Chile": {
+      "message": "Chile"
+   },
+   "RI_Country_China": {
+      "message": "Kina"
+   },
+   "RI_Country_Colombia": {
+      "message": "Colombia"
+   },
+   "RI_Country_Costa_Rica": {
+      "message": "Costa Rica"
+   },
+   "RI_Country_Croatia": {
+      "message": "Kroatien"
+   },
+   "RI_Country_Cyprus": {
+      "message": "Cypern"
+   },
+   "RI_Country_Czech_Republic": {
+      "message": "Tjekkiet"
+   },
+   "RI_Country_Denmark": {
+      "message": "Danmark"
+   },
+   "RI_Country_Egypt": {
+      "message": "Egypten"
+   },
+   "RI_Country_Estonia": {
+      "message": "Estland"
+   },
+   "RI_Country_Finland": {
+      "message": "Finland"
+   },
+   "RI_Country_France": {
+      "message": "Frankrig"
+   },
+   "RI_Country_Gabon": {
+      "message": "Gabon"
+   },
+   "RI_Country_Germany": {
+      "message": "Tyskland"
+   },
+   "RI_Country_Gibraltar": {
+      "message": "Gibraltar"
+   },
+   "RI_Country_Greece": {
+      "message": "Grækenland"
+   },
+   "RI_Country_Greenland": {
+      "message": "Grønland"
+   },
+   "RI_Country_Haiti": {
+      "message": "Haiti"
+   },
+   "RI_Country_Hong_Kong": {
+      "message": "Hong Kong"
+   },
+   "RI_Country_Hungary": {
+      "message": "Ungarn"
+   },
+   "RI_Country_Iceland": {
+      "message": "Island"
+   },
+   "RI_Country_India": {
+      "message": "Indien"
+   },
+   "RI_Country_Indonesia": {
+      "message": "Indonesien"
+   },
+   "RI_Country_Iran": {
+      "message": "Iran"
+   },
+   "RI_Country_Iraq": {
+      "message": "Irak"
+   },
+   "RI_Country_Ireland": {
+      "message": "Irland"
+   },
+   "RI_Country_Israel": {
+      "message": "Israel"
+   },
+   "RI_Country_Italy": {
+      "message": "Italien"
+   },
+   "RI_Country_Jamaica": {
+      "message": "Jamaica"
+   },
+   "RI_Country_Japan": {
+      "message": "Japan"
+   },
+   "RI_Country_Kazakhstan": {
+      "message": "Kazakhstan"
+   },
+   "RI_Country_Korea": {
+      "message": "Korea"
+   },
+   "RI_Country_Latvia": {
+      "message": "Letland"
+   },
+   "RI_Country_Liechtenstein": {
+      "message": "Liechtenstein"
+   },
+   "RI_Country_Lithuania": {
+      "message": "Litauen"
+   },
+   "RI_Country_Luxembourg": {
+      "message": "Luxembourg"
+   },
+   "RI_Country_Macedonia": {
+      "message": "Makedonien"
+   },
+   "RI_Country_Malaysia": {
+      "message": "Malaysia"
+   },
+   "RI_Country_Malta": {
+      "message": "Malta"
+   },
+   "RI_Country_Mexico": {
+      "message": "Mexico"
+   },
+   "RI_Country_Moldova": {
+      "message": "Moldavien"
+   },
+   "RI_Country_Monaco": {
+      "message": "Monaco"
+   },
+   "RI_Country_Montenegro": {
+      "message": "Montenegro"
+   },
+   "RI_Country_Morocco": {
+      "message": "Marocco"
+   },
+   "RI_Country_Namibia": {
+      "message": "Namibia"
+   },
+   "RI_Country_Netherlands": {
+      "message": "Holland"
+   },
+   "RI_Country_New_Zealand": {
+      "message": "New Zealand"
+   },
+   "RI_Country_Nigeria": {
+      "message": "Nigeria"
+   },
+   "RI_Country_Norway": {
+      "message": "Norge"
+   },
+   "RI_Country_Other": {
+      "message": "Andre"
+   },
+   "RI_Country_Pakistan": {
+      "message": "Pakistan"
+   },
+   "RI_Country_Panama": {
+      "message": "Panama"
+   },
+   "RI_Country_Paraguay": {
+      "message": "Paraguay"
+   },
+   "RI_Country_Peru": {
+      "message": "Peru"
+   },
+   "RI_Country_Philippines": {
+      "message": "Philippinerne"
+   },
+   "RI_Country_Poland": {
+      "message": "Polen"
+   },
+   "RI_Country_Portugal": {
+      "message": "Portugal"
+   },
+   "RI_Country_Qatar": {
+      "message": "Qatar"
+   },
+   "RI_Country_Romania": {
+      "message": "Rumænien"
+   },
+   "RI_Country_Russia": {
+      "message": "Rusland"
+   },
+   "RI_Country_San_Marino": {
+      "message": "San Marino"
+   },
+   "RI_Country_Saudi_Arabia": {
+      "message": "Saudi Arabien"
+   },
+   "RI_Country_Serbia": {
+      "message": "Serbien"
+   },
+   "RI_Country_Singapore": {
+      "message": "Singapore"
+   },
+   "RI_Country_Slovakia": {
+      "message": "Slovakiet"
+   },
+   "RI_Country_Slovenia": {
+      "message": "Slovenien"
+   },
+   "RI_Country_South_Africa": {
+      "message": "Sydafrika"
+   },
+   "RI_Country_Spain": {
+      "message": "Spanien"
+   },
+   "RI_Country_Sweden": {
+      "message": "Sverige"
+   },
+   "RI_Country_Switzerland": {
+      "message": "Schweiz"
+   },
+   "RI_Country_Taiwan": {
+      "message": "Taiwan"
+   },
+   "RI_Country_Thailand": {
+      "message": "Thailand"
+   },
+   "RI_Country_Turkey": {
+      "message": "Tyrkiet"
+   },
+   "RI_Country_Ukraine": {
+      "message": "Ukraine"
+   },
+   "RI_Country_United_Kingdom": {
+      "message": "Storbrittanien"
+   },
+   "RI_Country_United_States": {
+      "message": "USA"
+   },
+   "RI_Country_Venezuela": {
+      "message": "Venezuela"
+   },
+   "RI_Country_Vietnam": {
+      "message": "Vietnam"
+   },
+   "RI_County": {
+      "message": "Amt"
+   },
+   "RI_Department": {
+      "message": "Afdeling"
+   },
+   "RI_Dispatching_Agency": {
+      "message": "Udstedt af"
+   },
+   "RI_District": {
+      "message": "Distrikt"
+   },
+   "RI_Driver_License": {
+      "message": "Kørekort"
+   },
+   "RI_Driver_License_Number": {
+      "message": "Kørekortnr."
+   },
+   "RI_Email": {
+      "message": "Email"
+   },
+   "RI_Employer_Identitification_Number": {
+      "message": "Firma ID"
+   },
+   "RI_Expires": {
+      "message": "Udløber"
+   },
+   "RI_Fax_Phone": {
+      "message": "Faxnr."
+   },
+   "RI_First": {
+      "message": "Fornavn"
+   },
+   "RI_Fiscal_Code": {
+      "message": "Momsnr."
+   },
+   "RI_General_Register": {
+      "message": "Person nr."
+   },
+   "RI_Group_Bank_Account": {
+      "message": "Bankkonto"
+   },
+   "RI_Group_Business": {
+      "message": "Forretning"
+   },
+   "RI_Group_Car": {
+      "message": "Bil"
+   },
+   "RI_Group_Credit_Card": {
+      "message": "Kreditkort"
+   },
+   "RI_Group_Custom": {
+      "message": "Andet"
+   },
+   "RI_Group_Default_Password": {
+      "message": "Standardkodeord"
+   },
+   "RI_Group_Location": {
+      "message": "Adresse"
+   },
+   "RI_Group_Passport": {
+      "message": "Pas"
+   },
+   "RI_Group_Person": {
+      "message": "Person"
+   },
+   "RI_Group_Service": {
+      "message": "Vis"
+   },
+   "RI_Group_Service2": {
+      "message": "Normal"
+   },
+   "RI_Group_Summary": {
+      "message": "Oversigt"
+   },
+   "RI_Home_Phone": {
+      "message": "Tlf. hjem"
+   },
+   "RI_HouseNumber": {
+      "message": "Husnummer"
+   },
+   "RI_HouseNumber_StreetName": {
+      "message": "Husnummer vejnavn"
+   },
+   "RI_HouseNumber_or_Name": {
+      "message": "Husnummer eller navn"
+   },
+   "RI_ICQ_Number": {
+      "message": "ICQ nr."
+   },
+   "RI_ID_Card_Number": {
+      "message": "ID kortnr."
+   },
+   "RI_ID_Card_Type": {
+      "message": "ID korttype"
+   },
+   "RI_Income": {
+      "message": "Indkomst"
+   },
+   "RI_Inset": {
+      "message": "Indsæt"
+   },
+   "RI_Int_Bank_Account_Number": {
+      "message": "IBAN"
+   },
+   "RI_International_Card_Customer_Service_Phone": {
+      "message": "Int. kundeserv. tlf."
+   },
+   "RI_Job": {
+      "message": "Stilling"
+   },
+   "RI_Last": {
+      "message": "Efternavn"
+   },
+   "RI_Last2": {
+      "message": "Efternavn2"
+   },
+   "RI_Legal_Business_Name": {
+      "message": "Forretningsnavn"
+   },
+   "RI_MSN_ID": {
+      "message": "MSN ID"
+   },
+   "RI_Mobile_Email": {
+      "message": "Mobil mail"
+   },
+   "RI_Municipality": {
+      "message": "Kommune"
+   },
+   "RI_Name": {
+      "message": "Navn"
+   },
+   "RI_Name_Suffix_Jr": {
+      "message": "Jr."
+   },
+   "RI_Name_Suffix_Sr": {
+      "message": "Sr."
+   },
+   "RI_NationalPrefix": {
+      "message": "Nationalt præfiks"
+   },
+   "RI_National_Health_Service_Number": {
+      "message": "Sygesikring"
+   },
+   "RI_National_Insurance_Number": {
+      "message": "Forsikringnr."
+   },
+   "RI_Number": {
+      "message": "Nummer"
+   },
+   "RI_Pager_Phone": {
+      "message": "Personsøger"
+   },
+   "RI_Passport": {
+      "message": "Pas"
+   },
+   "RI_Passport_Expiration_Date": {
+      "message": "Udløbsdato"
+   },
+   "RI_Passport_Issue_Date": {
+      "message": "Udstedelsesdato"
+   },
+   "RI_Passport_Issue_Place": {
+      "message": "Udstedelsessted"
+   },
+   "RI_Passport_Number": {
+      "message": "Pasnummer"
+   },
+   "RI_Passport_Series": {
+      "message": "Passerie"
+   },
+   "RI_Passport_Type": {
+      "message": "Pastype"
+   },
+   "RI_Passport_Type_International": {
+      "message": "International"
+   },
+   "RI_Passport_Type_National": {
+      "message": "National"
+   },
+   "RI_Password": {
+      "message": "Kodeord"
+   },
+   "RI_Password_Answer": {
+      "message": "Svar kodeord"
+   },
+   "RI_Password_Question": {
+      "message": "Spørgsmål kodeord"
+   },
+   "RI_Pension_Insurance_Number": {
+      "message": "Pensionsforsikring"
+   },
+   "RI_Person_Cadastre": {
+      "message": "Skøde"
+   },
+   "RI_Personal_ID": {
+      "message": "Person ID"
+   },
+   "RI_Phone": {
+      "message": "Tlf."
+   },
+   "RI_Position": {
+      "message": "Jobtitel"
+   },
+   "RI_PostCode": {
+      "message": "Postnummer"
+   },
+   "RI_PostCode_City": {
+      "message": "Postnummer, By"
+   },
+   "RI_Prefecture": {
+      "message": "Prefektur"
+   },
+   "RI_Province": {
+      "message": "Provins"
+   },
+   "RI_Region": {
+      "message": "Region"
+   },
+   "RI_Roman_Name": {
+      "message": "Romansk"
+   },
+   "RI_Series": {
+      "message": "Serie"
+   },
+   "RI_Sex": {
+      "message": "Køn"
+   },
+   "RI_Sex_Female": {
+      "message": "Kvinde"
+   },
+   "RI_Sex_Male": {
+      "message": "Mand"
+   },
+   "RI_Skype_ID": {
+      "message": "Skype ID"
+   },
+   "RI_Social_Security_Number": {
+      "message": "CPR nr."
+   },
+   "RI_State": {
+      "message": "Stat"
+   },
+   "RI_State_Or_Province": {
+      "message": "Stat eller provins"
+   },
+   "RI_State_Or_Province_AA": {
+      "message": "AA"
+   },
+   "RI_State_Or_Province_AE": {
+      "message": "AE"
+   },
+   "RI_State_Or_Province_AP": {
+      "message": "AP"
+   },
+   "RI_State_Or_Province_Adygeya_republic": {
+      "message": "Adygeya republic"
+   },
+   "RI_State_Or_Province_Agin_Buryat_avt_okrug": {
+      "message": "Agin Buryat avt okrug"
+   },
+   "RI_State_Or_Province_Aichi": {
+      "message": "Aichi"
+   },
+   "RI_State_Or_Province_Akita": {
+      "message": "Akita"
+   },
+   "RI_State_Or_Province_Alabama": {
+      "message": "AL"
+   },
+   "RI_State_Or_Province_Alaska": {
+      "message": "AK"
+   },
+   "RI_State_Or_Province_Alberta": {
+      "message": "Alberta"
+   },
+   "RI_State_Or_Province_Altai_republic": {
+      "message": "Altai republic"
+   },
+   "RI_State_Or_Province_Altaiskiy_krai": {
+      "message": "Altaiskiy krai"
+   },
+   "RI_State_Or_Province_American_Samoa": {
+      "message": "AS"
+   },
+   "RI_State_Or_Province_Amur_oblast": {
+      "message": "Amur oblast"
+   },
+   "RI_State_Or_Province_Anhui": {
+      "message": "Anhui"
+   },
+   "RI_State_Or_Province_Antwerpen": {
+      "message": "Antwerpen"
+   },
+   "RI_State_Or_Province_Aomen": {
+      "message": "Aomen"
+   },
+   "RI_State_Or_Province_Aomori": {
+      "message": "Aomori"
+   },
+   "RI_State_Or_Province_Appenzell_Inner_Rhodes": {
+      "message": "Appenzell Inner-Rhodes"
+   },
+   "RI_State_Or_Province_Appenzell_Outer_Rhodes": {
+      "message": "Appenzell Outer Rhodes"
+   },
+   "RI_State_Or_Province_Argovia": {
+      "message": "Argovia"
+   },
+   "RI_State_Or_Province_Arizona": {
+      "message": "AZ"
+   },
+   "RI_State_Or_Province_Arkansas": {
+      "message": "AR"
+   },
+   "RI_State_Or_Province_Arkhangelsk_oblast": {
+      "message": "Arkhangelsk oblast"
+   },
+   "RI_State_Or_Province_Astrakhan_oblast": {
+      "message": "Astrakhan oblast"
+   },
+   "RI_State_Or_Province_Australian_Capital_Terr": {
+      "message": "ACT"
+   },
+   "RI_State_Or_Province_Bashkir_republic": {
+      "message": "Bashkir republic"
+   },
+   "RI_State_Or_Province_Basle_Country": {
+      "message": "Basle-Country"
+   },
+   "RI_State_Or_Province_Basle_Town": {
+      "message": "Basle-Town"
+   },
+   "RI_State_Or_Province_Beijing": {
+      "message": "Beijing"
+   },
+   "RI_State_Or_Province_Belgorod_oblast": {
+      "message": "Belgorod oblast"
+   },
+   "RI_State_Or_Province_Berne": {
+      "message": "Berne"
+   },
+   "RI_State_Or_Province_Brabant_Wallon": {
+      "message": "Brabant Wallon"
+   },
+   "RI_State_Or_Province_British_Columbia": {
+      "message": "British Columbia"
+   },
+   "RI_State_Or_Province_Brussels_Region": {
+      "message": "Brussels Region"
+   },
+   "RI_State_Or_Province_Bryansk_oblast": {
+      "message": "Bryansk oblast"
+   },
+   "RI_State_Or_Province_Buruyat_republic": {
+      "message": "Buruyat republic"
+   },
+   "RI_State_Or_Province_California": {
+      "message": "CA"
+   },
+   "RI_State_Or_Province_Chechen_republic": {
+      "message": "Chechen republic"
+   },
+   "RI_State_Or_Province_Chelyabinsk_oblast": {
+      "message": "Chelyabinsk oblast"
+   },
+   "RI_State_Or_Province_Chiba": {
+      "message": "Chiba"
+   },
+   "RI_State_Or_Province_Chita_oblast": {
+      "message": "Chita oblast"
+   },
+   "RI_State_Or_Province_Chongqing": {
+      "message": "Chongqing"
+   },
+   "RI_State_Or_Province_Chukotka_avt_okrug": {
+      "message": "Chukotka avt okrug"
+   },
+   "RI_State_Or_Province_Chuvash_republic": {
+      "message": "Chuvash republic"
+   },
+   "RI_State_Or_Province_Colorado": {
+      "message": "CO"
+   },
+   "RI_State_Or_Province_Connecticut": {
+      "message": "CT"
+   },
+   "RI_State_Or_Province_Dagestan_republic": {
+      "message": "Dagestan republic"
+   },
+   "RI_State_Or_Province_Delaware": {
+      "message": "DE"
+   },
+   "RI_State_Or_Province_District_of_Columbia": {
+      "message": "DC"
+   },
+   "RI_State_Or_Province_Dolnoslaskie": {
+      "message": "Dolnoslaskie"
+   },
+   "RI_State_Or_Province_Ehime": {
+      "message": "Ehime"
+   },
+   "RI_State_Or_Province_Evenk_avt_okrug": {
+      "message": "Evenk avt okrug"
+   },
+   "RI_State_Or_Province_Evreyskaya_avt_oblast": {
+      "message": "Evreyskaya avt oblast"
+   },
+   "RI_State_Or_Province_Florida": {
+      "message": "FL"
+   },
+   "RI_State_Or_Province_Fribourg": {
+      "message": "Fribourg"
+   },
+   "RI_State_Or_Province_Fujian": {
+      "message": "Fujian"
+   },
+   "RI_State_Or_Province_Fukui": {
+      "message": "Fukui"
+   },
+   "RI_State_Or_Province_Fukuoka": {
+      "message": "Fukuoka"
+   },
+   "RI_State_Or_Province_Fukushima": {
+      "message": "Fukushima"
+   },
+   "RI_State_Or_Province_Gansu": {
+      "message": "Gansu"
+   },
+   "RI_State_Or_Province_Geneva": {
+      "message": "Geneva"
+   },
+   "RI_State_Or_Province_Georgia": {
+      "message": "GA"
+   },
+   "RI_State_Or_Province_Gifu": {
+      "message": "Gifu"
+   },
+   "RI_State_Or_Province_Glarus": {
+      "message": "Glarus"
+   },
+   "RI_State_Or_Province_Grisons": {
+      "message": "Grisons"
+   },
+   "RI_State_Or_Province_Guam": {
+      "message": "GU"
+   },
+   "RI_State_Or_Province_Guangdong": {
+      "message": "Guangdong"
+   },
+   "RI_State_Or_Province_Guangxi": {
+      "message": "Guangxi"
+   },
+   "RI_State_Or_Province_Guizhou": {
+      "message": "Guizhou"
+   },
+   "RI_State_Or_Province_Gunma": {
+      "message": "Gunma"
+   },
+   "RI_State_Or_Province_Hainan": {
+      "message": "Hainan"
+   },
+   "RI_State_Or_Province_Hainaut": {
+      "message": "Hainaut"
+   },
+   "RI_State_Or_Province_Hanty_Mansy_avt_okrug": {
+      "message": "Hanty-Mansy avt okrug"
+   },
+   "RI_State_Or_Province_Hawaii": {
+      "message": "HI"
+   },
+   "RI_State_Or_Province_Hebei": {
+      "message": "Hebei"
+   },
+   "RI_State_Or_Province_Heilongjiang": {
+      "message": "Heilongjiang"
+   },
+   "RI_State_Or_Province_Henan": {
+      "message": "Henan"
+   },
+   "RI_State_Or_Province_Hiroshima": {
+      "message": "Hiroshima"
+   },
+   "RI_State_Or_Province_Hokkaido": {
+      "message": "Hokkaido"
+   },
+   "RI_State_Or_Province_Hubei": {
+      "message": "Hubei"
+   },
+   "RI_State_Or_Province_Hunan": {
+      "message": "Hunan"
+   },
+   "RI_State_Or_Province_Hyougo": {
+      "message": "Hyougo"
+   },
+   "RI_State_Or_Province_Ibaraki": {
+      "message": "Ibaraki"
+   },
+   "RI_State_Or_Province_Idaho": {
+      "message": "ID"
+   },
+   "RI_State_Or_Province_Illinois": {
+      "message": "IL"
+   },
+   "RI_State_Or_Province_Indiana": {
+      "message": "IN"
+   },
+   "RI_State_Or_Province_Ingush_republic": {
+      "message": "Ingush republic"
+   },
+   "RI_State_Or_Province_Iowa": {
+      "message": "IA"
+   },
+   "RI_State_Or_Province_Irkutsk_oblast": {
+      "message": "Irkutsk oblast"
+   },
+   "RI_State_Or_Province_Ishikawa": {
+      "message": "Ishikawa"
+   },
+   "RI_State_Or_Province_Ivanovskaya_oblast": {
+      "message": "Ivanovskaya oblast"
+   },
+   "RI_State_Or_Province_Iwate": {
+      "message": "Iwate"
+   },
+   "RI_State_Or_Province_Jiangsu": {
+      "message": "Jiangsu"
+   },
+   "RI_State_Or_Province_Jiangxi": {
+      "message": "Jiangxi"
+   },
+   "RI_State_Or_Province_Jilin": {
+      "message": "Jilin"
+   },
+   "RI_State_Or_Province_Jura": {
+      "message": "Jura"
+   },
+   "RI_State_Or_Province_Kabardino_Balkar_republic": {
+      "message": "Kabardino-Balkar republic"
+   },
+   "RI_State_Or_Province_Kagawa": {
+      "message": "Kagawa"
+   },
+   "RI_State_Or_Province_Kagoshima": {
+      "message": "Kagoshima"
+   },
+   "RI_State_Or_Province_Kalinigrad_oblast": {
+      "message": "Kalinigrad oblast"
+   },
+   "RI_State_Or_Province_Kalmykiya_republic": {
+      "message": "Kalmykiya republic"
+   },
+   "RI_State_Or_Province_Kaluga_oblast": {
+      "message": "Kaluga oblast"
+   },
+   "RI_State_Or_Province_Kamchatka_oblast": {
+      "message": "Kamchatka oblast"
+   },
+   "RI_State_Or_Province_Kanagawa": {
+      "message": "Kanagawa"
+   },
+   "RI_State_Or_Province_Kansas": {
+      "message": "KS"
+   },
+   "RI_State_Or_Province_Karachaevo_Cherkessia_republic": {
+      "message": "Karachaevo-Cherkessia republic"
+   },
+   "RI_State_Or_Province_Karelia_republic": {
+      "message": "Karelia republic"
+   },
+   "RI_State_Or_Province_Kemerovo_oblast": {
+      "message": "Kemerovo oblast"
+   },
+   "RI_State_Or_Province_Kentucky": {
+      "message": "KY"
+   },
+   "RI_State_Or_Province_Khabarovsk_krai": {
+      "message": "Khabarovsk krai"
+   },
+   "RI_State_Or_Province_Khakassia_republic": {
+      "message": "Khakassia republic"
+   },
+   "RI_State_Or_Province_Kirov_oblast": {
+      "message": "Kirov oblast"
+   },
+   "RI_State_Or_Province_Komi_Permyak_avt_okrug": {
+      "message": "Komi-Permyak avt okrug"
+   },
+   "RI_State_Or_Province_Komi_republic": {
+      "message": "Komi republic"
+   },
+   "RI_State_Or_Province_Koryak_avt_okrug": {
+      "message": "Koryak avt okrug"
+   },
+   "RI_State_Or_Province_Kostroma_oblast": {
+      "message": "Kostroma oblast"
+   },
+   "RI_State_Or_Province_Kouchi": {
+      "message": "Kouchi"
+   },
+   "RI_State_Or_Province_Krasnodar_krai": {
+      "message": "Krasnodar krai"
+   },
+   "RI_State_Or_Province_Krasnoyarsk_krai": {
+      "message": "Krasnoyarsk krai"
+   },
+   "RI_State_Or_Province_Kujawsko_Pomorskie": {
+      "message": "Kujawsko-Pomorskie"
+   },
+   "RI_State_Or_Province_Kumamoto": {
+      "message": "Kumamoto"
+   },
+   "RI_State_Or_Province_Kurgan_oblast": {
+      "message": "Kurgan oblast"
+   },
+   "RI_State_Or_Province_Kursk_oblast": {
+      "message": "Kursk oblast"
+   },
+   "RI_State_Or_Province_Kyoto": {
+      "message": "Kyoto"
+   },
+   "RI_State_Or_Province_Leningrad_oblast": {
+      "message": "Leningrad oblast"
+   },
+   "RI_State_Or_Province_Liaoning": {
+      "message": "Liaoning"
+   },
+   "RI_State_Or_Province_Liege": {
+      "message": "Liege"
+   },
+   "RI_State_Or_Province_Limburg": {
+      "message": "Limburg"
+   },
+   "RI_State_Or_Province_Lipetsk_oblast": {
+      "message": "Lipetsk oblast"
+   },
+   "RI_State_Or_Province_Lodzkie": {
+      "message": "Lodzkie"
+   },
+   "RI_State_Or_Province_Louisiana": {
+      "message": "LA"
+   },
+   "RI_State_Or_Province_Lubelskie": {
+      "message": "Lubelskie"
+   },
+   "RI_State_Or_Province_Lubuskie": {
+      "message": "Lubuskie"
+   },
+   "RI_State_Or_Province_Lucerne": {
+      "message": "Lucerne"
+   },
+   "RI_State_Or_Province_Luxembourg": {
+      "message": "Luxembourg"
+   },
+   "RI_State_Or_Province_Magadan_oblast": {
+      "message": "Magadan oblast"
+   },
+   "RI_State_Or_Province_Maine": {
+      "message": "ME"
+   },
+   "RI_State_Or_Province_Malopolskie": {
+      "message": "Malopolskie"
+   },
+   "RI_State_Or_Province_Manitoba": {
+      "message": "Manitoba"
+   },
+   "RI_State_Or_Province_Marii_El_republic": {
+      "message": "Marii El republic"
+   },
+   "RI_State_Or_Province_Maryland": {
+      "message": "MD"
+   },
+   "RI_State_Or_Province_Massachusetts": {
+      "message": "MA"
+   },
+   "RI_State_Or_Province_Mazowieckie": {
+      "message": "Mazowieckie"
+   },
+   "RI_State_Or_Province_Michigan": {
+      "message": "MI"
+   },
+   "RI_State_Or_Province_Mie": {
+      "message": "Mie"
+   },
+   "RI_State_Or_Province_Minnesota": {
+      "message": "MN"
+   },
+   "RI_State_Or_Province_Mississippi": {
+      "message": "MS"
+   },
+   "RI_State_Or_Province_Missouri": {
+      "message": "MO"
+   },
+   "RI_State_Or_Province_Miyagi": {
+      "message": "Miyagi"
+   },
+   "RI_State_Or_Province_Miyazaki": {
+      "message": "Miyazaki"
+   },
+   "RI_State_Or_Province_Montana": {
+      "message": "MT"
+   },
+   "RI_State_Or_Province_Mordovia_republic": {
+      "message": "Mordovia republic"
+   },
+   "RI_State_Or_Province_Moscow_city": {
+      "message": "Moscow city"
+   },
+   "RI_State_Or_Province_Moscow_oblast": {
+      "message": "Moscow oblast"
+   },
+   "RI_State_Or_Province_Murmansk_oblast": {
+      "message": "Murmansk oblast"
+   },
+   "RI_State_Or_Province_Nagano": {
+      "message": "Nagano"
+   },
+   "RI_State_Or_Province_Nagasaki": {
+      "message": "Nagasaki"
+   },
+   "RI_State_Or_Province_Namur": {
+      "message": "Namur"
+   },
+   "RI_State_Or_Province_Nara": {
+      "message": "Nara"
+   },
+   "RI_State_Or_Province_Nebraska": {
+      "message": "NE"
+   },
+   "RI_State_Or_Province_Nei_Mongol": {
+      "message": "Nei Mongol"
+   },
+   "RI_State_Or_Province_Nenetsk_avt_okrug": {
+      "message": "Nenetsk avt okrug"
+   },
+   "RI_State_Or_Province_Neuchatel": {
+      "message": "Neuchatel"
+   },
+   "RI_State_Or_Province_Nevada": {
+      "message": "NV"
+   },
+   "RI_State_Or_Province_New_Brunswick": {
+      "message": "New Brunswick"
+   },
+   "RI_State_Or_Province_New_Hampshire": {
+      "message": "NH"
+   },
+   "RI_State_Or_Province_New_Jersey": {
+      "message": "NJ"
+   },
+   "RI_State_Or_Province_New_Mexico": {
+      "message": "NM"
+   },
+   "RI_State_Or_Province_New_South_Wales": {
+      "message": "NSW"
+   },
+   "RI_State_Or_Province_New_York": {
+      "message": "NY"
+   },
+   "RI_State_Or_Province_Newfoundland": {
+      "message": "Newfoundland"
+   },
+   "RI_State_Or_Province_Nidwalden": {
+      "message": "Nidwalden"
+   },
+   "RI_State_Or_Province_Niigata": {
+      "message": "Niigata"
+   },
+   "RI_State_Or_Province_Ningxia": {
+      "message": "Ningxia"
+   },
+   "RI_State_Or_Province_Nizhegorodskaya_oblast": {
+      "message": "Nizhegorodskaya oblast"
+   },
+   "RI_State_Or_Province_North_Carolina": {
+      "message": "NC"
+   },
+   "RI_State_Or_Province_North_Dakota": {
+      "message": "ND"
+   },
+   "RI_State_Or_Province_Northern_Mariana_Is": {
+      "message": "MP"
+   },
+   "RI_State_Or_Province_Northern_Territory": {
+      "message": "NT"
+   },
+   "RI_State_Or_Province_Northwest_Territories": {
+      "message": "Northwest Territories"
+   },
+   "RI_State_Or_Province_Nova_Scotia": {
+      "message": "Nova Scotia"
+   },
+   "RI_State_Or_Province_Novgorod_oblast": {
+      "message": "Novgorod oblast"
+   },
+   "RI_State_Or_Province_Novosibirsk_oblast": {
+      "message": "Novosibirsk oblast"
+   },
+   "RI_State_Or_Province_Nunavut": {
+      "message": "Nunavut"
+   },
+   "RI_State_Or_Province_Obwalden": {
+      "message": "Obwalden"
+   },
+   "RI_State_Or_Province_Ohio": {
+      "message": "OH"
+   },
+   "RI_State_Or_Province_Okayama": {
+      "message": "Okayama"
+   },
+   "RI_State_Or_Province_Okinawa": {
+      "message": "Okinawa"
+   },
+   "RI_State_Or_Province_Oklahoma": {
+      "message": "OK"
+   },
+   "RI_State_Or_Province_Omsk_oblast": {
+      "message": "Omsk oblast"
+   },
+   "RI_State_Or_Province_Ontario": {
+      "message": "Ontario"
+   },
+   "RI_State_Or_Province_Ooita": {
+      "message": "Ooita"
+   },
+   "RI_State_Or_Province_Oost_Vlaanderen": {
+      "message": "Oost Vlaanderen"
+   },
+   "RI_State_Or_Province_Opolskie": {
+      "message": "Opolskie"
+   },
+   "RI_State_Or_Province_Oregon": {
+      "message": "OR"
+   },
+   "RI_State_Or_Province_Orel_oblast": {
+      "message": "Orel oblast"
+   },
+   "RI_State_Or_Province_Orenburg_oblast": {
+      "message": "Orenburg oblast"
+   },
+   "RI_State_Or_Province_Osaka": {
+      "message": "Osaka"
+   },
+   "RI_State_Or_Province_Palau": {
+      "message": "PW"
+   },
+   "RI_State_Or_Province_Pennsylvania": {
+      "message": "PA"
+   },
+   "RI_State_Or_Province_Penza_oblast": {
+      "message": "Penza oblast"
+   },
+   "RI_State_Or_Province_Perm_oblast": {
+      "message": "Perm oblast"
+   },
+   "RI_State_Or_Province_Podkarpackie": {
+      "message": "Podkarpackie"
+   },
+   "RI_State_Or_Province_Podlaskie": {
+      "message": "Podlaskie"
+   },
+   "RI_State_Or_Province_Pomorskie": {
+      "message": "Pomorskie"
+   },
+   "RI_State_Or_Province_Primorskii_krai": {
+      "message": "Primorskii krai"
+   },
+   "RI_State_Or_Province_Prince_Edward_Island": {
+      "message": "Prince Edward Island"
+   },
+   "RI_State_Or_Province_Pskov_oblast": {
+      "message": "Pskov oblast"
+   },
+   "RI_State_Or_Province_Puerto_Rico": {
+      "message": "PR"
+   },
+   "RI_State_Or_Province_Qinghai": {
+      "message": "Qinghai"
+   },
+   "RI_State_Or_Province_Quebec": {
+      "message": "Quebec"
+   },
+   "RI_State_Or_Province_Queensland": {
+      "message": "QLD"
+   },
+   "RI_State_Or_Province_Rhode_Island": {
+      "message": "RI"
+   },
+   "RI_State_Or_Province_Rostov_oblast": {
+      "message": "Rostov oblast"
+   },
+   "RI_State_Or_Province_Ryazan_oblast": {
+      "message": "Ryazan oblast"
+   },
+   "RI_State_Or_Province_Saga": {
+      "message": "Saga"
+   },
+   "RI_State_Or_Province_Saha_republic": {
+      "message": "Saha (Yakutia)"
+   },
+   "RI_State_Or_Province_Saint_Gall": {
+      "message": "St. Gall"
+   },
+   "RI_State_Or_Province_Saitama": {
+      "message": "Saitama"
+   },
+   "RI_State_Or_Province_Sakhalin_oblast": {
+      "message": "Sahalin oblast"
+   },
+   "RI_State_Or_Province_Samara_oblast": {
+      "message": "Samara oblast"
+   },
+   "RI_State_Or_Province_Saratov_oblast": {
+      "message": "Saratov oblast"
+   },
+   "RI_State_Or_Province_Saskatchewan": {
+      "message": "Saskatchewan"
+   },
+   "RI_State_Or_Province_Schaffhausen": {
+      "message": "Schaffhausen"
+   },
+   "RI_State_Or_Province_Schwyz": {
+      "message": "Schwyz"
+   },
+   "RI_State_Or_Province_Severnaya_Ossetia_Alaniya_republic": {
+      "message": "Severnaya Ossetia-Alaniya republic"
+   },
+   "RI_State_Or_Province_Shaanxi": {
+      "message": "Shaanxi"
+   },
+   "RI_State_Or_Province_Shandong": {
+      "message": "Shandong"
+   },
+   "RI_State_Or_Province_Shanghai": {
+      "message": "Shanghai"
+   },
+   "RI_State_Or_Province_Shanxi": {
+      "message": "Shanxi"
+   },
+   "RI_State_Or_Province_Shiga": {
+      "message": "Shiga"
+   },
+   "RI_State_Or_Province_Shimane": {
+      "message": "Shimane"
+   },
+   "RI_State_Or_Province_Shizuoka": {
+      "message": "Shizuoka"
+   },
+   "RI_State_Or_Province_Sichuan": {
+      "message": "Sichuan"
+   },
+   "RI_State_Or_Province_Slaskie": {
+      "message": "Slaskie"
+   },
+   "RI_State_Or_Province_Smolensk_oblast": {
+      "message": "Smolensk oblast"
+   },
+   "RI_State_Or_Province_Solothurn": {
+      "message": "Solothurn"
+   },
+   "RI_State_Or_Province_South_Australia": {
+      "message": "SA"
+   },
+   "RI_State_Or_Province_South_Carolina": {
+      "message": "SC"
+   },
+   "RI_State_Or_Province_South_Dakota": {
+      "message": "SD"
+   },
+   "RI_State_Or_Province_St_Petersburg_city": {
+      "message": "St Petersburg city"
+   },
+   "RI_State_Or_Province_Stavropol_krai": {
+      "message": "Stavropol krai"
+   },
+   "RI_State_Or_Province_Sverdlovsk_oblast": {
+      "message": "Sverdlovsk oblast"
+   },
+   "RI_State_Or_Province_Swietokrzyskie": {
+      "message": "Swietokrzyskie"
+   },
+   "RI_State_Or_Province_Taimyr_act_okrug": {
+      "message": "Taimyr act okrug"
+   },
+   "RI_State_Or_Province_Taiwan": {
+      "message": "Taiwan"
+   },
+   "RI_State_Or_Province_Tambov_oblast": {
+      "message": "Tambov oblast"
+   },
+   "RI_State_Or_Province_Tasmania": {
+      "message": "TAS"
+   },
+   "RI_State_Or_Province_Tatarstan_republic": {
+      "message": "Tatarstan republic"
+   },
+   "RI_State_Or_Province_Tennessee": {
+      "message": "TN"
+   },
+   "RI_State_Or_Province_Texas": {
+      "message": "TX"
+   },
+   "RI_State_Or_Province_Thurgovia": {
+      "message": "Thurgovia"
+   },
+   "RI_State_Or_Province_Tianjin": {
+      "message": "Tianjin"
+   },
+   "RI_State_Or_Province_Ticino": {
+      "message": "Ticino"
+   },
+   "RI_State_Or_Province_Tochigi": {
+      "message": "Tochigi"
+   },
+   "RI_State_Or_Province_Tokushima": {
+      "message": "Tokushima"
+   },
+   "RI_State_Or_Province_Tokyo": {
+      "message": "Tokyo"
+   },
+   "RI_State_Or_Province_Tomsk_oblast": {
+      "message": "Tomsk oblast"
+   },
+   "RI_State_Or_Province_Tottori": {
+      "message": "Tottori"
+   },
+   "RI_State_Or_Province_Toyama": {
+      "message": "Toyama"
+   },
+   "RI_State_Or_Province_Tula_oblast": {
+      "message": "Tula oblast"
+   },
+   "RI_State_Or_Province_Tver_oblast": {
+      "message": "Tver oblast"
+   },
+   "RI_State_Or_Province_Tyumen_oblast": {
+      "message": "Tyumen oblast"
+   },
+   "RI_State_Or_Province_Tywa_republic": {
+      "message": "Tywa republic"
+   },
+   "RI_State_Or_Province_Udmurtia_republic": {
+      "message": "Udmurtia republic"
+   },
+   "RI_State_Or_Province_Ulianovsk_oblast": {
+      "message": "Ulianovsk oblast"
+   },
+   "RI_State_Or_Province_Uri": {
+      "message": "Uri"
+   },
+   "RI_State_Or_Province_Ust_Ordynsk_Buryat_avt_okrug": {
+      "message": "Ust'-Ordynsk Buryat avt okrug"
+   },
+   "RI_State_Or_Province_Utah": {
+      "message": "UT"
+   },
+   "RI_State_Or_Province_Valais": {
+      "message": "Valais"
+   },
+   "RI_State_Or_Province_Vaud": {
+      "message": "Vaud"
+   },
+   "RI_State_Or_Province_Vermont": {
+      "message": "VT"
+   },
+   "RI_State_Or_Province_Victoria": {
+      "message": "VIC"
+   },
+   "RI_State_Or_Province_Virgin_Island": {
+      "message": "VI"
+   },
+   "RI_State_Or_Province_Virginia": {
+      "message": "VA"
+   },
+   "RI_State_Or_Province_Vlaams_Brabant": {
+      "message": "Vlaams Brabant"
+   },
+   "RI_State_Or_Province_Vladimir_oblast": {
+      "message": "Vladimir oblast"
+   },
+   "RI_State_Or_Province_Volgograd_oblast": {
+      "message": "Volgograd oblast"
+   },
+   "RI_State_Or_Province_Vologod_oblast": {
+      "message": "Vologod oblast"
+   },
+   "RI_State_Or_Province_Voronezh_oblast": {
+      "message": "Voronezh oblast"
+   },
+   "RI_State_Or_Province_Wakayama": {
+      "message": "Wakayama"
+   },
+   "RI_State_Or_Province_Warminsko_Mazurskie": {
+      "message": "Warminsko-Mazurskie"
+   },
+   "RI_State_Or_Province_Washington": {
+      "message": "WA"
+   },
+   "RI_State_Or_Province_West_Virginia": {
+      "message": "WV"
+   },
+   "RI_State_Or_Province_West_Vlaanderen": {
+      "message": "West Vlaanderen"
+   },
+   "RI_State_Or_Province_Western_Australia": {
+      "message": "WA"
+   },
+   "RI_State_Or_Province_Wielkopolskie": {
+      "message": "Wielkopolskie"
+   },
+   "RI_State_Or_Province_Wisconsin": {
+      "message": "WI"
+   },
+   "RI_State_Or_Province_Wyoming": {
+      "message": "WY"
+   },
+   "RI_State_Or_Province_Xianggang": {
+      "message": "Xianggang"
+   },
+   "RI_State_Or_Province_Xinjiang": {
+      "message": "Xinjiang"
+   },
+   "RI_State_Or_Province_Xizang": {
+      "message": "Xizang"
+   },
+   "RI_State_Or_Province_Yamagata": {
+      "message": "Yamagata"
+   },
+   "RI_State_Or_Province_Yamaguchi": {
+      "message": "Yamaguchi"
+   },
+   "RI_State_Or_Province_Yamalo_Nenetsk_avt_okrug": {
+      "message": "Yamalo-Nenetsk avt okrug"
+   },
+   "RI_State_Or_Province_Yamanashi": {
+      "message": "Yamanashi"
+   },
+   "RI_State_Or_Province_Yaroslav_oblast": {
+      "message": "Yaroslav oblast"
+   },
+   "RI_State_Or_Province_Yukon": {
+      "message": "Yukon"
+   },
+   "RI_State_Or_Province_Yunnan": {
+      "message": "Yunnan"
+   },
+   "RI_State_Or_Province_Zachodniopomorskie": {
+      "message": "Zachodniopomorskie"
+   },
+   "RI_State_Or_Province_Zhejiang": {
+      "message": "Zhejiang"
+   },
+   "RI_State_Or_Province_Zug": {
+      "message": "Zug"
+   },
+   "RI_State_Or_Province_Zurich": {
+      "message": "Zurich"
+   },
+   "RI_State_Zip": {
+      "message": "Stats Zip"
+   },
+   "RI_Station": {
+      "message": "Togstation"
+   },
+   "RI_Stock_Symbol": {
+      "message": "Aktie ID"
+   },
+   "RI_StreetName": {
+      "message": "Vejnavn"
+   },
+   "RI_StreetNameC_HouseNumber": {
+      "message": "Vejnavn, husnummer"
+   },
+   "RI_StreetName_HouseNumber": {
+      "message": "Vejnavn og nr."
+   },
+   "RI_Suburb": {
+      "message": "Bydel"
+   },
+   "RI_Subway_Station": {
+      "message": "Metro station"
+   },
+   "RI_Suffix": {
+      "message": "Suffiks"
+   },
+   "RI_Summary___id_account__": {
+      "message": "konto"
+   },
+   "RI_Summary___id_appname__": {
+      "message": "programnavn"
+   },
+   "RI_Summary___id_bank__": {
+      "message": "bank"
+   },
+   "RI_Summary___id_carmakemodel__": {
+      "message": "mærke, model"
+   },
+   "RI_Summary___id_cell__": {
+      "message": "mobil:\t"
+   },
+   "RI_Summary___id_cvv__": {
+      "message": "cvv"
+   },
+   "RI_Summary___id_expiration__": {
+      "message": "Udløbsdato"
+   },
+   "RI_Summary___id_fax__": {
+      "message": "fax:\t"
+   },
+   "RI_Summary___id_filename__": {
+      "message": "filnavn"
+   },
+   "RI_Summary___id_home__": {
+      "message": "hjemme:\t"
+   },
+   "RI_Summary___id_mail__": {
+      "message": "mail"
+   },
+   "RI_Summary___id_passportnumber__": {
+      "message": "pasnr."
+   },
+   "RI_Summary___id_password__": {
+      "message": "kodeord"
+   },
+   "RI_Summary___id_phone__": {
+      "message": "tlf.:\t"
+   },
+   "RI_Summary___id_platenumber__": {
+      "message": "registreringsnr."
+   },
+   "RI_Summary___id_userid__": {
+      "message": "bruger id"
+   },
+   "RI_Summary___id_work__": {
+      "message": "arbejde:\t"
+   },
+   "RI_Tax_ID": {
+      "message": "Skatte ID"
+   },
+   "RI_Title": {
+      "message": "Titel"
+   },
+   "RI_Title_Dr": {
+      "message": "Dr"
+   },
+   "RI_Title_Engr": {
+      "message": "Ing"
+   },
+   "RI_Title_Mr": {
+      "message": "Hr"
+   },
+   "RI_Title_Mrs": {
+      "message": "Fru"
+   },
+   "RI_Title_Ms": {
+      "message": "Frk"
+   },
+   "RI_Title_Prof": {
+      "message": "Prof"
+   },
+   "RI_Toll_Free_Phone": {
+      "message": "Gratis telefon"
+   },
+   "RI_Type_Of_Business": {
+      "message": "Erhvervstype"
+   },
+   "RI_User_ID": {
+      "message": "Brugernavn"
+   },
+   "RI_Valid_From": {
+      "message": "Gyldigt fra"
+   },
+   "RI_Vehicle_Identification_Number": {
+      "message": "Stelnr."
+   },
+   "RI_Web_Site": {
+      "message": "Webside"
+   },
+   "RI_Work_Phone": {
+      "message": "Tlf. arb."
+   },
+   "RI_Work_Phone_Ext": {
+      "message": "Lokal"
+   },
+   "RI_Yahoo_ID": {
+      "message": "Yahoo ID"
+   },
+   "RI_ZipCode": {
+      "message": "Postnummer"
+   },
+   "RI_Zip_Or_PostCode": {
+      "message": "Zip eller postnummer"
+   },
+   "RI__End": {
+      "message": ""
+   },
+   "RI__Start": {
+      "message": ""
+   },
+   "RI_dd": {
+      "message": "dd"
+   },
+   "RI_mm": {
+      "message": "mm"
+   },
+   "RI_yyyy": {
+      "message": "åååå"
+   },
+   "RoboForm_Error": {
+      "message": "RoboForm fejl"
+   },
+   "RoboForm_Question": {
+      "message": "RoboForm spørgsmål"
+   },
+   "RoboForm_Warning": {
+      "message": "RoboForm advarsel"
+   },
+   "RoboformType_Bookmark": {
+      "message": "Bogmærke"
+   },
+   "RoboformType_Bookmarks": {
+      "message": "Bogmærker"
+   },
+   "RoboformType_Contact": {
+      "message": "Kontakt"
+   },
+   "RoboformType_Contacts": {
+      "message": "Kontakter"
+   },
+   "RoboformType_File": {
+      "message": "Fil"
+   },
+   "RoboformType_Files": {
+      "message": "Filer"
+   },
+   "RoboformType_Folder": {
+      "message": "Mappe"
+   },
+   "RoboformType_Folders": {
+      "message": "Mapper"
+   },
+   "RoboformType_Identities": {
+      "message": "Identiteter"
+   },
+   "RoboformType_Identity": {
+      "message": "Identitet"
+   },
+   "RoboformType_Login": {
+      "message": "Login"
+   },
+   "RoboformType_Logins": {
+      "message": "Logins"
+   },
+   "RoboformType_Safenote": {
+      "message": "Sikker note"
+   },
+   "RoboformType_Safenotes": {
+      "message": "Sikre noter"
+   },
+   "RoboformType_Searchcard": {
+      "message": "Søgekort"
+   },
+   "RoboformType_Searchcards": {
+      "message": "Søgekort"
+   },
+   "Roboform_Folder": {
+      "message": "Mappe"
+   },
+   "SaveDlg_Note_AccountCreationData_Text": {
+      "message": "Kontooprettelse:"
+   },
+   "SaveDlg_Note_PasswordChanged_Text2": {
+      "message": "%1: kodeord ændret fra '%2'"
+   },
+   "SaveForms_Disabled": {
+      "message": "Gem formular stoppet af sikkerhedspolitik"
+   },
+   "SearchAction_Search_In": {
+      "message": "Søg '%%spørgsmål%%' med %1"
+   },
+   "SearchAction_Search_In_RoboForm_Files": {
+      "message": "Søg '%%spørgsmål%%' i RoboForm filer"
+   },
+   "SearchAction_Search_In_RoboForm_Names": {
+      "message": "Søg '%%spørgsmål%%' i RoboForm"
+   },
+   "SensitiveFields_Text_2": {
+      "message": "RoboForm har fundet følsomme oplysninger. Vil du udfylde disse felter:"
+   },
+   "ShowLowerToolbarForPopups_Text": {
+      "message": "Vis RoboForm værktøjslinie nederst i popup vinduer"
+   }
+}

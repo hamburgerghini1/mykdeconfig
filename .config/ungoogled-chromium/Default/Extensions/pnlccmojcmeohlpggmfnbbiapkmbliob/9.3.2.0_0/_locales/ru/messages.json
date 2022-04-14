@@ -1,0 +1,4241 @@
+{
+   "AboutPage_Title": {
+      "message": "О приложении"
+   },
+   "About_Sync2": {
+      "message": "Учетная запись:"
+   },
+   "About_Version2": {
+      "message": "Версия:"
+   },
+   "AccountLicenseStatus_Business": {
+      "message": "Лицензия для бизнеса"
+   },
+   "AccountLicenseStatus_LicenseExpired": {
+      "message": "Лицензия истекла %1 день(дней) назад."
+   },
+   "AccountLicenseStatus_LicenseExpiresIn": {
+      "message": "Лицензия истекает через %1 день(дней)."
+   },
+   "AccountLicenseStatus_LicenseExpiresToday": {
+      "message": "Лицензия истекает сегодня"
+   },
+   "AccountLicenseStatus_LicenseIsActive": {
+      "message": "Лицензия активна"
+   },
+   "AccountLicenseStatus_NoLicense": {
+      "message": "Нет лицензии"
+   },
+   "AccountLicenseStatus_TrialExpired": {
+      "message": "Пробный период истек %1 день(дней) назад."
+   },
+   "AccountLicenseStatus_TrialExpiresIn": {
+      "message": "Пробный период истекает через %1 день(дней)."
+   },
+   "AccountLicenseStatus_TrialExpiresToday": {
+      "message": "Пробные период истекает сегодня"
+   },
+   "AccountSetup_PasswordQualityIndicatorHint_Item_MinDigitChars": {
+      "message": "%1 символов должны быть цифрами"
+   },
+   "AccountSetup_PasswordQualityIndicatorHint_Item_MinLength": {
+      "message": "Минимум %1 символов"
+   },
+   "AccountSetup_PasswordQualityIndicatorHint_Item_MinLowerCaseChars": {
+      "message": "%1 символов должны быть строчными"
+   },
+   "AccountSetup_PasswordQualityIndicatorHint_Item_MinNonNumChars": {
+      "message": "%1 символов должны быть не цифрами"
+   },
+   "AccountSetup_PasswordQualityIndicatorHint_Item_MinUpperCaseChars": {
+      "message": "%1 символов должны быть заглавными"
+   },
+   "AccountSetup_PasswordQualityIndicatorHint_Title": {
+      "message": "Пароль должен содержать:"
+   },
+   "AlreadyExists_Error2": {
+      "message": "%1 с именем '%2' уже существует"
+   },
+   "Android_matching_dialog_title": {
+      "message": "Подходящие Логины"
+   },
+   "AskConsentToCollectData_Accept_Button": {
+      "message": "Принять"
+   },
+   "AskConsentToCollectData_ActionsAndFilledInformation_Text": {
+      "message": "Ваши действия (клики мыши и нажатия клавиш) и информацию, которую вы вводите на вебсайтах, используемые для сохранения и заполнения вашими данными на сайтах"
+   },
+   "AskConsentToCollectData_ContinueButton_Text": {
+      "message": "Продолжить"
+   },
+   "AskConsentToCollectData_DeclineWarning_Text": {
+      "message": "В случае отказа вы не сможете использовать расширение RoboForm."
+   },
+   "AskConsentToCollectData_Decline_Button": {
+      "message": "Отклонить"
+   },
+   "AskConsentToCollectData_Details_Text": {
+      "message": "Полная информация о данных, которые мы собираем, и о том, что мы с ними делаем, представлена в нашем "
+   },
+   "AskConsentToCollectData_NoSwitcher_Text": {
+      "message": "Нет"
+   },
+   "AskConsentToCollectData_PersonalDataSection_Text": {
+      "message": "ваши персональные данные"
+   },
+   "AskConsentToCollectData_PersonalRejectionImpact_Text": {
+      "message": "Если вы не разрешите собирать ваши персональные данные, RoboForm не сможет работать"
+   },
+   "AskConsentToCollectData_PrivacyPolicy_Link_Text": {
+      "message": "Политике конфиденциальности"
+   },
+   "AskConsentToCollectData_RemoveExtensionButton_Text": {
+      "message": "Удалить RoboForm"
+   },
+   "AskConsentToCollectData_RevisitConsentsButton_Text": {
+      "message": "Пересмотреть согласие на сбор данных"
+   },
+   "AskConsentToCollectData_RoboFormCannotWorkWithoutPermissions_Text": {
+      "message": "К сожалению, без сбора посещенных URLs, поисковых запросов и вводимых на сайтах данных RoboForm не сможет работать, так как он должен сохранять и заполнять ваши учетные данные для вебсайтов. Если вы не хотите разрешать RoboForm сбор этих данных, мы рекомендуем удалить RoboForm."
+   },
+   "AskConsentToCollectData_SectionTitleStart_Text": {
+      "message": "Можем ли мы собирать следующее "
+   },
+   "AskConsentToCollectData_TechnicalDataSection_Text": {
+      "message": "анонимные данные, используемые RoboForm"
+   },
+   "AskConsentToCollectData_TechnicalRejectionImpact_Text": {
+      "message": "Если вы не разрешите собирать ваши анонимные данные, RoboForm не сможет работать"
+   },
+   "AskConsentToCollectData_Text": {
+      "message": "Для правильной работы RoboForm мы должны иметь права для доступа и сбора веб-адресов (URL). Без этих прав RoboForm не сможет сохранять и заполнять формы на ваших сайтах. Подробная информация о хранении данных RoboForm в нашей "
+   },
+   "AskConsentToCollectData_Title": {
+      "message": "Конфиденциальность"
+   },
+   "AskConsentToCollectData_UrlsAndSearchTerms_Text": {
+      "message": "Посещаемые адреса и поисковые запросы, используемые для сохранения и заполнения вашими данными на сайтах"
+   },
+   "AskConsentToCollectData_YesSwitcher_Text": {
+      "message": "Да"
+   },
+   "AutoFill_AddIdentityGroup": {
+      "message": "Добавить %1"
+   },
+   "AutoFill_Ago_Text": {
+      "message": "%1 назад"
+   },
+   "AutoFill_ConfirmPasswordChange_Text": {
+      "message": "Подтвердите изменение пароля %1"
+   },
+   "AutoFill_Delete": {
+      "message": "Удалить"
+   },
+   "AutoFill_DontShowOnThisDomain": {
+      "message": "Не показывать для этого домена"
+   },
+   "AutoFill_Edit": {
+      "message": "Редактировать"
+   },
+   "AutoFill_Fill": {
+      "message": "Заполнить"
+   },
+   "AutoFill_FillSubmit": {
+      "message": "Заполнить+Отправить"
+   },
+   "AutoFill_Generate": {
+      "message": "Сгенерировать"
+   },
+   "AutoFill_IdentitiesWithMatchingValuesList_Header_Text": {
+      "message": "Подходящие Персоны:"
+   },
+   "AutoFill_KeepOldPasswordConfirm_Text": {
+      "message": "Вы хотите удалить новый пароль, ожидая подтверждения для %1 ?"
+   },
+   "AutoFill_Login": {
+      "message": "Войти в %1"
+   },
+   "AutoFill_NewPassword": {
+      "message": "Новый пароль"
+   },
+   "AutoFill_OpenStartPage": {
+      "message": "Открыть Стартовую страницу"
+   },
+   "AutoFill_OpenStartPage_Tip": {
+      "message": "Открыть Стартовую страницу RoboForm"
+   },
+   "AutoFill_OtherIdentitiesList_Header_Text": {
+      "message": "Другие Персоны (A-Я):"
+   },
+   "AutoFill_PasswordAge_Text": {
+      "message": "%1 давности"
+   },
+   "AutoFill_PasswordGenerator_Settings": {
+      "message": "Настройки..."
+   },
+   "AutoFill_PreviousPassword_Text": {
+      "message": "Сохранить старый пароль %1"
+   },
+   "AutoFill_RecentlyUsedIdentitiesList_Header_Text": {
+      "message": "Недавние Персоны:"
+   },
+   "AutoFill_Rename": {
+      "message": "Переименовать"
+   },
+   "AutoFill_ReportAnIssue_Command_Text": {
+      "message": "Сообщить о проблеме"
+   },
+   "AutoFill_ReportAnIssue_Command_Tooltip": {
+      "message": "Сообщить о проблеме АвтоЗаполнения на этой странице"
+   },
+   "AutoFill_RoboFormLogin_Text": {
+      "message": "Пожалуйста, нажмите кнопку RoboForm на панели инструментов браузера для выполнения операции логина."
+   },
+   "AutoFill_ShowOnThisDomain": {
+      "message": "Показывать для этого домена"
+   },
+   "AutoSave_LoginRequiredNotification_LogInToRoboForm_ButtonText": {
+      "message": "Войти в RoboForm"
+   },
+   "AutoSave_LoginRequiredNotification_LogInToRoboForm_Text": {
+      "message": "Войдите в RoboForm и сохраните введенные учетные данные для %1."
+   },
+   "AutoSave_LoginRequiredNotification_Title": {
+      "message": "Вход в RoboForm?"
+   },
+   "AutoSave_Notification_DataSaved_Text": {
+      "message": "Ваши данные сохранены!"
+   },
+   "AutoSave_Notification_DataUpdated_Text": {
+      "message": "Ваши данные обновлены!"
+   },
+   "AutoSave_Notification_IdentityCreated_ActionDescription_Text": {
+      "message": "Персона была создана:"
+   },
+   "AutoSave_Notification_IdentityDeleted_ActionDescription_Text": {
+      "message": "Персона была удалена:"
+   },
+   "AutoSave_Notification_IdentityUpdated_ActionDescription_Text": {
+      "message": "Персона была обновлена:"
+   },
+   "AutoSave_Notification_LoginCreated_ActionDescription_Text": {
+      "message": "Логин был сохранен:"
+   },
+   "AutoSave_Notification_LoginDeleted_ActionDescription_Text": {
+      "message": "Логин был удален:"
+   },
+   "AutoSave_Notification_LoginSaved_Text": {
+      "message": "Ваш Логин сохранен!"
+   },
+   "AutoSave_Notification_LoginUpdated_ActionDescription_Text": {
+      "message": "Логин был одновлен:"
+   },
+   "AutoSave_Notification_LoginUpdated_Text": {
+      "message": "Ваш логин обновлен!"
+   },
+   "AutoSave_Notification_LoginUrlUpdated_Text": {
+      "message": "URL в вашем Логине был обновлен"
+   },
+   "AutoSave_Notification_PasswordOnlyLoginSaved_Note_Text": {
+      "message": "RoboForm смог сохранить только пароль, но не имя пользователя. Этот Логин будет обновлен после следующего вашего входа на сайт."
+   },
+   "AutoSave_Notification_PasswordOnlyLoginSaved_Text": {
+      "message": "Ваш пароль сохранен!"
+   },
+   "AutoSave_Notification_PasswordUpdated_ActionDescription_Text": {
+      "message": "Пароль в вашем Логине обновлен:"
+   },
+   "AutoSave_Notification_PasswordUpdated_Text": {
+      "message": "Пароль в вашем Логине обновлен!"
+   },
+   "AutoSave_Notification_Undo_ButtonText": {
+      "message": "Возврат"
+   },
+   "AutoSave_ReportAnIssue_Command_Text": {
+      "message": "Сообщить о проблеме"
+   },
+   "AutoSave_ReportAnIssue_Command_Tooltip": {
+      "message": "Сообщить о проблеме АвтоСохранения на этой странице"
+   },
+   "AutoSave_SaveToRoboFormQuestion_Text": {
+      "message": "Сохранить в RoboForm?"
+   },
+   "BEM_Description": {
+      "message": "RoboForm, являющийся менеджером паролей №1, делает вашу жизнь проще, запоминая ваши пароли и осуществляя автоматический вход на сайты"
+   },
+   "BEM_FullName": {
+      "message": "Менеджер Паролей RoboForm"
+   },
+   "BEM_FullNameBeta": {
+      "message": "Менеджер Паролей RoboForm (Beta)"
+   },
+   "Bookmark_ClickToOpen_Tip": {
+      "message": "Щелкните, чтобы открыть Закладку"
+   },
+   "Btn_No": {
+      "message": "Нет"
+   },
+   "Btn_Yes": {
+      "message": "Да"
+   },
+   "ChangeMasterPasswordPage_Title": {
+      "message": "Изменить Главный Пароль"
+   },
+   "ChangePwdDlg_Changing_Text": {
+      "message": "Изменение пароля"
+   },
+   "ChangePwdDlg_OperationNotSupported": {
+      "message": "Операция не поддерживается. Пожалуйста, обновите RoboForm до версии 8"
+   },
+   "Change_Account_Password_Login_First": {
+      "message": "Для смены пароля вам нужно сначала авторизоваться"
+   },
+   "CheckedRunMB_CheckButton": {
+      "message": "Больше не показывать сообщение"
+   },
+   "Cmd_About_Key": {
+      "message": "О программе..."
+   },
+   "Cmd_Accept_Key": {
+      "message": "Принять"
+   },
+   "Cmd_AddToPinned_Flat": {
+      "message": "Добавить в закрепленные"
+   },
+   "Cmd_Cancel_Flat": {
+      "message": "Отмена"
+   },
+   "Cmd_ClearList_Key": {
+      "message": "(Очистить список)"
+   },
+   "Cmd_Close_Flat": {
+      "message": "Закрыть"
+   },
+   "Cmd_ConvertFolderToGroup_Key": {
+      "message": "Конвертировать в Группу"
+   },
+   "Cmd_Copy_Password_Flat": {
+      "message": "Копировать пароль"
+   },
+   "Cmd_Copy_URL_Flat": {
+      "message": "Копировать URL"
+   },
+   "Cmd_Copy_Username_Flat": {
+      "message": "Копировать имя пользователя"
+   },
+   "Cmd_DeleteFolder_Confirm": {
+      "message": "Вы хотите удалить ваши данные RoboForm, находящиеся в папке %1?\n%2\n\nПосле удаления файлы невозможно восстановить."
+   },
+   "Cmd_DeleteFolder_OtherFiles": {
+      "message": "другие файлы"
+   },
+   "Cmd_Delete_Confirm": {
+      "message": "%1 - Вы уверены, что хотите удалить '%2'?"
+   },
+   "Cmd_Delete_Flat": {
+      "message": "Удалить"
+   },
+   "Cmd_Done_Flat": {
+      "message": "Готово"
+   },
+   "Cmd_Edit_Flat": {
+      "message": "Редактировать"
+   },
+   "Cmd_EmergencyAccess_Key": {
+      "message": "Экстренный доступ"
+   },
+   "Cmd_FillEmptyOnly_Key": {
+      "message": "Только Пустые поля"
+   },
+   "Cmd_FillForms_Flat": {
+      "message": "Заполнить"
+   },
+   "Cmd_FillGenPassword_Flat": {
+      "message": "Генерировать"
+   },
+   "Cmd_GoFill_Flat": {
+      "message": "Идти/Заполнить"
+   },
+   "Cmd_GotoNewTab_Flat": {
+      "message": "Идти в новой вкладке"
+   },
+   "Cmd_GotoSameTab_Flat": {
+      "message": "Идти в этой вкладке"
+   },
+   "Cmd_Goto_Flat": {
+      "message": "Идти"
+   },
+   "Cmd_GroupSettingsFlat": {
+      "message": "Настройки Группы"
+   },
+   "Cmd_Help_ContactSupport_Key": {
+      "message": "Связь с техподдержкой"
+   },
+   "Cmd_Help_FaqAll_Key": {
+      "message": "Все ЧАВО"
+   },
+   "Cmd_Help_Flat": {
+      "message": "Справка"
+   },
+   "Cmd_Help_ForgotPassword_Key": {
+      "message": "Забыли пароль?"
+   },
+   "Cmd_Help_HomePage_Key": {
+      "message": "Домашняя страница"
+   },
+   "Cmd_Help_Manual_Key": {
+      "message": "Руководство"
+   },
+   "Cmd_Help_ProblemStepsRecorder_Key": {
+      "message": "Пошаговая запись проблемы"
+   },
+   "Cmd_Later_Flat": {
+      "message": "Позднее"
+   },
+   "Cmd_LoginNewTab_Flat": {
+      "message": "Логин в новой вкладке"
+   },
+   "Cmd_LoginSameTab_Flat": {
+      "message": "Логин в этой вкладке"
+   },
+   "Cmd_Login_Flat": {
+      "message": "Логин"
+   },
+   "Cmd_Logins_Flat": {
+      "message": "Логины"
+   },
+   "Cmd_Logoff_Flat": {
+      "message": "Выйти"
+   },
+   "Cmd_NewFolder_Error": {
+      "message": "Ошибка при создании новой папки: %1"
+   },
+   "Cmd_NewFolder_Exist_Error": {
+      "message": "Папка '%1' уже существует"
+   },
+   "Cmd_NewFolder_Title": {
+      "message": "Новая папка"
+   },
+   "Cmd_NotNow_Flat": {
+      "message": "Не сейчас"
+   },
+   "Cmd_Ok_Flat": {
+      "message": "OK"
+   },
+   "Cmd_OpenDesktopEditor": {
+      "message": "Открыть десктопный Редактор"
+   },
+   "Cmd_Options_Flat": {
+      "message": "Параметры"
+   },
+   "Cmd_PasswordAuditRun_Key": {
+      "message": "Аудит Пароля"
+   },
+   "Cmd_Password_Generator_Flat": {
+      "message": "Генератор Паролей"
+   },
+   "Cmd_RejectAll_Flat": {
+      "message": "Отклонить все"
+   },
+   "Cmd_Reject_Key": {
+      "message": "Отклонить"
+   },
+   "Cmd_Rename_Error": {
+      "message": "Ошибка переименования %1 '%2':\n%3"
+   },
+   "Cmd_Rename_Flat": {
+      "message": "Переименовать"
+   },
+   "Cmd_Rename_Name_Prompt": {
+      "message": "Переименовать в:"
+   },
+   "Cmd_RenewalRewards_Flat": {
+      "message": "Награда за подписки"
+   },
+   "Cmd_Retry_Flat": {
+      "message": "Повторить"
+   },
+   "Cmd_RoboForm_Flat": {
+      "message": "RoboForm"
+   },
+   "Cmd_RunEditor_Flat": {
+      "message": "Редактор"
+   },
+   "Cmd_RunImport_Flat": {
+      "message": "Импорт"
+   },
+   "Cmd_Safenote_CopyClipboard_Flat": {
+      "message": "Копировать текст"
+   },
+   "Cmd_SaveForms_Flat": {
+      "message": "Сохранить"
+   },
+   "Cmd_SaveForms_Key": {
+      "message": "Сохранить"
+   },
+   "Cmd_SendFile_Key": {
+      "message": "Отправить..."
+   },
+   "Cmd_Settings_Flat": {
+      "message": "Настройки"
+   },
+   "Cmd_ShareExistingFolder_Key": {
+      "message": "Поделиться папкой"
+   },
+   "Cmd_SharedFileSettings_Key": {
+      "message": "Общий доступ..."
+   },
+   "Cmd_SharedFolderSettings_Key": {
+      "message": "Общий доступ..."
+   },
+   "Cmd_SharingCenter_Flat": {
+      "message": "Центр общего доступа"
+   },
+   "Cmd_Skip_Flat": {
+      "message": "Пропустить"
+   },
+   "Cmd_StartPage_Tip": {
+      "message": "Открытие стартовой страницы RoboForm"
+   },
+   "Cmd_Sync_RoboFormAccount_Key": {
+      "message": "Управление учетной записью RoboForm"
+   },
+   "Cmd_ToolBarSync": {
+      "message": "Синхронизация"
+   },
+   "Cmd_Unpin_Flat": {
+      "message": "Открепить"
+   },
+   "Cmd_Update_Flat": {
+      "message": "Изменить"
+   },
+   "Cmd_View_Flat": {
+      "message": "Просмотр"
+   },
+   "CompanyInvitationConfirmationMultiple_Title": {
+      "message": "Вы приглашены в несколько компаний. Обратите внимание, что вы можете присоединиться только к одной компании.\nПожалуйста, примите или отклоните приглашения ниже:"
+   },
+   "CompanyInvitationConfirmation_Title": {
+      "message": "Вы приглашены в компанию.\nПожалуйста, подтвердите или отклоните это приглашение:"
+   },
+   "CompanyInvitationConfirmation_Title2": {
+      "message": "предложено присоединить ваш аккаунт RoboForm Everywhere к аккаунту RoboForm для Бизнеса их компании."
+   },
+   "CompanyInvitationToConfirm_WithSender_Info": {
+      "message": "компания'%1'"
+   },
+   "CompromisedItemButton_Tooltip": {
+      "message": "Пароль этого логина может быть скомпрометирован! Нажмите, чтобы посмотреть подробности"
+   },
+   "ConfirmMasterPassword_Incorrect_Text": {
+      "message": "Пароль отличается"
+   },
+   "ContextMenuAndShortcuts_ClearFields_Acc": {
+      "message": "0"
+   },
+   "ContextMenuAndShortcuts_ClearFields_Text": {
+      "message": "Очистить поля"
+   },
+   "ContextMenuAndShortcuts_FillForms_Acc": {
+      "message": "ъ"
+   },
+   "ContextMenuAndShortcuts_FillForms_Text": {
+      "message": "Заполнить формы"
+   },
+   "ContextMenuAndShortcuts_FillSubmit_Acc3": {
+      "message": "я"
+   },
+   "ContextMenuAndShortcuts_FillSubmit_Text": {
+      "message": "Заполнить и отправить"
+   },
+   "ContextMenuAndShortcuts_IdentitiesEditor_Acc": {
+      "message": "б"
+   },
+   "ContextMenuAndShortcuts_IdentitiesEditor_Text": {
+      "message": "Редактор Персон"
+   },
+   "ContextMenuAndShortcuts_Identities_Acc2": {
+      "message": "т"
+   },
+   "ContextMenuAndShortcuts_Identities_Text": {
+      "message": "Персоны"
+   },
+   "ContextMenuAndShortcuts_Logins_Acc2": {
+      "message": "ч"
+   },
+   "ContextMenuAndShortcuts_Logins_Text": {
+      "message": "Логины"
+   },
+   "ContextMenuAndShortcuts_Logoff_Acc": {
+      "message": "в"
+   },
+   "ContextMenuAndShortcuts_Logoff_Text": {
+      "message": "Выйти"
+   },
+   "ContextMenuAndShortcuts_MatchingPasscard_Acc": {
+      "message": "п"
+   },
+   "ContextMenuAndShortcuts_MatchingPasscard_Text": {
+      "message": "Подходящие Пасскарты"
+   },
+   "ContextMenuAndShortcuts_MyIdentity_Acc": {
+      "message": "19"
+   },
+   "ContextMenuAndShortcuts_MyIdentity_Text": {
+      "message": "Моя Персона"
+   },
+   "ContextMenuAndShortcuts_Options_Acc": {
+      "message": "о"
+   },
+   "ContextMenuAndShortcuts_Options_Text": {
+      "message": "Опции RoboForm"
+   },
+   "ContextMenuAndShortcuts_PasscardsEditor_Acc": {
+      "message": "ю"
+   },
+   "ContextMenuAndShortcuts_PasscardsEditor_Text": {
+      "message": "Редактор Пасскарт"
+   },
+   "ContextMenuAndShortcuts_ResetFields_Acc": {
+      "message": "-"
+   },
+   "ContextMenuAndShortcuts_ResetFields_Text": {
+      "message": "Сбросить поля"
+   },
+   "ContextMenuAndShortcuts_RoboFormMenu_Acc2": {
+      "message": "м"
+   },
+   "ContextMenuAndShortcuts_RoboFormMenu_Text": {
+      "message": "Меню RoboForm"
+   },
+   "ContextMenuAndShortcuts_RoboFormToolbar_Acc3": {
+      "message": "у"
+   },
+   "ContextMenuAndShortcuts_RoboFormToolbar_Text": {
+      "message": "Показать тулбар RF"
+   },
+   "ContextMenuAndShortcuts_RunPassGen_Acc": {
+      "message": "г"
+   },
+   "ContextMenuAndShortcuts_RunPassGen_Text": {
+      "message": "Генератор паролей"
+   },
+   "ContextMenuAndShortcuts_RunTaskbar_Acc": {
+      "message": "а"
+   },
+   "ContextMenuAndShortcuts_RunTaskbar_Text": {
+      "message": "Иконка RF в таскбаре"
+   },
+   "ContextMenuAndShortcuts_SafenotesEditor_Acc": {
+      "message": "."
+   },
+   "ContextMenuAndShortcuts_SafenotesEditor_Text": {
+      "message": "Редактор Заметок"
+   },
+   "ContextMenuAndShortcuts_Safenotes_Acc": {
+      "message": "ы"
+   },
+   "ContextMenuAndShortcuts_Safenotes_Text": {
+      "message": "Заметки"
+   },
+   "ContextMenuAndShortcuts_SaveForms_Acc": {
+      "message": "х"
+   },
+   "ContextMenuAndShortcuts_SaveForms_Text": {
+      "message": "Сохранить формы"
+   },
+   "ContextMenuAndShortcuts_SearchBox_Acc": {
+      "message": "к"
+   },
+   "ContextMenuAndShortcuts_SearchBox_Text": {
+      "message": "Поле Поиска"
+   },
+   "ContextMenuAndShortcuts_SetFields_Acc": {
+      "message": "="
+   },
+   "ContextMenuAndShortcuts_SetFields_Text": {
+      "message": "Установить поля"
+   },
+   "Copyright": {
+      "message": ""
+   },
+   "CreateAccountConfirmPage_ForgetInfo_Text": {
+      "message": "Ваш Главный пароль RoboForm - это ключ для открытия  ваших данных. Если вы его забудете, ваши данные не смогут быть расшифрованы(даже нами) и вы не сможете их использовать."
+   },
+   "CreateAccountConfirmPage_ForgetTitle_Text": {
+      "message": "Не забудьте свой Главный пароль"
+   },
+   "CreateBlockingPass__WebExt_Confirm": {
+      "message": "Вы хотите запретить Автосохранение RoboForm \nна всех страницах этого сайта?\nДля разблокировки вы сможете нажать 'Сохранить',\nа затем нажать Разблокировать."
+   },
+   "DeleteBlockingPass__WebExt_Confirm": {
+      "message": "Вы хотите включить Автосохранение RoboForm \nна всех страницах этого сайта?"
+   },
+   "DeleteItemPage_Confirmation_Text": {
+      "message": "Вы хотите удалить '%1'?"
+   },
+   "DeleteSharedFolder_Permissions_Error": {
+      "message": "Недостаточно прав для удаления '%1'."
+   },
+   "DomainNotInLogin_Text": {
+      "message": "Домен сайта не совпадает со сравниваемым URL Логина."
+   },
+   "DomainNotInLogin_Text2": {
+      "message": "Вы хотите, чтобы RoboForm заполнил формы?"
+   },
+   "DomainNotInLogin_Title": {
+      "message": "Предупреждение RoboForm"
+   },
+   "DuplicateFields_Text1_2": {
+      "message": "RoboForm обнаружил повторяющиеся поля. Пожалуйста, подтвердите, что их действительно нужно заполнить:"
+   },
+   "DuplicateFields_Text2_2": {
+      "message": "\n\nЕсли вы хотите заполнить только часть полей формы, то выделите нужную часть формы и нажмите Заполнить. Будет заполнена только выделенная часть формы."
+   },
+   "DuplicateFields_Title": {
+      "message": "Заполнение дублируемых полей - RoboForm"
+   },
+   "DuplicatesDialog_ApplyChanges_Button": {
+      "message": "Принять"
+   },
+   "DuplicatesDialog_CancelDelete_Button": {
+      "message": "Не удалять"
+   },
+   "DuplicatesDialog_CancelRename_Button": {
+      "message": "Не переименовывать"
+   },
+   "DuplicatesDialog_Cancel_Button": {
+      "message": "Не принимать"
+   },
+   "DuplicatesDialog_DeleteMessageText": {
+      "message": "Вы удалили \"%1\". Вы хотите удалить перечисленные ниже идентичные файлы?"
+   },
+   "DuplicatesDialog_Delete_Button": {
+      "message": "Удалить"
+   },
+   "DuplicatesDialog_Delete_Text": {
+      "message": "удалить"
+   },
+   "DuplicatesDialog_MessageText": {
+      "message": "Вы обновили \"%1\". Вы хотите применить эти изменения к перечисленным ниже идентичным файлам? Вы также можете удалить ненужные копии."
+   },
+   "DuplicatesDialog_RenameMessageText": {
+      "message": "Вы переименовали \"%1\" в \"%2\". Вы хотите переименовать перечисленные ниже идентичные файлы? Вы также можете удалить ненужные копии."
+   },
+   "DuplicatesDialog_Rename_Button": {
+      "message": "Переименовать"
+   },
+   "DuplicatesDialog_Undo_Text": {
+      "message": "сохранить"
+   },
+   "DuplicatesDialog_WindowTitle": {
+      "message": "Обнаружены идентичные файлы RoboForm"
+   },
+   "Editor_Cmd_Selector_All_Flat": {
+      "message": "Все"
+   },
+   "Editor_Indicator_Show_AllIdentities": {
+      "message": "Показать все Персоны (%1)"
+   },
+   "Editor_Indicator_Show_NMatch": {
+      "message": "Показать все подходящие Логины (%1)"
+   },
+   "Editor_SharedFolderOrGroupExists_Error": {
+      "message": "Группа или папка с общим доступом с именем '%1' уже существует"
+   },
+   "Editor_SharedFolderTooLongName_Error": {
+      "message": "Имя слишком длинное. Допускается использовать максимум %1 символов в именах групп и папок с общим доступом"
+   },
+   "EmailEmpty_Error": {
+      "message": "Адрес электронной почты должен иметь длину как минимум %1 символов"
+   },
+   "EmailIncorrect_Error": {
+      "message": "Адрес электронной почты некорректен"
+   },
+   "EmailMaxLength_Error": {
+      "message": "Адрес электронной почты должен быть не длиннее %1 символов"
+   },
+   "EmergencyAccessContactConfirmationDescription_Text": {
+      "message": "Пользователь RoboForm пригласил вас стать контактным лицом для доступа в экстренных ситуациях. Пожалуйста, примите или отклоните предложение:"
+   },
+   "EmergencyAccessDataAccessConfirmationDescription_Text": {
+      "message": "Ваши Экстренные контакты запросили Экстренный доступ к данным вашего аккаунта RoboForm.\nЕсли вы не ответите на данный запрос за указанный период, доступ будет предоставлен автоматически."
+   },
+   "EmergencyAccess_Accept_Invitation_Question": {
+      "message": "Вы уверены, что хотите принять приглашение быть Экстренным контактом для \"%1\"?"
+   },
+   "EmergencyAccess_AccessRequestedDaysHours_Status": {
+      "message": "Запрошено. Данные станут доступны через %1 день(дней) %2 час(ов)"
+   },
+   "EmergencyAccess_AccessRequestedDays_Status": {
+      "message": "Запрошено. Данные станут доступны через %1 день(дней)"
+   },
+   "EmergencyAccess_AccessRequestedHours_Status": {
+      "message": "Запрошено. Данные станут доступны через %1 час(ов)"
+   },
+   "EmergencyAccess_CreationDate_Title": {
+      "message": "Дата создания"
+   },
+   "EmergencyAccess_DenyAccess_Button_Text": {
+      "message": "Отклонить"
+   },
+   "EmergencyAccess_DenyAccess_Text": {
+      "message": "Отказать в доступе"
+   },
+   "EmergencyAccess_EditContact_Title": {
+      "message": "Редактировать \"%1\""
+   },
+   "EmergencyAccess_Email_Is_Empty": {
+      "message": "Адрес электронной почты пуст"
+   },
+   "EmergencyAccess_GetData_Help_Text": {
+      "message": "Это элементы, к которым %1 предоставил вам экстренный доступ. Вы можете просмотреть или добавить их в свою учетную запись RoboForm. Если добавите, элементы будут находиться в папке Emergency Access.."
+   },
+   "EmergencyAccess_GetData_Request_Question": {
+      "message": "Вы уверены, что хотите получить данные от \"%1\"? Элементы будут находиться в папке Emergency Access."
+   },
+   "EmergencyAccess_GrantAccess_Text": {
+      "message": "Предоставить"
+   },
+   "EmergencyAccess_GrantAccess_Title": {
+      "message": "Предоставить доступ"
+   },
+   "EmergencyAccess_InviteAgain_Question": {
+      "message": "Вы уверены, что хотите снова пригласить пользователя \"%1\"?"
+   },
+   "EmergencyAccess_InviteContact_Text": {
+      "message": "Пригласить"
+   },
+   "EmergencyAccess_Loading_Title": {
+      "message": "Загрузка..."
+   },
+   "EmergencyAccess_NoAccess_Status": {
+      "message": "Нет доступа"
+   },
+   "EmergencyAccess_RejectAccess_Text": {
+      "message": "Отклонить"
+   },
+   "EmergencyAccess_Reject_Invitation_Question": {
+      "message": "Вы уверены, что хотите отклонить доступ к \"%1\"?"
+   },
+   "EmergencyAccess_Reject_Invitation_Text": {
+      "message": "Отказать в доступе"
+   },
+   "EmergencyAccess_Reject_Title": {
+      "message": "Отклонить Экстренный контакт"
+   },
+   "EmergencyAccess_RevokeAccess_Button_Text": {
+      "message": "Отказать в доступе"
+   },
+   "EmergencyAccess_Revoke_Question": {
+      "message": "Вы удаляете \"%1\" из ваших Экстренных контактов."
+   },
+   "EmergencyAccess_Revoke_Tip": {
+      "message": "Аннулировать Экстренный контакт"
+   },
+   "EmergencyAccess_Title": {
+      "message": "Экстренный доступ"
+   },
+   "EmergencyAccess_invitationUserNotFound_Question": {
+      "message": "Мы отправим электронное письмо получателю \"%1\" с приглашением стать вашим Экстренным контактом"
+   },
+   "FillDlg_FindFill_Title": {
+      "message": "Заполнение Форм - RoboForm"
+   },
+   "Filler_FillEmptyOnlyOnMessage": {
+      "message": "На этой странице нет пустых(не заполненных) полей и включен переключатель 'Заполнять только пустые поля'"
+   },
+   "Filler_FillTheSameValues": {
+      "message": "Все формы на этой странице уже заполнены"
+   },
+   "Filler_NoFormsFound": {
+      "message": "На этой странице нет форм"
+   },
+   "Filler_NoMatchingFields": {
+      "message": "Ни одно поле на этой странице (или ее выделенном фрагменте) не может быть заполнено из текущей пасскарты"
+   },
+   "FolderTree_NewItem": {
+      "message": "Новая папка"
+   },
+   "GenericConfirmDialog_Cancel": {
+      "message": "Отмена"
+   },
+   "GenericConfirmDialog_Ok": {
+      "message": "OК"
+   },
+   "GenericConfirmDialog_Title": {
+      "message": "Подтверждение"
+   },
+   "HomeFolder": {
+      "message": "Home"
+   },
+   "Identities_Cmd_Instance_AlreadyExists_Error": {
+      "message": "В группе уже есть вариант с таким именем"
+   },
+   "Identities_Cmd_Instance_NotExists_Error": {
+      "message": "В группе отсутствует указанный вариант"
+   },
+   "Identities_ConfirmDeleteInstance": {
+      "message": "Удалить '%1' из '%2'?"
+   },
+   "Identities_CustomFieldOverrideHeader": {
+      "message": "Настраиваемые поля могут привести к нарушению заполнения форм из стандартных полей RoboForm.\nУдалите эти поля из Вашей Персоны, чтобы RoboForm правильно заполнял формы значениями стандартных полей."
+   },
+   "Identities_CustomFieldOverride_1": {
+      "message": "'%1' перекрывает %2"
+   },
+   "Identities_InstanceNameInvalidCharacter": {
+      "message": "Имя Варианта может содержать только буквы, цифры и символы '_' и '-'"
+   },
+   "Identities_Instance_Main": {
+      "message": "Главная"
+   },
+   "Identity_ClickToView_Tip": {
+      "message": "Щелкните для просмотра Персоны"
+   },
+   "Import_AdditionalInformation_Note": {
+      "message": "Дополнительная информация:\n"
+   },
+   "Import_BackButton_Text": {
+      "message": "Назад"
+   },
+   "Import_Chrome_Browser_Text": {
+      "message": "Google Chrome"
+   },
+   "Import_Chrome_Instructions": {
+      "message": "Откройте Chrome и нажмите 3 вертикальные точки в правом верхнем углу. Выберите в меню пункт \"Настройки\".\nНажмите \"Пароли\" в разделе Автозаполнение. Справа от \"Сохраненные пароли\" нажмите три вертикальные точки. Нажмите \"Экспорт паролей...\".\nВ появившемся окне подтверждения экспорта нажмите голубую кнопку \"Экспорт паролей...\". В появившемся окне сохранения введите имя CSV-файла и выберите его расположение."
+   },
+   "Import_CustomFields_Note": {
+      "message": "Настраиваемые поля:"
+   },
+   "Import_Dialog_Title1": {
+      "message": "Импорт паролей из"
+   },
+   "Import_Dialog_Title2": {
+      "message": "Импорт паролей из %1"
+   },
+   "Import_Edge_Browser_Text": {
+      "message": "Microsoft Edge"
+   },
+   "Import_Edge_Instructions": {
+      "message": "Откройте Edge и нажмите 3 точки в правом верхнем углу. Выберите в меню пункт \"Настройки\"\nНажмите \"Пароли\" в разделе Профили. Нажмите три точки справа от \"Сохраненные пароли\". Выберите \"Экспорт паролей\".\nВ появившемся окне подтверждения экспорта нажмите голубую кнопку \"Экспорт паролей...\". В следующем окне введите пароль пользователя и нажмите кнопку \"OK\". В появившемся окне сохранения введите имя CSV-файла и выберите его расположение."
+   },
+   "Import_Firefox_Browser_Text": {
+      "message": "Mozilla Firefox"
+   },
+   "Import_Firefox_Instructions": {
+      "message": "Откройте Firefox и нажмите 3 горизонтальные линии в правом верхнем углу. Выберите пункт меню \"Пароли\".\nНажмите три точки в правом верхнем углу страницы Логины и Пароли. Выберите в меню \"Экспорт Логинов...\". В появившемся окне подтверждения экспорта нажмите красную кнопку \"Экспорт...\".\nВ появившемся окне сохранения введите имя CSV-файла и выберите его расположение."
+   },
+   "Import_From1Password_Note": {
+      "message": "Импортировано из 1Password."
+   },
+   "Import_FromBitwarden_Note": {
+      "message": "Импортировано из Bitwarden."
+   },
+   "Import_FromCSVFile_Note": {
+      "message": "Импортировано из CSV-файла."
+   },
+   "Import_FromChrome_Note": {
+      "message": "Импортировано из Google Chrome."
+   },
+   "Import_FromDashlane_Note": {
+      "message": "Импортировано из Dashlane."
+   },
+   "Import_FromEdge_Note": {
+      "message": "Импортировано из Microsoft Edge."
+   },
+   "Import_FromEnpass_Note": {
+      "message": "Импортировано из Enpass."
+   },
+   "Import_FromFirefox_Note": {
+      "message": "Импортировано из Firefox."
+   },
+   "Import_FromKeeper_Note": {
+      "message": "Импортировано из Keeper."
+   },
+   "Import_FromLastPass_Note": {
+      "message": "Импортировано из LastPass."
+   },
+   "Import_FromNordPass_Note": {
+      "message": "Импортировано из NordPass."
+   },
+   "Import_FromSafari_Note": {
+      "message": "Импортировано из Safari."
+   },
+   "Import_FromTrueKey_Note": {
+      "message": "Импортировано из TrueKey."
+   },
+   "Import_ImportFromFileButton_Text": {
+      "message": "Импорт из файла"
+   },
+   "Import_Last_Instruction": {
+      "message": "После этого нажмите «Импортировать из файла» ниже."
+   },
+   "Import_Opera_Browser_Text": {
+      "message": "Opera"
+   },
+   "Import_Opera_Instructions": {
+      "message": "Откройте Opera и нажмите значок Opera в левом верхнем углу.  Выберите в меню пункт \"Настройки\".\nНажмите \"Пароли\" в разделе Автозаполнение. Справа от \"Сохраненные пароли\" нажмите три вертикальные точки. Нажмите \"Экспорт паролей...\".\nВ появившемся окне подтверждения экспорта нажмите голубую кнопку \"Экспорт паролей...\". В появившемся окне сохранения введите имя CSV-файла и выберите его расположение."
+   },
+   "Import_ReportAddedGeneric_Text": {
+      "message": "%1 %2 добавлено\n"
+   },
+   "Import_ReportError_Text": {
+      "message": "Произошла ошибка"
+   },
+   "Import_ReportExistingGeneric_Text": {
+      "message": "%1 %2 уже есть в RoboForm\n"
+   },
+   "Import_SelectedFolderIsReadOnly_Error": {
+      "message": "Импорт в папку, предназначенную только для чтения, невозможен."
+   },
+   "Import_Succeeded_Title": {
+      "message": "Импорт успешно завершен"
+   },
+   "Install_AccountCreated_Text": {
+      "message": "Ваша учетная запись RoboForm успешно создана"
+   },
+   "Install_ConfirmRoboFormMasterPassword2": {
+      "message": "Подтвердите пароль:"
+   },
+   "Install_Email": {
+      "message": "Электронная почта:"
+   },
+   "Install_HidePassword_Tip": {
+      "message": "Скрыть пароль"
+   },
+   "Install_MemorizePassword_Prompt2": {
+      "message": "Не забудьте свой Главный пароль. Он является ключом, открывающим ваши данные. Если вы его забудете, то не сможете его восстановить и потеряете доступ к вашим данным. "
+   },
+   "Install_Next": {
+      "message": "Дальше"
+   },
+   "Install_No": {
+      "message": "Нет"
+   },
+   "Install_PasswordTooShort": {
+      "message": "Длина пароля должна быть не менее шести символов."
+   },
+   "Install_RoboFormMasterPassword": {
+      "message": "Главный Пароль:"
+   },
+   "Install_ShowPassword_Tip": {
+      "message": "Показать пароль как текст"
+   },
+   "Install_WarningSheet_Title": {
+      "message": "Установка RoboForm - предупреждение"
+   },
+   "Install_Yes": {
+      "message": "Да"
+   },
+   "InterfaceLanguage_Warning": {
+      "message": "Вы хотите сменить язык пользовательского интерфейса с '%1' на '%2'?\nЕсли Вы не знаете выбранного языка, возможны сложности с возвратом на исходный язык.\nТакже необходимо перезапустить браузеры и иконку RoboForm в панели задач, чтобы изменения вступили в силу."
+   },
+   "Item_ClickToFill_Tip": {
+      "message": "Щелкните, чтобы заполнить"
+   },
+   "Item_ClickToLogin_Tip": {
+      "message": "Щелкните для входа"
+   },
+   "ItemsListPage_More_Button_Text": {
+      "message": "Ещё..."
+   },
+   "ItemsListPage_RecentlyUsed_Title": {
+      "message": "Недавние"
+   },
+   "ItemsListPage_SearchIdentities_Placeholder": {
+      "message": "Поиск персон"
+   },
+   "ItemsListPage_SearchMatchingLogins_Placeholder": {
+      "message": "Поиск подходящих логинов"
+   },
+   "LicenseExceededWarning_EnterpriseExceeded_Title": {
+      "message": "Подписка RoboForm для Бизнеса истекла"
+   },
+   "Loading_Status_Text": {
+      "message": "Загрузка..."
+   },
+   "LoginTip_CloseAfterSubmit_Text": {
+      "message": "Закрыть после отправки"
+   },
+   "Login_OneTimeCode_Copied_Text": {
+      "message": "Проверочный\tкод скопирован в буфер обмена"
+   },
+   "Login_OneTimeCode_Copy": {
+      "message": "Копировать одноразовый код"
+   },
+   "Login_OneTimeCode_Copy_Tip": {
+      "message": "Щелкните для копирования одноразового кода"
+   },
+   "Login_OneTimeCode_Text": {
+      "message": "Одноразовый код"
+   },
+   "MainPage_AddNewLogin_Text": {
+      "message": "Добавить Новый Логин"
+   },
+   "MainPage_AllItems_Header_Text": {
+      "message": "A-Я"
+   },
+   "MainPage_CreateFirstBookmarkInstructions_Text": {
+      "message": "Нажмите кнопку %1 ниже создания Закладки."
+   },
+   "MainPage_CreateFirstSafenoteInstructions_Text": {
+      "message": "Нажмите кнопку %1 ниже для создания Заметки и добавьте в неё конфиденциальный текст, такой как ПИН-коды, коды для сейфа и другую секретную информацию."
+   },
+   "MainPage_CreateLoginInstruction_LearnMore_Link": {
+      "message": "Больше информации о создании Логинов здесь"
+   },
+   "MainPage_CreateLoginInstruction_Option1_Text": {
+      "message": "При входе в ваши онлайн аккаунты RoboForm будет предлагать сохранить ваши пароли."
+   },
+   "MainPage_CreateLoginInstruction_Option2_Text": {
+      "message": "Нажмите кнопку %1, выберите веб-сайт и введите свои учетные данные."
+   },
+   "MainPage_CreateLoginInstruction_Option3_Import_Text": {
+      "message": "Импортировать"
+   },
+   "MainPage_CreateLoginInstruction_Option3_Text": {
+      "message": "%1 ранее сохранённые пароли."
+   },
+   "MainPage_CreateLoginInstruction_Top_Text": {
+      "message": "Есть три пути создания Логинов:"
+   },
+   "MainPage_CreateNewButton_Bookmark_Tip": {
+      "message": "Создать новую Закладку"
+   },
+   "MainPage_CreateNewButton_File_Tip": {
+      "message": "Создать новый файл RoboForm"
+   },
+   "MainPage_CreateNewButton_Identity_Tip": {
+      "message": "Создать новую Персону"
+   },
+   "MainPage_CreateNewButton_Login_Tip": {
+      "message": "Создать новый Логин"
+   },
+   "MainPage_CreateNewButton_Safenote_Tip": {
+      "message": "Создать новую Заметку"
+   },
+   "MainPage_CreateNew_Text": {
+      "message": "Создать новый"
+   },
+   "MainPage_CreatePinItemInstruction_Text": {
+      "message": "Создание сопственного списка закрепленных элементов, выбрав команду 'Добавить в закрепленные' для любого элемента RoboForm. Закрепленные элелементы сохраняют свою позицию."
+   },
+   "MainPage_Create_Identity_Text": {
+      "message": "Создать Персону"
+   },
+   "MainPage_Create_Identity_Tip": {
+      "message": "Создайте свою первую Персону"
+   },
+   "MainPage_EnableAutoSaveOnDomain_Text": {
+      "message": "Разрешить Автосохранение для этого домена"
+   },
+   "MainPage_EnableInpageIconsOnDomain_Text": {
+      "message": "Разрешить встроенные значки для этого домена"
+   },
+   "MainPage_EnjoyUsing": {
+      "message": "Понравилось использовать %1 ?"
+   },
+   "MainPage_FillIdentitiesTabAll_Search_Placeholder": {
+      "message": "Поиск всех Персон"
+   },
+   "MainPage_FillIdentitiesTabMatch_Search_Placeholder": {
+      "message": "Поиск подходящих Персон"
+   },
+   "MainPage_FillIdentitiesTab_AllIdentities_Button_Text": {
+      "message": "Все"
+   },
+   "MainPage_FillIdentitiesTab_CreateFirst_Text": {
+      "message": "Нажмите кнопку %1 ниже для добавления в Персону ваших персональных данных, таких как имя, адрес, платежные реквизиты. RoboForm будет предлагать заполнить этими данными платежные или регистрационные формы."
+   },
+   "MainPage_FillIdentitiesTab_EmptyMatch_Text": {
+      "message": "В ваших Персонах нет данных для заполнения полей на текущей странице. Дополните данные в имеющейся Персоне или создайте новую."
+   },
+   "MainPage_FillIdentitiesTab_IdentityView_CopyDrag_Tip": {
+      "message": "Нажмите, чтобы скопировать или перетащить"
+   },
+   "MainPage_FillIdentitiesTab_IdentityView_Copy_Tip": {
+      "message": "Нажмите для копирования"
+   },
+   "MainPage_FillIdentitiesTab_IdentityView_FillBtn_Tip": {
+      "message": "Заполнить из персоны '%1'"
+   },
+   "MainPage_FillIdentitiesTab_IdentityView_Limited_Top_Text": {
+      "message": "Заполнить из этой Персоны"
+   },
+   "MainPage_FillIdentitiesTab_IdentityView_Top_Text": {
+      "message": "Заполните поля из этой Персоны, перетащите или скопируйте данные"
+   },
+   "MainPage_FillIdentitiesTab_MatchingIdentities_Button_Text": {
+      "message": "Подходящие"
+   },
+   "MainPage_FillIdentities_Button_Text": {
+      "message": "Персоны"
+   },
+   "MainPage_FillLoginsTabAll_Search_Placeholder": {
+      "message": "Поиск всех Логинов"
+   },
+   "MainPage_FillLoginsTabDomain_Search_Placeholder": {
+      "message": "Поиск Логинов для домена"
+   },
+   "MainPage_FillLoginsTab_AllLogins_Button_Text": {
+      "message": "Все"
+   },
+   "MainPage_FillLoginsTab_MatchingLogins_Button_Text": {
+      "message": "Подходящие Логины"
+   },
+   "MainPage_FillLoginsTab_NoLoginsForDomain_Text": {
+      "message": "Для текущей страницы нет сохраненных Логинов"
+   },
+   "MainPage_FillLoginsTab_NoLoginsForPage_Text": {
+      "message": "На этой странице нет полей для заполнения. Перейдите на страницу входа вебсайта или переключитесь на категорию подходящих Логинов 'Тот же домен'."
+   },
+   "MainPage_FillLoginsTab_SameDomain_Button_Text": {
+      "message": "Тот же домен"
+   },
+   "MainPage_FillLoginsTab_Search_GeneralResults": {
+      "message": "Общие результаты поиска:"
+   },
+   "MainPage_FillLoginsTab_Search_NoMatchingLogins": {
+      "message": "Поиск не дал результатов в Подходящих Логинах."
+   },
+   "MainPage_FillLoginsTab_Search_NoSameDomainLogins": {
+      "message": "Поиск не дал результатов в Логинах для домена."
+   },
+   "MainPage_FillLoginsTab_Search_Placeholder": {
+      "message": "Поиск подходящих Логинов"
+   },
+   "MainPage_FillLogins_Button_Text": {
+      "message": "Подходящие"
+   },
+   "MainPage_FillLogins_Button_Tip": {
+      "message": "Список подходящих для заполнения Логинов"
+   },
+   "MainPage_Items_Button_All_Tip": {
+      "message": "Все Ваши RoboForm Элементы"
+   },
+   "MainPage_Items_Button_Bookmarks_Tip": {
+      "message": "Ваши RoboForm Закладки"
+   },
+   "MainPage_Items_Button_Identities_Tip": {
+      "message": "Ваши RoboForm Персоны"
+   },
+   "MainPage_Items_Button_Logins_Tip": {
+      "message": "Ваши RoboForm Логины"
+   },
+   "MainPage_Items_Button_Pinned_Tip": {
+      "message": "Ваши Закрепленные Элементы"
+   },
+   "MainPage_Items_Button_Safenotes_Tip": {
+      "message": "Ваши RoboForm Заметки"
+   },
+   "MainPage_LoginsTab_Search_Placeholder": {
+      "message": "Поиск в RoboForm"
+   },
+   "MainPage_MatchingLogins_Header_Text": {
+      "message": "Подходящие Логины"
+   },
+   "MainPage_OtherLogins_Header_Text": {
+      "message": "Другие Логины"
+   },
+   "MainPage_Pinned_Header_Text": {
+      "message": "Закрепленные"
+   },
+   "MainPage_PleaseRateUs": {
+      "message": "Пожалуйста, оцените нас"
+   },
+   "MainPage_Popular_Header_Text": {
+      "message": "Популярные"
+   },
+   "MainPage_RateUs_Btn_Text": {
+      "message": "Оценить %1"
+   },
+   "MainPage_Recent_Header_Text": {
+      "message": "Недавние"
+   },
+   "MainPage_RemindMeLater_Btn_Text": {
+      "message": "Напомнить позднее"
+   },
+   "MainPage_SaveButton_SaveBookmark_Tip": {
+      "message": "Сохранить текущую страницу как Закладку"
+   },
+   "MainPage_SaveButton_SaveForms_Tip": {
+      "message": "Сохранить формы для текущей страницы"
+   },
+   "MainPage_Settings_Button_Tip": {
+      "message": "Настройки и инструменты RoboForm"
+   },
+   "MainPage_ShowAll_Bookmarks_Text": {
+      "message": "Все Закладки"
+   },
+   "MainPage_ShowAll_Header_Text": {
+      "message": "Все"
+   },
+   "MainPage_ShowAll_Identities_Text": {
+      "message": "Все Персоны"
+   },
+   "MainPage_ShowAll_Logins_Text": {
+      "message": "Все Логины"
+   },
+   "MainPage_ShowAll_NativeMenu_Tip": {
+      "message": "Нажмите для открытия меню %1"
+   },
+   "MainPage_ShowAll_Safenotes_Text": {
+      "message": "Все Заметки"
+   },
+   "MainPage_Start_Button_Text": {
+      "message": "Старт"
+   },
+   "MainPage_ViewAllIdentities_Tip": {
+      "message": "Просмотр всех Персон"
+   },
+   "MainPage_WouldYouLikeReportAnIssue": {
+      "message": "Вы хотите сообщить о проблеме?"
+   },
+   "MasterPass_DoNotMatch_Status": {
+      "message": "Пароли не совпадают"
+   },
+   "MasterPass_Expired": {
+      "message": "Пришло время изменить Главный пароль RoboForm"
+   },
+   "MasterPass_New_BlanksOnly_Error": {
+      "message": "Главный Пароль не может состоять только из пробелов"
+   },
+   "MasterPass_New_DigitChars_Error": {
+      "message": "Минимальное количество цифр в пароле должно быть %1"
+   },
+   "MasterPass_New_Length_Error": {
+      "message": "Длина Главного Пароля должна быть от %1 до %2 символов"
+   },
+   "MasterPass_New_LowerCaseChars_Error": {
+      "message": "Минимальное количество символов нижнего регистра в пароле должно быть %1"
+   },
+   "MasterPass_New_NonNumChars_Error": {
+      "message": "Минимальное количество не цифровых символов в пароле должно быть %1"
+   },
+   "MasterPass_New_TheSameAsPrevious_Error": {
+      "message": "Новый Главный Пароль должен отличаться от текущего."
+   },
+   "MasterPass_New_UpperCaseChars_Error": {
+      "message": "Минимальное количество символов верхнего регистра в пароле должно быть %1"
+   },
+   "MasterPass_Prompt_TypeNew": {
+      "message": "Новый Главный Пароль:"
+   },
+   "MasterPass_Prompt_TypeOld": {
+      "message": "Старый Главный Пароль:"
+   },
+   "MasterPassword_Error2": {
+      "message": "Вы ввели неправильный пароль. Пожалуйста, введите свой Главный Пароль снова."
+   },
+   "MasterPwdEnterDlg_CacheUntilLogoff": {
+      "message": "Использовать этот пароль до выхода"
+   },
+   "MasterPwdEnterDlg_CreatePwd_Text": {
+      "message": "Для защиты ваших данных вы должны установить Главный пароль"
+   },
+   "MasterPwdEnterDlg_Limit_Text": {
+      "message": "Пароль должен иметь длину от 8 до 79 символов"
+   },
+   "MasterPwdEnterDlg_Text3": {
+      "message": "Этот элемент защищен паролем.\nПожалуйста, введите ваш Главный пароль \nдля его использования."
+   },
+   "NameInvalidCharacter_Error2": {
+      "message": "Имя не может быть пустым или содержать символы \\ / : * ? \" \u003C > |"
+   },
+   "NewGroup_NoPermissions_Error": {
+      "message": "У вас нет прав для создания группы. Только администратор компании может создавать группы."
+   },
+   "NewSharedFolder_Title": {
+      "message": "Имя:"
+   },
+   "No": {
+      "message": "Нет"
+   },
+   "Notification_Copied_ToClipboard_Text": {
+      "message": "Скопировано в буфер обмена"
+   },
+   "Notification_File_Deleted_Text": {
+      "message": "Файл удален: %1"
+   },
+   "Notification_Folder_Deleted_Text": {
+      "message": "Папка удалена: %1"
+   },
+   "Notification_ItemType_Pinned_Text": {
+      "message": "%1 добавлены в Закрепленные"
+   },
+   "Notification_ItemType_UnPinned_Text": {
+      "message": "%1 удалены из Закрепленных"
+   },
+   "Notification_Item_Created_Text": {
+      "message": "%1 была создана"
+   },
+   "Notification_Item_Renamed_Text": {
+      "message": "%1 переименован в %2"
+   },
+   "Notification_Password_Copied_Text": {
+      "message": "Пароль скопирован в буфер обмена"
+   },
+   "Notification_Password_Filled_Text": {
+      "message": "Новый пароль был заполнен"
+   },
+   "Notification_URL_Copied_Text": {
+      "message": "URL скопирован в буфер обмена"
+   },
+   "Notification_Username_Copied_Text": {
+      "message": "Имя пользователя скопировано в буфер обмена"
+   },
+   "OTPPage_EnrollCheck_Text": {
+      "message": "Запомнить этот браузер"
+   },
+   "OTPPage_Input_Placeholder": {
+      "message": "Введите одноразовый пароль"
+   },
+   "OpenStartpageOnEmptyTabs_Text2": {
+      "message": "Нажатие кнопки расширения открывает Стартовую Страницу на пустой вкладке"
+   },
+   "OpenStartpageOnEmptyTabs_Tip": {
+      "message": "Если пользователь нажимает кнопку расширения RoboForm, находясь на пустой вкладке браузера, то будет открываться Стартовая страница RoboForm"
+   },
+   "Options_Account_Title": {
+      "message": "Аккаунт"
+   },
+   "Options_Adapter_Chrome_Text": {
+      "message": "Google Chrome"
+   },
+   "Options_Adapter_ChromiumBased_Text": {
+      "message": "Chromium и основанные на Chromium браузеры"
+   },
+   "Options_Adapter_Edge_Text": {
+      "message": "Расширение для Microsoft Edge"
+   },
+   "Options_Adapter_FirefoxBased_Text": {
+      "message": "Браузеры, основанные на Firefox"
+   },
+   "Options_Adapter_Firefox_Text2": {
+      "message": "Расширение Mozilla Firefox"
+   },
+   "Options_Adapter_Install_Text": {
+      "message": "Установить"
+   },
+   "Options_Adapter_Opera_Text": {
+      "message": "Opera"
+   },
+   "Options_Advanced_Title": {
+      "message": "Дополнительно"
+   },
+   "Options_AuthMethod_AskOnNewBrowserSession": {
+      "message": "Запрашивать Главный пароль в новой сессии браузера"
+   },
+   "Options_AuthMethod_AskOnNewBrowserSession_Tip": {
+      "message": "Главный Пароль будет запрошен после запуска новой сессии браузера"
+   },
+   "Options_AuthMethod_Biometrics_InstallDesktopApp_Link": {
+      "message": "приложения RoboForm для десктопов"
+   },
+   "Options_AuthMethod_Biometrics_InstallDesktopApp_Text": {
+      "message": "%1. Это потребует установки "
+   },
+   "Options_AuthMethod_EnterMasterPassword_Prompt": {
+      "message": "Введите Главный пароль для изменения метода авторизации на %1"
+   },
+   "Options_AuthMethod_Fingerprint": {
+      "message": "Отпечаток пальца (WBF)"
+   },
+   "Options_AuthMethod_Fingerprint_Tip": {
+      "message": "Использовать отпечаток пальца на устройстве с WBF вместо ввода Главного пароля. Главный пароль может потребоваться для входа, поэтому вы должны его знать."
+   },
+   "Options_AuthMethod_MasterPasswordOnly": {
+      "message": "Всегда запрашивать Главный пароль"
+   },
+   "Options_AuthMethod_MasterPasswordOnly_Tip": {
+      "message": "Вы можете войти только введя ваш Главный пароль."
+   },
+   "Options_AuthMethod_MasterPasswordOnly_Tip2": {
+      "message": "Главный Пароль будет запрошен после установленного периода неактивности, после запуска новой сессии браузера, после каждой разблокировки компьютера или его запуска."
+   },
+   "Options_AuthMethod_OldNativeRF_Warning": {
+      "message": "Эта настройка не может быть изменена здесь. Нажмите для открытия настроек десктопного RoboForm"
+   },
+   "Options_AuthMethod_OpenNativeOptions_ButtonText": {
+      "message": "Управление методами авторизации"
+   },
+   "Options_AuthMethod_Title": {
+      "message": "Метод авторизации"
+   },
+   "Options_AuthMethod_UseTouchID": {
+      "message": "Использовать Touch ID"
+   },
+   "Options_AuthMethod_UseWatch": {
+      "message": "Использовать Apple Watch"
+   },
+   "Options_AuthMethod_WindowsHello": {
+      "message": "Windows Hello"
+   },
+   "Options_AuthMethod_WindowsHello2": {
+      "message": "Использовать Windows Hello"
+   },
+   "Options_AuthMethod_WindowsHello_Tip": {
+      "message": "Использовать Windows Hello вместо ввода Главного пароля. Главный пароль может потребоваться для входа, поэтому вы должны его знать."
+   },
+   "Options_AutoFillBoth_Text2": {
+      "message": "Показывать Логины и Персоны"
+   },
+   "Options_AutoFillBoth_Tip2": {
+      "message": "Предлагать Автозаполнение из Логинов и Персон"
+   },
+   "Options_AutoFillIdentities_Text": {
+      "message": "Показывать только Логины"
+   },
+   "Options_AutoFillIdentities_Tip": {
+      "message": "Предлагать Автозаполнение только из Персон"
+   },
+   "Options_AutoFillIfPass_Text2": {
+      "message": "Автозаполнение из Логинов только на страницах с паролями"
+   },
+   "Options_AutoFillIfPass_Tip2": {
+      "message": "При включении Автозаполнение из подходящих Логинов будет происходить только на страницах, содержащих поле ввода пароля. При выключении Автозаполнение из подходящих Логинов будет происходить на страницах, даже не содержащих поле ввода пароля."
+   },
+   "Options_AutoFillLogins_Text": {
+      "message": "Показывать только Логины"
+   },
+   "Options_AutoFillLogins_Tip": {
+      "message": "Предлагать Автозаполнение только из Логинов"
+   },
+   "Options_AutoFillThreshold_Text2": {
+      "message": "Количество полей для предложения Автозаполнения из Персон"
+   },
+   "Options_AutoFillThreshold_Tip": {
+      "message": "Количество полей на странице, при котором появляется диалог Автозаполнения из Персоны. При меньшем количестве полей диалог Автозаполнения появляться не будет."
+   },
+   "Options_AutoFill_DontOffer_Text": {
+      "message": "Не предлагать Автозаполнение"
+   },
+   "Options_AutoFill_FromContacts_Text": {
+      "message": "Предлагать Автозаполнение из Контактов"
+   },
+   "Options_AutoFill_FromContacts_Tip2": {
+      "message": "По умолчанию будет предлагаться АвтоЗаполнение только из Персон. Эта опция позволит делать это и из Контактов тоже"
+   },
+   "Options_AutoFill_OfferInOldBrowsers_Text": {
+      "message": "Предлагать Автозаполнение в Internet Explorer"
+   },
+   "Options_AutoFill_OfferInOldBrowsers_Tip2": {
+      "message": "Диалог АвтоЗаполнения, предлагающий заполнение из подходящих Логинов и Персон, будет показываться в Internet Explorer"
+   },
+   "Options_AutoFill_Offer_Text": {
+      "message": "Предлагать Автозаполнение"
+   },
+   "Options_AutoFill_Offer_Tip": {
+      "message": "Когда RoboForm определяет форму, которая может быть заполнена из соответствующих Логинов или Персон, предлагать Автозаполнение из подходящих Логинов или Персон"
+   },
+   "Options_AutoFill_Text": {
+      "message": "АвтоЗаполнение"
+   },
+   "Options_AutoFill_Tip": {
+      "message": "Выберите как RoboForm должен предлагать заполнение онлайн-форм из сохраненных Логинов и Персон"
+   },
+   "Options_AutoFill_Title": {
+      "message": "Автозаполнение"
+   },
+   "Options_AutoFill_WithoutAsking_Text1": {
+      "message": "Заполнение без подтверждения"
+   },
+   "Options_AutoFill_WithoutAsking_Text2": {
+      "message": "(если только один вариант)"
+   },
+   "Options_AutoFill_WithoutAsking_Tip": {
+      "message": "Заполнять формы из Логина или Персоны, которые точно соответствуют странице, без показа Автозаполнения. Однако, если есть несколько соответствующих странице Логинов, показывать Автозаполнение."
+   },
+   "Options_AutoForgetTime_Text": {
+      "message": "Забыть пароли через столько минут"
+   },
+   "Options_AutoForgetTime_Tip2": {
+      "message": "RoboForm автоматически совершит выход из текущей сессии после указанного количества минут"
+   },
+   "Options_AutoRenewStatus_BillingAmount_Text": {
+      "message": "Сумма: %1"
+   },
+   "Options_AutoRenewStatus_BillingDate_Text": {
+      "message": "Дата покупки: %1"
+   },
+   "Options_AutoRenewStatus_Failed_Text": {
+      "message": "ОШИБКА"
+   },
+   "Options_AutoRenewStatus_Off_Text": {
+      "message": "ВЫКЛ"
+   },
+   "Options_AutoRenewStatus_On_Text": {
+      "message": "ВКЛ"
+   },
+   "Options_AutoRenew_Text": {
+      "message": "Статус атообновления"
+   },
+   "Options_AutoRenew_TurnOff_Button_Text": {
+      "message": "ОТКЛЮЧИТЬ автообновление"
+   },
+   "Options_AutoRenew_TurnOn_Button_Text": {
+      "message": "ВКЛЮЧИТЬ автообновление"
+   },
+   "Options_AutoSave_AltClickEnable_Text2": {
+      "message": "Включить горячие клавиши: ALT+щелчок на кнопке входа запускает АвтоСохранение"
+   },
+   "Options_AutoSave_ShiftEnterEnable_Text2": {
+      "message": "Включить горячие клавиши: SHIFT+ENTER в текстовом поле запускает АвтоСохранение"
+   },
+   "Options_AutoSave_Text": {
+      "message": "АвтоСохранение"
+   },
+   "Options_AutoSave_Tip": {
+      "message": "Выберите как RoboForm должен сохранять новые обнаруженные учетнве данные"
+   },
+   "Options_AutoSave_Title": {
+      "message": "АвтоСохранение"
+   },
+   "Options_AutoSave_WebForms_No_Text": {
+      "message": "Не предлагать Автосохранение"
+   },
+   "Options_AutoSave_WebForms_No_Tip": {
+      "message": "Когда вы отправляете заполненную форму, RoboForm не будет ее сохранять"
+   },
+   "Options_AutoSave_WebForms_WithConfirmation_Text1": {
+      "message": "Предлагать АвтоСохранение"
+   },
+   "Options_AutoSave_WebForms_WithConfirmation_Text2": {
+      "message": "(требуется подтверждение)"
+   },
+   "Options_AutoSave_WebForms_WithConfirmation_Tip": {
+      "message": "Когда вы отправляете заполненную форму, RoboForm предложит ее сохранить"
+   },
+   "Options_AutoSave_WebForms_WitoutAsking_Text": {
+      "message": "Автосохранение без подтверждения"
+   },
+   "Options_AutoSave_WebForms_WitoutAsking_Tip": {
+      "message": "Когда вы отправляете заполненную форму, RoboForm сохранит ее автоматически"
+   },
+   "Options_BackupRestoreFrame_Text": {
+      "message": "Резервное копирование и восстановление"
+   },
+   "Options_Billing_Title": {
+      "message": "Оплата"
+   },
+   "Options_Browsers_Title": {
+      "message": "Браузеры"
+   },
+   "Options_DisableShortcuts_Text": {
+      "message": "Разрешить Быстрый вызов клавишами в браузере"
+   },
+   "Options_DisableShortcuts_Tip": {
+      "message": "Запретить Быстрый вызов команд RoboForm в браузере.\nСочетания клавиш быстрого вызова RoboForm:\nALT+R - Тулбар RoboForm\nALT+S - Установить фокус в поле поиска RoboForm\nALT+0 - Сбросить Поля\nALT+G - Генератор паролей\nALT+n - показать минидиалог n-ой Персоны \nALT+P показать Подходящие Пасскарты"
+   },
+   "Options_Domains_Equivalences_BadDomains_Error": {
+      "message": "Здесь могут быть определены только доменные имена. Они могут содержать буквы, цифры, сиволы '-' и '.'  Доменные имена должны начинаться и заканчиваться буквой или цифрой. Неправильные Домены:\n'%1'"
+   },
+   "Options_Domains_Equivalences_Custom_Tip": {
+      "message": "Список настраиваемых эквивалентов доменных имен. Эквивалентные домены записываются в одну строку и разделяются '='. 'http' и 'www' не указываются.\nДоменные эквиваленты транзитивны, например при записи:\naaa.com=bbb.com=ccc.com\nddd.com=bbb.com\nddd.com=eee\nвсе эти домены будут эквивалентны."
+   },
+   "Options_Domains_Equivalences_Frame": {
+      "message": "Эквиваленты доменных имен"
+   },
+   "Options_Domains_FillingFromLoginChecksDomain_Text2": {
+      "message": "Предупреждать меня перед заполнением данных из Логина на несоответствующем домене"
+   },
+   "Options_Domains_FillingFromLoginChecksDomain_Tip": {
+      "message": "RoboForm предупредит перед заполнением данных из Логина на несоответствующем Логину домене"
+   },
+   "Options_Domains_Title": {
+      "message": "Домены"
+   },
+   "Options_EnableNativeIntegration_Text": {
+      "message": "Включить интеграцию с установленным приложением RoboForm"
+   },
+   "Options_Extended_ActiveServer_Text": {
+      "message": "Активный сервер для работы: "
+   },
+   "Options_General_Title": {
+      "message": "Общие"
+   },
+   "Options_Import_FolderSuffix_Text": {
+      "message": "Импортировано"
+   },
+   "Options_ImportsButton_Text2": {
+      "message": "Импорт"
+   },
+   "Options_IncorrectValue_AuxKey": {
+      "message": "Должен быть отмечен как минимум один дополнительный ключ"
+   },
+   "Options_Keyboard_Title": {
+      "message": "Клавиатура"
+   },
+   "Options_Language_DefaultOption": {
+      "message": "Использовать язык браузера - %1"
+   },
+   "Options_Language_Tip": {
+      "message": "Выберите язык интерфейса RoboForm"
+   },
+   "Options_Language_Title": {
+      "message": "Язык интерфейса"
+   },
+   "Options_LicenseStatus_ActiveSubscription_Text": {
+      "message": "Активная подписка"
+   },
+   "Options_LicenseStatus_ExpirationDate_Text": {
+      "message": "Дата окончания: %1"
+   },
+   "Options_LicenseStatus_ExpiredSubscription_Text": {
+      "message": "Истекшая подписка"
+   },
+   "Options_LicenseStatus_ExpiredTrial_Text": {
+      "message": "Истекшая пробная"
+   },
+   "Options_LicenseStatus_FreeAccount_Text": {
+      "message": "Бесплатный аккаунт"
+   },
+   "Options_LicenseStatus_FreeTrial_Text": {
+      "message": "Бесплатная пробная"
+   },
+   "Options_LicenseStatus_NoLicense_Text": {
+      "message": "Нет лицензии"
+   },
+   "Options_LicenseStatus_PurchaseLicense_Button_Text": {
+      "message": "Покупка лицензии"
+   },
+   "Options_LicenseStatus_RenewNow_Button_Text": {
+      "message": "Обновить сейчас"
+   },
+   "Options_LicenseStatus_Text": {
+      "message": "Статус лицензии"
+   },
+   "Options_LicenseType_Business_Text": {
+      "message": "Бизнес"
+   },
+   "Options_LicenseType_Everywhere_Text": {
+      "message": "Everywhere"
+   },
+   "Options_LicenseType_Family_Text": {
+      "message": "Семейная"
+   },
+   "Options_LicenseType_Text": {
+      "message": "Тип лицензии"
+   },
+   "Options_LoginToViewMoreOptions_Text": {
+      "message": "Некоторые опции недоступны, пока вы не вошли в аккаунт RoboForm. Пожалуйста, нажмите кнопку RoboForm на тулбаре браузера, чтобы выполнить вход."
+   },
+   "Options_ManagedByPolicy_Text": {
+      "message": "Управляется политикой компании"
+   },
+   "Options_NativeIntegrationChange_Warning": {
+      "message": "Вы хотите изменить настройку интеграции?\nРасширение будет перезагружено."
+   },
+   "Options_No": {
+      "message": "Нет"
+   },
+   "Options_NotPrimaryBuyer_Text": {
+      "message": "Ваш аккаунт RoboForm не является главным владельцем лицензии.\nПожалуйста, свяжитесь с главным владельцем лицензии для обновления.\nВы также можете обновить подписку только для своего аккаунта(будет запрошена новая платежная информация)."
+   },
+   "Options_OfferAutoFill_BasicAuthDialogs_Text": {
+      "message": "АвтоЗаполнение диалогов базовой авторизации в браузерах"
+   },
+   "Options_OfferAutoFill_BasicAuthDialogs_Tip": {
+      "message": "Предлагать заполнять диалоги авторизации из подходящих Логинов"
+   },
+   "Options_OfferAutoFill_WinDialogs_Text2": {
+      "message": "Автозаполнение диалогов авторизации Windows в браузерах"
+   },
+   "Options_OfferAutoFill_WinDialogs_Tip2": {
+      "message": "Предлагать заполнять диалоги авторизации Windows из подходящих Логинов"
+   },
+   "Options_OfferAutoSave_BasicAuthDialogs_Text": {
+      "message": "АвтоСохранение из диалогов базовой авторизации в браузерах"
+   },
+   "Options_OfferAutoSave_BasicAuthDialogs_Tip": {
+      "message": "АвтоСохранение будет запускаться при отправке форм из диалогов базовой авторизации в браузерах"
+   },
+   "Options_OfferAutoSave_WinDialogs_Text": {
+      "message": "АвтоСохранение из диалогов Windows (базовой авторизации) в браузерах"
+   },
+   "Options_OfferAutoSave_WinDialogs_Tip2": {
+      "message": "АвтоСохранение будет запускаться при отправке форм из диалогов Windows (базовой авторизации) в браузерах"
+   },
+   "Options_OpenOptionsInInstalledRoboForm": {
+      "message": "Открыть Настройки установленного RoboForm"
+   },
+   "Options_OpenSPOnLoginFromExtension_Title": {
+      "message": "Открыть Стартовую страницу при входе в RoboForm"
+   },
+   "Options_PaymentInfo_Text": {
+      "message": "Платежная информация"
+   },
+   "Options_PaymentInfo_UpdateBillingInfo_Text": {
+      "message": "Обновление платежной информации"
+   },
+   "Options_RightAltForShortcuts_Text": {
+      "message": "Использовать также правый ALT"
+   },
+   "Options_RightAltForShortcuts_Tip": {
+      "message": "Установка опции позволяет использовать для Быстрого вызова сочетание 'правая кнопка ALT на клавиатуре + клавиша' в дополнение к сочетаниям с левой кнопкой ALT"
+   },
+   "Options_RoboFormOpensWith_AllPopularItems_Text": {
+      "message": "Все популярные элементы"
+   },
+   "Options_RoboFormOpensWith_AllRecentlyUsedItems_Text": {
+      "message": "Все недавно использованные элементы"
+   },
+   "Options_RoboFormOpensWith_LastSelected_Text": {
+      "message": "Последняя использованная сортировка"
+   },
+   "Options_RoboFormOpensWith_PinnedItems_Text": {
+      "message": "Закрепленные элементы"
+   },
+   "Options_RoboFormOpensWith_PopularLogins_Text": {
+      "message": "Популярные Логины"
+   },
+   "Options_RoboFormOpensWith_RecentlyUsedLogins_Text": {
+      "message": "Недавно использованные Логины"
+   },
+   "Options_RoboFormOpensWith_Tip2": {
+      "message": "Выбранная сортировка будет использоваться при открытии расширения для браузера и Стартовой страницы RoboForm"
+   },
+   "Options_RoboFormOpensWith_Title2": {
+      "message": "При открытии расширения для браузера и Стартовой страницы RoboForm используются"
+   },
+   "Options_Security_AutoLogoffDisabled_Text": {
+      "message": "*Эта настройка была установлена и может быть изменена только на сайте RoboForm Online,\nво вкладке Редактор политик"
+   },
+   "Options_Security_Title": {
+      "message": "Безопасность"
+   },
+   "Options_Security_TurnOffBuiltInPwdMgr_Desciption_Text": {
+      "message": "Если Да, то расширение RoboForm в Chrome, Edge и  Firefox отключит встроенные в браузеры менеджеры паролей, чтобы они не предлагали сохранять новые пароли."
+   },
+   "Options_Security_TurnOffBuiltInPwdMgr_Text": {
+      "message": "Отключить встроенный в браузер менеджер паролей"
+   },
+   "Options_SetPasswordButton_Text4": {
+      "message": "Сменить Главный Пароль"
+   },
+   "Options_SetPasswordLink_Text": {
+      "message": "Изменить"
+   },
+   "Options_Settings_Saved_Notification2": {
+      "message": "Изменения настроек сохранены"
+   },
+   "Options_Settings_Title": {
+      "message": "Настройки"
+   },
+   "Options_Shortcut_Alt_Text": {
+      "message": "Alt"
+   },
+   "Options_Shortcut_Ctrl_Text": {
+      "message": "Ctrl"
+   },
+   "Options_Shortcut_Shift_Text": {
+      "message": "Shift"
+   },
+   "Options_ShortcutsList_Text": {
+      "message": "Сочетания клавиш быстрого вызова:"
+   },
+   "Options_ShortcutsList_Tip": {
+      "message": "Сочетания клавиш быстрого вызова команд в браузере. Вы можете включить/выключить любое из них отдельно"
+   },
+   "Options_ShowBookmarksAndLoginsTogether_Text": {
+      "message": "Показывать Закладки и Логины вместе"
+   },
+   "Options_ShowBookmarksAndLoginsTogether_Tip2": {
+      "message": "Закладки будут показываться под Логинами во всех интерфейсах RoboForm"
+   },
+   "Options_ShowCompromisedPasswordsIndicator": {
+      "message": "Показывать индикатор взломанных паролей"
+   },
+   "Options_ShowCompromisedPasswordsIndicator_Tip": {
+      "message": "Рядом с Логинами, содержащими взломанные пароли, появится красный восклицательный знак."
+   },
+   "Options_StoreMPInSystemProtectedStorage_Text2": {
+      "message": "Не запрашивать Главный Пароль"
+   },
+   "Options_StoreMPInSystemProtectedStorage_Tip2": {
+      "message": "После ввода Главного Пароля он будет сохранен в защищенном хранилище системы. Вам не придется вводить его снова.\nЧтобы RoboForm снова запрашивал Главный Пароль, нажмите кнопку Выход, и Главный Пароль будет очищен из защищенного хранилища системы. RoboForm не будет автоматически делать выход по прошествии времени."
+   },
+   "Options_TimeZone_Title": {
+      "message": "Установки часового пояса"
+   },
+   "Options_UpgradeToFamilyPlan_Button_Text": {
+      "message": "Улучшить до Семейного плана"
+   },
+   "Options_UseNativeMenus_Text": {
+      "message": "Включить меню десктопного RoboForm"
+   },
+   "Options_UseNativeMenus_Tip": {
+      "message": "Меню RoboForm Desktop будет включено в расширение браузера"
+   },
+   "Options_WarnAboutFillingSensitiveInfo_Text2": {
+      "message": "Предупреждать меня когда данные банковской карты или реквизиты счета используются для заполнения"
+   },
+   "Options_WarnAboutFillingSensitiveInfo_Tip": {
+      "message": "RoboForm запросит дополнительное подтверждение, если сохраненная в Персоне платежная информация будет использована при заполнении"
+   },
+   "Options_WebExt_AutoLogoffAfterIdle_Text": {
+      "message": "Автоматический выход после простоя (минуты, 0-99999)*"
+   },
+   "Options_WebExt_HighlightFields_Text": {
+      "message": "Подсвечивать заполняемые поля"
+   },
+   "Options_WebExt_LogoffTakeEffectNextSession": {
+      "message": "*Будет использовано в следующей сессии RoboForm"
+   },
+   "Options_Yes": {
+      "message": "Да"
+   },
+   "Page_ListItem_MoreActions_Tip": {
+      "message": "Больше действий"
+   },
+   "PassAud_PwdStrengthGood": {
+      "message": "Хороший"
+   },
+   "PassAud_PwdStrengthMedium": {
+      "message": "Средний"
+   },
+   "PassAud_PwdStrengthStrong": {
+      "message": "Надёжный"
+   },
+   "PassAud_PwdStrengthWeak": {
+      "message": "Слабый"
+   },
+   "PassCards_LoginTip_EditTipText": {
+      "message": "Редактировать подсказку"
+   },
+   "PassCards_LoginTip_HideMonospaceText": {
+      "message": "Отключить моноширинный шрифт"
+   },
+   "PassCards_LoginTip_ShowMonospaceText": {
+      "message": "Включить моноширинный шрифт"
+   },
+   "PassCards_LoginTip_Title": {
+      "message": "Подсказка"
+   },
+   "PassCards_Note": {
+      "message": "Примечание"
+   },
+   "PassCards_Password": {
+      "message": "Пароль"
+   },
+   "PassCards_UserId": {
+      "message": "Идентификатор"
+   },
+   "PassGen_BitStrength": {
+      "message": "Битовая сила = "
+   },
+   "PassGen_CharNumber_Text": {
+      "message": "Количество симв."
+   },
+   "PassGen_CharNumber_Tip": {
+      "message": "Количество символов в созданном пароле"
+   },
+   "PassGen_Copy": {
+      "message": "Копировать"
+   },
+   "PassGen_Copy_Tip": {
+      "message": "Скопировать сгенерированный пароль в Буфер Обмена"
+   },
+   "PassGen_ExcludeSimilar_Text": {
+      "message": "Исключить похожие"
+   },
+   "PassGen_ExcludeSimilar_Tip": {
+      "message": "Не использовать похожие символы при создании пароля"
+   },
+   "PassGen_Fill": {
+      "message": "Заполнить"
+   },
+   "PassGen_Fill_Tip": {
+      "message": "Заполнить сгенерированным паролем все поля для ввода пароля на странице браузера"
+   },
+   "PassGen_Generate": {
+      "message": "Генерировать"
+   },
+   "PassGen_Generate_Tip": {
+      "message": "Генерировать новый пароль"
+   },
+   "PassGen_Generated_Tip": {
+      "message": "Сгенерированный пароль"
+   },
+   "PassGen_Lower_Tip": {
+      "message": "Использовать символы a-z при создании пароля"
+   },
+   "PassGen_Numb_Tip": {
+      "message": "Использовать символы 0-9 при создании пароля"
+   },
+   "PassGen_RestoreDefaults_Text": {
+      "message": "Восстановить по умолчанию"
+   },
+   "PassGen_ShowAdvanced": {
+      "message": "Доп.установки"
+   },
+   "PassGen_Title": {
+      "message": "Генератор Паролей - RoboForm"
+   },
+   "PassGen_Upper_Tip": {
+      "message": "Использовать символы A-Z при создании пароля"
+   },
+   "PassGen_UseHexChars": {
+      "message": "Шестнадцатеричные 0-9, A-F"
+   },
+   "PassGen_UseHexChars_Tip": {
+      "message": "Использовать только шестнадцатеричные символы: 0-9, A-F"
+   },
+   "PassGen_UseSpecial_Tip": {
+      "message": "Использовать спец. символы при создании пароля"
+   },
+   "PassGen_WrongChars_Errtext": {
+      "message": "Неправильное количество символов (1-512)"
+   },
+   "PassGen_WrongNums_Errtext": {
+      "message": "Неправильное количество цифр"
+   },
+   "PassGen_helptext1": {
+      "message": "Сгенерирован новый пароль. Нажмите Заполнить для заполнения"
+   },
+   "PassGen_helptext2": {
+      "message": "поля пароля в браузере. Нажмите Копировать для его копирования"
+   },
+   "PassGen_helptext3": {
+      "message": "в буфер обмена. Нажмите Генерировать для генерирования нового пароля."
+   },
+   "PassType_Blocking_Suffix": {
+      "message": " -Блокировочная-"
+   },
+   "PassportExpirationDate_DisplayText": {
+      "message": "истекает %1"
+   },
+   "Passw_Account_Title": {
+      "message": "для учетной записи RoboForm:"
+   },
+   "Passw_ChangeAccount": {
+      "message": "Сменить учетную запись"
+   },
+   "Passw_DontRememberButton_Text": {
+      "message": "Я не помню Главный пароль"
+   },
+   "Passw_EnterNotifySet_Text2": {
+      "message": "Из соображений безопасности мы запрашиваем Главный Пароль каждые %1 дней."
+   },
+   "Passw_EnterNotify_Text2": {
+      "message": "Из соображений безопасности мы запрашиваем Главный Пароль каждые %1 дней."
+   },
+   "Passw_EnterNowButton_Text": {
+      "message": "Ввести сейчас"
+   },
+   "Passw_Generic_Header": {
+      "message": "Введите Пароль"
+   },
+   "Passw_Login": {
+      "message": "Вход"
+   },
+   "Passw_SubmitButton_Text": {
+      "message": "Отправить"
+   },
+   "Password_Successfully_Changed": {
+      "message": "Пароль успешно изменен"
+   },
+   "PhishingWarning_FillingIntoDomainNotInLogin": {
+      "message": "Домен сайта не совпадает с доменом Логина.\n\nСравниваемый URL: %1\nURL сайта: %2\n\nВы хотите, чтобы RoboForm заполнил формы?"
+   },
+   "PhishingWarning_FillingIntoFrameDomainNotInLogin": {
+      "message": "Домен фрейма не соответствует URL Логина.\n\nДомен Логина: %1\nДомен фрейма: %2\n\nВы действительно хотите, чтобы RoboForm запомнил форму?"
+   },
+   "PhishingWarning_FrameDomainNotInLogin": {
+      "message": "Внимание, возможен фишинг: домен фрейма не совпадает с доменом Логина.\n\nСравниваемый URL: %1\nURL фрейма: %2\nГлавный URL:  %3\n\nВы хотите, чтобы RoboForm заполнил формы?"
+   },
+   "Policy_CommandDisabled_Message": {
+      "message": "Команда запрещена Политиками безопасности"
+   },
+   "Policy_DisableNonGroupData_Message": {
+      "message": "Эта команда запрещена политикой. Вы можете создавать данные только внутри группы"
+   },
+   "Policy_FileCreationProhibited_Text": {
+      "message": "Ощибка: создание %1 запрещено политикой."
+   },
+   "Policy_FillingIntoDomainNotInLogin": {
+      "message": "Заполнение форм прервано, так как домен сайта не совпадает со Сравниваемым URL Логина.\n\nСравниваемый URL: %1\nURL сайта: %2"
+   },
+   "Policy_FillingIntoFrameDomainNotInLogin": {
+      "message": "Заполнение форм прервано, так как домен фрейма не соответствует домену Логина.\n\nДомен Логина: %1\nДомен фрейма: %2"
+   },
+   "Policy_MasterPasswordChangeDisabled": {
+      "message": "Создание и смена Главного Пароля запрещены Политиками безопасности"
+   },
+   "Policy_ProhibitedFolder_NonGroupData_Message": {
+      "message": "Выбранная для сохранения папка запрещена политикой. Вы можете создавать данные только внутри группы"
+   },
+   "Popup_ReportAnIssue_Command_Text": {
+      "message": "Сообщить о проблеме на этой странице"
+   },
+   "ProAd_UpgradeNow_Button": {
+      "message": "Обновить"
+   },
+   "RFOError_WrongUserIDOrPassword": {
+      "message": "Вы ввели неправильное имя пользователя или пароль"
+   },
+   "RFOSetup_CreateNewAccount_Button": {
+      "message": "Создать Учетную Запись"
+   },
+   "RFOSetup_EnterPasswordForAccount": {
+      "message": "Введите пароль для аккаунта RoboForm:"
+   },
+   "RFOSync_ForceMasterPasswordChange_Text": {
+      "message": "Срок действия Главного-Пароля истек. Измените свой Главный пароль."
+   },
+   "RFO_CreateAccountCannotSendEmail_Error": {
+      "message": "Аккаунт не создан. Мы не смогли отправить письмо-подтверждение о создании аккаунта на указанный вами адрес электронной почты.\nПожалуйста, введите корректный адрес и попробуйте снова."
+   },
+   "RFO_OTP_Memorize_Device": {
+      "message": "Зарегистрировать этот браузер, чтобы при следующем логине не запрашивался Одноразовый пароль."
+   },
+   "RFO_TwoFactorCaption_Text": {
+      "message": "Одноразовый Пароль"
+   },
+   "RFO_TwoFactorIsOn_TextShort": {
+      "message": "Для вашей учетной записи включено использование Одноразового Пароля."
+   },
+   "RFO_TwoFactor_ByEmail_Text2": {
+      "message": "Одноразовый Пароль отправлен на ваш подтвержденный адрес электронной почты."
+   },
+   "RFO_TwoFactor_ByGA_Text3": {
+      "message": "Введите код, полученный в приложении Authenticator, чтобы продолжить."
+   },
+   "RFO_TwoFactor_BySMS_Text2": {
+      "message": "Одноразовый Пароль отправлен вам в СМС на подтвержденный номер."
+   },
+   "RFO_TwoFactor_CannotPaste_Error": {
+      "message": "Невозможно вставить одноразовый пароль из буфера обмена: %1"
+   },
+   "RFO_TwoFactor_CannotPaste_Reason_Empty_Text": {
+      "message": "буфер обмена пуст"
+   },
+   "RFO_TwoFactor_CannotPaste_Reason_Wrong_Text": {
+      "message": "строка в буфере обмена должна состоять из 6 цифр"
+   },
+   "RFO_TwoFactor_EnrollBrowserGA_Text": {
+      "message": "Зарегистрировать этот браузер, чтобы при следующем логине не запрашивался Код аутентификатора."
+   },
+   "RFO_TwoFactor_EnrollBrowserGeneric_Text": {
+      "message": "Зарегистрировать этот браузер, чтобы при следующем логине не использовалась Двухфакторная аутентификация"
+   },
+   "RFO_TwoFactor_PromptGeneric_Text": {
+      "message": "Двухфакторная аутентификация Включена для Вашей учетной записи. Вам нужен дополнительный код для доступа к Вашей учетной записи."
+   },
+   "RFO_TwoFactor_Send_Button": {
+      "message": "Отправит ОРП"
+   },
+   "RFO_TwoFactor_WrongOTP_Text": {
+      "message": "Неверный Одноразовый Пароль"
+   },
+   "RI_AOL_Screen_Name": {
+      "message": "Имя в AOL"
+   },
+   "RI_Abbr": {
+      "message": " "
+   },
+   "RI_Address": {
+      "message": "Адрес"
+   },
+   "RI_Address_Line_1": {
+      "message": "Адрес (строка 1)"
+   },
+   "RI_Address_Line_2": {
+      "message": "Адрес (строка 2)"
+   },
+   "RI_Age": {
+      "message": "Возраст"
+   },
+   "RI_Alphabet": {
+      "message": "Алфавитом"
+   },
+   "RI_Alphabet_Name": {
+      "message": "Запись Каной"
+   },
+   "RI_Apartment_Number": {
+      "message": "Номер квартиры"
+   },
+   "RI_Bank_Account_Number": {
+      "message": "Номер счета в банке"
+   },
+   "RI_Bank_Account_Owner": {
+      "message": "Имя владельца счета"
+   },
+   "RI_Bank_Account_Type": {
+      "message": "Тип счета"
+   },
+   "RI_Bank_Account_Type_Checking": {
+      "message": "Чековый"
+   },
+   "RI_Bank_Account_Type_Current": {
+      "message": "Текущий"
+   },
+   "RI_Bank_Account_Type_Money_Manager": {
+      "message": "Money Manager"
+   },
+   "RI_Bank_Account_Type_Savings": {
+      "message": "Сберегательный"
+   },
+   "RI_Bank_Address": {
+      "message": "Адрес банка"
+   },
+   "RI_Bank_Branch_Name": {
+      "message": "Отделение банка"
+   },
+   "RI_Bank_Branch_Type": {
+      "message": "Тип отделения"
+   },
+   "RI_Bank_Corr_Account": {
+      "message": "Корр.счет"
+   },
+   "RI_Bank_Interest_Rate": {
+      "message": "Процент по вкладу"
+   },
+   "RI_Bank_Name": {
+      "message": "Название банка"
+   },
+   "RI_Bank_PIN_Code": {
+      "message": "Банковский ПИН-код"
+   },
+   "RI_Bank_Phone": {
+      "message": "Телефон банка"
+   },
+   "RI_Bank_Routing_Number": {
+      "message": "Идентификатор банка"
+   },
+   "RI_Bank_Swift_Code": {
+      "message": "БИК"
+   },
+   "RI_Bank_Type": {
+      "message": "Тип банка"
+   },
+   "RI_Birth_Date": {
+      "message": "Дата рождения"
+   },
+   "RI_Birth_Day": {
+      "message": "День рождения"
+   },
+   "RI_Birth_Month": {
+      "message": "Месяц рождения"
+   },
+   "RI_Birth_Place": {
+      "message": "Место рождения"
+   },
+   "RI_Birth_Year": {
+      "message": "Год рождения"
+   },
+   "RI_Bundesland": {
+      "message": "Земля"
+   },
+   "RI_Canton": {
+      "message": "Кантон"
+   },
+   "RI_Car_Make": {
+      "message": "Марка"
+   },
+   "RI_Car_Model": {
+      "message": "Модель"
+   },
+   "RI_Car_Plate": {
+      "message": "Номер"
+   },
+   "RI_Car_Plate_Number": {
+      "message": "Гос.номер"
+   },
+   "RI_Car_Year": {
+      "message": "Год выпуска"
+   },
+   "RI_Card_Credit_Limit": {
+      "message": "Предел кредита"
+   },
+   "RI_Card_Customer_Service_Phone": {
+      "message": "Телефон поддержки"
+   },
+   "RI_Card_Expires": {
+      "message": "Действительна до"
+   },
+   "RI_Card_Interest_Rate": {
+      "message": "Процент по карте"
+   },
+   "RI_Card_Issuing_Bank": {
+      "message": "Обслуживающий банк"
+   },
+   "RI_Card_Number": {
+      "message": "Номер карты"
+   },
+   "RI_Card_PIN_Number": {
+      "message": "ПИН-код"
+   },
+   "RI_Card_Password": {
+      "message": "Пароль карты"
+   },
+   "RI_Card_Type": {
+      "message": "Тип карты"
+   },
+   "RI_Card_User_Name": {
+      "message": "Имя на карте"
+   },
+   "RI_Card_Validation_Code": {
+      "message": "Код проверки"
+   },
+   "RI_Cell_Phone": {
+      "message": "Моб. Тлф."
+   },
+   "RI_City": {
+      "message": "Город"
+   },
+   "RI_Code_OKPO": {
+      "message": "ОКПО"
+   },
+   "RI_Code_OKVED": {
+      "message": "ОКВЭД"
+   },
+   "RI_Colony": {
+      "message": "Колония"
+   },
+   "RI_Company": {
+      "message": "Фирма"
+   },
+   "RI_Company_Department": {
+      "message": "Отдел"
+   },
+   "RI_Company_Registration_Number": {
+      "message": "КПП"
+   },
+   "RI_Company_Registration_Place": {
+      "message": "Юридический адрес"
+   },
+   "RI_Company_Tax_ID": {
+      "message": "ИНН фирмы"
+   },
+   "RI_Company_VAT_Number": {
+      "message": "N плательщика НДС"
+   },
+   "RI_Contact": {
+      "message": "Контакт"
+   },
+   "RI_Country": {
+      "message": "Страна"
+   },
+   "RI_CountryAlt_United_States": {
+      "message": "Соединенные Штаты Америки"
+   },
+   "RI_CountryCode": {
+      "message": "Код страны"
+   },
+   "RI_Country_Afghanistan": {
+      "message": "Афганистан"
+   },
+   "RI_Country_Andorra": {
+      "message": "Андорра"
+   },
+   "RI_Country_Argentina": {
+      "message": "Аргентина"
+   },
+   "RI_Country_Armenia": {
+      "message": "Армения"
+   },
+   "RI_Country_Australia": {
+      "message": "Австралия"
+   },
+   "RI_Country_Austria": {
+      "message": "Австрия"
+   },
+   "RI_Country_Belarus": {
+      "message": "Белоруссия"
+   },
+   "RI_Country_Belgium": {
+      "message": "Бельгия"
+   },
+   "RI_Country_Bolivia": {
+      "message": "Боливия"
+   },
+   "RI_Country_Bosnia_And_Herzegovina": {
+      "message": "Босния и Герцеговина"
+   },
+   "RI_Country_Brazil": {
+      "message": "Бразилия"
+   },
+   "RI_Country_Bulgaria": {
+      "message": "Болгария"
+   },
+   "RI_Country_Canada": {
+      "message": "Канада"
+   },
+   "RI_Country_Chile": {
+      "message": "Чили"
+   },
+   "RI_Country_China": {
+      "message": "Китай"
+   },
+   "RI_Country_Colombia": {
+      "message": "Колумбия"
+   },
+   "RI_Country_Costa_Rica": {
+      "message": "Коста Рика"
+   },
+   "RI_Country_Croatia": {
+      "message": "Хорватия"
+   },
+   "RI_Country_Cyprus": {
+      "message": "Кипр"
+   },
+   "RI_Country_Czech_Republic": {
+      "message": "Чехия"
+   },
+   "RI_Country_Denmark": {
+      "message": "Дания"
+   },
+   "RI_Country_Egypt": {
+      "message": "Египет"
+   },
+   "RI_Country_Estonia": {
+      "message": "Эстония"
+   },
+   "RI_Country_Finland": {
+      "message": "Финляндия"
+   },
+   "RI_Country_France": {
+      "message": "Франция"
+   },
+   "RI_Country_Gabon": {
+      "message": "Габон"
+   },
+   "RI_Country_Germany": {
+      "message": "Германия"
+   },
+   "RI_Country_Gibraltar": {
+      "message": "Гибралтар"
+   },
+   "RI_Country_Greece": {
+      "message": "Греция"
+   },
+   "RI_Country_Greenland": {
+      "message": "Гренландия"
+   },
+   "RI_Country_Haiti": {
+      "message": "Гаити"
+   },
+   "RI_Country_Hong_Kong": {
+      "message": "Гонконг"
+   },
+   "RI_Country_Hungary": {
+      "message": "Венгрия"
+   },
+   "RI_Country_Iceland": {
+      "message": "Исландия"
+   },
+   "RI_Country_India": {
+      "message": "Индия"
+   },
+   "RI_Country_Indonesia": {
+      "message": "Индонезия"
+   },
+   "RI_Country_Iran": {
+      "message": "Иран"
+   },
+   "RI_Country_Iraq": {
+      "message": "Ирак"
+   },
+   "RI_Country_Ireland": {
+      "message": "Ирландия"
+   },
+   "RI_Country_Israel": {
+      "message": "Израиль"
+   },
+   "RI_Country_Italy": {
+      "message": "Италия"
+   },
+   "RI_Country_Jamaica": {
+      "message": "Ямайка"
+   },
+   "RI_Country_Japan": {
+      "message": "Япония"
+   },
+   "RI_Country_Kazakhstan": {
+      "message": "Казахстан"
+   },
+   "RI_Country_Korea": {
+      "message": "Корея"
+   },
+   "RI_Country_Latvia": {
+      "message": "Латвия"
+   },
+   "RI_Country_Liechtenstein": {
+      "message": "Лихтенштейн"
+   },
+   "RI_Country_Lithuania": {
+      "message": "Литва"
+   },
+   "RI_Country_Luxembourg": {
+      "message": "Люксембург"
+   },
+   "RI_Country_Macedonia": {
+      "message": "Македония"
+   },
+   "RI_Country_Malaysia": {
+      "message": "Малайзия"
+   },
+   "RI_Country_Malta": {
+      "message": "Мальта"
+   },
+   "RI_Country_Mexico": {
+      "message": "Мексика"
+   },
+   "RI_Country_Moldova": {
+      "message": "Молдова"
+   },
+   "RI_Country_Monaco": {
+      "message": "Монако"
+   },
+   "RI_Country_Montenegro": {
+      "message": "Черногория"
+   },
+   "RI_Country_Morocco": {
+      "message": "Марокко"
+   },
+   "RI_Country_Namibia": {
+      "message": "Намибия"
+   },
+   "RI_Country_Netherlands": {
+      "message": "Нидерланды"
+   },
+   "RI_Country_New_Zealand": {
+      "message": "Новая Зеландия"
+   },
+   "RI_Country_Nigeria": {
+      "message": "Нигерия"
+   },
+   "RI_Country_Norway": {
+      "message": "Норвегия"
+   },
+   "RI_Country_Other": {
+      "message": "Другая"
+   },
+   "RI_Country_Pakistan": {
+      "message": "Пакистан"
+   },
+   "RI_Country_Panama": {
+      "message": "Панама"
+   },
+   "RI_Country_Paraguay": {
+      "message": "Парагвай"
+   },
+   "RI_Country_Peru": {
+      "message": "Перу"
+   },
+   "RI_Country_Philippines": {
+      "message": "Филиппины"
+   },
+   "RI_Country_Poland": {
+      "message": "Польша"
+   },
+   "RI_Country_Portugal": {
+      "message": "Португалия"
+   },
+   "RI_Country_Qatar": {
+      "message": "Катар"
+   },
+   "RI_Country_Romania": {
+      "message": "Румыния"
+   },
+   "RI_Country_Russia": {
+      "message": "Россия"
+   },
+   "RI_Country_San_Marino": {
+      "message": "Сан Марино"
+   },
+   "RI_Country_Saudi_Arabia": {
+      "message": "Саудовская Аравия"
+   },
+   "RI_Country_Serbia": {
+      "message": "Сербия"
+   },
+   "RI_Country_Singapore": {
+      "message": "Сингапур"
+   },
+   "RI_Country_Slovakia": {
+      "message": "Словакия"
+   },
+   "RI_Country_Slovenia": {
+      "message": "Словения"
+   },
+   "RI_Country_South_Africa": {
+      "message": "ЮАР"
+   },
+   "RI_Country_Spain": {
+      "message": "Испания"
+   },
+   "RI_Country_Sweden": {
+      "message": "Швеция"
+   },
+   "RI_Country_Switzerland": {
+      "message": "Швейцария"
+   },
+   "RI_Country_Taiwan": {
+      "message": "Тайвань"
+   },
+   "RI_Country_Thailand": {
+      "message": "Тайланд"
+   },
+   "RI_Country_Turkey": {
+      "message": "Турция"
+   },
+   "RI_Country_Ukraine": {
+      "message": "Украина"
+   },
+   "RI_Country_United_Kingdom": {
+      "message": "Великобритания"
+   },
+   "RI_Country_United_States": {
+      "message": "Соединенные Штаты"
+   },
+   "RI_Country_Venezuela": {
+      "message": "Венесуэла"
+   },
+   "RI_Country_Vietnam": {
+      "message": "Вьетнам"
+   },
+   "RI_County": {
+      "message": "Округ"
+   },
+   "RI_Department": {
+      "message": "Департамент"
+   },
+   "RI_Dispatching_Agency": {
+      "message": "Выдавший орган"
+   },
+   "RI_District": {
+      "message": "Округ"
+   },
+   "RI_Driver_License": {
+      "message": "Вод. права"
+   },
+   "RI_Driver_License_Number": {
+      "message": "Ном. вод. прав"
+   },
+   "RI_Email": {
+      "message": "Эл. почта"
+   },
+   "RI_Employer_Identitification_Number": {
+      "message": "Рег. номер (EIN)"
+   },
+   "RI_Expires": {
+      "message": "Действ. до"
+   },
+   "RI_Fax_Phone": {
+      "message": "Факс"
+   },
+   "RI_First": {
+      "message": "Имя"
+   },
+   "RI_Fiscal_Code": {
+      "message": "Фискальный Код"
+   },
+   "RI_General_Register": {
+      "message": "GR"
+   },
+   "RI_Group_Bank_Account": {
+      "message": "Счет в банке"
+   },
+   "RI_Group_Business": {
+      "message": "Бизнес"
+   },
+   "RI_Group_Car": {
+      "message": "Машина"
+   },
+   "RI_Group_Credit_Card": {
+      "message": "Кредитка"
+   },
+   "RI_Group_Custom": {
+      "message": "Настраиваемые"
+   },
+   "RI_Group_Default_Password": {
+      "message": "Любимый Пароль"
+   },
+   "RI_Group_Location": {
+      "message": "Адрес"
+   },
+   "RI_Group_Passport": {
+      "message": "Паспорт"
+   },
+   "RI_Group_Person": {
+      "message": "Личность"
+   },
+   "RI_Group_Service": {
+      "message": "Служебные"
+   },
+   "RI_Group_Service2": {
+      "message": "Общий"
+   },
+   "RI_Group_Summary": {
+      "message": "Сводка"
+   },
+   "RI_Home_Phone": {
+      "message": "Дом. Тлф."
+   },
+   "RI_HouseNumber": {
+      "message": "Номер Дома"
+   },
+   "RI_HouseNumber_StreetName": {
+      "message": "Улица и номер дома"
+   },
+   "RI_HouseNumber_or_Name": {
+      "message": "Номер или название дома"
+   },
+   "RI_ICQ_Number": {
+      "message": "Номер ICQ"
+   },
+   "RI_ID_Card_Number": {
+      "message": "Номер карты ID"
+   },
+   "RI_ID_Card_Type": {
+      "message": "Тип карты ID"
+   },
+   "RI_Income": {
+      "message": "Доход"
+   },
+   "RI_Inset": {
+      "message": "Вставка"
+   },
+   "RI_Int_Bank_Account_Number": {
+      "message": "IBAN"
+   },
+   "RI_International_Card_Customer_Service_Phone": {
+      "message": "Междунар.тел.поддержки"
+   },
+   "RI_Job": {
+      "message": "Работа"
+   },
+   "RI_Last": {
+      "message": "Фамилия"
+   },
+   "RI_Last2": {
+      "message": "фамилия2"
+   },
+   "RI_Legal_Business_Name": {
+      "message": "Официальное название"
+   },
+   "RI_MSN_ID": {
+      "message": "MSN ID"
+   },
+   "RI_Middle": {
+      "message": "Отчество"
+   },
+   "RI_Mobile_Email": {
+      "message": "Мобильн. email"
+   },
+   "RI_Municipality": {
+      "message": "Муниципалитет"
+   },
+   "RI_Name": {
+      "message": "Имя"
+   },
+   "RI_Name_Suffix_Jr": {
+      "message": "Мл."
+   },
+   "RI_Name_Suffix_Sr": {
+      "message": "Ст."
+   },
+   "RI_NationalPrefix": {
+      "message": "Межгород"
+   },
+   "RI_National_Health_Service_Number": {
+      "message": "Номер NHS"
+   },
+   "RI_National_Insurance_Number": {
+      "message": "Номер страховки"
+   },
+   "RI_Number": {
+      "message": "Номер"
+   },
+   "RI_Pager_Phone": {
+      "message": "Пейджер"
+   },
+   "RI_Passport": {
+      "message": "Серия, номер"
+   },
+   "RI_Passport_Expiration_Date": {
+      "message": "Деиствителен до"
+   },
+   "RI_Passport_Issue_Date": {
+      "message": "Дата выдачи"
+   },
+   "RI_Passport_Issue_Place": {
+      "message": "Место выдачи"
+   },
+   "RI_Passport_Number": {
+      "message": "Номер документа"
+   },
+   "RI_Passport_Series": {
+      "message": "Серия документа"
+   },
+   "RI_Passport_Type": {
+      "message": "Тип паспорта"
+   },
+   "RI_Passport_Type_International": {
+      "message": "Заграничный"
+   },
+   "RI_Passport_Type_National": {
+      "message": "Общегражданский"
+   },
+   "RI_Password": {
+      "message": "Пароль"
+   },
+   "RI_Password_Answer": {
+      "message": "Ответ на вопрос"
+   },
+   "RI_Password_Question": {
+      "message": "Контрольный вопрос"
+   },
+   "RI_Pension_Insurance_Number": {
+      "message": "СНИЛС"
+   },
+   "RI_Person_Cadastre": {
+      "message": "Person Cadastre"
+   },
+   "RI_Personal_ID": {
+      "message": "Персональный ID"
+   },
+   "RI_Phone": {
+      "message": "Телефон"
+   },
+   "RI_Position": {
+      "message": "Должность"
+   },
+   "RI_PostCode": {
+      "message": "Индекс"
+   },
+   "RI_PostCode_City": {
+      "message": "Индекс, Город"
+   },
+   "RI_Prefecture": {
+      "message": "Префектура"
+   },
+   "RI_Province": {
+      "message": "Провинция"
+   },
+   "RI_Region": {
+      "message": "Регион"
+   },
+   "RI_Roman_Name": {
+      "message": "Латинскими буквами"
+   },
+   "RI_Series": {
+      "message": "Серия"
+   },
+   "RI_Sex": {
+      "message": "Пол"
+   },
+   "RI_Sex_Female": {
+      "message": "Женский"
+   },
+   "RI_Sex_Male": {
+      "message": "Мужской"
+   },
+   "RI_Skype_ID": {
+      "message": "Skype ID"
+   },
+   "RI_Social_Security_Number": {
+      "message": "Страховка(SSN)"
+   },
+   "RI_State": {
+      "message": "Штат"
+   },
+   "RI_State_Or_Province": {
+      "message": "Штат или провинция"
+   },
+   "RI_State_Or_Province_AA": {
+      "message": "AA"
+   },
+   "RI_State_Or_Province_AE": {
+      "message": "AE"
+   },
+   "RI_State_Or_Province_AP": {
+      "message": "AP"
+   },
+   "RI_State_Or_Province_Adygeya_republic": {
+      "message": "Республика Адыгея"
+   },
+   "RI_State_Or_Province_Agin_Buryat_avt_okrug": {
+      "message": "Агинский Бурятский автономный округ"
+   },
+   "RI_State_Or_Province_Aichi": {
+      "message": "Aichi"
+   },
+   "RI_State_Or_Province_Akita": {
+      "message": "Akita"
+   },
+   "RI_State_Or_Province_Alabama": {
+      "message": "AL"
+   },
+   "RI_State_Or_Province_Alaska": {
+      "message": "AK"
+   },
+   "RI_State_Or_Province_Alberta": {
+      "message": "Alberta"
+   },
+   "RI_State_Or_Province_Altai_republic": {
+      "message": "Республика Алтай"
+   },
+   "RI_State_Or_Province_Altaiskiy_krai": {
+      "message": "Алтайский край"
+   },
+   "RI_State_Or_Province_American_Samoa": {
+      "message": "AS"
+   },
+   "RI_State_Or_Province_Amur_oblast": {
+      "message": "Амурская область"
+   },
+   "RI_State_Or_Province_Anhui": {
+      "message": "Аньхой"
+   },
+   "RI_State_Or_Province_Antwerpen": {
+      "message": "Антверпен"
+   },
+   "RI_State_Or_Province_Aomen": {
+      "message": "Аомен"
+   },
+   "RI_State_Or_Province_Aomori": {
+      "message": "Aomori"
+   },
+   "RI_State_Or_Province_Appenzell_Inner_Rhodes": {
+      "message": "Appenzell Inner-Rhodes"
+   },
+   "RI_State_Or_Province_Appenzell_Outer_Rhodes": {
+      "message": "Appenzell Outer Rhodes"
+   },
+   "RI_State_Or_Province_Argovia": {
+      "message": "Argovia"
+   },
+   "RI_State_Or_Province_Arizona": {
+      "message": "AZ"
+   },
+   "RI_State_Or_Province_Arkansas": {
+      "message": "AR"
+   },
+   "RI_State_Or_Province_Arkhangelsk_oblast": {
+      "message": "Архангельская область"
+   },
+   "RI_State_Or_Province_Astrakhan_oblast": {
+      "message": "Астраханская область"
+   },
+   "RI_State_Or_Province_Australian_Capital_Terr": {
+      "message": "ACT"
+   },
+   "RI_State_Or_Province_Bashkir_republic": {
+      "message": "Республика Башкортостан"
+   },
+   "RI_State_Or_Province_Basle_Country": {
+      "message": "Basle-Country"
+   },
+   "RI_State_Or_Province_Basle_Town": {
+      "message": "Basle-Town"
+   },
+   "RI_State_Or_Province_Beijing": {
+      "message": "Пекин"
+   },
+   "RI_State_Or_Province_Belgorod_oblast": {
+      "message": "Белгородская область"
+   },
+   "RI_State_Or_Province_Berne": {
+      "message": "Berne"
+   },
+   "RI_State_Or_Province_Brabant_Wallon": {
+      "message": "Валлонский Брабант"
+   },
+   "RI_State_Or_Province_British_Columbia": {
+      "message": "British Columbia"
+   },
+   "RI_State_Or_Province_Brussels_Region": {
+      "message": "Брюссельский округ"
+   },
+   "RI_State_Or_Province_Bryansk_oblast": {
+      "message": "Брянская область"
+   },
+   "RI_State_Or_Province_Buruyat_republic": {
+      "message": "Республика Бурятия"
+   },
+   "RI_State_Or_Province_California": {
+      "message": "CA"
+   },
+   "RI_State_Or_Province_Chechen_republic": {
+      "message": "Чеченская Республика"
+   },
+   "RI_State_Or_Province_Chelyabinsk_oblast": {
+      "message": "Челябинская область"
+   },
+   "RI_State_Or_Province_Chiba": {
+      "message": "Chiba"
+   },
+   "RI_State_Or_Province_Chita_oblast": {
+      "message": "Читинская область"
+   },
+   "RI_State_Or_Province_Chongqing": {
+      "message": "Чунцин"
+   },
+   "RI_State_Or_Province_Chukotka_avt_okrug": {
+      "message": "Чукотский автономный округ"
+   },
+   "RI_State_Or_Province_Chuvash_republic": {
+      "message": "Республика Чувашия"
+   },
+   "RI_State_Or_Province_Colorado": {
+      "message": "CO"
+   },
+   "RI_State_Or_Province_Connecticut": {
+      "message": "CT"
+   },
+   "RI_State_Or_Province_Dagestan_republic": {
+      "message": "Республика Дагестан"
+   },
+   "RI_State_Or_Province_Delaware": {
+      "message": "DE"
+   },
+   "RI_State_Or_Province_District_of_Columbia": {
+      "message": "DC"
+   },
+   "RI_State_Or_Province_Dolnoslaskie": {
+      "message": "Dolnoslaskie"
+   },
+   "RI_State_Or_Province_Ehime": {
+      "message": "Ehime"
+   },
+   "RI_State_Or_Province_Evenk_avt_okrug": {
+      "message": "Эвенкийский автономный округ"
+   },
+   "RI_State_Or_Province_Evreyskaya_avt_oblast": {
+      "message": "Еврейская автономная область"
+   },
+   "RI_State_Or_Province_Florida": {
+      "message": "FL"
+   },
+   "RI_State_Or_Province_Fribourg": {
+      "message": "Fribourg"
+   },
+   "RI_State_Or_Province_Fujian": {
+      "message": "Фудзянь"
+   },
+   "RI_State_Or_Province_Fukui": {
+      "message": "Fukui"
+   },
+   "RI_State_Or_Province_Fukuoka": {
+      "message": "Fukuoka"
+   },
+   "RI_State_Or_Province_Fukushima": {
+      "message": "Fukushima"
+   },
+   "RI_State_Or_Province_Gansu": {
+      "message": "Ганьсу"
+   },
+   "RI_State_Or_Province_Geneva": {
+      "message": "Geneva"
+   },
+   "RI_State_Or_Province_Georgia": {
+      "message": "GA"
+   },
+   "RI_State_Or_Province_Gifu": {
+      "message": "Gifu"
+   },
+   "RI_State_Or_Province_Glarus": {
+      "message": "Glarus"
+   },
+   "RI_State_Or_Province_Grisons": {
+      "message": "Grisons"
+   },
+   "RI_State_Or_Province_Guam": {
+      "message": "GU"
+   },
+   "RI_State_Or_Province_Guangdong": {
+      "message": "Гуандун"
+   },
+   "RI_State_Or_Province_Guangxi": {
+      "message": "Гуанси"
+   },
+   "RI_State_Or_Province_Guizhou": {
+      "message": "Гуйчжоу"
+   },
+   "RI_State_Or_Province_Gunma": {
+      "message": "Gunma"
+   },
+   "RI_State_Or_Province_Hainan": {
+      "message": "Хайнань"
+   },
+   "RI_State_Or_Province_Hainaut": {
+      "message": "Эно"
+   },
+   "RI_State_Or_Province_Hanty_Mansy_avt_okrug": {
+      "message": "Ханты-Мансийский автономный округ"
+   },
+   "RI_State_Or_Province_Hawaii": {
+      "message": "HI"
+   },
+   "RI_State_Or_Province_Hebei": {
+      "message": "Хэбэй"
+   },
+   "RI_State_Or_Province_Heilongjiang": {
+      "message": "Хейлуцзян"
+   },
+   "RI_State_Or_Province_Henan": {
+      "message": "Хэнань"
+   },
+   "RI_State_Or_Province_Hiroshima": {
+      "message": "Hiroshima"
+   },
+   "RI_State_Or_Province_Hokkaido": {
+      "message": "Hokkaido"
+   },
+   "RI_State_Or_Province_Hubei": {
+      "message": "Хубэй"
+   },
+   "RI_State_Or_Province_Hunan": {
+      "message": "Хунань"
+   },
+   "RI_State_Or_Province_Hyougo": {
+      "message": "Hyougo"
+   },
+   "RI_State_Or_Province_Ibaraki": {
+      "message": "Ibaraki"
+   },
+   "RI_State_Or_Province_Idaho": {
+      "message": "ID"
+   },
+   "RI_State_Or_Province_Illinois": {
+      "message": "IL"
+   },
+   "RI_State_Or_Province_Indiana": {
+      "message": "IN"
+   },
+   "RI_State_Or_Province_Ingush_republic": {
+      "message": "Республика Ингушетия"
+   },
+   "RI_State_Or_Province_Iowa": {
+      "message": "IA"
+   },
+   "RI_State_Or_Province_Irkutsk_oblast": {
+      "message": "Иркутская область"
+   },
+   "RI_State_Or_Province_Ishikawa": {
+      "message": "Ishikawa"
+   },
+   "RI_State_Or_Province_Ivanovskaya_oblast": {
+      "message": "Ивановская область"
+   },
+   "RI_State_Or_Province_Iwate": {
+      "message": "Iwate"
+   },
+   "RI_State_Or_Province_Jiangsu": {
+      "message": "Дзянсу"
+   },
+   "RI_State_Or_Province_Jiangxi": {
+      "message": "Дзянси"
+   },
+   "RI_State_Or_Province_Jilin": {
+      "message": "Цзилинь"
+   },
+   "RI_State_Or_Province_Jura": {
+      "message": "Jura"
+   },
+   "RI_State_Or_Province_Kabardino_Balkar_republic": {
+      "message": "Кабардино-Балкарская Республика"
+   },
+   "RI_State_Or_Province_Kagawa": {
+      "message": "Kagawa"
+   },
+   "RI_State_Or_Province_Kagoshima": {
+      "message": "Kagoshima"
+   },
+   "RI_State_Or_Province_Kalinigrad_oblast": {
+      "message": "Калининградская область"
+   },
+   "RI_State_Or_Province_Kalmykiya_republic": {
+      "message": "Республика Калмыкия"
+   },
+   "RI_State_Or_Province_Kaluga_oblast": {
+      "message": "Калужская область"
+   },
+   "RI_State_Or_Province_Kamchatka_oblast": {
+      "message": "Камчатская область"
+   },
+   "RI_State_Or_Province_Kanagawa": {
+      "message": "Kanagawa"
+   },
+   "RI_State_Or_Province_Kansas": {
+      "message": "KS"
+   },
+   "RI_State_Or_Province_Karachaevo_Cherkessia_republic": {
+      "message": "Карачаево-Черкесская Республика"
+   },
+   "RI_State_Or_Province_Karelia_republic": {
+      "message": "Республика Карелия"
+   },
+   "RI_State_Or_Province_Kemerovo_oblast": {
+      "message": "Кемеровская область"
+   },
+   "RI_State_Or_Province_Kentucky": {
+      "message": "KY"
+   },
+   "RI_State_Or_Province_Khabarovsk_krai": {
+      "message": "Хабаровский край"
+   },
+   "RI_State_Or_Province_Khakassia_republic": {
+      "message": "Республика Хакасия"
+   },
+   "RI_State_Or_Province_Kirov_oblast": {
+      "message": "Кировская область"
+   },
+   "RI_State_Or_Province_Komi_Permyak_avt_okrug": {
+      "message": "Коми-Пермяцкий автономный округ"
+   },
+   "RI_State_Or_Province_Komi_republic": {
+      "message": "Республика Коми"
+   },
+   "RI_State_Or_Province_Koryak_avt_okrug": {
+      "message": "Корякский автономный округ"
+   },
+   "RI_State_Or_Province_Kostroma_oblast": {
+      "message": "Костромская область"
+   },
+   "RI_State_Or_Province_Kouchi": {
+      "message": "Kouchi"
+   },
+   "RI_State_Or_Province_Krasnodar_krai": {
+      "message": "Краснодарский край"
+   },
+   "RI_State_Or_Province_Krasnoyarsk_krai": {
+      "message": "Красноярский край"
+   },
+   "RI_State_Or_Province_Kujawsko_Pomorskie": {
+      "message": "Kujawsko-Pomorskie"
+   },
+   "RI_State_Or_Province_Kumamoto": {
+      "message": "Kumamoto"
+   },
+   "RI_State_Or_Province_Kurgan_oblast": {
+      "message": "Курганская область"
+   },
+   "RI_State_Or_Province_Kursk_oblast": {
+      "message": "Курская область"
+   },
+   "RI_State_Or_Province_Kyoto": {
+      "message": "Kyoto"
+   },
+   "RI_State_Or_Province_Leningrad_oblast": {
+      "message": "Ленинградская область"
+   },
+   "RI_State_Or_Province_Liaoning": {
+      "message": "Ляонин"
+   },
+   "RI_State_Or_Province_Liege": {
+      "message": "Льеж"
+   },
+   "RI_State_Or_Province_Limburg": {
+      "message": "Лимбург"
+   },
+   "RI_State_Or_Province_Lipetsk_oblast": {
+      "message": "Липецкая область"
+   },
+   "RI_State_Or_Province_Lodzkie": {
+      "message": "Lodzkie"
+   },
+   "RI_State_Or_Province_Louisiana": {
+      "message": "LA"
+   },
+   "RI_State_Or_Province_Lubelskie": {
+      "message": "Lubelskie"
+   },
+   "RI_State_Or_Province_Lubuskie": {
+      "message": "Lubuskie"
+   },
+   "RI_State_Or_Province_Lucerne": {
+      "message": "Lucerne"
+   },
+   "RI_State_Or_Province_Luxembourg": {
+      "message": "Люксембург"
+   },
+   "RI_State_Or_Province_Magadan_oblast": {
+      "message": "Магаданская область"
+   },
+   "RI_State_Or_Province_Maine": {
+      "message": "ME"
+   },
+   "RI_State_Or_Province_Malopolskie": {
+      "message": "Malopolskie"
+   },
+   "RI_State_Or_Province_Manitoba": {
+      "message": "Manitoba"
+   },
+   "RI_State_Or_Province_Marii_El_republic": {
+      "message": "Республика Марий Эл"
+   },
+   "RI_State_Or_Province_Maryland": {
+      "message": "MD"
+   },
+   "RI_State_Or_Province_Massachusetts": {
+      "message": "MA"
+   },
+   "RI_State_Or_Province_Mazowieckie": {
+      "message": "Mazowieckie"
+   },
+   "RI_State_Or_Province_Michigan": {
+      "message": "MI"
+   },
+   "RI_State_Or_Province_Mie": {
+      "message": "Mie"
+   },
+   "RI_State_Or_Province_Minnesota": {
+      "message": "MN"
+   },
+   "RI_State_Or_Province_Mississippi": {
+      "message": "MS"
+   },
+   "RI_State_Or_Province_Missouri": {
+      "message": "MO"
+   },
+   "RI_State_Or_Province_Miyagi": {
+      "message": "Miyagi"
+   },
+   "RI_State_Or_Province_Miyazaki": {
+      "message": "Miyazaki"
+   },
+   "RI_State_Or_Province_Montana": {
+      "message": "MT"
+   },
+   "RI_State_Or_Province_Mordovia_republic": {
+      "message": "Республика Мордовия"
+   },
+   "RI_State_Or_Province_Moscow_city": {
+      "message": "г. Москва"
+   },
+   "RI_State_Or_Province_Moscow_oblast": {
+      "message": "Московская область"
+   },
+   "RI_State_Or_Province_Murmansk_oblast": {
+      "message": "Мурманская область"
+   },
+   "RI_State_Or_Province_Nagano": {
+      "message": "Nagano"
+   },
+   "RI_State_Or_Province_Nagasaki": {
+      "message": "Nagasaki"
+   },
+   "RI_State_Or_Province_Namur": {
+      "message": "Намюр"
+   },
+   "RI_State_Or_Province_Nara": {
+      "message": "Nara"
+   },
+   "RI_State_Or_Province_Nebraska": {
+      "message": "NE"
+   },
+   "RI_State_Or_Province_Nei_Mongol": {
+      "message": "Внутренняя Монголия"
+   },
+   "RI_State_Or_Province_Nenetsk_avt_okrug": {
+      "message": "Ненецкий автономный округ"
+   },
+   "RI_State_Or_Province_Neuchatel": {
+      "message": "Neuchatel"
+   },
+   "RI_State_Or_Province_Nevada": {
+      "message": "NV"
+   },
+   "RI_State_Or_Province_New_Brunswick": {
+      "message": "New Brunswick"
+   },
+   "RI_State_Or_Province_New_Hampshire": {
+      "message": "NH"
+   },
+   "RI_State_Or_Province_New_Jersey": {
+      "message": "NJ"
+   },
+   "RI_State_Or_Province_New_Mexico": {
+      "message": "NM"
+   },
+   "RI_State_Or_Province_New_South_Wales": {
+      "message": "NSW"
+   },
+   "RI_State_Or_Province_New_York": {
+      "message": "NY"
+   },
+   "RI_State_Or_Province_Newfoundland": {
+      "message": "Newfoundland"
+   },
+   "RI_State_Or_Province_Nidwalden": {
+      "message": "Nidwalden"
+   },
+   "RI_State_Or_Province_Niigata": {
+      "message": "Niigata"
+   },
+   "RI_State_Or_Province_Ningxia": {
+      "message": "Нинся"
+   },
+   "RI_State_Or_Province_Nizhegorodskaya_oblast": {
+      "message": "Нижегородская область"
+   },
+   "RI_State_Or_Province_North_Carolina": {
+      "message": "NC"
+   },
+   "RI_State_Or_Province_North_Dakota": {
+      "message": "ND"
+   },
+   "RI_State_Or_Province_Northern_Mariana_Is": {
+      "message": "MP"
+   },
+   "RI_State_Or_Province_Northern_Territory": {
+      "message": "NT"
+   },
+   "RI_State_Or_Province_Northwest_Territories": {
+      "message": "Northwest Territories"
+   },
+   "RI_State_Or_Province_Nova_Scotia": {
+      "message": "Nova Scotia"
+   },
+   "RI_State_Or_Province_Novgorod_oblast": {
+      "message": "Новгородская область"
+   },
+   "RI_State_Or_Province_Novosibirsk_oblast": {
+      "message": "Новосибирская область"
+   },
+   "RI_State_Or_Province_Nunavut": {
+      "message": "Nunavut"
+   },
+   "RI_State_Or_Province_Obwalden": {
+      "message": "Obwalden"
+   },
+   "RI_State_Or_Province_Ohio": {
+      "message": "OH"
+   },
+   "RI_State_Or_Province_Okayama": {
+      "message": "Okayama"
+   },
+   "RI_State_Or_Province_Okinawa": {
+      "message": "Okinawa"
+   },
+   "RI_State_Or_Province_Oklahoma": {
+      "message": "OK"
+   },
+   "RI_State_Or_Province_Omsk_oblast": {
+      "message": "Омская область"
+   },
+   "RI_State_Or_Province_Ontario": {
+      "message": "Ontario"
+   },
+   "RI_State_Or_Province_Ooita": {
+      "message": "Ooita"
+   },
+   "RI_State_Or_Province_Oost_Vlaanderen": {
+      "message": "Восточная Фландрия"
+   },
+   "RI_State_Or_Province_Opolskie": {
+      "message": "Opolskie"
+   },
+   "RI_State_Or_Province_Oregon": {
+      "message": "OR"
+   },
+   "RI_State_Or_Province_Orel_oblast": {
+      "message": "Орловская область"
+   },
+   "RI_State_Or_Province_Orenburg_oblast": {
+      "message": "Оренбургская область"
+   },
+   "RI_State_Or_Province_Osaka": {
+      "message": "Osaka"
+   },
+   "RI_State_Or_Province_Palau": {
+      "message": "PW"
+   },
+   "RI_State_Or_Province_Pennsylvania": {
+      "message": "PA"
+   },
+   "RI_State_Or_Province_Penza_oblast": {
+      "message": "Пензенская область"
+   },
+   "RI_State_Or_Province_Perm_oblast": {
+      "message": "Пермская область"
+   },
+   "RI_State_Or_Province_Podkarpackie": {
+      "message": "Podkarpackie"
+   },
+   "RI_State_Or_Province_Podlaskie": {
+      "message": "Podlaskie"
+   },
+   "RI_State_Or_Province_Pomorskie": {
+      "message": "Pomorskie"
+   },
+   "RI_State_Or_Province_Primorskii_krai": {
+      "message": "Приморский край"
+   },
+   "RI_State_Or_Province_Prince_Edward_Island": {
+      "message": "Prince Edward Island"
+   },
+   "RI_State_Or_Province_Pskov_oblast": {
+      "message": "Псковская область"
+   },
+   "RI_State_Or_Province_Puerto_Rico": {
+      "message": "PR"
+   },
+   "RI_State_Or_Province_Qinghai": {
+      "message": "Qinghai"
+   },
+   "RI_State_Or_Province_Quebec": {
+      "message": "Quebec"
+   },
+   "RI_State_Or_Province_Queensland": {
+      "message": "QLD"
+   },
+   "RI_State_Or_Province_Rhode_Island": {
+      "message": "RI"
+   },
+   "RI_State_Or_Province_Rostov_oblast": {
+      "message": "Ростовская область"
+   },
+   "RI_State_Or_Province_Ryazan_oblast": {
+      "message": "Рязанская область"
+   },
+   "RI_State_Or_Province_Saga": {
+      "message": "Saga"
+   },
+   "RI_State_Or_Province_Saha_republic": {
+      "message": "Республика Саха"
+   },
+   "RI_State_Or_Province_Saint_Gall": {
+      "message": "St. Gall"
+   },
+   "RI_State_Or_Province_Saitama": {
+      "message": "Saitama"
+   },
+   "RI_State_Or_Province_Sakhalin_oblast": {
+      "message": "Сахалинская область"
+   },
+   "RI_State_Or_Province_Samara_oblast": {
+      "message": "Самарская область"
+   },
+   "RI_State_Or_Province_Saratov_oblast": {
+      "message": "Саратовская область"
+   },
+   "RI_State_Or_Province_Saskatchewan": {
+      "message": "Saskatchewan"
+   },
+   "RI_State_Or_Province_Schaffhausen": {
+      "message": "Schaffhausen"
+   },
+   "RI_State_Or_Province_Schwyz": {
+      "message": "Schwyz"
+   },
+   "RI_State_Or_Province_Severnaya_Ossetia_Alaniya_republic": {
+      "message": "Республика Северная Осетия"
+   },
+   "RI_State_Or_Province_Shaanxi": {
+      "message": "Шаньси"
+   },
+   "RI_State_Or_Province_Shandong": {
+      "message": "Шаньдон"
+   },
+   "RI_State_Or_Province_Shanghai": {
+      "message": "Шанхай"
+   },
+   "RI_State_Or_Province_Shanxi": {
+      "message": "Шэньси"
+   },
+   "RI_State_Or_Province_Shiga": {
+      "message": "Shiga"
+   },
+   "RI_State_Or_Province_Shimane": {
+      "message": "Shimane"
+   },
+   "RI_State_Or_Province_Shizuoka": {
+      "message": "Shizuoka"
+   },
+   "RI_State_Or_Province_Sichuan": {
+      "message": "Сычуань"
+   },
+   "RI_State_Or_Province_Slaskie": {
+      "message": "Slaskie"
+   },
+   "RI_State_Or_Province_Smolensk_oblast": {
+      "message": "Смоленская область"
+   },
+   "RI_State_Or_Province_Solothurn": {
+      "message": "Solothurn"
+   },
+   "RI_State_Or_Province_South_Australia": {
+      "message": "SA"
+   },
+   "RI_State_Or_Province_South_Carolina": {
+      "message": "SC"
+   },
+   "RI_State_Or_Province_South_Dakota": {
+      "message": "SD"
+   },
+   "RI_State_Or_Province_St_Petersburg_city": {
+      "message": "г. Санкт-Петербург"
+   },
+   "RI_State_Or_Province_Stavropol_krai": {
+      "message": "Ставропольский край"
+   },
+   "RI_State_Or_Province_Sverdlovsk_oblast": {
+      "message": "Свердловская область"
+   },
+   "RI_State_Or_Province_Swietokrzyskie": {
+      "message": "Swietokrzyskie"
+   },
+   "RI_State_Or_Province_Taimyr_act_okrug": {
+      "message": "Таймырский автономный округ"
+   },
+   "RI_State_Or_Province_Taiwan": {
+      "message": "Тайвань"
+   },
+   "RI_State_Or_Province_Tambov_oblast": {
+      "message": "Тамбовская область"
+   },
+   "RI_State_Or_Province_Tasmania": {
+      "message": "TAS"
+   },
+   "RI_State_Or_Province_Tatarstan_republic": {
+      "message": "Республика Татарстан"
+   },
+   "RI_State_Or_Province_Tennessee": {
+      "message": "TN"
+   },
+   "RI_State_Or_Province_Texas": {
+      "message": "TX"
+   },
+   "RI_State_Or_Province_Thurgovia": {
+      "message": "Thurgovia"
+   },
+   "RI_State_Or_Province_Tianjin": {
+      "message": "Тяньцзинь"
+   },
+   "RI_State_Or_Province_Ticino": {
+      "message": "Ticino"
+   },
+   "RI_State_Or_Province_Tochigi": {
+      "message": "Tochigi"
+   },
+   "RI_State_Or_Province_Tokushima": {
+      "message": "Tokushima"
+   },
+   "RI_State_Or_Province_Tokyo": {
+      "message": "Tokyo"
+   },
+   "RI_State_Or_Province_Tomsk_oblast": {
+      "message": "Томская область"
+   },
+   "RI_State_Or_Province_Tottori": {
+      "message": "Tottori"
+   },
+   "RI_State_Or_Province_Toyama": {
+      "message": "Toyama"
+   },
+   "RI_State_Or_Province_Tula_oblast": {
+      "message": "Тульская область"
+   },
+   "RI_State_Or_Province_Tver_oblast": {
+      "message": "Тверская область"
+   },
+   "RI_State_Or_Province_Tyumen_oblast": {
+      "message": "Тюменская область"
+   },
+   "RI_State_Or_Province_Tywa_republic": {
+      "message": "Республика Тыва"
+   },
+   "RI_State_Or_Province_Udmurtia_republic": {
+      "message": "Удмуртская Республика"
+   },
+   "RI_State_Or_Province_Ulianovsk_oblast": {
+      "message": "Ульяновская область"
+   },
+   "RI_State_Or_Province_Uri": {
+      "message": "Uri"
+   },
+   "RI_State_Or_Province_Ust_Ordynsk_Buryat_avt_okrug": {
+      "message": "Усть-Ордынский Бурятский автономный округ"
+   },
+   "RI_State_Or_Province_Utah": {
+      "message": "UT"
+   },
+   "RI_State_Or_Province_Valais": {
+      "message": "Valais"
+   },
+   "RI_State_Or_Province_Vaud": {
+      "message": "Vaud"
+   },
+   "RI_State_Or_Province_Vermont": {
+      "message": "VT"
+   },
+   "RI_State_Or_Province_Victoria": {
+      "message": "VIC"
+   },
+   "RI_State_Or_Province_Virgin_Island": {
+      "message": "VI"
+   },
+   "RI_State_Or_Province_Virginia": {
+      "message": "VA"
+   },
+   "RI_State_Or_Province_Vlaams_Brabant": {
+      "message": "Фламандский Брабант"
+   },
+   "RI_State_Or_Province_Vladimir_oblast": {
+      "message": "Владимирская область"
+   },
+   "RI_State_Or_Province_Volgograd_oblast": {
+      "message": "Волгоградская область"
+   },
+   "RI_State_Or_Province_Vologod_oblast": {
+      "message": "Вологодская область"
+   },
+   "RI_State_Or_Province_Voronezh_oblast": {
+      "message": "Воронежская область"
+   },
+   "RI_State_Or_Province_Wakayama": {
+      "message": "Wakayama"
+   },
+   "RI_State_Or_Province_Warminsko_Mazurskie": {
+      "message": "Warminsko-Mazurskie"
+   },
+   "RI_State_Or_Province_Washington": {
+      "message": "WA"
+   },
+   "RI_State_Or_Province_West_Virginia": {
+      "message": "WV"
+   },
+   "RI_State_Or_Province_West_Vlaanderen": {
+      "message": "Западная Фландрия"
+   },
+   "RI_State_Or_Province_Western_Australia": {
+      "message": "WA"
+   },
+   "RI_State_Or_Province_Wielkopolskie": {
+      "message": "Wielkopolskie"
+   },
+   "RI_State_Or_Province_Wisconsin": {
+      "message": "WI"
+   },
+   "RI_State_Or_Province_Wyoming": {
+      "message": "WY"
+   },
+   "RI_State_Or_Province_Xianggang": {
+      "message": "Xianggang"
+   },
+   "RI_State_Or_Province_Xinjiang": {
+      "message": "Xinjiang"
+   },
+   "RI_State_Or_Province_Xizang": {
+      "message": "Xizang"
+   },
+   "RI_State_Or_Province_Yamagata": {
+      "message": "Yamagata"
+   },
+   "RI_State_Or_Province_Yamaguchi": {
+      "message": "Yamaguchi"
+   },
+   "RI_State_Or_Province_Yamalo_Nenetsk_avt_okrug": {
+      "message": "Ямало-Ненецкий автономный округ"
+   },
+   "RI_State_Or_Province_Yamanashi": {
+      "message": "Yamanashi"
+   },
+   "RI_State_Or_Province_Yaroslav_oblast": {
+      "message": "Ярославская область"
+   },
+   "RI_State_Or_Province_Yukon": {
+      "message": "Yukon"
+   },
+   "RI_State_Or_Province_Yunnan": {
+      "message": "Юньнань"
+   },
+   "RI_State_Or_Province_Zachodniopomorskie": {
+      "message": "Zachodniopomorskie"
+   },
+   "RI_State_Or_Province_Zhejiang": {
+      "message": "Чжэцзян"
+   },
+   "RI_State_Or_Province_Zug": {
+      "message": "Zug"
+   },
+   "RI_State_Or_Province_Zurich": {
+      "message": "Zurich"
+   },
+   "RI_State_Zip": {
+      "message": "Штат Zip"
+   },
+   "RI_Station": {
+      "message": "Станция"
+   },
+   "RI_Stock_Symbol": {
+      "message": "Биржевой символ"
+   },
+   "RI_StreetName": {
+      "message": "Название улицы"
+   },
+   "RI_StreetNameC_HouseNumber": {
+      "message": "Улица, номер дома"
+   },
+   "RI_StreetName_HouseNumber": {
+      "message": "Улица Номер дома"
+   },
+   "RI_Suburb": {
+      "message": "Город"
+   },
+   "RI_Subway_Station": {
+      "message": "Станция метро"
+   },
+   "RI_Suffix": {
+      "message": "Суффикс"
+   },
+   "RI_Summary___id_account__": {
+      "message": "счет"
+   },
+   "RI_Summary___id_appname__": {
+      "message": "назв. прил."
+   },
+   "RI_Summary___id_bank__": {
+      "message": "банк"
+   },
+   "RI_Summary___id_carmakemodel__": {
+      "message": "марка, модель"
+   },
+   "RI_Summary___id_cell__": {
+      "message": "моб. тел.:\t"
+   },
+   "RI_Summary___id_cvv__": {
+      "message": "cvv"
+   },
+   "RI_Summary___id_expiration__": {
+      "message": "действ. до"
+   },
+   "RI_Summary___id_fax__": {
+      "message": "факс:\t\t"
+   },
+   "RI_Summary___id_filename__": {
+      "message": "имя файла"
+   },
+   "RI_Summary___id_home__": {
+      "message": "дом. тел.:\t"
+   },
+   "RI_Summary___id_mail__": {
+      "message": "эл. почта"
+   },
+   "RI_Summary___id_passportnumber__": {
+      "message": "паспорт"
+   },
+   "RI_Summary___id_password__": {
+      "message": "пароль"
+   },
+   "RI_Summary___id_phone__": {
+      "message": "тел.:\t\t"
+   },
+   "RI_Summary___id_platenumber__": {
+      "message": "гос.номер"
+   },
+   "RI_Summary___id_ssn__": {
+      "message": "Соц.страховка"
+   },
+   "RI_Summary___id_userid__": {
+      "message": "имя"
+   },
+   "RI_Summary___id_work__": {
+      "message": "раб. тел.:\t"
+   },
+   "RI_Tax_ID": {
+      "message": "ИНН"
+   },
+   "RI_Title": {
+      "message": "Титул"
+   },
+   "RI_Title_Dr": {
+      "message": "Д-р"
+   },
+   "RI_Title_Engr": {
+      "message": "Engr"
+   },
+   "RI_Title_Mr": {
+      "message": "Г-н"
+   },
+   "RI_Title_Mrs": {
+      "message": "Г-жа"
+   },
+   "RI_Title_Ms": {
+      "message": "Мисс"
+   },
+   "RI_Title_Prof": {
+      "message": "Проф"
+   },
+   "RI_Toll_Free_Phone": {
+      "message": "Телефон горячей линии"
+   },
+   "RI_Type_Of_Business": {
+      "message": "Тип бизнеса"
+   },
+   "RI_User_ID": {
+      "message": "Имя пользователя"
+   },
+   "RI_Valid_From": {
+      "message": "Дата выдачи"
+   },
+   "RI_Vehicle_Identification_Number": {
+      "message": "VIN"
+   },
+   "RI_Web_Site": {
+      "message": "Веб-сайт"
+   },
+   "RI_Work_Phone": {
+      "message": "Раб. Тлф."
+   },
+   "RI_Work_Phone_Ext": {
+      "message": "добав."
+   },
+   "RI_Yahoo_ID": {
+      "message": "Yahoo ID"
+   },
+   "RI_ZipCode": {
+      "message": "Zip код"
+   },
+   "RI_Zip_Or_PostCode": {
+      "message": "Zip или Индекс"
+   },
+   "RI__End": {
+      "message": ""
+   },
+   "RI__Start": {
+      "message": ""
+   },
+   "RI_dd": {
+      "message": "дд"
+   },
+   "RI_mm": {
+      "message": "мм"
+   },
+   "RI_yyyy": {
+      "message": "гггг"
+   },
+   "ReadOnly_Error": {
+      "message": "Данные только для чтения"
+   },
+   "RenameDlg_InstanceRename_Prompt": {
+      "message": "Переименовать %1 '%2' из %3 '%4' в:"
+   },
+   "RenameDlg_Instance_Type_Text": {
+      "message": "Вариант"
+   },
+   "ReportAnIssue_RFSSTicket_Message": {
+      "message": "В службу поддержки RoboForm: \nНа странице: %1 \nя обнаружил(а) следующие проблемы в работе RoboForm: \n%2"
+   },
+   "ReportAnIssue_RFSSTicket_Subject": {
+      "message": "Проблема RoboForm на %1"
+   },
+   "RfSyncProgress_Analyzed": {
+      "message": "Проанализировано"
+   },
+   "RfSyncProgress_Connecting": {
+      "message": "Соединение..."
+   },
+   "RfSyncProgress_Done": {
+      "message": "Готово"
+   },
+   "RfSyncProgress_RequestingAccountInfo": {
+      "message": "Запрос информации..."
+   },
+   "RfSyncProgress_Synced": {
+      "message": "Синхронизировано"
+   },
+   "RfSyncProgress_Syncing": {
+      "message": "Cинхронизация..."
+   },
+   "RfSyncProgress_SyncingSharedFiles": {
+      "message": "Синхронизация общих файлов..."
+   },
+   "RfSyncProgress_SyncingSharedFolders": {
+      "message": "Синхронизация общих папок..."
+   },
+   "RfSyncProgress_SyncingUsageInfo": {
+      "message": "Синхронизация информации об использовании..."
+   },
+   "RoboForm_Error": {
+      "message": "Ошибка - RoboForm"
+   },
+   "RoboForm_Question": {
+      "message": "Вопрос - RoboForm"
+   },
+   "RoboForm_Warning": {
+      "message": "Предупреждение - RoboForm"
+   },
+   "RoboformType_Bookmark": {
+      "message": "Закладка"
+   },
+   "RoboformType_Bookmarks": {
+      "message": "Закладки"
+   },
+   "RoboformType_Contact": {
+      "message": "Контакт"
+   },
+   "RoboformType_Contacts": {
+      "message": "Контакты"
+   },
+   "RoboformType_File": {
+      "message": "Файл"
+   },
+   "RoboformType_Files": {
+      "message": "Файлы"
+   },
+   "RoboformType_Folder": {
+      "message": "Папка"
+   },
+   "RoboformType_Folders": {
+      "message": "Папки"
+   },
+   "RoboformType_Identities": {
+      "message": "Персоны"
+   },
+   "RoboformType_Identity": {
+      "message": "Персона"
+   },
+   "RoboformType_Login": {
+      "message": "Логин"
+   },
+   "RoboformType_Logins": {
+      "message": "Логины"
+   },
+   "RoboformType_Safenote": {
+      "message": "Заметка"
+   },
+   "RoboformType_Safenotes": {
+      "message": "Заметки"
+   },
+   "RoboformType_Searchcard": {
+      "message": "Поисковая Карта"
+   },
+   "RoboformType_Searchcards": {
+      "message": "Поисковые Карты"
+   },
+   "Roboform_Folder": {
+      "message": "Папка"
+   },
+   "SA_ChangeAccountPwd_Error": {
+      "message": "Код ошибки %1"
+   },
+   "SA_Edge_Setup_Description_First": {
+      "message": "Вы установили расширение RoboForm для Edge.  Для использования всех функций вы должны установить приложение RoboForm для Windows."
+   },
+   "SA_LimitedMode_LinkRF_Text": {
+      "message": "Установите RoboForm"
+   },
+   "SA_LimitedMode_Text": {
+      "message": "Ограниченная функциональность. Для полнофункционального использования "
+   },
+   "SA_Setup_Description_First": {
+      "message": "Вы установили расширение RoboForm, которое имеет ограниченную функциональность. Для использования всех функций вы должны установить приложение RoboForm на ваш компьютер."
+   },
+   "SA_Setup_Description_Repair": {
+      "message": "Ранее вы использовали на вашем компьютере расширение RoboForm с приложением RoboForm, но сейчас приложение RoboForm устарело или не установлено. Нажмите кнопку \"Установить сейчас\" для установки последней версии RoboForm на ваш компьютер."
+   },
+   "SA_Setup_InstallNow_Button": {
+      "message": "Установить сейчас"
+   },
+   "SA_Setup_Skip_Button": {
+      "message": "Пропустить"
+   },
+   "Safenote_ClickToView_Tip": {
+      "message": "Щелкните для просмотра Заметки"
+   },
+   "SaveDlg_ActionNote_Existing_Bookmark": {
+      "message": "Эта Закладка заменит существующую Закладку: '%1'"
+   },
+   "SaveDlg_ActionNote_Existing_Login": {
+      "message": "Информация в Логине '%1' будет заменена новой"
+   },
+   "SaveDlg_ActionNote_NewAccountLogin": {
+      "message": "Информация для учетной записи будет сохранена в новый Логин '%1'"
+   },
+   "SaveDlg_ActionNote_UpdateLoginPassword": {
+      "message": "Старый пароль в Логине '%1' будет заменен новым, другие поля не изменятся"
+   },
+   "SaveDlg_ActionNote_UpdateLoginUrl_Text": {
+      "message": "URL в Логине '%1' будет обновлен"
+   },
+   "SaveDlg_ActionNote_UpdateLogin_Text": {
+      "message": "Данные Логина '%1' будут обновлены"
+   },
+   "SaveDlg_AskBeforeSaving_Text": {
+      "message": "Спрашивать перед сохранением"
+   },
+   "SaveDlg_AutoSavedPassword_LoginTip": {
+      "message": "Автоматически сохранено из формы смены пароля"
+   },
+   "SaveDlg_Folder_Text": {
+      "message": "Папка:"
+   },
+   "SaveDlg_NeverForThisSite_Text": {
+      "message": "Никогда для этого сайта"
+   },
+   "SaveDlg_NewFolder_Text": {
+      "message": "Создать папку..."
+   },
+   "SaveDlg_Note_AccountCreationData_Text": {
+      "message": "Данные учетной записи:"
+   },
+   "SaveDlg_Note_PasswordChanged_Text2": {
+      "message": "%1: пароль изменен с '%2'"
+   },
+   "SaveDlg_PostSave_Notification_Text": {
+      "message": "ваши учетные данные сохранены."
+   },
+   "SaveDlg_PostSave_Notification_Title": {
+      "message": "Успешно"
+   },
+   "SaveDlg_Preview_Group_Title": {
+      "message": "Предпросмотр"
+   },
+   "SaveDlg_ReplaceExistingItem_Section_Text": {
+      "message": "Заменить имеющийся элемент:"
+   },
+   "SaveDlg_ReplaceExistingLogin_Section_Text": {
+      "message": "Заменить имеющийся Логин:"
+   },
+   "SaveDlg_SaveAs_Bookmark_Text": {
+      "message": "Закладка"
+   },
+   "SaveDlg_SaveAs_Login_Text": {
+      "message": "Логин"
+   },
+   "SaveDlg_SaveNewLogin_Section_Text": {
+      "message": "Сохранить новый Логин:"
+   },
+   "SaveDlg_Unblock_Key": {
+      "message": "Разблокировать"
+   },
+   "SaveDlg_UpdateExistingLogin_Section_Text": {
+      "message": "Обновить имеющийся Логин:"
+   },
+   "SaveDlg_UpdateLoginQuestion_Text": {
+      "message": "Вы хотите, чтобы RoboForm обновил ваш Логин?"
+   },
+   "SaveDlg_UpdatePasswordQuestion_Text": {
+      "message": "Обнаружен новый пароль.\nОбновить пароль в Логине '%1'?"
+   },
+   "SaveForms_Disabled": {
+      "message": "Сохранение форм заблокировано правилами безопасности"
+   },
+   "SearchAction_Search_In": {
+      "message": "Поиск '%%query%%' в %1"
+   },
+   "SearchAction_Search_In_RoboForm_Files": {
+      "message": "Поиск '%%query%%' в файлах RoboForm"
+   },
+   "SearchAction_Search_In_RoboForm_Names": {
+      "message": "Поиск '%%query%%' в именах файлов RoboForm"
+   },
+   "SendFilesConfirmation_Title": {
+      "message": "Пользователь RoboForm отправил вам данные RoboForm.\nПожалуйста, примите или отклоните файл(ы):"
+   },
+   "SensitiveFields_Text_2": {
+      "message": "RoboForm обнаружил важные поля. Пожалуйста, подтвердите, что их действительно нужно заполнить:"
+   },
+   "SensitiveFields_Title2": {
+      "message": "Найдены чувствительные поля - RoboForm"
+   },
+   "SessionExpireDlg_Text": {
+      "message": "Ваше сессия истекла. Пожалуйста, авторизуйтесь снова"
+   },
+   "SetupPage_AlreadyHaveAnAccount_Question": {
+      "message": "Уже есть аккаунт?"
+   },
+   "SetupPage_AlreadyHaveAnAccount_Text": {
+      "message": "Уже есть учетная запись RoboForm?"
+   },
+   "SetupPage_CreateAccount_Button_Text": {
+      "message": "Создать Ваш RoboForm Аккаунт"
+   },
+   "SetupPage_CreateAccount_Link_Text": {
+      "message": "Создание Учетной записи"
+   },
+   "SetupPage_DoNotHaveAnAccount_Text": {
+      "message": "Еще нет аккаунта?"
+   },
+   "Setup_CreateAccountWithTakenEmail_Error2": {
+      "message": "Учетная запись с таким адресом электронной почты уже существует.\nПожалуйста, введите другой адрес."
+   },
+   "Setup_LoginWithExistingAccount_Prompt": {
+      "message": "* Расширение RoboForm требует cookies. Убедитесь, что в настройках не заблокировано использование 'Cookies'"
+   },
+   "ShareExistingFolder_TooLongName_Error": {
+      "message": "Имя папки '%1' слишком длинное. Максимальная длина имени для папок общего доступа и групп общего доступа составляет %2 символов."
+   },
+   "SharedFileSettings_CompanyMembersOnlySending_Error": {
+      "message": "Отправка файлов ограничена политикой. Вы можете отправлять файлы только членам Вашей компании."
+   },
+   "SharedFileSettings_CompanyMembersOnlySharing_Error": {
+      "message": "Общий доступ к файлам ограничен политикой. Вы можете обмениваться файлами только с членами Вашей компании."
+   },
+   "SharedFilesConfirmation_Title": {
+      "message": "Пользователь RoboForm хочет поделиться с вами некоторыми данными RoboForm.\nПожалуйста, подтвердите или отклоните общий доступ к файлам:"
+   },
+   "SharedFolderSettings_CompanyMembersOnlySharing_Error": {
+      "message": "Общий доступ к папкам ограничен политикой. Вы можете обмениваться папками только с членами Вашей компании."
+   },
+   "SharedFolderSettings_Folder": {
+      "message": "Общая Папка"
+   },
+   "SharedFolderSettings_Group": {
+      "message": "Группа"
+   },
+   "SharedFolderSettings_RejectSharedFolder": {
+      "message": "Отлючить"
+   },
+   "SharedFolderSettings_RoleOwner": {
+      "message": "Владелец"
+   },
+   "SharedFolder_Revoke_Confirmation": {
+      "message": "Вы хотите отменить общий доступ к папке '%1' от пользователя %2?"
+   },
+   "SharedFoldersConfirmation_Title": {
+      "message": "Пользователь RoboForm хочет поделиться с вами некоторыми данными RoboForm.\nПожалуйста, подтвердите или отклоните общий доступ к папкам:"
+   },
+   "ShowAutoFillUI_Text": {
+      "message": "Показывать на месте Автозаполнения"
+   },
+   "ShowContextMenuCommands_Text2": {
+      "message": "Показывать команды RoboForm в контекстном меню браузера"
+   },
+   "ShowContextMenuCommands_Tip": {
+      "message": "Команды RoboForm будут показываться в контекстном меню браузера"
+   },
+   "ShowLowerToolbarForPopups_Text": {
+      "message": "Показывать нижний тулбар RoboForm для всплывающих окон"
+   },
+   "ShowLowerToolbarForPopups_Tip": {
+      "message": "Тулбар RoboForm будет автоматически показываться внизу всплывающих окон браузера"
+   },
+   "ShowLowerToolbar_Text2": {
+      "message": "Показывать нижний тулбар RoboForm в веб-браузерах"
+   },
+   "ShowLowerToolbar_Tip": {
+      "message": "Полнофункциональный тулбар RoboForm будет показываться внизу всех браузеров, в которых установлено расширение RoboForm"
+   },
+   "StopSharingFolder_DataInFolder_Error": {
+      "message": "Ваши данные сохранены в папке \"%1\".\nОшибка: %2."
+   },
+   "StopSharingFolder_DataInFolder_RemoveShared_Error": {
+      "message": "Ваши данные сохранены в папке \"%1\".\nВы должны удалить или отклонить общую папку(группу).\nОшибка: %2."
+   },
+   "StopSharingFolder_NotFolderOwner_Error": {
+      "message": "Только владелец общей папки может остановить общий доступ к ней"
+   },
+   "UseDesktopEditorForViewAndEdit_Text": {
+      "message": "Использовать десктопный редактор для просмотра и редактирования"
+   },
+   "UseDesktopEditorForViewAndEdit_Tip": {
+      "message": "Команды просмотра и редактирования, вызванные из расширения RoboForm или Стартовой страницы, будут открывать десктопный редактор"
+   },
+   "WelcomePage_Page_Title": {
+      "message": "Добро пожаловать"
+   },
+   "WrongNameLenght_Error": {
+      "message": "Имя должно иметь длину 1-%1 символов"
+   },
+   "Yes": {
+      "message": "Да"
+   }
+}

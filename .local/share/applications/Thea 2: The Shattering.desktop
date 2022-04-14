@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+StartupNotify=true
+Exec=wine Thea2.exe
+Path=/media/pelissd/GOG/Thea 2 The Shattering
+Name=Thea 2: The Shattering
+Icon=/media/pelissd/GOG/Thea 2 The Shattering/support/icon.png

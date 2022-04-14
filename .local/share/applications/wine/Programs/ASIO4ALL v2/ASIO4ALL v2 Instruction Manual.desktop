@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ASIO4ALL v2 Instruction Manual
+Exec=env WINEPREFIX="/home/tommi/.wine" wine C:\\\\users\\\\tommi\\\\AppData\\\\Roaming\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\ASIO4ALL\\ v2\\\\ASIO4ALL\\ v2\\ Instruction\\ Manual.lnk
+Type=Application
+StartupNotify=true
+Path=/home/tommi/.wine/dosdevices/c:/Program Files (x86)/ASIO4ALL v2
+Icon=C736_ASIO4ALL v2 Instruction Manual.0
+StartupWMClass=asio4all v2 instruction manual.pdf

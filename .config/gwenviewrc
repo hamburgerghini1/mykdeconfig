@@ -1,0 +1,35 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+LastUsedVersion=210800
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=32
+
+[MainWindow]
+HDMI-0 Window-Maximized 1920x1080=true
+HDMI-0 XPosition 1920x1080=640
+HDMI-0 YPosition 1920x1080=312
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOgAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=/media/pelissd/SteamLibrary/steamapps/common/Cyberpunk 2077/BonusContent/wallpapers/Night City/NC_ExclusiveSteamWallpapers1080x1920.png
+File2[$e]=/media/pelissd/SteamLibrary/steamapps/common/Cyberpunk 2077/BonusContent/wallpapers/Night City/NC_ExclusiveSteamWallpapers1920x1080.png
+File3[$e]=/media/pelissd/SteamLibrary/steamapps/common/Cyberpunk 2077/BonusContent/wallpapers/Trauma Team/Cyberpunk2077_Wallpapers_TraumaTeam_1920x1080_EN.png
+File4[$e]=/media/pelissd/SteamLibrary/steamapps/common/Cyberpunk 2077/BonusContent/wallpapers/Trauma Team/Cyberpunk2077_Wallpapers_TraumaTeam_1900x1200_ZHT.png
+File5[$e]=/media/pelissd/SteamLibrary/steamapps/common/Cyberpunk 2077/BonusContent/wallpapers/Trauma Team/Cyberpunk2077_Wallpapers_TraumaTeam_2560x1600_KR.png
+File6[$e]=/media/pelissd/SteamLibrary/steamapps/common/Cyberpunk 2077/BonusContent/wallpapers/Militech/Cyberpunk2077_Wallpapers_Militech_1920x1080_EN.png
+File7[$e]=/media/pelissd/SteamLibrary/steamapps/common/Cyberpunk 2077/BonusContent/wallpapers/Kang Tao/Cyberpunk2077_Wallpapers_KangTao_1920x1080_EN.png
+File8[$e]=/media/pelissd/SteamLibrary/steamapps/common/Cyberpunk 2077/BonusContent/wallpapers/Arasaka/Cyberpunk2077_Wallpapers_Arasaka_1920x1080_EN.png
+Name1[$e]=NC_ExclusiveSteamWallpapers1080x1920.png
+Name2[$e]=NC_ExclusiveSteamWallpapers1920x1080.png
+Name3[$e]=Cyberpunk2077_Wallpapers_TraumaTeam_1920x1080_EN.png
+Name4[$e]=Cyberpunk2077_Wallpapers_TraumaTeam_1900x1200_ZHT.png
+Name5[$e]=Cyberpunk2077_Wallpapers_TraumaTeam_2560x1600_KR.png
+Name6[$e]=Cyberpunk2077_Wallpapers_Militech_1920x1080_EN.png
+Name7[$e]=Cyberpunk2077_Wallpapers_KangTao_1920x1080_EN.png
+Name8[$e]=Cyberpunk2077_Wallpapers_Arasaka_1920x1080_EN.png

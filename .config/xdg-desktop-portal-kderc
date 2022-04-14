@@ -1,0 +1,8 @@
+[FileDialogSize]
+HDMI-A-0 Height 1920x1080=600
+HDMI-A-0 Width 1920x1080=980
+
+[KFileDialog Settings]
+Recent Files[$e]=cv.pdf,file:$HOME/Lataukset/cv.pdf
+Recent URLs[$e]=file:$HOME/Lataukset/
+detailViewIconSize=16

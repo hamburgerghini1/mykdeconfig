@@ -1,0 +1,29 @@
+{
+  "dc07b9ead8214591b8df6d2546d2a0e3": {
+    "app_name": "dc07b9ead8214591b8df6d2546d2a0e3",
+    "base_urls": [
+      "https://download.epicgames.com/Builds/Org/o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv/63ed46b9c4964f83baa782aac4d77f7b/default",
+      "https://download2.epicgames.com/Builds/Org/o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv/63ed46b9c4964f83baa782aac4d77f7b/default",
+      "https://download3.epicgames.com/Builds/Org/o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv/63ed46b9c4964f83baa782aac4d77f7b/default",
+      "https://download4.epicgames.com/Builds/Org/o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv/63ed46b9c4964f83baa782aac4d77f7b/default",
+      "https://epicgames-download1.akamaized.net/Builds/Org/o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv/63ed46b9c4964f83baa782aac4d77f7b/default",
+      "https://fastly-download.epicgames.com/Builds/Org/o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv/63ed46b9c4964f83baa782aac4d77f7b/default"
+    ],
+    "can_run_offline": true,
+    "egl_guid": "",
+    "executable": "AvenColony.exe",
+    "install_path": "/home/tommi/Games/Heroic/AvenColony",
+    "install_size": 17803099545,
+    "install_tags": [],
+    "is_dlc": false,
+    "launch_parameters": "",
+    "manifest_path": null,
+    "needs_verification": false,
+    "platform": "Windows",
+    "prereq_info": null,
+    "requires_ot": false,
+    "save_path": null,
+    "title": "Aven Colony",
+    "version": "15"
+  }
+}

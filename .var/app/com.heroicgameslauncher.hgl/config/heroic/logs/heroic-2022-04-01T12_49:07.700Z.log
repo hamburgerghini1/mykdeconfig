@@ -1,0 +1,647 @@
+(15:49:07) INFO:    [Legendary]:       Location: /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(15:49:07) INFO:    [Gog]:             Location: /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(15:49:08) INFO:    [Backend]:         
+  Heroic Version: 2.2.6 Oden
+  Legendary Version:  0.20.25 Our Benefactors
+  OS: Freedesktop.org KERNEL: 5.16.17-201.fsync.fc35.x86_64 ARCH: x64
+  CPU: Intel Core™ i5-10600K @4.1 GOVERNOR: powersave
+  RAM: Total: 33.5 GB Available: 26.5 GB
+  GRAPHICS: GPU0: Device 73df VRAM: 1MB DRIVER:  
+  PROTOCOL: x11
+  
+(15:49:08) ERROR:   [Backend]:         Failed to register protocol with OS.
+(15:49:08) INFO:    [Frontend]:        Refreshing Library
+(15:49:08) INFO:    [Legendary]:       Refreshing library...
+(15:49:08) INFO:    [Legendary]:       Refreshing Epic Games...
+(15:49:08) INFO:    [Legendary]:       Refreshing Epic Games...
+(15:49:09) INFO:    [Legendary]:       [cli] INFO: Logging in...
+(15:49:10) INFO:    [Legendary]:       [Core] INFO: Logging in...
+(15:49:10) INFO:    [Legendary]:       [cli] INFO: Getting game list... (this may take a while)
+(15:49:10) INFO:    [Legendary]:       [Core] INFO: Fetching metadata for 3 app(s).
+(15:49:11) INFO:    [Legendary]:       Updating game list
+(15:49:11) INFO:    [Legendary]:       Game List Updated
+(15:49:12) INFO:    [Legendary]:       Checking for game updates
+(15:49:12) INFO:    [Legendary]:       Found 0 game(s) to update
+(15:49:12) INFO:    [Gog]:             Found 0 game(s) to update
+(15:49:14) INFO:    [Backend]:         checking for heroic updates
+(15:49:14) INFO:    [Backend]:         skipping heroic updates
+(15:51:06) INFO:    [Gog]:             Logging using GOG credentials
+(15:51:07) INFO:    [Gog]:             Login Successful
+(15:51:07) INFO:    [Gog]:             Getting data about the user
+(15:51:07) INFO:    [Gog]:             Saved user data to config
+(15:51:10) INFO:    [Frontend]:        Refreshing Library
+(15:51:10) INFO:    [Gog]:             Getting GOG library
+(15:51:10) INFO:    [Gog]:             Number of library pages: 1
+(15:53:21) WARNING: [Gog]:             Unable to get covers from gamesdb for The Witcher: Enhanced Edition. Trying to get it from api.gog.com
+(15:53:21) INFO:    [Gog]:             Saved games data
+(15:53:21) INFO:    [Legendary]:       Refreshing library...
+(15:53:21) INFO:    [Legendary]:       Refreshing Epic Games...
+(15:53:21) INFO:    [Legendary]:       Refreshing Epic Games...
+(15:53:21) INFO:    [Legendary]:       [cli] INFO: Logging in...
+(15:53:21) INFO:    [Legendary]:       [Core] INFO: Trying to re-use existing login session...
+(15:53:22) INFO:    [Legendary]:       [cli] INFO: Getting game list... (this may take a while)
+(15:53:22) INFO:    [Legendary]:       Updating game list
+(15:53:22) INFO:    [Legendary]:       Game List Updated
+(15:53:25) INFO:    [Frontend]:        Refreshing Library
+(15:53:25) INFO:    [Gog]:             Getting GOG library
+(15:53:25) INFO:    [Gog]:             Number of library pages: 1
+(15:53:25) INFO:    [Gog]:             Saved games data
+(15:53:25) INFO:    [Legendary]:       Refreshing library...
+(15:53:25) INFO:    [Legendary]:       Refreshing Epic Games...
+(15:53:25) INFO:    [Legendary]:       Refreshing Epic Games...
+(15:53:26) INFO:    [Legendary]:       [cli] INFO: Logging in...
+(15:53:26) INFO:    [Legendary]:       [Core] INFO: Trying to re-use existing login session...
+(15:53:27) INFO:    [Legendary]:       [cli] INFO: Getting game list... (this may take a while)
+(15:53:27) INFO:    [Legendary]:       Updating game list
+(15:53:27) INFO:    [Legendary]:       Game List Updated
+(15:53:28) INFO:    [Legendary]:       Checking for game updates
+(15:53:28) INFO:    [Legendary]:       Found 0 game(s) to update
+(15:53:28) INFO:    [Gog]:             Found 0 game(s) to update
+(15:55:30) INFO:    [Gog]:             Installing 1582025844 with: "/app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl" download 1582025844 --platform windows --path="/media/pelissd/Heroic" --skip-dlcs --lang="en-US"  |& tee "/home/tommi/.var/app/com.heroicgameslauncher.hgl/config/heroic/GamesConfig/1582025844.log"
+(15:55:31) INFO:    [Backend]:         Progress: 1582025844 0.00/0.00
+MiB/77221:06:00
+
+(15:55:33) INFO:    [Backend]:         Progress: 1582025844 0.07/1.91
+MiB/00:46:01
+
+(15:55:34) INFO:    [Backend]:         Progress: 1582025844 0.60/15.99
+MiB/00:21:03
+
+(15:55:36) INFO:    [Backend]:         Progress: 1582025844 0.90/23.94
+MiB/00:21:04
+
+(15:55:37) INFO:    [Backend]:         Progress: 1582025844 2.17/57.54
+MiB/00:15:06
+
+(15:55:39) INFO:    [Backend]:         Progress: 1582025844 2.41/63.96
+MiB/00:20:07
+
+(15:55:40) INFO:    [Backend]:         Progress: 1582025844 3.49/92.47
+MiB/00:20:09
+
+(15:55:42) INFO:    [Backend]:         Progress: 1582025844 3.74/99.21
+MiB/00:23:10
+
+(15:55:43) INFO:    [Backend]:         Progress: 1582025844 3.91/103.61
+MiB/00:47:12
+
+(15:55:45) INFO:    [Backend]:         Progress: 1582025844 4.46/118.21
+MiB/00:59:13
+
+(15:55:46) INFO:    [Backend]:         Progress: 1582025844 4.85/128.59
+MiB/01:32:15
+
+(15:55:48) INFO:    [Backend]:         Progress: 1582025844 5.12/135.76
+MiB/01:30:16
+
+(15:55:49) INFO:    [Backend]:         Progress: 1582025844 6.19/164.19
+MiB/01:13:18
+
+(15:55:51) INFO:    [Backend]:         Progress: 1582025844 7.15/189.43
+MiB/01:00:19
+
+(15:55:52) INFO:    [Backend]:         Progress: 1582025844 7.99/211.86
+MiB/00:50:21
+
+(15:55:54) INFO:    [Backend]:         Progress: 1582025844 8.37/221.95
+MiB/00:58:22
+
+(15:55:55) INFO:    [Backend]:         Progress: 1582025844 9.28/246.07
+MiB/01:18:24
+
+(15:55:57) INFO:    [Backend]:         Progress: 1582025844 9.72/257.82
+MiB/01:11:25
+
+(15:55:58) INFO:    [Backend]:         Progress: 1582025844 10.46/277.42
+MiB/01:28:27
+
+(15:56:00) INFO:    [Backend]:         Progress: 1582025844 10.84/287.37
+MiB/01:29:28
+
+(15:56:01) INFO:    [Backend]:         Progress: 1582025844 11.68/309.59
+MiB/01:46:30
+
+(15:56:03) INFO:    [Backend]:         Progress: 1582025844 12.13/321.60
+MiB/01:42:31
+
+(15:56:04) INFO:    [Backend]:         Progress: 1582025844 12.76/338.32
+MiB/01:57:33
+
+(15:56:06) INFO:    [Backend]:         Progress: 1582025844 13.65/361.80
+MiB/01:28:34
+
+(15:56:07) INFO:    [Backend]:         Progress: 1582025844 14.27/378.34
+MiB/01:53:36
+
+(15:56:09) INFO:    [Backend]:         Progress: 1582025844 14.65/388.52
+MiB/01:48:37
+
+(15:56:10) INFO:    [Backend]:         Progress: 1582025844 15.17/402.28
+MiB/02:50:39
+
+(15:56:12) INFO:    [Backend]:         Progress: 1582025844 15.39/408.04
+MiB/02:47:40
+
+(15:56:13) INFO:    [Backend]:         Progress: 1582025844 16.65/441.48
+MiB/02:20:42
+
+(15:56:15) INFO:    [Backend]:         Progress: 1582025844 17.21/456.16
+MiB/02:15:43
+
+(15:56:16) INFO:    [Backend]:         Progress: 1582025844 17.83/472.83
+MiB/01:59:45
+
+(15:56:18) INFO:    [Backend]:         Progress: 1582025844 17.92/474.98
+MiB/02:54:46
+
+(15:56:19) INFO:    [Backend]:         Progress: 1582025844 18.78/498.01
+MiB/03:16:48
+
+(15:56:21) INFO:    [Backend]:         Progress: 1582025844 19.08/505.78
+MiB/03:34:49
+
+(15:56:22) INFO:    [Backend]:         Progress: 1582025844 20.29/537.87
+MiB/02:17:51
+
+(15:56:24) INFO:    [Backend]:         Progress: 1582025844 20.63/546.92
+MiB/03:01:52
+
+(15:56:25) INFO:    [Backend]:         Progress: 1582025844 21.68/574.74
+MiB/02:09:54
+
+(15:56:27) INFO:    [Backend]:         Progress: 1582025844 21.80/577.89
+MiB/02:39:55
+
+(15:56:28) INFO:    [Backend]:         Progress: 1582025844 22.29/590.93
+MiB/03:31:57
+
+(15:56:30) INFO:    [Backend]:         Progress: 1582025844 22.89/606.94
+MiB/04:40:58
+
+(15:56:31) INFO:    [Backend]:         Progress: 1582025844 24.06/637.93
+MiB/02:43:00
+
+(15:56:33) INFO:    [Backend]:         Progress: 1582025844 24.52/650.08
+MiB/02:23:01
+
+(15:56:34) INFO:    [Backend]:         Progress: 1582025844 25.51/676.21
+MiB/02:24:03
+
+(15:56:36) INFO:    [Backend]:         Progress: 1582025844 25.81/684.33
+MiB/02:43:04
+
+(15:56:37) INFO:    [Backend]:         Progress: 1582025844 26.76/709.33
+MiB/02:54:06
+
+(15:56:39) INFO:    [Backend]:         Progress: 1582025844 27.14/719.53
+MiB/03:20:07
+
+(15:56:40) INFO:    [Backend]:         Progress: 1582025844 28.18/747.08
+MiB/02:49:09
+
+(15:56:42) INFO:    [Backend]:         Progress: 1582025844 28.61/758.55
+MiB/03:03:10
+
+(15:56:43) INFO:    [Backend]:         Progress: 1582025844 29.20/774.16
+MiB/03:19:12
+
+(15:56:45) INFO:    [Backend]:         Progress: 1582025844 29.56/783.62
+MiB/03:38:13
+
+(15:56:46) INFO:    [Backend]:         Progress: 1582025844 30.88/818.59
+MiB/03:07:15
+
+(15:56:48) INFO:    [Backend]:         Progress: 1582025844 31.03/822.54
+MiB/03:33:16
+
+(15:56:49) INFO:    [Backend]:         Progress: 1582025844 31.74/841.42
+MiB/03:17:18
+
+(15:56:51) INFO:    [Backend]:         Progress: 1582025844 32.10/850.96
+MiB/03:03:19
+
+(15:56:52) INFO:    [Backend]:         Progress: 1582025844 33.36/884.31
+MiB/03:09:21
+
+(15:56:54) INFO:    [Backend]:         Progress: 1582025844 33.58/890.18
+MiB/03:34:22
+
+(15:56:55) INFO:    [Backend]:         Progress: 1582025844 34.31/909.65
+MiB/03:21:24
+
+(15:56:57) INFO:    [Backend]:         Progress: 1582025844 35.13/931.47
+MiB/03:25:25
+
+(15:56:58) INFO:    [Backend]:         Progress: 1582025844 35.67/945.58
+MiB/03:37:27
+
+(15:57:00) INFO:    [Backend]:         Progress: 1582025844 36.30/962.26
+MiB/03:18:28
+
+(15:57:01) INFO:    [Backend]:         Progress: 1582025844 37.11/983.86
+MiB/03:54:30
+
+(15:57:03) INFO:    [Backend]:         Progress: 1582025844 37.60/996.71
+MiB/03:41:31
+
+(15:57:04) INFO:    [Backend]:         Progress: 1582025844 38.43/1018.87
+MiB/03:38:33
+
+(15:57:06) INFO:    [Backend]:         Progress: 1582025844 38.72/1026.54
+MiB/03:58:34
+
+(15:57:07) INFO:    [Backend]:         Progress: 1582025844 39.60/1049.90
+MiB/03:56:36
+
+(15:57:09) INFO:    [Backend]:         Progress: 1582025844 40.01/1060.61
+MiB/04:01:37
+
+(15:57:10) INFO:    [Backend]:         Progress: 1582025844 40.92/1084.75
+MiB/03:37:39
+
+(15:57:12) INFO:    [Backend]:         Progress: 1582025844 41.23/1092.97
+MiB/04:05:40
+
+(15:57:13) INFO:    [Backend]:         Progress: 1582025844 41.84/1109.24
+MiB/04:23:42
+
+(15:57:15) INFO:    [Backend]:         Progress: 1582025844 42.22/1119.42
+MiB/04:54:43
+
+(15:57:16) INFO:    [Backend]:         Progress: 1582025844 43.12/1143.23
+MiB/04:18:45
+
+(15:57:18) INFO:    [Backend]:         Progress: 1582025844 43.38/1150.01
+MiB/04:19:46
+
+(15:57:19) INFO:    [Backend]:         Progress: 1582025844 44.07/1168.37
+MiB/04:27:48
+
+(15:57:21) INFO:    [Backend]:         Progress: 1582025844 44.73/1185.93
+MiB/04:24:49
+
+(15:57:22) INFO:    [Backend]:         Progress: 1582025844 45.52/1206.84
+MiB/03:51:51
+
+(15:57:24) INFO:    [Backend]:         Progress: 1582025844 46.09/1221.83
+MiB/03:18:52
+
+(15:57:25) INFO:    [Backend]:         Progress: 1582025844 46.79/1240.54
+MiB/04:01:54
+
+(15:57:27) INFO:    [Backend]:         Progress: 1582025844 47.30/1253.97
+MiB/03:30:55
+
+(15:57:28) INFO:    [Backend]:         Progress: 1582025844 47.91/1270.11
+MiB/04:34:57
+
+(15:57:30) INFO:    [Backend]:         Progress: 1582025844 48.67/1290.28
+MiB/03:48:58
+
+(15:57:31) INFO:    [Backend]:         Progress: 1582025844 49.48/1311.69
+MiB/03:48:00
+
+(15:57:33) INFO:    [Backend]:         Progress: 1582025844 49.96/1324.54
+MiB/03:28:01
+
+(15:57:34) INFO:    [Backend]:         Progress: 1582025844 50.54/1340.03
+MiB/04:25:03
+
+(15:57:36) INFO:    [Backend]:         Progress: 1582025844 51.20/1357.37
+MiB/03:49:04
+
+(15:57:37) INFO:    [Backend]:         Progress: 1582025844 51.96/1377.67
+MiB/04:08:06
+
+(15:57:39) INFO:    [Backend]:         Progress: 1582025844 52.50/1391.91
+MiB/03:38:07
+
+(15:57:40) INFO:    [Backend]:         Progress: 1582025844 53.30/1413.04
+MiB/03:55:09
+
+(15:57:42) INFO:    [Backend]:         Progress: 1582025844 53.64/1422.03
+MiB/03:55:10
+
+(15:57:43) INFO:    [Backend]:         Progress: 1582025844 54.29/1439.42
+MiB/04:36:12
+
+(15:57:45) INFO:    [Backend]:         Progress: 1582025844 54.74/1451.28
+MiB/04:12:13
+
+(15:57:46) INFO:    [Backend]:         Progress: 1582025844 55.58/1473.40
+MiB/04:14:15
+
+(15:57:48) INFO:    [Backend]:         Progress: 1582025844 55.83/1480.20
+MiB/04:17:16
+
+(15:57:49) INFO:    [Backend]:         Progress: 1582025844 56.65/1501.96
+MiB/04:17:18
+
+(15:57:51) INFO:    [Backend]:         Progress: 1582025844 57.42/1522.29
+MiB/03:32:19
+
+(15:57:52) INFO:    [Backend]:         Progress: 1582025844 58.18/1542.58
+MiB/03:26:21
+
+(15:57:54) INFO:    [Backend]:         Progress: 1582025844 58.64/1554.73
+MiB/03:34:22
+
+(15:57:55) INFO:    [Backend]:         Progress: 1582025844 59.43/1575.62
+MiB/03:59:24
+
+(15:57:57) INFO:    [Backend]:         Progress: 1582025844 59.90/1588.15
+MiB/03:40:25
+
+(15:57:58) INFO:    [Backend]:         Progress: 1582025844 60.58/1606.20
+MiB/04:05:27
+
+(15:58:00) INFO:    [Backend]:         Progress: 1582025844 61.10/1619.98
+MiB/03:35:28
+
+(15:58:01) INFO:    [Backend]:         Progress: 1582025844 61.97/1643.03
+MiB/03:46:30
+
+(15:58:03) INFO:    [Backend]:         Progress: 1582025844 62.38/1653.84
+MiB/03:51:31
+
+(15:58:04) INFO:    [Backend]:         Progress: 1582025844 63.06/1671.88
+MiB/03:57:33
+
+(15:58:06) INFO:    [Backend]:         Progress: 1582025844 63.52/1683.93
+MiB/04:15:34
+
+(15:58:07) INFO:    [Backend]:         Progress: 1582025844 64.45/1708.68
+MiB/03:41:36
+
+(15:58:09) INFO:    [Backend]:         Progress: 1582025844 64.75/1716.68
+MiB/03:54:37
+
+(15:58:10) INFO:    [Backend]:         Progress: 1582025844 65.63/1739.91
+MiB/03:33:39
+
+(15:58:12) INFO:    [Backend]:         Progress: 1582025844 66.00/1749.70
+MiB/03:40:40
+
+(15:58:13) INFO:    [Backend]:         Progress: 1582025844 66.81/1771.14
+MiB/03:35:42
+
+(15:58:15) INFO:    [Backend]:         Progress: 1582025844 67.14/1779.91
+MiB/03:30:43
+
+(15:58:16) INFO:    [Backend]:         Progress: 1582025844 68.07/1804.59
+MiB/03:29:45
+
+(15:58:18) INFO:    [Backend]:         Progress: 1582025844 68.48/1815.50
+MiB/03:22:46
+
+(15:58:19) INFO:    [Backend]:         Progress: 1582025844 69.32/1837.79
+MiB/03:14:48
+
+(15:58:21) INFO:    [Backend]:         Progress: 1582025844 69.43/1840.64
+MiB/03:52:49
+
+(15:58:22) INFO:    [Backend]:         Progress: 1582025844 70.44/1867.40
+MiB/03:33:51
+
+(15:58:24) INFO:    [Backend]:         Progress: 1582025844 70.81/1877.19
+MiB/03:35:52
+
+(15:58:25) INFO:    [Backend]:         Progress: 1582025844 71.49/1895.29
+MiB/03:18:54
+
+(15:58:27) INFO:    [Backend]:         Progress: 1582025844 72.26/1915.77
+MiB/03:04:55
+
+(15:58:28) INFO:    [Backend]:         Progress: 1582025844 72.87/1931.98
+MiB/03:11:57
+
+(15:58:30) INFO:    [Backend]:         Progress: 1582025844 73.35/1944.75
+MiB/03:02:58
+
+(15:58:31) INFO:    [Backend]:         Progress: 1582025844 74.12/1965.03
+MiB/03:26:00
+
+(15:58:33) INFO:    [Backend]:         Progress: 1582025844 74.54/1976.29
+MiB/03:20:01
+
+(15:58:34) INFO:    [Backend]:         Progress: 1582025844 75.04/1989.57
+MiB/03:42:03
+
+(15:58:36) INFO:    [Backend]:         Progress: 1582025844 75.57/2003.59
+MiB/03:20:04
+
+(15:58:37) INFO:    [Backend]:         Progress: 1582025844 76.29/2022.70
+MiB/03:28:06
+
+(15:58:39) INFO:    [Backend]:         Progress: 1582025844 76.70/2033.40
+MiB/03:05:07
+
+(15:58:40) INFO:    [Backend]:         Progress: 1582025844 77.35/2050.66
+MiB/03:19:09
+
+(15:58:42) INFO:    [Backend]:         Progress: 1582025844 77.64/2058.39
+MiB/03:16:10
+
+(15:58:43) INFO:    [Backend]:         Progress: 1582025844 78.34/2076.81
+MiB/03:29:12
+
+(15:58:45) INFO:    [Backend]:         Progress: 1582025844 78.64/2084.89
+MiB/03:15:13
+
+(15:58:46) INFO:    [Backend]:         Progress: 1582025844 79.46/2106.72
+MiB/03:01:15
+
+(15:58:48) INFO:    [Backend]:         Progress: 1582025844 79.73/2113.67
+MiB/03:01:16
+
+(15:58:49) INFO:    [Backend]:         Progress: 1582025844 80.46/2133.11
+MiB/02:55:18
+
+(15:58:51) INFO:    [Backend]:         Progress: 1582025844 80.96/2146.38
+MiB/02:47:19
+
+(15:58:52) INFO:    [Backend]:         Progress: 1582025844 81.49/2160.54
+MiB/02:53:21
+
+(15:58:54) INFO:    [Backend]:         Progress: 1582025844 82.10/2176.73
+MiB/02:41:22
+
+(15:58:55) INFO:    [Backend]:         Progress: 1582025844 82.87/2196.91
+MiB/02:31:24
+
+(15:58:57) INFO:    [Backend]:         Progress: 1582025844 83.26/2207.41
+MiB/02:24:25
+
+(15:58:58) INFO:    [Backend]:         Progress: 1582025844 83.90/2224.25
+MiB/02:33:27
+
+(15:59:00) INFO:    [Backend]:         Progress: 1582025844 84.25/2233.70
+MiB/02:34:28
+
+(15:59:01) INFO:    [Backend]:         Progress: 1582025844 85.08/2255.60
+MiB/02:22:30
+
+(15:59:03) INFO:    [Backend]:         Progress: 1582025844 85.25/2260.24
+MiB/02:28:31
+
+(15:59:04) INFO:    [Backend]:         Progress: 1582025844 86.04/2280.95
+MiB/02:17:33
+
+(15:59:06) INFO:    [Backend]:         Progress: 1582025844 86.39/2290.25
+MiB/02:25:34
+
+(15:59:07) INFO:    [Backend]:         Progress: 1582025844 87.10/2309.16
+MiB/02:04:36
+
+(15:59:09) INFO:    [Backend]:         Progress: 1582025844 87.53/2320.48
+MiB/01:53:37
+
+(15:59:10) INFO:    [Backend]:         Progress: 1582025844 88.27/2340.19
+MiB/01:52:39
+
+(15:59:12) INFO:    [Backend]:         Progress: 1582025844 88.51/2346.64
+MiB/01:58:40
+
+(15:59:13) INFO:    [Backend]:         Progress: 1582025844 89.32/2368.08
+MiB/01:49:42
+
+(15:59:15) INFO:    [Backend]:         Progress: 1582025844 89.69/2377.80
+MiB/01:37:43
+
+(15:59:16) INFO:    [Backend]:         Progress: 1582025844 89.99/2397.17
+MiB/01:47:44
+
+(15:59:18) INFO:    [Backend]:         Progress: 1582025844 90.73/2405.49
+MiB/01:34:46
+
+(15:59:19) INFO:    [Backend]:         Progress: 1582025844 91.39/2422.89
+MiB/01:35:48
+
+(15:59:21) INFO:    [Backend]:         Progress: 1582025844 91.79/2433.60
+MiB/01:26:49
+
+(15:59:22) INFO:    [Backend]:         Progress: 1582025844 92.01/2450.22
+MiB/01:35:50
+
+(15:59:24) INFO:    [Backend]:         Progress: 1582025844 92.84/2461.42
+MiB/01:18:52
+
+(15:59:25) INFO:    [Backend]:         Progress: 1582025844 93.36/2475.11
+MiB/01:22:54
+
+(15:59:27) INFO:    [Backend]:         Progress: 1582025844 93.89/2489.22
+MiB/01:03:55
+
+(15:59:28) INFO:    [Backend]:         Progress: 1582025844 94.24/2503.65
+MiB/01:01:56
+
+(15:59:30) INFO:    [Backend]:         Progress: 1582025844 94.61/2508.15
+MiB/01:07:58
+
+(15:59:31) INFO:    [Backend]:         Progress: 1582025844 94.95/2517.24
+MiB/01:02:59
+
+(15:59:33) INFO:    [Backend]:         Progress: 1582025844 95.52/2532.49
+MiB/01:09:01
+
+(15:59:34) INFO:    [Backend]:         Progress: 1582025844 95.89/2542.23
+MiB/00:56:02
+
+(15:59:36) INFO:    [Backend]:         Progress: 1582025844 96.67/2562.92
+MiB/00:39:04
+
+(15:59:37) INFO:    [Backend]:         Progress: 1582025844 96.88/2568.44
+MiB/00:39:05
+
+(15:59:39) INFO:    [Backend]:         Progress: 1582025844 97.60/2587.43
+MiB/00:28:07
+
+(15:59:40) INFO:    [Backend]:         Progress: 1582025844 97.96/2597.12
+MiB/00:26:08
+
+(15:59:42) INFO:    [Backend]:         Progress: 1582025844 98.70/2616.63
+MiB/00:14:10
+
+(15:59:43) INFO:    [Backend]:         Progress: 1582025844 99.03/2625.39
+MiB/00:11:11
+
+(15:59:45) INFO:    [Backend]:         Progress: 1582025844 99.56/2639.58
+MiB/00:05:13
+
+(15:59:46) INFO:    [Backend]:         Progress: 1582025844 100.00/2651.18
+MiB/00:00:14
+
+(15:59:48) INFO:    [Backend]:         Progress: 1582025844 100.00/2651.18
+MiB/00:00:16
+
+(15:59:49) INFO:    [Backend]:         Progress: 1582025844 100.00/2651.18
+MiB/00:00:17
+
+(15:59:51) INFO:    [Backend]:         Progress: 1582025844 100.00/2651.18
+MiB/00:00:19
+
+(15:59:52) INFO:    [Backend]:         Progress: 1582025844 100.00/2651.18
+MiB/00:00:20
+
+(15:59:53) INFO:    [Backend]:         finished installing
+(15:59:54) INFO:    [Frontend]:        Refreshing Library
+(15:59:54) INFO:    [Gog]:             Getting GOG library
+(15:59:54) INFO:    [Gog]:             Number of library pages: 1
+(15:59:54) INFO:    [Gog]:             Saved games data
+(15:59:54) INFO:    [Legendary]:       Refreshing library...
+(15:59:54) INFO:    [Legendary]:       Updating game list
+(15:59:54) INFO:    [Legendary]:       Game List Updated
+(16:04:50) WARNING: [DXVKInstaller]:   DXVK cannot be installed on a Proton or a invalid prefix!
+(16:04:51) WARNING: [DXVKInstaller]:   DXVK cannot be installed on a Proton or a invalid prefix!
+(16:05:16) INFO:    [Backend]:         launching Thea 2: The Shattering 1582025844
+(16:05:16) INFO:    [Backend]:         creating new prefix /home/tommi/Games/Heroic/Prefixes/Thea-2-The-Shattering
+(16:05:16) ERROR:   [Backend]:         Error: Command failed: WINEPREFIX='/home/tommi/Games/Heroic/Prefixes/Thea-2-The-Shattering' ''/home/tommi/.local/share/lutris/runners/wine/lutris-6.21-6-x86_64/bin/wineboot' -i &&  ''/home/tommi/.local/share/lutris/runners/wine/lutris-6.21-6-x86_64/bin/wineserver' --wait
+/bin/sh: rivi 1: /home/tommi/.local/share/lutris/runners/wine/lutris-6.21-6-x86_64/bin/wineboot -i &&  /home/tommi/.local/share/lutris/runners/wine/lutris-6.21-6-x86_64/bin/wineserver: Tiedostoa tai hakemistoa ei ole
+
+(16:05:16) WARNING: [DXVKInstaller]:   DXVK cannot be installed on a Proton or a invalid prefix!
+(16:05:16) INFO:    [Gog]:             Launch Command: DXVK_HUD=fps WINE_FULLSCREEN_FSR=1 WINEFSYNC=1 WINE_FULLSCREEN_FSR_STRENGTH=3 /app/bin/gamemoderun mangohud --dlsym "/app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl" launch "/media/pelissd/Heroic/Thea 2 The Shattering" 1582025844 --wine '/home/tommi/.local/share/lutris/runners/wine/lutris-6.21-6-x86_64/bin/wine' --wine-prefix '/home/tommi/Games/Heroic/Prefixes/Thea-2-The-Shattering' --os windows
+(16:05:16) ERROR:   [Legendary]:       Error: Command failed: DXVK_HUD=fps WINE_FULLSCREEN_FSR=1 WINEFSYNC=1 WINE_FULLSCREEN_FSR_STRENGTH=3 /app/bin/gamemoderun mangohud --dlsym "/app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl" launch "/media/pelissd/Heroic/Thea 2 The Shattering" 1582025844 --wine '/home/tommi/.local/share/lutris/runners/wine/lutris-6.21-6-x86_64/bin/wine' --wine-prefix '/home/tommi/Games/Heroic/Prefixes/Thea-2-The-Shattering' --os windows
+env: ”mangohud”: Tiedostoa tai hakemistoa ei ole
+
+(16:05:16) INFO:    [Backend]:         Log was written to /home/tommi/.var/app/com.heroicgameslauncher.hgl/config/heroic/GamesConfig/1582025844-lastPlay.log
+(16:05:18) INFO:    [Backend]:         launching Thea 2: The Shattering 1582025844
+(16:05:18) WARNING: [DXVKInstaller]:   DXVK cannot be installed on a Proton or a invalid prefix!
+(16:05:18) INFO:    [Gog]:             Launch Command: DXVK_HUD=fps WINE_FULLSCREEN_FSR=1 WINEFSYNC=1 WINE_FULLSCREEN_FSR_STRENGTH=3 /app/bin/gamemoderun mangohud --dlsym "/app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl" launch "/media/pelissd/Heroic/Thea 2 The Shattering" 1582025844 --wine '/home/tommi/.local/share/lutris/runners/wine/lutris-6.21-6-x86_64/bin/wine' --wine-prefix '/home/tommi/Games/Heroic/Prefixes/Thea-2-The-Shattering' --os windows
+(16:05:18) ERROR:   [Legendary]:       Error: Command failed: DXVK_HUD=fps WINE_FULLSCREEN_FSR=1 WINEFSYNC=1 WINE_FULLSCREEN_FSR_STRENGTH=3 /app/bin/gamemoderun mangohud --dlsym "/app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl" launch "/media/pelissd/Heroic/Thea 2 The Shattering" 1582025844 --wine '/home/tommi/.local/share/lutris/runners/wine/lutris-6.21-6-x86_64/bin/wine' --wine-prefix '/home/tommi/Games/Heroic/Prefixes/Thea-2-The-Shattering' --os windows
+env: ”mangohud”: Tiedostoa tai hakemistoa ei ole
+
+(16:05:18) INFO:    [Backend]:         Log was written to /home/tommi/.var/app/com.heroicgameslauncher.hgl/config/heroic/GamesConfig/1582025844-lastPlay.log
+(16:05:21) INFO:    [Backend]:         launching Thea 2: The Shattering 1582025844
+(16:05:21) WARNING: [DXVKInstaller]:   DXVK cannot be installed on a Proton or a invalid prefix!
+(16:05:21) INFO:    [Gog]:             Launch Command: DXVK_HUD=fps WINE_FULLSCREEN_FSR=1 WINEFSYNC=1 WINE_FULLSCREEN_FSR_STRENGTH=3 /app/bin/gamemoderun mangohud --dlsym "/app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl" launch "/media/pelissd/Heroic/Thea 2 The Shattering" 1582025844 --wine '/home/tommi/.local/share/lutris/runners/wine/lutris-6.21-6-x86_64/bin/wine' --wine-prefix '/home/tommi/Games/Heroic/Prefixes/Thea-2-The-Shattering' --os windows
+(16:05:21) ERROR:   [Legendary]:       Error: Command failed: DXVK_HUD=fps WINE_FULLSCREEN_FSR=1 WINEFSYNC=1 WINE_FULLSCREEN_FSR_STRENGTH=3 /app/bin/gamemoderun mangohud --dlsym "/app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl" launch "/media/pelissd/Heroic/Thea 2 The Shattering" 1582025844 --wine '/home/tommi/.local/share/lutris/runners/wine/lutris-6.21-6-x86_64/bin/wine' --wine-prefix '/home/tommi/Games/Heroic/Prefixes/Thea-2-The-Shattering' --os windows
+env: ”mangohud”: Tiedostoa tai hakemistoa ei ole
+
+(16:05:21) INFO:    [Backend]:         Log was written to /home/tommi/.var/app/com.heroicgameslauncher.hgl/config/heroic/GamesConfig/1582025844-lastPlay.log
+(16:05:29) INFO:    [Backend]:         launching Thea 2: The Shattering 1582025844
+(16:05:29) WARNING: [Backend]:         You are using Proton, this can lead to some bugs,
+          please do not open issues with bugs related with games Proton - Proton - Experimental
+(16:05:29) INFO:    [Gog]:             Launch Command: DXVK_HUD=fps WINE_FULLSCREEN_FSR=1 WINEFSYNC=1 WINE_FULLSCREEN_FSR_STRENGTH=3 STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/tommi/.var/app/com.heroicgameslauncher.hgl/.steam/steam STEAM_COMPAT_DATA_PATH='/home/tommi/Games/Heroic/Prefixes/Thea-2-The-Shattering' /app/bin/gamemoderun mangohud --dlsym "/app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl" launch "/media/pelissd/Heroic/Thea 2 The Shattering" 1582025844 --no-wine --wrapper "'/home/tommi/.steam/steam/steamapps/common/Proton - Experimental/proton' run" --os windows
+(16:05:29) ERROR:   [Legendary]:       Error: Command failed: DXVK_HUD=fps WINE_FULLSCREEN_FSR=1 WINEFSYNC=1 WINE_FULLSCREEN_FSR_STRENGTH=3 STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/tommi/.var/app/com.heroicgameslauncher.hgl/.steam/steam STEAM_COMPAT_DATA_PATH='/home/tommi/Games/Heroic/Prefixes/Thea-2-The-Shattering' /app/bin/gamemoderun mangohud --dlsym "/app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl" launch "/media/pelissd/Heroic/Thea 2 The Shattering" 1582025844 --no-wine --wrapper "'/home/tommi/.steam/steam/steamapps/common/Proton - Experimental/proton' run" --os windows
+env: ”mangohud”: Tiedostoa tai hakemistoa ei ole
+
+(16:05:30) INFO:    [Backend]:         Log was written to /home/tommi/.var/app/com.heroicgameslauncher.hgl/config/heroic/GamesConfig/1582025844-lastPlay.log
+(16:05:41) INFO:    [Backend]:         launching Thea 2: The Shattering 1582025844
+(16:05:41) WARNING: [DXVKInstaller]:   DXVK cannot be installed on a Proton or a invalid prefix!
+(16:05:41) INFO:    [Gog]:             Launch Command: DXVK_HUD=fps /app/bin/gamemoderun mangohud --dlsym "/app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl" launch "/media/pelissd/Heroic/Thea 2 The Shattering" 1582025844 --wine '/home/tommi/.local/share/lutris/runners/wine/lutris-fshack-7.2-x86_64/bin/wine' --wine-prefix '/home/tommi/Games/Heroic/Prefixes/Thea-2-The-Shattering' --os windows
+(16:05:41) ERROR:   [Legendary]:       Error: Command failed: DXVK_HUD=fps /app/bin/gamemoderun mangohud --dlsym "/app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl" launch "/media/pelissd/Heroic/Thea 2 The Shattering" 1582025844 --wine '/home/tommi/.local/share/lutris/runners/wine/lutris-fshack-7.2-x86_64/bin/wine' --wine-prefix '/home/tommi/Games/Heroic/Prefixes/Thea-2-The-Shattering' --os windows
+env: ”mangohud”: Tiedostoa tai hakemistoa ei ole
+
+(16:05:42) INFO:    [Backend]:         Log was written to /home/tommi/.var/app/com.heroicgameslauncher.hgl/config/heroic/GamesConfig/1582025844-lastPlay.log
+(16:05:49) INFO:    [Gog]:             Removing /media/pelissd/Heroic/Thea 2 The Shattering
+(16:05:50) INFO:    Removing prefix /home/tommi/Games/Heroic/Prefixes/Thea-2-The-Shattering
+(16:05:50) INFO:    [Backend]:         finished uninstalling
+(16:05:50) INFO:    [Frontend]:        Refreshing Library
+(16:05:50) INFO:    [Gog]:             Getting GOG library
+(16:05:50) INFO:    [Backend]:         Desktop shortcut removed
+(16:05:50) INFO:    [Backend]:         Applications shortcut removed
+(16:05:50) INFO:    [Gog]:             Number of library pages: 1
+(16:05:50) INFO:    [Gog]:             Saved games data
+(16:05:50) INFO:    [Legendary]:       Refreshing library...
+(16:05:50) INFO:    [Legendary]:       Updating game list
+(16:05:50) INFO:    [Legendary]:       Game List Updated

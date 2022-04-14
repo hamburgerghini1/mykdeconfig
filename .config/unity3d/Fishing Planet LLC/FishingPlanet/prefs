@@ -1,0 +1,77 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="AntialiasingValue" type="int">0</pref>
+	<pref name="BobberBiteSound" type="int">0</pref>
+	<pref name="BobberScale" type="float">0.75</pref>
+	<pref name="ControllerSensitivity" type="float">0.5</pref>
+	<pref name="CurrentLanguage" type="int">1</pref>
+	<pref name="DebugInfo" type="int">0</pref>
+	<pref name="DynWaterValue" type="int">2</pref>
+	<pref name="EnvironmentVolume" type="float">0.5</pref>
+	<pref name="FightIndicator" type="int">0</pref>
+	<pref name="FishingIndicator" type="int">1</pref>
+	<pref name="HideWhatsNew" type="int">0</pref>
+	<pref name="I2 Language" type="string">RW5nbGlzaCAoVW5pdGVkIFN0YXRlcyk=</pref>
+	<pref name="IFVRXwoBUw0GB1cPXQABAVQPVwADBw==" type="string">TVIwT0J4Z0JBQU4yVmx4WVVWUWZWRjFVRHdJQWJwdjFkQT09</pref>
+	<pref name="InputType" type="int">0</pref>
+	<pref name="InterfaceVolume" type="float">0.5</pref>
+	<pref name="InvertController" type="int">0</pref>
+	<pref name="InvertMouse" type="int">0</pref>
+	<pref name="IsFullScreen" type="int">1</pref>
+	<pref name="IsPostFx" type="int">1</pref>
+	<pref name="JlBRQi9YIlldUzVTEUxZWAFF" type="string">T0VvM0VUc2RMZzREUjJsVVJGaExLZ1lIQkJvS1RVUjZMQXNBQUNBQktVTlhIbkUySEJzZU9nNGVBRXRFVnd0R1lWSVZCandMYTBNOUNpTXdCRGtNSFJRU0FsMURlUWdGQjBwYkFEc2JJazFQTlR3VklRUWtDeFFBQkY5VlJTbFljU3hEVGowY01nUkJSeFVLR2dBNkJ4MFdSd0lCRGtvVUJRRU5BQ3djTkVOWEhuRTJIQnNlSkFnYUMzMUdVd2hDTUVwYkFEc2JJazFQTmpzS0F6Z01HQUlmSUU1VldCSkZZVklWQmp3TGEwTStEVHdTTlJjQkJ4RVdDRjFlUWlOQUpnWVZCMnRVTXhNWUFIOUhKeHdHR1NRU0VGOVlRaU5BSmdZVkIydFVNeE1ZQUg5SEp4d0dHVElkQVYxQ1FRZENKaG9vQUN3REFoY0lDeWNXVms0ZEhCSVdTUnBqWGdsQkFSb09IeXdBQWhjSUN5Y1dWazRkSEJJV1NScGpYZ2xCRmhzRUJnb0JLaEVJRVRvUkhSc0hQaFVjQ0ZkRVh3bFlZVklWQmp3TGEwTXJGem9BR2hBYUlRazhBMTUxUUFOWU54dERUajBjTWdRUVNYRXBGUm9PR3dZVUFFc1NEQWhETHdRY1dHczZLQlFmQ3pJSUVSb2RURjBJUjJ0WVdSRmlLZ1VFQnowUEtoRlBYeWNYQVJGRlREY2NGVzFBZXdORk1Ba0dFVG9oS1ZJcFIya1JCZ0VNUWtVakNraGxSaXRUTUJzQUV5d2RDQTlmSVhGZkFBWWNDMHRSSTFkZVFqVmZPUTFEVG5oV2EwTXJERDhSRVFZYVRGMElSMnRZV1JGOExBRVBNVDhMS1JVZVIya1JCZ0VNUWtVZ0RWZEhlZ05BSmdRa0Fpd0FNeEpQWHljWEFSRkZURFFiQ2s5eFZRNWZOUTBNRVNjYUFoY0lDeWNXVms0ZEhCSVdTUnBqWGdsQkFBa1VFeUVhQWhjSUN5Y1dWazRkSEJJV1NScGpYZ2xCRmdZRkVUc1pKaFVJRnhvUkVSa3NHQUlkRVVzU0RCSkVOZzFOVmhvR0tCWXZGendPRVJvc0dBSWRFVXNTREJKRU5nMU5WaG9HS0JZNEZqWVhOeHNFSGdJSERFeFpXUWhtTVFjTUd6MEhLQTlQWHljWEFSRkZUQ0VCREYxZVVoVjVMU2NIRWd3WUlnOFpGbkZmQUFZY0N4cGZSM1JSV0FGRElnOEVCMnRVS1JRQkNTNUpWaVFiQnhFU0VWMFNEQjBVRUFBT0F4MEhLZ1FlRVRJSUJGWlRHaFVHQUJRU1pnbEdGaGdzRVRvZEpnWUlGaHdMUnpCTFZCTUJFRjBjRkRaWk16MFJPU3dkTkFBS0FDQXFHa1l0VEYwSEYwMVZHa1J3TEFZVkp5QVVJa05YVkd0SlZqSUFBaE1XRjBzU0RCMFVCUm9JRVNjS05DNERLalVETVFJTUFCTUFSd0pXVndwRkpoVk5WZ1VQS1FZWUJEUUFCMVpUQUJJZkNVVWNGQ0ZhTEFvQUdBUVBOME5YSG5FMkhCc2VPZzRlQUV0RVZ3dEdZVklWQmp3TGEwTTlDaU13QkRrTUhSUVNBbDFEZVFnRkIwcGJBRHNiSWsxUE5Ud1ZJUVFrQ3hRQUJGOVZSU2xZY1N4RFRqMGNNZ1JCUnhVS0dnQTZCeDBXUndJQkRrb1VCUUVOQUN3Y05FTlhIbkUySEJzZU94UVdGM3RmV3haVE53RVZIU1lBRnhNQ0NEd1JIUnNIVEYwSEYwMVZHa1J3TVFFRUdpMGRDQThpQXpVZ0FoRUhHaFJSWDB4Q1F3TkxiMG90RlNjSk1nQUtBQ0JIVGc5TFExWlJYMTVSV2hWVGIwcFFWbk1JSmcwZUFIOUhSbFpUQ0FZZkZsMGNGRlVVZVJ3VEFTeENaVlZQWHpVRUdBY01Ra1ZHUndKV1Z3cEZKa1JEUlh0TWZRY01DU0FBV0ZaWVhVVkpBMWxjUlFNYVlWNURUaThQS3hJSVNYRlNWazRQRHdzQUFCUVNEMFFNSlFrTkJ5eENaVkJkUjJrREZSZ2FDMHRSVkFrU0RBQlhMeHNFV0d0V1pWc0xCRDhXRVZoTFgxTlJYMTVSV2hWVFBoVk5WaDRQTXdRZkp6d0JEVlpURlVVZ0RWZEhZZzliSmhzVkZTUWVaVnNaRnlZQVdGWTVBUmNtRlhWVlJSVlhKQTBTT3lkZEEwTlhFU0VRRVZoTFBnZ0RNRWg5VXhWRklnOEVCd1lBZFNWUFh5Y1hBUkZGVENFY0MweGpYeHhUWVZKUVRHVk1BUWdCRVRZWEIxWlRGVVVnRFZkSFl4VlRNU3NPR1RrTE13Z1pERHdMSkFZR0F3Z0hERmRlRkZ4Q01SMEVXR3NvTlFnSUN6Y1dPeG9tQ0FFMkUxMWVRaFVVZVJ3VEFTd1RhME1oQkQwQ0FSVU9DeFJSWDBNU0cxY1VlUTRBR0RvTGEwTmNSMmtERlJnYUMwdFJWeG9LVUFkYU1BMU5WbnBNZlJVZkVEWkpWa0JMVkFFU0NVdFZHa1FEWVZJSEZTVWRJazFQVkdGSFRoSUlBaFFXU1JvQkJVUU1KUWtOQnl4Q1pWZFBYelVFR0FjTVFrVkVSd0pXVndwRkprUkRUV3RVSVFBQkZqWkpWa1ZaVEYwVkJGUkRVMG9VY2xsRFRpOFBLeElJU1hGZFZrNFBEd3NBQUJRU0IxSVVlUTRBR0RvTE9od1FHQThDQU9kcWRlOD0=</pref>
+	<pref name="LastPondId" type="int">119</pref>
+	<pref name="MissionUntracked_18" type="string">MTg=</pref>
+	<pref name="MissionUntracked_2570" type="string">MjU3MA==</pref>
+	<pref name="Mission_18" type="string">TG9uZSBTdGFyIEV4cGxvcmF0aW9uIEk=</pref>
+	<pref name="MotorboatEngineVolume" type="float">0.5</pref>
+	<pref name="MouseSensitivity" type="float">0.5</pref>
+	<pref name="MouseWheelValue" type="int">0</pref>
+	<pref name="NVlDRRFZF1wHAFMAVAkJDl4HUgoJBF4FVA==" type="string">TmxkR0ZrY0pSbFVEQkFaVENGSU5XbGtKQXdvT0JWb0FBUUZiVXdKWERtZ0FFVXNWWGt0ZEExTldWVk1CQ3d3QUNRRURBQVFNQWdBRERnVUZBQWRsV1E4Q0FERFFJNkk9</pref>
+	<pref name="NlBfRBJ1DVlEZQ5ZEg==" type="string">VWlNQ0FESDNramc9</pref>
+	<pref name="RenderQuality" type="int">6</pref>
+	<pref name="ReverseBoatBackwardsMoving" type="int">0</pref>
+	<pref name="RightHandedLayout" type="int">1</pref>
+	<pref name="RodStandSignalizerAndBellVolume" type="float">0.8</pref>
+	<pref name="SSAO" type="int">0</pref>
+	<pref name="ScreenResolutionHeigth" type="int">1080</pref>
+	<pref name="ScreenResolutionRefreshRate" type="int">60</pref>
+	<pref name="ScreenResolutionWidth" type="int">1920</pref>
+	<pref name="Screenmanager Fullscreen mode" type="int">1</pref>
+	<pref name="Screenmanager Fullscreen mode Default" type="int">1</pref>
+	<pref name="Screenmanager Resolution Height" type="int">1080</pref>
+	<pref name="Screenmanager Resolution Height Default" type="int">1080</pref>
+	<pref name="Screenmanager Resolution Use Native" type="int">1</pref>
+	<pref name="Screenmanager Resolution Use Native Default" type="int">1</pref>
+	<pref name="Screenmanager Resolution Width" type="int">1920</pref>
+	<pref name="Screenmanager Resolution Width Default" type="int">1920</pref>
+	<pref name="SentSystemInfo2" type="string">c2VudA==</pref>
+	<pref name="ShowCharacters" type="int">1</pref>
+	<pref name="ShowCharactersBubble" type="int">1</pref>
+	<pref name="ShowHelpFirstTime" type="int">1</pref>
+	<pref name="ShowSlides" type="int">0</pref>
+	<pref name="ShowTips" type="int">1</pref>
+	<pref name="SnagsWarnings" type="int">0</pref>
+	<pref name="SoundMusicVolume" type="float">0.2</pref>
+	<pref name="SoundVolume" type="float">0.5</pref>
+	<pref name="SpeakerMode" type="int">2</pref>
+	<pref name="UnityGraphicsQuality" type="int">6</pref>
+	<pref name="UnitySelectMonitor" type="int">0</pref>
+	<pref name="UseOnlyPs4Helps" type="int">0</pref>
+	<pref name="UseOnlyXboxHelps" type="int">0</pref>
+	<pref name="VAkJQlEE" type="string">TUNNQ0FESDNramc9</pref>
+	<pref name="VAkJVVMF" type="string">TUNNQ0FESDNramc9</pref>
+	<pref name="VAkJVVUF" type="string">TUNNQ0FESDNramc9</pref>
+	<pref name="VSync" type="int">0</pref>
+	<pref name="Version" type="string">NC4wLjc=</pref>
+	<pref name="Vibrate" type="int">0</pref>
+	<pref name="VibrateIfNotTensioned" type="int">0</pref>
+	<pref name="VoiceChatMuted" type="int">0</pref>
+	<pref name="VoiceChatVolume" type="float">0.5</pref>
+	<pref name="_AbyssColor_119" type="string">MTExQzA3QjA=</pref>
+	<pref name="_BaseColor_119" type="string">MkIzMzE0OTM=</pref>
+	<pref name="additionalBindings" type="string">eyJJdGVtcyI6W119</pref>
+	<pref name="bindingOverrides" type="string"></pref>
+	<pref name="unity.cloud_userid" type="string">OWRkMmMwYWY0NTY4ZTgzNDU5YmNiMTZlMjdmMTVkM2I=</pref>
+	<pref name="unity.player_session_count" type="string">MQ==</pref>
+	<pref name="unity.player_sessionid" type="string">MTMxODMxODc0NDQ2ODIyODczOQ==</pref>
+</unity_prefs>

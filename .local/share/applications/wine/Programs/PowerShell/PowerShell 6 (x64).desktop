@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=PowerShell 6 (x64)
+Exec=env WINEPREFIX="/home/tommi/.wine" wine C:\\\\users\\\\tommi\\\\AppData\\\\Roaming\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\PowerShell\\\\PowerShell\\ 6\\ \\(x64\\).lnk
+Type=Application
+StartupNotify=true
+Comment=PowerShell 6 (x64)
+Icon=5776_PowerShellExe.0
+StartupWMClass=pwsh.exe

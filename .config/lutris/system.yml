@@ -1,0 +1,4 @@
+system:
+  disable_runtime: false
+  mangohud: vk64
+  prime: true

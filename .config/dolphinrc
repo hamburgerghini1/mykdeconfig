@@ -1,0 +1,37 @@
+MenuBar=Disabled
+
+[CreateDialog]
+LastMimeType=application/zip
+
+[ExtractDialog]
+DirHistory[$e]=$HOME/.local/share/lutris/runners/wine/
+HDMI-A-0 Height 1920x1080=558
+HDMI-A-0 Width 1920x1080=1278
+
+[General]
+Version=201
+ViewPropsTimestamp=2022,3,25,21,17,27.935
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/.local/share/lutris/runners/wine,file:$HOME/.local/share/lutris/runners/wine
+Recent URLs[$e]=file:$HOME/.local/share/lutris/runners/wine/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+HDMI-A-0 Height 1920x1080=478
+HDMI-A-0 Width 1920x1080=506
+HDMI-A-1 Height 1920x1080=478
+HDMI-A-1 Width 1920x1080=479
+
+[MainWindow]
+HDMI-A-0 Height 1920x1080=965
+HDMI-A-0 Width 1920x1080=960
+HDMI-A-0 XPosition 1920x1080=480
+HDMI-A-0 YPosition 1920x1080=72
+HDMI-A-1 Height 1920x1080=965
+HDMI-A-1 Width 1920x1080=960
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Notification Messages]
+ConfirmEmptyTrash=true

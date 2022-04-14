@@ -1,0 +1,40 @@
+Launch Command: DXVK_HUD=fps /app/bin/gamemoderun mangohud --dlsym "/app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl" launch "/media/pelissd/Heroic/Thea 2 The Shattering" 1582025844 --wine '/home/tommi/.local/share/lutris/runners/wine/lutris-fshack-7.2-x86_64/bin/wine' --wine-prefix '/home/tommi/Games/Heroic/Prefixes/Thea-2-The-Shattering' --os windows
+        System Info:
+        
+  Heroic Version: 2.2.6 Oden
+  Legendary Version:  0.20.25 Our Benefactors
+  OS: Freedesktop.org KERNEL: 5.16.17-201.fsync.fc35.x86_64 ARCH: x64
+  CPU: Intel Core™ i5-10600K @4.1 GOVERNOR: powersave
+  RAM: Total: 33.5 GB Available: 19.5 GB
+  GRAPHICS: GPU0: Device 73df VRAM: 1MB DRIVER:  
+  PROTOCOL: x11
+  
+        Game Settings: {
+	"autoInstallDxvk": true,
+	"autoInstallVkd3d": true,
+	"enableFSR": false,
+	"enableFsync": false,
+	"maxSharpness": 3,
+	"nvidiaPrime": false,
+	"otherOptions": "",
+	"savesPath": "",
+	"showFps": true,
+	"showMangohud": true,
+	"targetExe": "",
+	"useGameMode": true,
+	"wineCrossoverBottle": "Heroic",
+	"winePrefix": "/home/tommi/Games/Heroic/Prefixes/Thea-2-The-Shattering",
+	"wineVersion": {
+		"bin": "'/home/tommi/.local/share/lutris/runners/wine/lutris-fshack-7.2-x86_64/bin/wine'",
+		"name": "Wine - lutris-fshack-7.2-x86_64",
+		"type": "wine",
+		"wineserver": "'/home/tommi/.local/share/lutris/runners/wine/lutris-fshack-7.2-x86_64/bin/wineserver'",
+		"wineboot": "'/home/tommi/.local/share/lutris/runners/wine/lutris-fshack-7.2-x86_64/bin/wineboot'"
+	},
+	"useSteamRuntime": false
+}
+
+        Game Log:
+        env: ”mangohud”: Tiedostoa tai hakemistoa ei ole
+
+        

@@ -1,0 +1,29 @@
+(16:06:11) INFO:    [Legendary]:       Location: /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(16:06:11) INFO:    [Gog]:             Location: /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(16:06:11) INFO:    [Backend]:         
+  Heroic Version: 2.2.6 Oden
+  Legendary Version:  0.20.25 Our Benefactors
+  OS: Freedesktop.org KERNEL: 5.16.17-201.fsync.fc35.x86_64 ARCH: x64
+  CPU: Intel Core™ i5-10600K @4.1 GOVERNOR: powersave
+  RAM: Total: 33.5 GB Available: 26.1 GB
+  GRAPHICS: GPU0: Device 73df VRAM: 1MB DRIVER:  
+  PROTOCOL: x11
+  
+(16:06:11) INFO:    [Gog]:             Getting data about the user
+(16:06:11) ERROR:   [Backend]:         Failed to register protocol with OS.
+(16:06:11) INFO:    [Gog]:             Saved user data to config
+(16:06:12) INFO:    [Frontend]:        Refreshing Library
+(16:06:12) INFO:    [Gog]:             Getting GOG library
+(16:06:12) INFO:    [Gog]:             Number of library pages: 1
+(16:06:12) INFO:    [Gog]:             Saved games data
+(16:06:12) INFO:    [Legendary]:       Refreshing library...
+(16:06:12) INFO:    [Legendary]:       Refreshing Epic Games...
+(16:06:12) INFO:    [Legendary]:       Refreshing Epic Games...
+(16:06:13) INFO:    [Legendary]:       [cli] INFO: Logging in...
+(16:06:13) INFO:    [Legendary]:       [Core] INFO: Trying to re-use existing login session...
+(16:06:13) INFO:    [Legendary]:       [cli] INFO: Getting game list... (this may take a while)
+(16:06:13) INFO:    [Legendary]:       Updating game list
+(16:06:13) INFO:    [Legendary]:       Game List Updated
+(16:06:14) INFO:    [Legendary]:       Checking for game updates
+(16:06:14) INFO:    [Legendary]:       Found 0 game(s) to update
+(16:06:14) INFO:    [Gog]:             Found 0 game(s) to update

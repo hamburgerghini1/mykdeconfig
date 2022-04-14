@@ -1,0 +1,67 @@
+    OpenRGB v0.7
+    Commit:  from 
+    Launched: 20220326_160246
+====================================================================================================
+
+1002  |Info:    Saving detector settings
+1004  |Info:    ------------------------------------------------------
+1004  |Info:    |               Start device detection               |
+1004  |Info:    ------------------------------------------------------
+1004  |Info:    Initializing HID interfaces: Success
+1017  |Info:    ------------------------------------------------------
+1017  |Info:    |             Detecting I2C interfaces               |
+1017  |Info:    ------------------------------------------------------
+1017  |Info:    Registering I2C interface: /dev/i2c-3 Device 1002:73DF Subsystem: 1002:0E36
+1017  |Info:    Registering I2C interface: /dev/i2c-1 Device 0000:0000 Subsystem: 0000:0000
+1018  |Info:    Registering I2C interface: /dev/i2c-6 Device 1002:73DF Subsystem: 1002:0E36
+1018  |Info:    Registering I2C interface: /dev/i2c-4 Device 1002:73DF Subsystem: 1002:0E36
+1018  |Info:    Registering I2C interface: /dev/i2c-2 Device 1002:73DF Subsystem: 1002:0E36
+1018  |Info:    Registering I2C interface: /dev/i2c-9 Device 0000:0000 Subsystem: 0000:0000
+1019  |Info:    Registering I2C interface: /dev/i2c-7 Device 0000:0000 Subsystem: 0000:0000
+1019  |Info:    Registering I2C interface: /dev/i2c-5 Device 1002:73DF Subsystem: 1002:0E36
+1019  |Info:    ------------------------------------------------------
+1019  |Info:    |               Detecting I2C devices                |
+1019  |Info:    ------------------------------------------------------
+1032  |Info:    ------------------------------------------------------
+1032  |Info:    |               Detecting HID devices                |
+1032  |Info:    ------------------------------------------------------
+1032  |Info:    [HyperX Alloy FPS RGB] is not initialized
+1032  |Info:    [ASUS Aura Motherboard] is not initialized
+1033  |Info:    ------------------------------------------------------
+1033  |Info:    |              Detecting other devices               |
+1033  |Info:    ------------------------------------------------------
+1042  |Info:    ------------------------------------------------------
+1042  |Info:    |                Detection completed                 |
+1042  |Info:    ------------------------------------------------------
+1042  |Dialog:  <h2>WARNING:</h2><p>One or more I2C/SMBus interfaces failed to initialize.</p><p>RGB DRAM modules and some motherboards' onboard RGB lighting will not be available without I2C/SMBus.</p><p>On Linux, this is usually because the i2c-dev module is not loaded.  You must load the i2c-dev module along with the correct i2c driver for your motherboard.  This is usually i2c-piix4 for AMD systems and i2c-i801 for Intel systems.</p><p>See <a href='https://help.openrgb.org/'>help.openrgb.org</a> for additional troubleshooting steps if you keep seeing this message.<br></p>
+2469  |Info:    Loading plugins
+8366  |Info:    ------------------------------------------------------
+8366  |Info:    |               Start device detection               |
+8366  |Info:    ------------------------------------------------------
+8366  |Info:    Initializing HID interfaces: Success
+8376  |Info:    ------------------------------------------------------
+8376  |Info:    |             Detecting I2C interfaces               |
+8376  |Info:    ------------------------------------------------------
+8376  |Info:    Registering I2C interface: /dev/i2c-3 Device 1002:73DF Subsystem: 1002:0E36
+8376  |Info:    Registering I2C interface: /dev/i2c-1 Device 0000:0000 Subsystem: 0000:0000
+8377  |Info:    Registering I2C interface: /dev/i2c-6 Device 1002:73DF Subsystem: 1002:0E36
+8377  |Info:    Registering I2C interface: /dev/i2c-4 Device 1002:73DF Subsystem: 1002:0E36
+8377  |Info:    Registering I2C interface: /dev/i2c-2 Device 1002:73DF Subsystem: 1002:0E36
+8377  |Info:    Registering I2C interface: /dev/i2c-9 Device 0000:0000 Subsystem: 0000:0000
+8378  |Info:    Registering I2C interface: /dev/i2c-7 Device 0000:0000 Subsystem: 0000:0000
+8378  |Info:    Registering I2C interface: /dev/i2c-5 Device 1002:73DF Subsystem: 1002:0E36
+8378  |Info:    ------------------------------------------------------
+8378  |Info:    |               Detecting I2C devices                |
+8378  |Info:    ------------------------------------------------------
+8389  |Info:    ------------------------------------------------------
+8389  |Info:    |               Detecting HID devices                |
+8389  |Info:    ------------------------------------------------------
+8389  |Info:    [HyperX Alloy FPS RGB] is not initialized
+8389  |Info:    [ASUS Aura Motherboard] is not initialized
+8389  |Info:    ------------------------------------------------------
+8389  |Info:    |              Detecting other devices               |
+8389  |Info:    ------------------------------------------------------
+8390  |Info:    ------------------------------------------------------
+8390  |Info:    |                Detection completed                 |
+8390  |Info:    ------------------------------------------------------
+8390  |Dialog:  <h2>WARNING:</h2><p>One or more I2C/SMBus interfaces failed to initialize.</p><p>RGB DRAM modules and some motherboards' onboard RGB lighting will not be available without I2C/SMBus.</p><p>On Linux, this is usually because the i2c-dev module is not loaded.  You must load the i2c-dev module along with the correct i2c driver for your motherboard.  This is usually i2c-piix4 for AMD systems and i2c-i801 for Intel systems.</p><p>See <a href='https://help.openrgb.org/'>help.openrgb.org</a> for additional troubleshooting steps if you keep seeing this message.<br></p>

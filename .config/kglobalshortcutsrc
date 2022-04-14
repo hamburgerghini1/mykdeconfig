@@ -1,0 +1,327 @@
+[ActivityManager]
+_k_friendly_name=Aktiviteettien hallinta
+switch-to-activity-b9c01dc4-f757-4d58-8bdb-2a6679deaf7a=none,none,Vaihda aktiviteettiin Oletus
+
+[KDE Keyboard Layout Switcher]
+Switch to Next Keyboard Layout=Ctrl+Alt+K,Ctrl+Alt+K,Vaihda seuraavaan näppäinasetteluun
+_k_friendly_name=Näppäinasettelun vaihto
+
+[kcm_touchpad]
+Disable Touchpad=Touchpad Off,Touchpad Off,Poista kosketuslevy käytöstä
+Enable Touchpad=Touchpad On,Touchpad On,Ota kosketuslevy käyttöön
+Toggle Touchpad=Touchpad Toggle,Touchpad Toggle,Kosketuslevy käyttöön tai pois käytöstä
+_k_friendly_name=Kosketuslevy
+
+[kded5]
+Show System Activity=Ctrl+Esc,Ctrl+Esc,Näytä järjestelmän tarkkailu
+_k_friendly_name=KDE Daemon
+display=Display\tMeta+P,Display\tMeta+P,Vaihda näyttöä
+
+[khotkeys]
+_k_friendly_name=Mukautettu pikanäppäinpalvelu
+{0676a281-e93f-4c39-8d0d-36149df0f163}=Ctrl+Alt+T,none,Launch Konsole
+{d03619b6-9b3c-48cc-9d9c-a2aadb485550}=none,none,Haku
+
+[kmix]
+_k_friendly_name=Äänenvoimakkuus
+decrease_microphone_volume=Microphone Volume Down,Microphone Volume Down,Laske mikrofonin äänenvoimakkuutta
+decrease_volume=Volume Down,Volume Down,Laske äänenvoimakkuutta
+increase_microphone_volume=Microphone Volume Up,Microphone Volume Up,Lisää mikrofonin äänenvoimakkuutta
+increase_volume=Volume Up,Volume Up,Lisää äänenvoimakkuutta
+mic_mute=Microphone Mute\tMeta+Volume Mute,Microphone Mute\tMeta+Volume Mute,Vaimenna mikrofoni
+mute=Volume Mute,Volume Mute,Vaimenna
+
+[ksmserver]
+Halt Without Confirmation=none,,Sammuta kyselemättä
+Lock Session=Meta+L\tCtrl+Alt+L\tScreensaver,Meta+L\tCtrl+Alt+L\tScreensaver,Lukitse istunto
+Log Out=Ctrl+Alt+Del,Ctrl+Alt+Del,Kirjaudu ulos
+Log Out Without Confirmation=none,,Kirjaudu kyselemättä ulos
+Reboot Without Confirmation=none,,Käynnistä kyselemättä uudelleen
+_k_friendly_name=Istunnonhallinta
+
+[kwin]
+Activate Window Demanding Attention=Ctrl+Alt+A,Ctrl+Alt+A,Aktivoi huomiota vaativa ikkuna
+Decrease Opacity=none,,Vähennä aktiivisten ikkunoiden peittävyyttä 5 prosentilla
+Expose=Ctrl+F9,Ctrl+F9,Ikkunoiden esittäminen näkyviin/piiloon (nykyinen työpöytä)
+ExposeAll=Ctrl+F10\tLaunch (C),Ctrl+F10\tLaunch (C),Ikkunoiden esittäminen näkyviin/piiloon (kaikki työpöydät)
+ExposeClass=Ctrl+F7,Ctrl+F7,Ikkunoiden esittäminen näkyviin/piiloon (ikkunaluokka)
+Increase Opacity=none,,Kasvata aktiivisten ikkunoiden peittävyyttä 5 prosentilla
+Invert Screen Colors=none,,Käännä näytön värit
+Kill Window=Ctrl+Alt+Esc,Ctrl+Alt+Esc,Tapa ikkuna
+MoveMouseToCenter=Meta+F6,Meta+F6,Siirrä hiiri keskelle
+MoveMouseToFocus=Meta+F5,Meta+F5,Siirrä hiiri kohdistukseen
+MoveZoomDown=none,none,Siirrä lähennettyä aluetta alas
+MoveZoomLeft=none,none,Siirrä lähennettyä aluetta vasemmalle
+MoveZoomRight=none,none,Siirrä lähennettyä aluetta oikealle
+MoveZoomUp=none,none,Siirrä lähennettyä aluetta ylös
+Setup Window Shortcut=none,,Aseta ikkunan pikanäppäin
+Show Desktop=Meta+D,Meta+D,Näytä työpöytä
+ShowDesktopGrid=Ctrl+F8,Ctrl+F8,Näytä työpöytäruudukko
+Suspend Compositing=Alt+Shift+F12,Alt+Shift+F12,Keskeytä koostaminen
+Switch One Desktop Down=none,Meta+Ctrl+Down,Vaihda työpöytää alas päin
+Switch One Desktop Up=none,Meta+Ctrl+Up,Vaihda työpöytää ylös päin
+Switch One Desktop to the Left=none,Meta+Ctrl+Left,Vaihda työpöytää vasemmalle päin
+Switch One Desktop to the Right=none,Meta+Ctrl+Right,Vaihda työpöytää oikealle päin
+Switch Window Down=Meta+Alt+Down,Meta+Alt+Down,Vaihda ikkunaa alemmas
+Switch Window Left=Meta+Alt+Left,Meta+Alt+Left,Vaihda ikkunaa vasemmalle
+Switch Window Right=Meta+Alt+Right,Meta+Alt+Right,Vaihda ikkunaa oikealle
+Switch Window Up=Meta+Alt+Up,Meta+Alt+Up,Vaihda ikkunaa ylemmäs
+Switch to Desktop 1=Ctrl+F1,Ctrl+F1,Vaihda työpöydälle 1
+Switch to Desktop 10=none,,Vaihda työpöydälle 10
+Switch to Desktop 11=none,,Vaihda työpöydälle 11
+Switch to Desktop 12=none,,Vaihda työpöydälle 12
+Switch to Desktop 13=none,,Vaihda työpöydälle 13
+Switch to Desktop 14=none,,Vaihda työpöydälle 14
+Switch to Desktop 15=none,,Vaihda työpöydälle 15
+Switch to Desktop 16=none,,Vaihda työpöydälle 16
+Switch to Desktop 17=none,,Vaihda työpöydälle 17
+Switch to Desktop 18=none,,Vaihda työpöydälle 18
+Switch to Desktop 19=none,,Vaihda työpöydälle 19
+Switch to Desktop 2=Ctrl+F2,Ctrl+F2,Vaihda työpöydälle 2
+Switch to Desktop 20=none,,Vaihda työpöydälle 20
+Switch to Desktop 3=Ctrl+F3,Ctrl+F3,Vaihda työpöydälle 3
+Switch to Desktop 4=Ctrl+F4,Ctrl+F4,Vaihda työpöydälle 4
+Switch to Desktop 5=none,,Vaihda työpöydälle 5
+Switch to Desktop 6=none,,Vaihda työpöydälle 6
+Switch to Desktop 7=none,,Vaihda työpöydälle 7
+Switch to Desktop 8=none,,Vaihda työpöydälle 8
+Switch to Desktop 9=none,,Vaihda työpöydälle 9
+Switch to Next Desktop=none,,Vaihda seuraavalle työpöydälle
+Switch to Next Screen=none,,Vaihda seuraavaan näyttöön
+Switch to Previous Desktop=none,,Vaihda edelliselle työpöydälle
+Switch to Previous Screen=none,,Vaihda edelliseen näyttöön
+Switch to Screen 0=none,,Vaihda näyttöön 0
+Switch to Screen 1=none,,Vaihda näyttöön 1
+Switch to Screen 2=none,,Vaihda näyttöön 2
+Switch to Screen 3=none,,Vaihda näyttöön 3
+Switch to Screen 4=none,,Vaihda näyttöön 4
+Switch to Screen 5=none,,Vaihda näyttöön 5
+Switch to Screen 6=none,,Vaihda näyttöön 6
+Switch to Screen 7=none,,Vaihda näyttöön 7
+Toggle Night Color=none,none,Käännä yöväriasetus
+Toggle Window Raise/Lower=none,,Nosta tai laske ikkuna
+Walk Through Desktop List=none,,Selaa työpöytäluetteloa
+Walk Through Desktop List (Reverse)=none,,Selaa työpöytäluetteloa taaksepäin
+Walk Through Desktops=none,,Selaa työpöytiä
+Walk Through Desktops (Reverse)=none,,Selaa työpöytiä taaksepäin
+Walk Through Windows=Alt+Tab,Alt+Tab,Selaa ikkunoita
+Walk Through Windows (Reverse)=Alt+Shift+Backtab,Alt+Shift+Backtab,Selaa ikkunoita taaksepäin
+Walk Through Windows Alternative=none,,Selaa ikkunoita (vaihtoehtoinen)
+Walk Through Windows Alternative (Reverse)=none,,Selaa ikkunoita taaksepäin (vaihtoehtoinen)
+Walk Through Windows of Current Application=Alt+`,Alt+`,Selaa nykyisen sovelluksen ikkunoita
+Walk Through Windows of Current Application (Reverse)=Alt+~,Alt+~,Selaa nykyisen sovelluksen ikkunoita taaksepäin
+Walk Through Windows of Current Application Alternative=none,,Selaa nykyisen sovelluksen ikkunoita (vaihtoehtoinen)
+Walk Through Windows of Current Application Alternative (Reverse)=none,,Selaa nykyisen sovelluksen ikkunoita taaksepäin (vaihtoehtoinen)
+Window Above Other Windows=none,,Pidä ikkuna muiden yllä
+Window Below Other Windows=none,,Pidä ikkuna muiden alla
+Window Close=Alt+F4,Alt+F4,Sulje ikkuna
+Window Fullscreen=none,,Tee ikkunasta koko näytön kokoinen
+Window Grow Horizontal=none,,Laajenna ikkuna vaakasuunnassa
+Window Grow Vertical=none,,Laajenna ikkuna pystysuunnassa
+Window Lower=none,,Laske ikkunaa
+Window Maximize=Meta+PgUp,Meta+PgUp,Suurenna ikkuna
+Window Maximize Horizontal=none,,Suurenna ikkuna vaakasuunnassa
+Window Maximize Vertical=none,,Suurenna ikkuna pystysuunnassa
+Window Minimize=Meta+PgDown,Meta+PgDown,Pienennä ikkuna
+Window Move=none,,Siirrä ikkunaa
+Window Move Center=none,,Siirrä ikkuna keskelle
+Window No Border=none,,Piilota ikkunan reunus
+Window On All Desktops=none,,Näytä ikkuna kaikilla työpöydillä
+Window One Desktop Down=Meta+Ctrl+Shift+Down,Meta+Ctrl+Shift+Down,Ikkuna yhden työpöydän alas
+Window One Desktop Up=Meta+Ctrl+Shift+Up,Meta+Ctrl+Shift+Up,Ikkuna yhden työpöydän ylös
+Window One Desktop to the Left=Meta+Ctrl+Shift+Left,Meta+Ctrl+Shift+Left,Ikkuna yhden työpöydän vasempaan
+Window One Desktop to the Right=Meta+Ctrl+Shift+Right,Meta+Ctrl+Shift+Right,Ikkuna yhden työpöydän oikeaan
+Window Operations Menu=Alt+F3,Alt+F3,Ikkunan pikavalikko
+Window Pack Down=none,,Siirrä ikkunaa alemmas
+Window Pack Left=none,,Siirrä ikkunaa vasemmalle
+Window Pack Right=none,,Siirrä ikkunaa oikealle
+Window Pack Up=none,,Siirrä ikkunaa ylemmäs
+Window Quick Tile Bottom=Meta+Down,Meta+Down,Pinoa ikkuna alas
+Window Quick Tile Bottom Left=none,,Pinoa ikkuna vasempaan alakulmaan
+Window Quick Tile Bottom Right=none,,Pinoa ikkuna oikeaan alakulmaan
+Window Quick Tile Left=Meta+Left,Meta+Left,Pinoa ikkuna vasemmalle
+Window Quick Tile Right=Meta+Right,Meta+Right,Pinoa ikkuna oikealle
+Window Quick Tile Top=Meta+Up,Meta+Up,Pinoa ikkuna ylös
+Window Quick Tile Top Left=none,,Pinoa ikkuna vasempaan yläkulmaan
+Window Quick Tile Top Right=none,,Pinoa ikkuna oikeaan yläkulmaan
+Window Raise=none,,Nosta ikkunaa
+Window Resize=none,,Muuta ikkunan kokoa
+Window Shade=none,,Rullaa ikkuna
+Window Shrink Horizontal=none,,Pienennä ikkunan kokoa vaakasuunnassa
+Window Shrink Vertical=none,,Pienennä ikkunan kokoa pystysuunnassa
+Window to Desktop 1=none,,Ikkuna työpöydälle 1
+Window to Desktop 10=none,,Ikkuna työpöydälle 10
+Window to Desktop 11=none,,Ikkuna työpöydälle 11
+Window to Desktop 12=none,,Ikkuna työpöydälle 12
+Window to Desktop 13=none,,Ikkuna työpöydälle 13
+Window to Desktop 14=none,,Ikkuna työpöydälle 14
+Window to Desktop 15=none,,Ikkuna työpöydälle 15
+Window to Desktop 16=none,,Ikkuna työpöydälle 16
+Window to Desktop 17=none,,Ikkuna työpöydälle 17
+Window to Desktop 18=none,,Ikkuna työpöydälle 18
+Window to Desktop 19=none,,Ikkuna työpöydälle 19
+Window to Desktop 2=none,,Ikkuna työpöydälle 2
+Window to Desktop 20=none,,Ikkuna työpöydälle 20
+Window to Desktop 3=none,,Ikkuna työpöydälle 3
+Window to Desktop 4=none,,Ikkuna työpöydälle 4
+Window to Desktop 5=none,,Ikkuna työpöydälle 5
+Window to Desktop 6=none,,Ikkuna työpöydälle 6
+Window to Desktop 7=none,,Ikkuna työpöydälle 7
+Window to Desktop 8=none,,Ikkuna työpöydälle 8
+Window to Desktop 9=none,,Ikkuna työpöydälle 9
+Window to Next Desktop=none,,Ikkuna seuraavalle työpöydälle
+Window to Next Screen=Meta+Shift+Right,Meta+Shift+Right,Ikkuna seuraavaan näyttöön
+Window to Previous Desktop=none,,Ikkuna edelliselle työpöydälle
+Window to Previous Screen=Meta+Shift+Left,Meta+Shift+Left,Ikkuna edelliseen näyttöön
+Window to Screen 0=none,,Ikkuna näytölle 0
+Window to Screen 1=none,,Ikkuna näytölle 1
+Window to Screen 2=none,,Ikkuna näytölle 2
+Window to Screen 3=none,,Ikkuna näytölle 3
+Window to Screen 4=none,,Ikkuna näytölle 4
+Window to Screen 5=none,,Ikkuna näytölle 5
+Window to Screen 6=none,,Ikkuna näytölle 6
+Window to Screen 7=none,,Ikkuna näytölle 7
+_k_friendly_name=KWin
+view_actual_size=Meta+0,Meta+0,Todellinen koko
+view_zoom_in=Meta+=,Meta+=,Lähennä
+view_zoom_out=Meta+-,Meta+-,Loitonna
+
+[lattedock]
+_k_friendly_name=Latte Dock
+activate entry 1=none,Meta+1,Aktivoi kohta 1
+activate entry 10=none,Meta+0,Aktivoi kohta 10
+activate entry 11=none,Meta+Z,Aktivoi kohta 11
+activate entry 12=Meta+X,Meta+X,Aktivoi kohta 12
+activate entry 13=Meta+C,Meta+C,Aktivoi kohta 13
+activate entry 14=none,Meta+V,Aktivoi kohta 14
+activate entry 15=Meta+B,Meta+B,Aktivoi kohta 15
+activate entry 16=Meta+N,Meta+N,Aktivoi kohta 16
+activate entry 17=Meta+M,Meta+M,Aktivoi kohta 17
+activate entry 18=Meta+\\,,Meta+\\,,Aktivoi kohta 18
+activate entry 19=none,Meta+.,Aktivoi kohta 19
+activate entry 2=none,Meta+2,Aktivoi kohta 2
+activate entry 3=none,Meta+3,Aktivoi kohta 3
+activate entry 4=none,Meta+4,Aktivoi kohta 4
+activate entry 5=none,Meta+5,Aktivoi kohta 5
+activate entry 6=none,Meta+6,Aktivoi kohta 6
+activate entry 7=none,Meta+7,Aktivoi kohta 7
+activate entry 8=none,Meta+8,Aktivoi kohta 8
+activate entry 9=none,Meta+9,Aktivoi kohta 9
+activate widget 44=Meta+F1,none,Aktivoi sovelma Simple Menu
+clear-history=none,,Tyhjennä leikepöydän historia
+clipboard_action=none,Ctrl+Alt+X,Käytä leikepöydän toimintoja
+cycleNextAction=none,,Seuraava historiatietue
+cyclePrevAction=none,,Edellinen historiatietue
+edit_clipboard=none,,Muokkaa sisältöä…
+new instance for entry 1=Meta+Ctrl+1,Meta+Ctrl+1,Uusi instanssi kohdalle 1
+new instance for entry 10=Meta+Ctrl+0,Meta+Ctrl+0,Uusi instanssi kohdalle 10
+new instance for entry 11=Meta+Ctrl+Z,Meta+Ctrl+Z,Uusi instanssi kohdalle 11
+new instance for entry 12=Meta+Ctrl+X,Meta+Ctrl+X,Uusi instanssi kohdalle 12
+new instance for entry 13=Meta+Ctrl+C,Meta+Ctrl+C,Uusi instanssi kohdalle 13
+new instance for entry 14=Meta+Ctrl+V,Meta+Ctrl+V,Uusi instanssi kohdalle 14
+new instance for entry 15=Meta+Ctrl+B,Meta+Ctrl+B,Uusi instanssi kohdalle 15
+new instance for entry 16=Meta+Ctrl+N,Meta+Ctrl+N,Uusi instanssi kohdalle 16
+new instance for entry 17=Meta+Ctrl+M,Meta+Ctrl+M,Uusi instanssi kohdalle 17
+new instance for entry 18=Meta+Ctrl+\\,,Meta+Ctrl+\\,,Uusi instanssi kohdalle 18
+new instance for entry 19=Meta+Ctrl+.,Meta+Ctrl+.,Uusi instanssi kohdalle 19
+new instance for entry 2=Meta+Ctrl+2,Meta+Ctrl+2,Uusi instanssi kohdalle 2
+new instance for entry 3=Meta+Ctrl+3,Meta+Ctrl+3,Uusi instanssi kohdalle 3
+new instance for entry 4=Meta+Ctrl+4,Meta+Ctrl+4,Uusi instanssi kohdalle 4
+new instance for entry 5=Meta+Ctrl+5,Meta+Ctrl+5,Uusi instanssi kohdalle 5
+new instance for entry 6=Meta+Ctrl+6,Meta+Ctrl+6,Uusi instanssi kohdalle 6
+new instance for entry 7=Meta+Ctrl+7,Meta+Ctrl+7,Uusi instanssi kohdalle 7
+new instance for entry 8=Meta+Ctrl+8,Meta+Ctrl+8,Uusi instanssi kohdalle 8
+new instance for entry 9=Meta+Ctrl+9,Meta+Ctrl+9,Uusi instanssi kohdalle 9
+repeat_action=none,Ctrl+Alt+R,Käytä toimintoja manuaalisesti nykyisellä leikepöydällä
+show latte global settings=Meta+W,Meta+W,Näytä Latten yleiset asetukset
+show latte view=Meta+`,Meta+`,Näytä Latte-telakka/paneeli
+show view settings=Meta+A,Meta+A,Kierrä telakan tai paneelin asetusikkunoiden läpi
+show-barcode=none,,Näytä viivakoodi…
+show-on-mouse-pos=none,Meta+V,Avaa Klipper hiiriosoittimen kohdalle
+
+[mediacontrol]
+_k_friendly_name=Mediaohjain
+mediavolumedown=none,,Laske median äänenvoimakkuutta
+mediavolumeup=none,,Nosta median äänenvoimakkuutta
+nextmedia=Media Next,Media Next,Toista seuraava media
+pausemedia=Media Pause,Media Pause,Keskeytä mediatoisto
+playmedia=none,,Jatka mediatoistoa
+playpausemedia=Media Play,Media Play,Toista mediaa / tauko
+previousmedia=Media Previous,Media Previous,Toista edellinen media
+stopmedia=Media Stop,Media Stop,Pysäytä median toisto
+
+[org.kde.dolphin.desktop]
+_k_friendly_name=Dolphin
+_launch=Meta+E,Meta+E,Dolphin
+
+[org.kde.krunner.desktop]
+RunClipboard=Alt+Shift+F2,Alt+Shift+F2,Suorita komento leikepöydän sisällöstä
+_k_friendly_name=KRunner
+_launch=Alt+Space\tAlt+F2\tSearch,Alt+Space\tAlt+F2\tSearch,KRunner
+
+[org.kde.plasma.emojier.desktop]
+_k_friendly_name=Emoji-valitsin
+_launch=Meta+.,Meta+.,Emoji-valitsin
+
+[org.kde.spectacle.desktop]
+ActiveWindowScreenShot=Meta+Print,Meta+Print,Kaappaa aktiivinen ikkuna
+CurrentMonitorScreenShot=none,none,Kaappaa nykyinen näyttö
+FullScreenScreenShot=Shift+Print,Shift+Print,Kaappaa koko työpöytä
+OpenWithoutScreenshot=none,none,Käynnistä Spectacle kaappaamatta kuvaa
+RectangularRegionScreenShot=Meta+Shift+Print,Meta+Shift+Print,Kaappaa suorakulmainen alue
+WindowUnderCursorScreenShot=Meta+Ctrl+Print,Meta+Ctrl+Print,Kaappaa osoittimen alla oleva ikkuna
+_k_friendly_name=Spectacle
+_launch=Print,Print,Käynnistä Spectacle
+
+[org_kde_powerdevil]
+Decrease Keyboard Brightness=Keyboard Brightness Down,Keyboard Brightness Down,Vähennä näppäimistön kirkkautta
+Decrease Screen Brightness=Monitor Brightness Down,Monitor Brightness Down,Vähennä näytön kirkkautta
+Hibernate=Hibernate,Hibernate,Siirry lepotilaan
+Increase Keyboard Brightness=Keyboard Brightness Up,Keyboard Brightness Up,Lisää näppäimistön kirkkautta
+Increase Screen Brightness=Monitor Brightness Up,Monitor Brightness Up,Lisää näytön kirkkautta
+PowerDown=Power Down,Power Down,Sammuta
+PowerOff=Power Off,Power Off,Sammuta
+Sleep=Sleep,Sleep,Siirry valmiustilaan
+Toggle Keyboard Backlight=Keyboard Light On/Off,Keyboard Light On/Off,Näppäimistön taustavalo päälle/pois
+Turn Off Screen=none,none,Sammuta näyttö
+_k_friendly_name=Virranhallinta
+
+[plasmashell]
+_k_friendly_name=Latte Dock
+activate task manager entry 1=Meta+1,Meta+1,Aktivoi tehtävienhallinnan kohta 1
+activate task manager entry 10=none,Meta+0,Aktivoi tehtävienhallinnan kohta 10
+activate task manager entry 2=Meta+2,Meta+2,Aktivoi tehtävienhallinnan kohta 2
+activate task manager entry 3=Meta+3,Meta+3,Aktivoi tehtävienhallinnan kohta 3
+activate task manager entry 4=Meta+4,Meta+4,Aktivoi tehtävienhallinnan kohta 4
+activate task manager entry 5=Meta+5,Meta+5,Aktivoi tehtävienhallinnan kohta 5
+activate task manager entry 6=Meta+6,Meta+6,Aktivoi tehtävienhallinnan kohta 6
+activate task manager entry 7=Meta+7,Meta+7,Aktivoi tehtävienhallinnan kohta 7
+activate task manager entry 8=Meta+8,Meta+8,Aktivoi tehtävienhallinnan kohta 8
+activate task manager entry 9=Meta+9,Meta+9,Aktivoi tehtävienhallinnan kohta 9
+activate widget 3=none,none,Aktivoi sovelma Sovelluskäynnistin
+activate widget 5=none,none,Aktivoi sovelma Sovelluskäynnistin
+clear-history=none,none,Tyhjennä leikepöydän historia
+clipboard_action=Ctrl+Alt+X,Ctrl+Alt+X,Käytä leikepöydän toimintoja
+cycleNextAction=none,none,Seuraava historiatietue
+cyclePrevAction=none,none,Edellinen historiatietue
+edit_clipboard=none,none,Muokkaa sisältöä…
+manage activities=Meta+Q,Meta+Q,Näytä aktiviteettivaihto
+next activity=Meta+Tab,none,Selaa aktiviteetteja
+previous activity=Meta+Shift+Tab,none,Selaa aktiviteetteja (käänteisessä järjestyksessä)
+repeat_action=Ctrl+Alt+R,Ctrl+Alt+R,Käytä toimintoja manuaalisesti nykyisellä leikepöydällä
+show dashboard=Ctrl+F12,Ctrl+F12,Näytä työpöytä
+show-barcode=none,none,Näytä viivakoodi…
+show-on-mouse-pos=Meta+V,Meta+V,Avaa Klipper hiiriosoittimen kohdalle
+stop current activity=Meta+S,Meta+S,Pysäytä nykyinen aktiviteetti
+switch to next activity=none,,Vaihtaa seuraavaan aktiviteettiin
+switch to previous activity=none,,Vaihtaa edelliseen aktiviteettiin
+toggle do not disturb=none,,Vaihda Älä häiritse -tilaa
+
+[systemsettings.desktop]
+_k_friendly_name=Järjestelmäasetukset
+_launch=Tools,Tools,Järjestelmäasetukset
+kcm-kscreen=none,none,Näyttöasetukset
+kcm-lookandfeel=none,none,Yleisteema
+kcm-users=none,none,Käyttäjät
+powerdevilprofilesconfig=none,none,Virransäästö
+screenlocker=none,none,Näytön lukitus

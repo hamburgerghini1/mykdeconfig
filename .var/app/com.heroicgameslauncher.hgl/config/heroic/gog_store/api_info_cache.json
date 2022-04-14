@@ -1,0 +1,542 @@
+{
+	"1207658924": {},
+	"1548764757": {
+		"id": "53672782036531786",
+		"game_id": "53672782032806405",
+		"platform_id": "gog",
+		"external_id": "1548764757",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": "51811581085313589",
+		"supported_operating_systems": [
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "53672782032806405",
+			"parent_id": "51152725611062641",
+			"dlcs_ids": [],
+			"first_release_date": "2020-11-19T00:00:00+0000",
+			"releases": [
+				{
+					"id": "53672782036531786",
+					"platform_id": "gog",
+					"external_id": "1548764757",
+					"release_per_platform_id": "gog_1548764757"
+				},
+				{
+					"id": "53672782032806405",
+					"platform_id": "generic",
+					"external_id": "53672782032806405",
+					"release_per_platform_id": "generic_53672782032806405"
+				}
+			],
+			"title": {
+				"*": "Cyberpunk 2077 Digital Goodies",
+				"en-US": "Cyberpunk 2077 Digital Goodies"
+			},
+			"sorting_title": {
+				"*": "Cyberpunk 2077 Digital Goodies",
+				"en-US": "Cyberpunk 2077 Digital Goodies"
+			},
+			"type": "dlc",
+			"developers_ids": [],
+			"developers": [],
+			"publishers_ids": [],
+			"publishers": [],
+			"genres_ids": [
+				"51071842242881003"
+			],
+			"genres": [
+				{
+					"id": "51071842242881003",
+					"name": {
+						"*": "Role-playing (RPG)",
+						"en-US": "Role-playing (RPG)"
+					},
+					"slug": "role-playing-rpg"
+				}
+			],
+			"themes_ids": [
+				"51071842227872529",
+				"51141225463821636",
+				"51141225990825995"
+			],
+			"themes": [
+				{
+					"id": "51071842227872529",
+					"name": {
+						"*": "Open world",
+						"en-US": "Open world"
+					},
+					"slug": "open-world"
+				},
+				{
+					"id": "51141225463821636",
+					"name": {
+						"*": "Science fiction",
+						"en-US": "Science fiction"
+					},
+					"slug": "science-fiction"
+				},
+				{
+					"id": "51141225990825995",
+					"name": {
+						"*": "Sandbox",
+						"en-US": "Sandbox"
+					},
+					"slug": "sandbox"
+				}
+			],
+			"screenshots": [],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "vjF9GgrY9c0",
+					"thumbnail_id": "vjF9GgrY9c0",
+					"name": "Gameplay video"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "9cOHWnklYGw",
+					"thumbnail_id": "9cOHWnklYGw",
+					"name": "E3 2018 Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "6eS7CX5zkj0",
+					"thumbnail_id": "6eS7CX5zkj0",
+					"name": "Teaser"
+				}
+			],
+			"artworks": [],
+			"summary": {
+				"*": "The upcoming RPG from CD Projekt RED based on the Cyberpunk 2020 tabletop RPG created by Mike Pondsmith. \r\n \r\nIn Cyberpunk 2077 you play as V — a hired gun on the rise — and you just got your first serious contract. In a world of cyberenhanced street warriors, tech-savvy netrunners and corporate lifehackers, today you take your first step towards becoming an urban legend.",
+				"en-US": "The upcoming RPG from CD Projekt RED based on the Cyberpunk 2020 tabletop RPG created by Mike Pondsmith. \r\n \r\nIn Cyberpunk 2077 you play as V — a hired gun on the rise — and you just got your first serious contract. In a world of cyberenhanced street warriors, tech-savvy netrunners and corporate lifehackers, today you take your first step towards becoming an urban legend."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": null,
+			"game_modes": [],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/82ac532d0d7ffa0f9834b7d3a3c8d87fa5bd60d528bcd1796dc8fcb422d96649{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/82ac532d0d7ffa0f9834b7d3a3c8d87fa5bd60d528bcd1796dc8fcb422d96649{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/101df04bd3217057b16f84ba986f3020bc1d5ff2a0952f8a081ccc4f4fa51c76{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/101df04bd3217057b16f84ba986f3020bc1d5ff2a0952f8a081ccc4f4fa51c76{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/8bce64ea8d6ef7a2a5f4e43b94ba64aac8c2a53b10e00c36a5f084af102bfae6{formatter}.{ext}?namespace=gamesdb"
+			},
+			"icon": {
+				"url_format": "https://images.gog.com/f398c06dc50e095075fa535b9b70da9566ae4372ccfd0b4255b930399cab4725{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/101df04bd3217057b16f84ba986f3020bc1d5ff2a0952f8a081ccc4f4fa51c76{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0
+		},
+		"title": {
+			"*": "Cyberpunk 2077 Digital Goodies",
+			"en-US": "Cyberpunk 2077 Digital Goodies"
+		},
+		"sorting_title": {
+			"*": "Cyberpunk 2077 Digital Goodies",
+			"en-US": "Cyberpunk 2077 Digital Goodies"
+		},
+		"type": "dlc",
+		"summary": {
+			"*": "The upcoming RPG from CD Projekt RED based on the Cyberpunk 2020 tabletop RPG created by Mike Pondsmith. \r\n \r\nIn Cyberpunk 2077 you play as V — a hired gun on the rise — and you just got your first serious contract. In a world of cyberenhanced street warriors, tech-savvy netrunners and corporate lifehackers, today you take your first step towards becoming an urban legend.",
+			"en-US": "The upcoming RPG from CD Projekt RED based on the Cyberpunk 2020 tabletop RPG created by Mike Pondsmith. \r\n \r\nIn Cyberpunk 2077 you play as V — a hired gun on the rise — and you just got your first serious contract. In a world of cyberenhanced street warriors, tech-savvy netrunners and corporate lifehackers, today you take your first step towards becoming an urban legend."
+		},
+		"videos": [],
+		"game_modes": [],
+		"icon": {
+			"url_format": "https://images.gog.com/f398c06dc50e095075fa535b9b70da9566ae4372ccfd0b4255b930399cab4725{formatter}.{ext}?namespace=gamesdb"
+		},
+		"logo": {
+			"url_format": "https://images.gog.com/8bce64ea8d6ef7a2a5f4e43b94ba64aac8c2a53b10e00c36a5f084af102bfae6{formatter}.{ext}?namespace=gamesdb"
+		},
+		"etag": "\"32653672d912ce1aa504b52d4a03f5d6\""
+	},
+	"1582025844": {
+		"id": "52249120777529836",
+		"game_id": "51607559059596996",
+		"platform_id": "gog",
+		"external_id": "1582025844",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": "2019-05-13T00:00:00+0000",
+		"game": {
+			"id": "51607559059596996",
+			"parent_id": null,
+			"dlcs_ids": [],
+			"first_release_date": "2018-11-30T00:00:00+0000",
+			"releases": [
+				{
+					"id": "51607559058211468",
+					"platform_id": "steam",
+					"external_id": "606230",
+					"release_per_platform_id": "steam_606230"
+				},
+				{
+					"id": "52249120777529836",
+					"platform_id": "gog",
+					"external_id": "1582025844",
+					"release_per_platform_id": "gog_1582025844"
+				},
+				{
+					"id": "53160304480132150",
+					"platform_id": "humble",
+					"external_id": "thea2_theshattering_steam",
+					"release_per_platform_id": "humble_thea2_theshattering_steam"
+				},
+				{
+					"id": "53316654045839707",
+					"platform_id": "discord",
+					"external_id": "3c040f17-364e-4c9c-aa5f-d337f4d6213f",
+					"release_per_platform_id": "discord_3c040f17-364e-4c9c-aa5f-d337f4d6213f"
+				},
+				{
+					"id": "53992081352166812",
+					"platform_id": "test",
+					"external_id": "/thea-2-the-shattering-free-download/",
+					"release_per_platform_id": "test_/thea-2-the-shattering-free-download/"
+				},
+				{
+					"id": "54024441461254996",
+					"platform_id": "test",
+					"external_id": "thea-2-the-shattering",
+					"release_per_platform_id": "test_thea-2-the-shattering"
+				},
+				{
+					"id": "54392542754136517",
+					"platform_id": "humble",
+					"external_id": "thea2_theshattering_bundle_steam",
+					"release_per_platform_id": "humble_thea2_theshattering_bundle_steam"
+				},
+				{
+					"id": "55179694734297521",
+					"platform_id": "xboxone",
+					"external_id": "1683044366",
+					"release_per_platform_id": "xboxone_1683044366"
+				},
+				{
+					"id": "51607559059596996",
+					"platform_id": "generic",
+					"external_id": "51607559059596996",
+					"release_per_platform_id": "generic_51607559059596996"
+				}
+			],
+			"title": {
+				"*": "Thea 2: The Shattering",
+				"en-US": "Thea 2: The Shattering"
+			},
+			"sorting_title": {
+				"*": "Thea 2 The Shattering",
+				"en-US": "Thea 2 The Shattering"
+			},
+			"type": "game",
+			"developers_ids": [
+				"51295406108033650"
+			],
+			"developers": [
+				{
+					"id": "51295406108033650",
+					"name": "MuHa Games",
+					"slug": "muha-games"
+				}
+			],
+			"publishers_ids": [
+				"51295406108033650"
+			],
+			"publishers": [
+				{
+					"id": "51295406108033650",
+					"name": "MuHa Games",
+					"slug": "muha-games"
+				}
+			],
+			"genres_ids": [
+				"51071842242881003",
+				"51071904337940794"
+			],
+			"genres": [
+				{
+					"id": "51071842242881003",
+					"name": {
+						"*": "Role-playing (RPG)",
+						"en-US": "Role-playing (RPG)"
+					},
+					"slug": "role-playing-rpg"
+				},
+				{
+					"id": "51071904337940794",
+					"name": {
+						"*": "Strategy",
+						"en-US": "Strategy"
+					},
+					"slug": "strategy"
+				}
+			],
+			"themes_ids": [
+				"51071842246739768",
+				"51141225621119374",
+				"51141226418224461"
+			],
+			"themes": [
+				{
+					"id": "51071842246739768",
+					"name": {
+						"*": "Fantasy",
+						"en-US": "Fantasy"
+					},
+					"slug": "fantasy"
+				},
+				{
+					"id": "51141225621119374",
+					"name": {
+						"*": "4X (explore, expand, exploit, and exterminate)",
+						"en-US": "4X (explore, expand, exploit, and exterminate)"
+					},
+					"slug": "4x-explore-expand-exploit-and-exterminate"
+				},
+				{
+					"id": "51141226418224461",
+					"name": {
+						"*": "Survival",
+						"en-US": "Survival"
+					},
+					"slug": "survival"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/238f6d8a6f11c6deb9e8f59c8581f8cc51add27f973c0f3b7b41f89b733d9a84{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/69f1fffec204f88f75accfe035441ee0f23cb7b19c5d6f545872f6d32de2f236{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/24aa9bf873166b9a39969e351e2ad4817df73fb05cccc945298a3958b254c0d8{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/3009994550251d157aff2a6b0d80aaaaa42e0b82553c2a43d88ddc2a49a15104{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/29c4a6196cc468dd33ed80523dcd9edbc7dc9a6a91e689cfbc45910cb74bc280{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/e08c48909070aa42a7078a765b182a537c77ee3768b5d9dd1bb4fa3b5f09c1d7{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/f68efb48903016bd28607d3591067ea550f2791e713cf268ccaf2d418c611770{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/5724c90e9b259de6f4b9e2b74a646e47ddcc8e5268786ae33836b236ca0a2052{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/67c283d8e92be6b0455a87e3e8d79f1b813d2973a9071b22e2c7a43d73cb1325{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/d7667d4a2447e697f3a3274d0db7f2545af6431926b6fdea7f5e9004261780de{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/8756d73fbc73af13405f44d4bda6f8e3abd79d77bf9499e78382c99d9b250aba{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/c1448d369a4f1a50fd6708df56995f3b3cb73cda48863b27f3554515d7b28624{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/714f523812ed8d8c8b4c8f513e25b1619ff650b98d0951d9f92e4ee1fa9f57f0{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/7c5e8ab880c8df4cb872fd4dc81b7bb55e914eac9944e22d7bc282b489c1ddd8{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/a48769c890623fda3da7a630f7c9924308b48df4518a2b0296bd1fa9d6091fd0{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/f75ff6ddd560d95b206c6d54666f3ee4e664f5a25fab1dc7716af97c9c1157e8{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/8bae95f8aba3d96ba7865e46fb7e0373465e1cac665244e2ed239e0b6860b8b1{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/d281447029c907e8b15161ba6d0be94a641d8b7a9181f98eee1a665a6b9c1367{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/66fe95eab4a04c5ebd71e3ddc51f6d1f80a46dfca50bc5b52b68bde4ead9ac91{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/c2bbb09f79a0e84bcdbc6909da7ffa9e1e6ff6233b3c9ace4c391a1dc625af72{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/967588c34c54dc6601849f1f2ab115e7636ecc7977b0fd312a2e498338fa6bb4{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "Km8UEp_vPkc",
+					"thumbnail_id": "Km8UEp_vPkc",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "AvtpExz0Lp8",
+					"thumbnail_id": "AvtpExz0Lp8",
+					"name": "Launch Trailer"
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/7774d620b678bf075e7986df25361b47e626be400df64a2ec34a855fcce1c0ca{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/07c85495d7e027eeb24d40b1d3d8e7cd95c11f66f3447199842b7a65ddf9081d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/90c50fc7aac3410e49bd2bb613a99bfb677a29b1fef3008cd8d954f828a61e70{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/84299a94fe4ae4f1f1175b9428a91aae38d6ec5c95e64e4a0d6ca11bcf46b676{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/16777c3fe9442c92738e4cbdb25fa0ead5232329acbfcabcd1c69c0275b701e6{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/630304569945a74a160f0f34365a697e6ad6dd9b7aa18a07f3aeb7bf2538ad12{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/817c87da7412842405913135c3ab6dcc550ec604cc4e494735c16b6f4002ecde{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/03fc0c0178ff665fb4b2b6e92d62d53696eccce8158518f85e4b826ca0330fab{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/6e50c1311d26be6322c074ecdb25bafd7ed24603c519414753bb16770cc3c765{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/75233c206b4529019e651708ea0499a1e1c76b6fd3f105c07f057c82ad557a0c{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/f2df63d03bb7aeef381fbf3026b49efd834853fc2fe82464542b35594b161fea{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/6be1b668170719ed79c7cf5e8d0b15dca805bf8e533bfa81bdc695dd605e3a01{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "In the dark lands inspired by Slavic myth, life is a struggle for survival against ever increasing odds, be it natural or malevolent. Can you lead your flock to prosperity in this innovative blend of 4X strategy, RPG and card game?",
+				"en-US": "In the dark lands inspired by Slavic myth, life is a struggle for survival against ever increasing odds, be it natural or malevolent. Can you lead your flock to prosperity in this innovative blend of 4X strategy, RPG and card game?"
+			},
+			"visible_in_library": true,
+			"aggregated_rating": null,
+			"game_modes": [
+				{
+					"id": "53051895165351137",
+					"name": "Single player",
+					"slug": "single-player"
+				},
+				{
+					"id": "53051898010278634",
+					"name": "Co-operative",
+					"slug": "co-operative"
+				},
+				{
+					"id": "53051908711988230",
+					"name": "Multiplayer",
+					"slug": "multiplayer"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/4c18c50d766dabd2e699bbfba63aeb9b259c724fdb7b09647b8b6ae6b82146f7{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/4c18c50d766dabd2e699bbfba63aeb9b259c724fdb7b09647b8b6ae6b82146f7{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/ba662440fa15982a91140b0538398aedc0baa72accec3b6a2b3955e8cca28ea1{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/ba662440fa15982a91140b0538398aedc0baa72accec3b6a2b3955e8cca28ea1{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/dd30f9eb2e43d995ff812edb8dc51b17e6202b90e6fe7397fadb05adde9f244f{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/03fc0c0178ff665fb4b2b6e92d62d53696eccce8158518f85e4b826ca0330fab{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0
+		},
+		"title": {
+			"*": "Thea 2: The Shattering",
+			"en-US": "Thea 2: The Shattering"
+		},
+		"sorting_title": {
+			"*": "Thea 2 The Shattering",
+			"en-US": "Thea 2 The Shattering"
+		},
+		"type": "game",
+		"summary": {
+			"*": "In the dark lands inspired by Slavic myth, life is a struggle for survival against ever increasing odds, be it natural or malevolent. Can you lead your flock to prosperity in this innovative blend of 4X strategy, RPG and card game?",
+			"en-US": "In the dark lands inspired by Slavic myth, life is a struggle for survival against ever increasing odds, be it natural or malevolent. Can you lead your flock to prosperity in this innovative blend of 4X strategy, RPG and card game?"
+		},
+		"videos": [
+			{
+				"provider": "youtube",
+				"video_id": "Q3kuF150veA",
+				"thumbnail_id": "Q3kuF150veA",
+				"name": null
+			}
+		],
+		"game_modes": [
+			{
+				"id": "53051895165351137",
+				"name": "Single player",
+				"slug": "single-player"
+			},
+			{
+				"id": "53051898010278634",
+				"name": "Co-operative",
+				"slug": "co-operative"
+			},
+			{
+				"id": "53051908711988230",
+				"name": "Multiplayer",
+				"slug": "multiplayer"
+			}
+		],
+		"logo": {
+			"url_format": "https://images.gog.com/dd30f9eb2e43d995ff812edb8dc51b17e6202b90e6fe7397fadb05adde9f244f{formatter}.{ext}?namespace=gamesdb"
+		},
+		"etag": "\"add3c7eb18a5c2e64d6281af2ef78ce3\""
+	}
+}

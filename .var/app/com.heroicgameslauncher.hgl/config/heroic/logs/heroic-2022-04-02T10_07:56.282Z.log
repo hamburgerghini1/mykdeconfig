@@ -1,0 +1,31 @@
+(13:07:56) INFO:    [Legendary]:       Location: /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(13:07:56) INFO:    [Gog]:             Location: /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(13:07:56) INFO:    [Backend]:         
+  Heroic Version: 2.2.6 Oden
+  Legendary Version:  0.20.25 Our Benefactors
+  OS: Freedesktop.org KERNEL: 5.16.16-xm1.0e20220113.fc35.x86_64 ARCH: x64
+  CPU: Intel Core™ i5-10600K @4.1 GOVERNOR: performance
+  RAM: Total: 33.6 GB Available: 27.9 GB
+  GRAPHICS: GPU0: Device 73df VRAM: 1MB DRIVER:  
+  PROTOCOL: x11
+  
+(13:07:56) INFO:    [Gog]:             Getting data about the user
+(13:07:56) INFO:    [Gog]:             Refreshing access_token
+(13:07:56) ERROR:   [Backend]:         Failed to register protocol with OS.
+(13:07:56) ERROR:   [Gog]:             Error with refreshing token, reauth required
+(13:07:57) INFO:    [Frontend]:        Refreshing Library
+(13:07:57) INFO:    [Gog]:             Refreshing access_token
+(13:07:57) ERROR:   [Gog]:             Error with refreshing token, reauth required
+(13:07:57) INFO:    [Legendary]:       Refreshing library...
+(13:07:57) INFO:    [Legendary]:       Refreshing Epic Games...
+(13:07:57) INFO:    [Legendary]:       Refreshing Epic Games...
+(13:07:57) INFO:    [Legendary]:       [cli] INFO: Logging in...
+(13:07:57) INFO:    [Legendary]:       [Core] INFO: Logging in...
+(13:07:58) INFO:    [Legendary]:       [cli] INFO: Getting game list... (this may take a while)
+(13:07:58) INFO:    [Legendary]:       Updating game list
+(13:07:58) INFO:    [Legendary]:       Game List Updated
+(13:07:59) INFO:    [Legendary]:       Checking for game updates
+(13:07:59) INFO:    [Legendary]:       Found 0 game(s) to update
+(13:07:59) INFO:    [Gog]:             Found 0 game(s) to update
+(13:08:01) INFO:    [Backend]:         checking for heroic updates
+(13:08:01) INFO:    [Backend]:         skipping heroic updates

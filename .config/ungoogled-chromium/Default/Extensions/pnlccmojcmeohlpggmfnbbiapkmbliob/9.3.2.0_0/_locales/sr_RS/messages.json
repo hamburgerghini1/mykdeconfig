@@ -1,0 +1,4235 @@
+{
+    "BEM_FullName": {
+        "message": "RoboForm менаџер лозинки"
+    },
+    "BEM_FullNameBeta": {
+        "message": "RoboForm Менаџер Лозинке (Beta)"
+    },
+    "BEM_Description": {
+        "message": "RoboForm, рангирани број 1 менаџер лозинки олакшава ваш живот тако што ће се сећати лозинки и аутоматски вас пријавити на веб локације"
+    },
+    "RoboformType_Identity": {
+        "message": "Идентитет"
+    },
+    "RoboformType_Identities": {
+        "message": "Идентитети"
+    },
+    "RoboformType_Contact": {
+        "message": "Контакт"
+    },
+    "RoboformType_Contacts": {
+        "message": "Контакти"
+    },
+    "RoboformType_Safenote": {
+        "message": "Сигурносна Белешка"
+    },
+    "RoboformType_Safenotes": {
+        "message": "Сигурносне Белешке"
+    },
+    "RoboformType_Folder": {
+        "message": "Фасцикла"
+    },
+    "RoboformType_Folders": {
+        "message": "Фасцикле"
+    },
+    "RoboformType_File": {
+        "message": "Датотека"
+    },
+    "RoboformType_Files": {
+        "message": "Датотека"
+    },
+    "RoboformType_Login": {
+        "message": "Пријава"
+    },
+    "RoboformType_Logins": {
+        "message": "Пријаве"
+    },
+    "RoboformType_Bookmark": {
+        "message": "Маркер"
+    },
+    "RoboformType_Bookmarks": {
+        "message": "Маркери"
+    },
+    "RoboformType_Searchcard": {
+        "message": "КартицаПретраге"
+    },
+    "RoboformType_Searchcards": {
+        "message": "КартицеПретраге"
+    },
+    "Roboform_Folder": {
+        "message": "Фасцикла"
+    },
+    "Cmd_About_Key": {
+        "message": "О програму..."
+    },
+    "Cmd_Retry_Flat": {
+        "message": "Понови"
+    },
+    "Cmd_Later_Flat": {
+        "message": "Касније"
+    },
+    "Cmd_NewFolder_Error": {
+        "message": "Грешка при израду фасциклу: %1"
+    },
+    "Cmd_NewFolder_Exist_Error": {
+        "message": "Фасцикла '%1' већ постоји"
+    },
+    "Cmd_NewFolder_Title": {
+        "message": "Нова фасцикла"
+    },
+    "FolderTree_NewItem": {
+        "message": "Нова фасцикла"
+    },
+    "Cmd_DeleteFolder_Confirm": {
+        "message": "Сигурно да се избриши податке из %1?\n%2\n\nПосле брисања, ове датотеке ће бити изгубљене."
+    },
+    "Cmd_DeleteFolder_OtherFiles": {
+        "message": "друге датотеке"
+    },
+    "Cmd_Rename_Flat": {
+        "message": "Преименуј"
+    },
+    "Cmd_Rename_Name_Prompt": {
+        "message": "Преименуј у:"
+    },
+    "Cmd_Rename_Error": {
+        "message": "Грешка преименовања %1 '%2':\n%3"
+    },
+    "Cmd_Update_Flat": {
+        "message": "Ажурирај"
+    },
+    "Cmd_Delete_Flat": {
+        "message": "Избриши"
+    },
+    "Cmd_Delete_Confirm": {
+        "message": "Да се избрише %1 '%2'?"
+    },
+    "Cmd_Login_Flat": {
+        "message": "Пријава"
+    },
+    "Cmd_GoFill_Flat": {
+        "message": "Иди и Пуни"
+    },
+    "Cmd_Goto_Flat": {
+        "message": "Иди"
+    },
+    "Cmd_Logoff_Flat": {
+        "message": "Одјави се"
+    },
+    "Cmd_FillForms_Flat": {
+        "message": "Пуни"
+    },
+    "Cmd_FillEmptyOnly_Key": {
+        "message": "Пуни само празна поља"
+    },
+    "Cmd_RenewalRewards_Flat": {
+        "message": "Награде за обнову"
+    },
+    "Cmd_Help_Flat": {
+        "message": "Помоћ"
+    },
+    "Cmd_Help_Manual_Key": {
+        "message": "Призучник"
+    },
+    "Cmd_Help_FaqAll_Key": {
+        "message": "Честа питања"
+    },
+    "Cmd_Help_HomePage_Key": {
+        "message": "Главна страница"
+    },
+    "Cmd_Help_ContactSupport_Key": {
+        "message": "Контактирај подршку"
+    },
+    "Cmd_Help_ProblemStepsRecorder_Key": {
+        "message": "Рекордер корака проблема"
+    },
+    "Cmd_Help_ForgotPassword_Key": {
+        "message": "Заборављена лозинка?"
+    },
+    "Cmd_Options_Flat": {
+        "message": "Опције"
+    },
+    "Cmd_RoboForm_Flat": {
+        "message": "RoboForm"
+    },
+    "Cmd_RunImport_Flat": {
+        "message": "Увоз"
+    },
+    "Cmd_FillGenPassword_Flat": {
+        "message": "Генериши лозинку"
+    },
+    "Cmd_RunEditor_Flat": {
+        "message": "Уређивач"
+    },
+    "Cmd_Edit_Flat": {
+        "message": "Уреди"
+    },
+    "Cmd_Logins_Flat": {
+        "message": "Пријаве"
+    },
+    "Cmd_PasswordAuditRun_Key": {
+        "message": "Безбедносни центар"
+    },
+    "Cmd_EmergencyAccess_Key": {
+        "message": "Хитан приступ"
+    },
+    "Cmd_ClearList_Key": {
+        "message": "(Обриши листу)"
+    },
+    "Cmd_SaveForms_Flat": {
+        "message": "Сачувај"
+    },
+    "Cmd_SaveForms_Key": {
+        "message": "Сачувај образац..."
+    },
+    "Cmd_Cancel_Flat": {
+        "message": "Поништи"
+    },
+    "Cmd_Done_Flat": {
+        "message": "У реду"
+    },
+    "Cmd_Ok_Flat": {
+        "message": "У реду"
+    },
+    "Cmd_Skip_Flat": {
+        "message": "Прескочи"
+    },
+    "Cmd_Accept_Key": {
+        "message": "Прихватити"
+    },
+    "Cmd_Reject_Key": {
+        "message": "Одбацити"
+    },
+    "Cmd_RejectAll_Flat": {
+        "message": "Одбаци све"
+    },
+    "Cmd_Close_Flat": {
+        "message": "Затвори"
+    },
+    "Cmd_Safenote_CopyClipboard_Flat": {
+        "message": "Копирај Текст"
+    },
+    "Cmd_ToolBarSync": {
+        "message": "Синхронизација"
+    },
+    "Cmd_Sync_RoboFormAccount_Key": {
+        "message": "Уреди RoboForm Налог"
+    },
+    "Cmd_StartPage_Tip": {
+        "message": "Отвори RoboForm почетну страну"
+    },
+    "Cmd_SharedFolderSettings_Key": {
+        "message": "Подешавања дељене фасцикле"
+    },
+    "Cmd_SharedFileSettings_Key": {
+        "message": "Дељење..."
+    },
+    "Cmd_ShareExistingFolder_Key": {
+        "message": "Делити фасциклу"
+    },
+    "Cmd_ConvertFolderToGroup_Key": {
+        "message": "Конвертуј као Групу"
+    },
+    "Cmd_SendFile_Key": {
+        "message": "Пошаљи"
+    },
+    "Cmd_GroupSettingsFlat": {
+        "message": "Подешавања групе"
+    },
+    "CompromisedItemButton_Tooltip": {
+        "message": "Ова лозинку може бити угрожена! Кликните да бисте видели детаље"
+    },
+    "AutoFill_Login": {
+        "message": "%1 пријава/е"
+    },
+    "AutoFill_NewPassword": {
+        "message": "Нова лозинка"
+    },
+    "AutoFill_Generate": {
+        "message": "Генериши лозинку"
+    },
+    "AutoFill_PasswordGenerator_Settings": {
+        "message": "Подешавање..."
+    },
+    "AutoFill_Fill": {
+        "message": "Пуни"
+    },
+    "AutoFill_FillSubmit": {
+        "message": "Пуни & Изврши"
+    },
+    "AutoFill_Edit": {
+        "message": "Уреди"
+    },
+    "AutoFill_AddIdentityGroup": {
+        "message": "Додај %1"
+    },
+    "AutoFill_Rename": {
+        "message": "Преименуј"
+    },
+    "AutoFill_Delete": {
+        "message": "Обриши"
+    },
+    "AutoFill_OpenStartPage": {
+        "message": "Отвара Start Page"
+    },
+    "AutoFill_OpenStartPage_Tip": {
+        "message": "Отвара RoboForm Start Page"
+    },
+    "AutoFill_ShowOnThisDomain": {
+        "message": "Покажи на овом домену"
+    },
+    "AutoFill_DontShowOnThisDomain": {
+        "message": "Не покажи на овом домену"
+    },
+    "FillDlg_FindFill_Title": {
+        "message": "Пуни образац - RoboForm"
+    },
+    "SaveForms_Disabled": {
+        "message": "СачувајОбразац је искључен са стране сигурносне политике"
+    },
+    "SaveDlg_Note_PasswordChanged_Text2": {
+        "message": "%1: лозинка је промењена од '%2'"
+    },
+    "SaveDlg_Note_AccountCreationData_Text": {
+        "message": "Под. креације налога:"
+    },
+    "PassType_Blocking_Suffix": {
+        "message": " -Блокирано-"
+    },
+    "SaveDlg_Folder_Text": {
+        "message": "Фасц.:"
+    },
+    "SaveDlg_SaveAs_Login_Text": {
+        "message": "Пријава"
+    },
+    "SaveDlg_SaveAs_Bookmark_Text": {
+        "message": "Маркер"
+    },
+    "SaveDlg_NeverForThisSite_Text": {
+        "message": "Никада за овај сајт"
+    },
+    "SaveDlg_Unblock_Key": {
+        "message": "Деблокирај"
+    },
+    "SaveDlg_ActionNote_NewAccountLogin": {
+        "message": "Нов налог ће бити сачуван у Пријави '%1'"
+    },
+    "SaveDlg_ActionNote_UpdateLoginPassword": {
+        "message": "Само нова лозинка ће бити преписана у картици '%1', остало остаје исто"
+    },
+    "SaveDlg_ActionNote_Existing_Login": {
+        "message": "Ове информације ће преписати постојећу пријаву: '%1'"
+    },
+    "SaveDlg_NewFolder_Text": {
+        "message": "Креирај фасциклу..."
+    },
+    "Passw_Generic_Header": {
+        "message": "Унети главну лозинку"
+    },
+    "Passw_Account_Title": {
+        "message": "за налог:"
+    },
+    "Passw_Login": {
+        "message": "Пријавити се"
+    },
+    "Passw_SubmitButton_Text": {
+        "message": "Потврди"
+    },
+    "Passw_ChangeAccount": {
+        "message": "Променити налог"
+    },
+    "Passw_EnterNotify_Text2": {
+        "message": "Због сигурности, тражиће мо да унесете главну лозинку сваких %1 дана."
+    },
+    "Passw_EnterNotifySet_Text2": {
+        "message": "Због сигурности, тражиће мо да унесете главну лозинку сваких %1 дана."
+    },
+    "Passw_EnterNowButton_Text": {
+        "message": "Унети сада"
+    },
+    "Passw_DontRememberButton_Text": {
+        "message": "Не сећам се главне лозинке"
+    },
+    "MasterPass_Prompt_TypeOld": {
+        "message": "Стара Главна Лозинка:"
+    },
+    "MasterPass_Prompt_TypeNew": {
+        "message": "Нова Главна Лозинка:"
+    },
+    "MasterPass_DoNotMatch_Status": {
+        "message": "Лозинке нису исте"
+    },
+    "MasterPass_New_Length_Error": {
+        "message": "Лозинка треба бити између %1 и %2"
+    },
+    "MasterPass_New_UpperCaseChars_Error": {
+        "message": "Минимални број великих карактера у лозинки треба да буде %1"
+    },
+    "MasterPass_New_LowerCaseChars_Error": {
+        "message": "Минимални број малих карактера у лозинки треба да буде %1"
+    },
+    "MasterPass_New_DigitChars_Error": {
+        "message": "Минимални број цифра у лозинки треба да буде %1"
+    },
+    "MasterPass_New_NonNumChars_Error": {
+        "message": "Минимални број не-нумеричких слова треба да буде %1"
+    },
+    "MasterPass_New_BlanksOnly_Error": {
+        "message": "Главна Лозинка не може да има само размаке"
+    },
+    "MasterPass_New_TheSameAsPrevious_Error": {
+        "message": "Нова Главна Лозинка треба да буде различита од старе."
+    },
+    "Login_OneTimeCode_Text": {
+        "message": "Верификациони кôд"
+    },
+    "Login_OneTimeCode_Copy": {
+        "message": "Копирај берификациони кôд"
+    },
+    "Login_OneTimeCode_Copy_Tip": {
+        "message": "Клик за копирање берификационог кôда"
+    },
+    "Login_OneTimeCode_Copied_Text": {
+        "message": "Верификациони кôд је кориран"
+    },
+    "Editor_Cmd_Selector_All_Flat": {
+        "message": "Све"
+    },
+    "Editor_SharedFolderTooLongName_Error": {
+        "message": "Име је предугако, максимална дозвољена дужина имена за дељене фасцикле и групе је %1 симбола"
+    },
+    "Editor_SharedFolderOrGroupExists_Error": {
+        "message": "Дељена фасцикла или група под називом '%1 ' већ постоји"
+    },
+    "PassportExpirationDate_DisplayText": {
+        "message": "крај %1"
+    },
+    "Identities_ConfirmDeleteInstance": {
+        "message": "Да се избрише '%1' од '%2'?"
+    },
+    "Identities_InstanceNameInvalidCharacter": {
+        "message": "Варијанта може садржати само слова, цифре, карактере '_' и '-'"
+    },
+    "Identities_Instance_Main": {
+        "message": "Главни"
+    },
+    "Identities_CustomFieldOverrideHeader": {
+        "message": "Корисничка поља недозвољављају добро пуњење са стандардних RF поља.\nСкинути та корисничка поља са Идентитета ако желите да стандардна поља буду коректно пуњења."
+    },
+    "Identities_CustomFieldOverride_1": {
+        "message": "'%1' прекорачује %2"
+    },
+    "Identities_Cmd_Instance_NotExists_Error": {
+        "message": "Не постоји наведена инстанца у групи"
+    },
+    "Identities_Cmd_Instance_AlreadyExists_Error": {
+        "message": "инстанца већ постоји у групи"
+    },
+    "PassCards_Note": {
+        "message": "Белешка"
+    },
+    "PassCards_UserId": {
+        "message": "ID Корисника"
+    },
+    "PassCards_Password": {
+        "message": "Лозинка"
+    },
+    "PassCards_LoginTip_Title": {
+        "message": "Обавештење пријаве"
+    },
+    "PassCards_LoginTip_ShowMonospaceText": {
+        "message": "Употреби monospace фонт"
+    },
+    "PassCards_LoginTip_HideMonospaceText": {
+        "message": "Не употреби monospace фонт"
+    },
+    "PassCards_LoginTip_EditTipText": {
+        "message": "Уреди обавештење пријаве"
+    },
+    "PassAud_PwdStrengthWeak": {
+        "message": "Слабо"
+    },
+    "PassAud_PwdStrengthMedium": {
+        "message": "Средње"
+    },
+    "PassAud_PwdStrengthGood": {
+        "message": "Добро"
+    },
+    "PassAud_PwdStrengthStrong": {
+        "message": "Јако"
+    },
+    "NewSharedFolder_Title": {
+        "message": "Име:"
+    },
+    "NewGroup_NoPermissions_Error": {
+        "message": "Немате право да креирате групу. Само администратор фирме може."
+    },
+    "SharedFolderSettings_RejectSharedFolder": {
+        "message": "Одбацити"
+    },
+    "SharedFolderSettings_Group": {
+        "message": "Група"
+    },
+    "SharedFolderSettings_Folder": {
+        "message": "Дељена фасцикла"
+    },
+    "DeleteSharedFolder_Permissions_Error": {
+        "message": "Недовољно дозвола за брисање '%1'."
+    },
+    "SharedFolderSettings_CompanyMembersOnlySharing_Error": {
+        "message": "Дељење фасцикле је ограничено правилима. Можете делити фасциклу само с члановима ваше фирме."
+    },
+    "SharedFileSettings_CompanyMembersOnlySharing_Error": {
+        "message": "Дељење датотеке је ограничено правилима. Можете делити датотеке само са члановима ваше компаније."
+    },
+    "SharedFileSettings_CompanyMembersOnlySending_Error": {
+        "message": "Слање датотеке је ограничено правилима. Можете делити датотеке само са члановима ваше компаније."
+    },
+    "ShareExistingFolder_TooLongName_Error": {
+        "message": "Име фасцикле '%1' је предугако. Максимална дозвољену дужину имена за дељене фасцикле и групе је %2 симбола."
+    },
+    "StopSharingFolder_NotFolderOwner_Error": {
+        "message": "Само власник фасцикле може да заустави дељење."
+    },
+    "StopSharingFolder_DataInFolder_RemoveShared_Error": {
+        "message": "Податци су сачувани у \"%1\".\nТребали бисте да обришете или одбаците дељену фасцикли (групу).\nГрешка: %2."
+    },
+    "StopSharingFolder_DataInFolder_Error": {
+        "message": "Податци су сачувани у \"%1\".\nГрешка: %2."
+    },
+    "EmergencyAccessContactConfirmationDescription_Text": {
+        "message": "Овај корисник RF-а тражи да будете хитан контакт. Или прихватите или одбијте позив:"
+    },
+    "EmergencyAccessDataAccessConfirmationDescription_Text": {
+        "message": "Ваш хитан контак је тражио приступ Ваших податке из RF-а.\nУколико не предузмете мере у одређеном периоду, приступ ће бити аутоматски одобрен."
+    },
+    "CompanyInvitationConfirmation_Title": {
+        "message": "Позвани сте у фирми.\nПрихватите или не овај позив:"
+    },
+    "CompanyInvitationConfirmationMultiple_Title": {
+        "message": "Позвани сте у више компанија. Имајте на уму да можете да се придружите само једној компанији.\nПрихватите или одбаците наведене позивнице:"
+    },
+    "SharedFoldersConfirmation_Title": {
+        "message": "RoboForm корисник жели да дели неке податке са тобом.\nПрихатите или не ове дељене фасцикле:"
+    },
+    "SharedFilesConfirmation_Title": {
+        "message": "RoboForm корисник жели да дели податке са вама.\nПрихватите или не ове датотеке:"
+    },
+    "CompanyInvitationToConfirm_WithSender_Info": {
+        "message": "'%1' фирма"
+    },
+    "Options_Settings_Title": {
+        "message": "Подешавања"
+    },
+    "Options_ManagedByPolicy_Text": {
+        "message": "Управљенои политиком компаније"
+    },
+    "Options_LoginToViewMoreOptions_Text": {
+        "message": "Неке опције нису доступне док се не пријавите у RoboForm налогу. Кликните на дугме RoboForm са траке са алаткама из прегледача да бисте се пријавии."
+    },
+    "Options_Settings_Saved_Notification2": {
+        "message": "Промене су сачуване"
+    },
+    "Options_Yes": {
+        "message": "Да"
+    },
+    "Options_No": {
+        "message": "Не"
+    },
+    "Options_General_Title": {
+        "message": "Опште"
+    },
+    "Options_Language_Title": {
+        "message": "Језик"
+    },
+    "Options_Language_Tip": {
+        "message": "одаберите језик интерфејса RoboForm апликације"
+    },
+    "Options_Language_DefaultOption": {
+        "message": "Користи језик прегледача - %1"
+    },
+    "Options_TimeZone_Title": {
+        "message": "Подешавање временске зоне"
+    },
+    "Options_ShowBookmarksAndLoginsTogether_Text": {
+        "message": "Покажи у исто време Маркери Лозинке"
+    },
+    "Options_ShowBookmarksAndLoginsTogether_Tip2": {
+        "message": "Букмарки ће бити приказани испод Пријаве у свим RoboForm интерфејсима"
+    },
+    "Options_Browsers_Title": {
+        "message": "Претраживачи"
+    },
+    "Options_Adapter_Install_Text": {
+        "message": "Инсталирати"
+    },
+    "Options_Adapter_Edge_Text": {
+        "message": "Microsoft Edge додатак"
+    },
+    "Options_Adapter_Firefox_Text2": {
+        "message": "Mozilla Firefox додатак"
+    },
+    "Options_Adapter_Chrome_Text": {
+        "message": "Google Chrome"
+    },
+    "Options_Adapter_ChromiumBased_Text": {
+        "message": "Претраживачи базирани на Chromium"
+    },
+    "Options_Adapter_FirefoxBased_Text": {
+        "message": "Претраживачи на бази Firefox"
+    },
+    "Options_Adapter_Opera_Text": {
+        "message": "Opera"
+    },
+    "Options_AutoFill_Title": {
+        "message": "АутоПуни"
+    },
+    "Options_AutoFill_Text": {
+        "message": "АутоПуњење"
+    },
+    "Options_AutoFill_Tip": {
+        "message": "Одаберите како би RoboForm требао са пуни формулари из већ постојеће пријаве или идентитети"
+    },
+    "Options_OfferAutoFill_WinDialogs_Tip2": {
+        "message": "Понуда за попуњавање Windows дијалога (basic authentication) од одговарајућих пријава"
+    },
+    "Options_OfferAutoFill_BasicAuthDialogs_Tip": {
+        "message": "Понуда за попуњавање „basic authentication“ дијалога од одговарајућих пријава"
+    },
+    "Options_AutoFill_DontOffer_Text": {
+        "message": "Не тражи АутоПуњење"
+    },
+    "Options_AutoFill_Offer_Text": {
+        "message": "Тражи АутоПуњење"
+    },
+    "Options_AutoFill_Offer_Tip": {
+        "message": "Када RoboForm нађе формулар (HTML) који моће да се попуни са Пријавом или Идентитетом, покажи дијалог са одговарајуче Пријаве и Идентитете"
+    },
+    "Options_AutoFill_WithoutAsking_Text1": {
+        "message": "АутоПуни без питања"
+    },
+    "Options_AutoFill_WithoutAsking_Text2": {
+        "message": "(ако само један избор)"
+    },
+    "Options_AutoFill_WithoutAsking_Tip": {
+        "message": "Попуњава обрасце на веб страници са Пријавом или Идентитетом који најбоље одговара, без приказивања АутоПуњења. Међутим, ако се неколико пријава подудара, тада се приказује дијалог АутоПуњења"
+    },
+    "Options_AutoFill_FromContacts_Text": {
+        "message": "АутоПуни из Контакта"
+    },
+    "Options_AutoFill_FromContacts_Tip2": {
+        "message": "Подразумевано је АутоПуњење нуди пуњење само од идентитета. Ово подешавање омогућава и понуду контаката"
+    },
+    "Options_AutoFill_OfferInOldBrowsers_Text": {
+        "message": "Нуди АутоПуњење у Internet Explorer"
+    },
+    "Options_AutoFill_OfferInOldBrowsers_Tip2": {
+        "message": "АутоПуњење који нуди пуњење из пријаве и идентитете ће бити приказан у Internet Explorer"
+    },
+    "Options_OfferAutoFill_WinDialogs_Text2": {
+        "message": "АутоПуни Виндоуз Аутентификацију у претраживаче"
+    },
+    "Options_OfferAutoFill_BasicAuthDialogs_Text": {
+        "message": "АутоПуни „Basic Authentication “ дијалоге у прегледаче"
+    },
+    "Options_AutoFillBoth_Text2": {
+        "message": "Покажи пријаве/идентитети"
+    },
+    "Options_AutoFillBoth_Tip2": {
+        "message": "Питај за АутоПуњење за Пријаве и Идентитете"
+    },
+    "Options_AutoFillLogins_Text": {
+        "message": "Покажи само пријаве"
+    },
+    "Options_AutoFillLogins_Tip": {
+        "message": "Питај за АутоПуњење за Пријаве а не за Идентитете"
+    },
+    "Options_AutoFillIdentities_Text": {
+        "message": "Покажи само идентитете"
+    },
+    "Options_AutoFillIdentities_Tip": {
+        "message": "Питај за АутоПуњење за Идентитете а не за Пријаве"
+    },
+    "Options_AutoFillIfPass_Text2": {
+        "message": "АутоПуни само на листовима са Лозинкама"
+    },
+    "Options_AutoFillIfPass_Tip2": {
+        "message": "Одабрано: АутоПуни само на лист са лозинкама. Неодабрано: Питај за АутоПуњење на листу и ако нема лозинке"
+    },
+    "Options_AutoFillThreshold_Text2": {
+        "message": "Листови требају да покажу АутоПуњење за Идентитете"
+    },
+    "Options_AutoFillThreshold_Tip": {
+        "message": "Минимални број поља за АутоПуни из Идентитета"
+    },
+    "ShowAutoFillUI_Text": {
+        "message": "Покажи АутоПуни интерфејс"
+    },
+    "Options_AutoSave_Title": {
+        "message": "АутоСачувај"
+    },
+    "Options_AutoSave_Text": {
+        "message": "АутоСачувај"
+    },
+    "Options_AutoSave_Tip": {
+        "message": "Изаберите како би требао RoboForm да сачува нове акредитиве"
+    },
+    "Options_AutoSave_WebForms_No_Text": {
+        "message": "Не нуди АутоСачувавање"
+    },
+    "Options_AutoSave_WebForms_No_Tip": {
+        "message": "Када примените пуњене формуларе (HTML), RoboForm неће их сачувати"
+    },
+    "Options_AutoSave_WebForms_WithConfirmation_Text1": {
+        "message": "Питај за АутоСачувавање"
+    },
+    "Options_AutoSave_WebForms_WithConfirmation_Text2": {
+        "message": "(захтева корисничку потврду)"
+    },
+    "Options_AutoSave_WebForms_WithConfirmation_Tip": {
+        "message": "Када примените пуњене формуларе (HTML), RoboForm нуди сачувавање"
+    },
+    "Options_AutoSave_WebForms_WitoutAsking_Text": {
+        "message": "АутоСачувај без питања"
+    },
+    "Options_AutoSave_WebForms_WitoutAsking_Tip": {
+        "message": "Када примените пуњене формуларе (HTML), RoboForm ће аутоматски сачувати"
+    },
+    "Options_OfferAutoSave_WinDialogs_Text": {
+        "message": "Аутосачувај из Windows дијалога (basic authentication) у прегледаче"
+    },
+    "Options_OfferAutoSave_BasicAuthDialogs_Text": {
+        "message": "Аутосачувај из „Basic Authentication“ у прегледаче"
+    },
+    "Options_OfferAutoSave_WinDialogs_Tip2": {
+        "message": "АутоСаћувавање ће се покренути из подношења образаца у Windows дијалог у (basic authentication) у прегледачима"
+    },
+    "Options_OfferAutoSave_BasicAuthDialogs_Tip": {
+        "message": "АутоСаћувавање ће се покренути из подношења образаца у „basic authentication“ у прегледачима"
+    },
+    "Options_AutoSave_AltClickEnable_Text2": {
+        "message": "Упали преучиц: ALT+click на дугме пријаве за форсирање АутоСаћувавања"
+    },
+    "Options_AutoSave_ShiftEnterEnable_Text2": {
+        "message": "Упали пречицу: SHIFT+ENTER у текст поље за форсирање АутоСаћувавања"
+    },
+    "Options_Account_Title": {
+        "message": "Налог"
+    },
+    "Options_BackupRestoreFrame_Text": {
+        "message": "Копија и Врати"
+    },
+    "Options_ImportsButton_Text2": {
+        "message": "Увоз"
+    },
+    "Options_Import_FolderSuffix_Text": {
+        "message": "Увежено"
+    },
+    "Options_RoboFormOpensWith_Title2": {
+        "message": "RoboForm додатак и Start Page се отварају са"
+    },
+    "Options_RoboFormOpensWith_Tip2": {
+        "message": "Одабрано сортирање биће приказано сваки пут када се отвори RoboForm додатак и Start Page"
+    },
+    "Options_RoboFormOpensWith_LastSelected_Text": {
+        "message": "Последње одабрано сортирање"
+    },
+    "Options_RoboFormOpensWith_PopularLogins_Text": {
+        "message": "Популарне пријаве"
+    },
+    "Options_RoboFormOpensWith_RecentlyUsedLogins_Text": {
+        "message": "Недавне пријаве"
+    },
+    "Options_RoboFormOpensWith_AllPopularItems_Text": {
+        "message": "Све популарне ставке"
+    },
+    "Options_RoboFormOpensWith_AllRecentlyUsedItems_Text": {
+        "message": "Све недавне ставке"
+    },
+    "Options_RoboFormOpensWith_PinnedItems_Text": {
+        "message": "Закачене ставке"
+    },
+    "Options_Security_TurnOffBuiltInPwdMgr_Text": {
+        "message": "Искључити уграђени менаџер лозинке претраживача"
+    },
+    "Options_Security_TurnOffBuiltInPwdMgr_Desciption_Text": {
+        "message": "Када постављено на Да, RoboForm додатак у Chrome, Edge, и Firefox ће онемогућити уграђене менаџере лозинке за претраживање да траже сачување нове лозинке."
+    },
+    "Options_OpenOptionsInInstalledRoboForm": {
+        "message": "Отвори Опције из инсталираног RoboForm-а"
+    },
+    "Options_Security_Title": {
+        "message": "Безбедност"
+    },
+    "Options_SetPasswordButton_Text4": {
+        "message": "Промена главне лозинке"
+    },
+    "Options_SetPasswordLink_Text": {
+        "message": "Промена"
+    },
+    "Options_AutoForgetTime_Text": {
+        "message": "Ауто-Одјави после оволико минута"
+    },
+    "Options_AutoForgetTime_Tip2": {
+        "message": "RoboForm ће вас аутоматски одјавити са тренутне сесије након ових минута неактивности"
+    },
+    "Options_AuthMethod_Title": {
+        "message": "Начин аутентификације"
+    },
+    "Options_AuthMethod_MasterPasswordOnly": {
+        "message": "Увек тражи Главну Лозинку"
+    },
+    "Options_AuthMethod_MasterPasswordOnly_Tip": {
+        "message": "Пријава само преко Главне Лозинке"
+    },
+    "Options_AuthMethod_MasterPasswordOnly_Tip2": {
+        "message": "Од вас ће се тражити да унесете главну лозинку након истека подешеног времена неактивности, сваки пут када се отвори нова сесија претраживача, сваки пут када се рачунар откључава или укључује."
+    },
+    "Options_AuthMethod_WindowsHello": {
+        "message": "Windows Hello"
+    },
+    "Options_AuthMethod_WindowsHello2": {
+        "message": "Користи Windows Hello"
+    },
+    "Options_AuthMethod_Biometrics_InstallDesktopApp_Text": {
+        "message": "%1. Ово ће захтевати инсталацију "
+    },
+    "Options_AuthMethod_Biometrics_InstallDesktopApp_Link": {
+        "message": "RoboForm инсталирана апликација"
+    },
+    "Options_AuthMethod_WindowsHello_Tip": {
+        "message": "Windows Hello за пријављивање у место од Главне Лозинке. Главна Лозинка може ипак бити потребна за пријављивање, тако да требате да је знате."
+    },
+    "Options_AuthMethod_Fingerprint": {
+        "message": "Отисак прста (WBF)"
+    },
+    "Options_AuthMethod_Fingerprint_Tip": {
+        "message": "Отисак прста за пријављивање у место од Главне Лозинке. Главна Лозинка може ипак бити потребна за пријављивање, тако да требате да је знате."
+    },
+    "Options_AuthMethod_UseTouchID": {
+        "message": "Употреби Touch ID"
+    },
+    "Options_AuthMethod_UseWatch": {
+        "message": "Употреби Apple Watch"
+    },
+    "Options_AuthMethod_AskOnNewBrowserSession": {
+        "message": "Тражи главну лозинку на нову сесију прегледача"
+    },
+    "Options_AuthMethod_AskOnNewBrowserSession_Tip": {
+        "message": "Биће тражено да унесете главу лозинку сваки пут када се отвори нова сесија прегледача"
+    },
+    "Options_AuthMethod_EnterMasterPassword_Prompt": {
+        "message": "Унети Главну Лозинку за потврду промене на %1"
+    },
+    "Options_AuthMethod_OldNativeRF_Warning": {
+        "message": "Ово подешавање се не може променити овде. Кликните да бисте приказали подешавања инсталираног RoboForm-а"
+    },
+    "Options_AuthMethod_OpenNativeOptions_ButtonText": {
+        "message": "Управљајте методама аутентификације"
+    },
+    "Options_StoreMPInSystemProtectedStorage_Text2": {
+        "message": "Не питај за Главну Лозинку"
+    },
+    "Options_StoreMPInSystemProtectedStorage_Tip2": {
+        "message": "После уноса Главне Лозинке, она ће се бити сачувана у заштићеном складишту система, тако да не требате да је унесете опет.\nДа би RF опет траћио Главну Лозинку, кликнути дугме 'Одјави се'. RF неће се аутоматски одјавити због тајмаута."
+    },
+    "Options_WarnAboutFillingSensitiveInfo_Text2": {
+        "message": "Упозори ме пре него што се попуне подаци моје кредитне картице или банковног рачунуа"
+    },
+    "Options_WarnAboutFillingSensitiveInfo_Tip": {
+        "message": "RoboForm тражи ће додатну потврду пре пуњења било каквих података о плаћању који су у вашем идентитету"
+    },
+    "Options_ShowCompromisedPasswordsIndicator": {
+        "message": "Прикажи индикатор компромисне лозинки"
+    },
+    "Options_ShowCompromisedPasswordsIndicator_Tip": {
+        "message": "Икона Црвеног узвикања појавиће се поред пријава које садрже компромисене лозинке"
+    },
+    "Options_OpenSPOnLoginFromExtension_Title": {
+        "message": "Отвори StartPage када се пријавим на RoboForm"
+    },
+    "Options_Keyboard_Title": {
+        "message": "Тастатура"
+    },
+    "Options_DisableShortcuts_Text": {
+        "message": "Омогући пречице у Читачу"
+    },
+    "Options_DisableShortcuts_Tip": {
+        "message": "Омогући пречице у Читачу.\nRF Пречице:\nALT+R - RF Алатна Траке\nALT+S - Фокус на претрагу\nALT+- - Брисање поља\nALT+P - Генератор лозинке\nALT+n - покажи мини-дијалог за Идентитет\nALT+M - покажи мини-дијалог са све одговарајуће картице"
+    },
+    "Options_RightAltForShortcuts_Text": {
+        "message": "Користи и Десни ALT за Пречице"
+    },
+    "Options_RightAltForShortcuts_Tip": {
+        "message": "Ако је унето и десни ALT позове RF пречице, инаће само леви ALT"
+    },
+    "Options_ShortcutsList_Text": {
+        "message": "Листа Пречица"
+    },
+    "Options_ShortcutsList_Tip": {
+        "message": "Листа Пречица"
+    },
+    "Options_Shortcut_Ctrl_Text": {
+        "message": "Ctrl"
+    },
+    "Options_Shortcut_Shift_Text": {
+        "message": "Shift"
+    },
+    "Options_Shortcut_Alt_Text": {
+        "message": "Alt"
+    },
+    "Options_IncorrectValue_AuxKey": {
+        "message": "Макар једна ектензија треба да буде одабрана"
+    },
+    "Options_Domains_Title": {
+        "message": "Домени"
+    },
+    "Options_Domains_Equivalences_Frame": {
+        "message": "Еквиваленција домена"
+    },
+    "Options_Domains_Equivalences_Custom_Tip": {
+        "message": "Листа прилагођених еквиваленција. Свака линија дефинише иста домена одвојена са '='. Додати домене без 'http' и 'www'.\nЕквиваленције су преносне, нпр:\naaa.com=bbb.com=ccc.com\nddd.com=bbb.com\nddd.com=eee\nсви домени су једнаки."
+    },
+    "Options_Domains_Equivalences_BadDomains_Error": {
+        "message": "Овде се могу дефинисати само домени. Домени могу да садрже само слова, цифре, цртице ('-') и тачке ('.'). Домени морају почети и завршавати словом или цифром. Погрешан домен:\n'%1'"
+    },
+    "Options_Domains_FillingFromLoginChecksDomain_Text2": {
+        "message": "Упозори ме пре него што се подаци пријаве испуне на домен коси се не подудара"
+    },
+    "Options_Domains_FillingFromLoginChecksDomain_Tip": {
+        "message": "RoboForm ће упозорити пре него што се подаци пријаве попуне у домен различит од оног који је повезан са том пријавом"
+    },
+    "Options_Advanced_Title": {
+        "message": "Напредно"
+    },
+    "Options_NativeIntegrationChange_Warning": {
+        "message": "Да ли желите да промените опцију матичне интеграције?\nЕкстензија ће бити поново учутана."
+    },
+    "Options_Billing_Title": {
+        "message": "Претплата"
+    },
+    "Options_LicenseType_Text": {
+        "message": "Тип лиценце"
+    },
+    "Options_LicenseType_Business_Text": {
+        "message": "Business"
+    },
+    "Options_LicenseType_Family_Text": {
+        "message": "Family"
+    },
+    "Options_LicenseType_Everywhere_Text": {
+        "message": "Everywhere"
+    },
+    "Options_UpgradeToFamilyPlan_Button_Text": {
+        "message": "Надогради на Family претплату"
+    },
+    "Options_NotPrimaryBuyer_Text": {
+        "message": "Ваш RoboForm налог није примарни носилац лиценце (контакт претплате).\nКонтактирајте примарни носилац лиценце за обнову,\nили можете да обновите претплату само за овај налог (биће затражено нове информације о наплати)."
+    },
+    "Options_LicenseStatus_Text": {
+        "message": "Статус лиценце"
+    },
+    "Options_LicenseStatus_FreeAccount_Text": {
+        "message": "Бесплатно"
+    },
+    "Options_LicenseStatus_NoLicense_Text": {
+        "message": "Без лиценце"
+    },
+    "Options_LicenseStatus_FreeTrial_Text": {
+        "message": "Проба"
+    },
+    "Options_LicenseStatus_ExpiredTrial_Text": {
+        "message": "Проба завршена"
+    },
+    "Options_LicenseStatus_ActiveSubscription_Text": {
+        "message": "Активна претплата"
+    },
+    "Options_LicenseStatus_ExpiredSubscription_Text": {
+        "message": "Неактивана претплата"
+    },
+    "Options_LicenseStatus_ExpirationDate_Text": {
+        "message": "Важи до: %1"
+    },
+    "Options_LicenseStatus_RenewNow_Button_Text": {
+        "message": "Обнови сада"
+    },
+    "Options_LicenseStatus_PurchaseLicense_Button_Text": {
+        "message": "Купи лиценцу"
+    },
+    "Options_AutoRenew_Text": {
+        "message": "Статус ауто-обнове"
+    },
+    "Options_AutoRenewStatus_Failed_Text": {
+        "message": "НЕУСПЕШНО"
+    },
+    "Options_AutoRenewStatus_On_Text": {
+        "message": "ДА"
+    },
+    "Options_AutoRenewStatus_Off_Text": {
+        "message": "НЕ"
+    },
+    "Options_AutoRenewStatus_BillingDate_Text": {
+        "message": "Купљено: %1"
+    },
+    "Options_AutoRenewStatus_BillingAmount_Text": {
+        "message": "Сума: %1"
+    },
+    "Options_AutoRenew_TurnOff_Button_Text": {
+        "message": "УГАСИ ауто-обноцу"
+    },
+    "Options_AutoRenew_TurnOn_Button_Text": {
+        "message": "УПАЛИ ауто-обнову"
+    },
+    "Options_PaymentInfo_Text": {
+        "message": "Инфо плачања"
+    },
+    "Options_PaymentInfo_UpdateBillingInfo_Text": {
+        "message": "Ажурирај инфо плачања"
+    },
+    "ContextMenuAndShortcuts_RoboFormToolbar_Text": {
+        "message": "Прикажи Палету Алатки RoboForm-a"
+    },
+    "ContextMenuAndShortcuts_SaveForms_Text": {
+        "message": "Сачувај Образац"
+    },
+    "ContextMenuAndShortcuts_FillForms_Text": {
+        "message": "Пуни Образац"
+    },
+    "ContextMenuAndShortcuts_MyIdentity_Text": {
+        "message": "Мој Идентитет"
+    },
+    "ContextMenuAndShortcuts_MatchingPasscard_Text": {
+        "message": "Одговарајуће Картице"
+    },
+    "ContextMenuAndShortcuts_RunPassGen_Text": {
+        "message": "Генератор Лозинке"
+    },
+    "ContextMenuAndShortcuts_SearchBox_Text": {
+        "message": "Поље Тражи"
+    },
+    "ContextMenuAndShortcuts_Logoff_Text": {
+        "message": "Одјави се"
+    },
+    "ContextMenuAndShortcuts_FillSubmit_Text": {
+        "message": "Пуни & Изврши"
+    },
+    "ContextMenuAndShortcuts_SetFields_Text": {
+        "message": "Постави Поља"
+    },
+    "ContextMenuAndShortcuts_ResetFields_Text": {
+        "message": "Ресетуј Поља"
+    },
+    "ContextMenuAndShortcuts_ClearFields_Text": {
+        "message": "Бриши Поља"
+    },
+    "ContextMenuAndShortcuts_Options_Text": {
+        "message": "RoboForm Опције"
+    },
+    "ContextMenuAndShortcuts_RunTaskbar_Text": {
+        "message": "Икона Палете Послова RoboForma"
+    },
+    "ContextMenuAndShortcuts_IdentitiesEditor_Text": {
+        "message": "Уређивач Идентитета"
+    },
+    "ContextMenuAndShortcuts_PasscardsEditor_Text": {
+        "message": "Уређивач Картице"
+    },
+    "ContextMenuAndShortcuts_SafenotesEditor_Text": {
+        "message": "Уређивач Сигурносне Белешке"
+    },
+    "ContextMenuAndShortcuts_Logins_Text": {
+        "message": "Пријаве"
+    },
+    "ContextMenuAndShortcuts_Safenotes_Text": {
+        "message": "Сигурносне Белешке"
+    },
+    "ContextMenuAndShortcuts_Identities_Text": {
+        "message": "Идентитети"
+    },
+    "ContextMenuAndShortcuts_RoboFormMenu_Text": {
+        "message": "RoboForm Мени"
+    },
+    "ContextMenuAndShortcuts_RoboFormToolbar_Acc3": {
+        "message": "R"
+    },
+    "ContextMenuAndShortcuts_SaveForms_Acc": {
+        "message": "["
+    },
+    "ContextMenuAndShortcuts_FillForms_Acc": {
+        "message": "]"
+    },
+    "ContextMenuAndShortcuts_MyIdentity_Acc": {
+        "message": "19"
+    },
+    "ContextMenuAndShortcuts_MatchingPasscard_Acc": {
+        "message": "M"
+    },
+    "ContextMenuAndShortcuts_RunPassGen_Acc": {
+        "message": "P"
+    },
+    "ContextMenuAndShortcuts_SearchBox_Acc": {
+        "message": "S"
+    },
+    "ContextMenuAndShortcuts_Logoff_Acc": {
+        "message": "L"
+    },
+    "ContextMenuAndShortcuts_FillSubmit_Acc3": {
+        "message": "Z"
+    },
+    "ContextMenuAndShortcuts_SetFields_Acc": {
+        "message": "="
+    },
+    "ContextMenuAndShortcuts_ResetFields_Acc": {
+        "message": "-"
+    },
+    "ContextMenuAndShortcuts_ClearFields_Acc": {
+        "message": "0"
+    },
+    "ContextMenuAndShortcuts_Options_Acc": {
+        "message": "O"
+    },
+    "ContextMenuAndShortcuts_RunTaskbar_Acc": {
+        "message": "I"
+    },
+    "ContextMenuAndShortcuts_IdentitiesEditor_Acc": {
+        "message": ","
+    },
+    "ContextMenuAndShortcuts_PasscardsEditor_Acc": {
+        "message": "."
+    },
+    "ContextMenuAndShortcuts_SafenotesEditor_Acc": {
+        "message": "/"
+    },
+    "ContextMenuAndShortcuts_Logins_Acc2": {
+        "message": "X"
+    },
+    "ContextMenuAndShortcuts_Safenotes_Acc": {
+        "message": "C"
+    },
+    "ContextMenuAndShortcuts_Identities_Acc2": {
+        "message": "N"
+    },
+    "ContextMenuAndShortcuts_RoboFormMenu_Acc2": {
+        "message": "U"
+    },
+    "Import_Succeeded_Title": {
+        "message": "Увоз је успешно завршен"
+    },
+    "Import_ImportFromFileButton_Text": {
+        "message": "Увоз из датотеке"
+    },
+    "Import_SelectedFolderIsReadOnly_Error": {
+        "message": "Не може да се уноси у само читљиву датотеку"
+    },
+    "Import_ReportAddedGeneric_Text": {
+        "message": "%1 %2 додато\n"
+    },
+    "Import_ReportExistingGeneric_Text": {
+        "message": "%1 %2 већ су били у RoboForm-у\n"
+    },
+    "Import_ReportError_Text": {
+        "message": "Догодила се грешка"
+    },
+    "Import_Chrome_Browser_Text": {
+        "message": "Google Chrome"
+    },
+    "Import_Edge_Browser_Text": {
+        "message": "Microsoft Edge"
+    },
+    "Import_Firefox_Browser_Text": {
+        "message": "Mozilla Firefox"
+    },
+    "Import_Opera_Browser_Text": {
+        "message": "Opera"
+    },
+    "Import_FromDashlane_Note": {
+        "message": "Увоз из Dashlane."
+    },
+    "Import_FromLastPass_Note": {
+        "message": "Увоз из LastPass."
+    },
+    "Import_FromBitwarden_Note": {
+        "message": "Увоз из Bitwarden."
+    },
+    "Import_From1Password_Note": {
+        "message": "Увоз из 1Password."
+    },
+    "Import_FromKeeper_Note": {
+        "message": "Увоз из Keeper."
+    },
+    "Import_FromNordPass_Note": {
+        "message": "Увоз из NordPass."
+    },
+    "Import_FromTrueKey_Note": {
+        "message": "Увоз из TrueKey."
+    },
+    "Import_FromEnpass_Note": {
+        "message": "Увоз из Enpass."
+    },
+    "Import_FromCSVFile_Note": {
+        "message": "Увоз из CSV датотеке."
+    },
+    "Import_FromSafari_Note": {
+        "message": "Увоз из Safari."
+    },
+    "Import_AdditionalInformation_Note": {
+        "message": "Додатне информације:\n"
+    },
+    "Import_CustomFields_Note": {
+        "message": "Прилагођена поља:"
+    },
+    "Import_Dialog_Title1": {
+        "message": "Увоз лозинке из"
+    },
+    "Import_Dialog_Title2": {
+        "message": "Увоз лозинке из %1"
+    },
+    "Import_BackButton_Text": {
+        "message": "Назад"
+    },
+    "Import_Last_Instruction": {
+        "message": "Једном завршено, кликнути \"Увоз из датотеке\"."
+    },
+    "Import_Chrome_Instructions": {
+        "message": "Отворити Chrome и кликнути на 3 тачке у горњем десном углу. Одабрати \"Подешавања\".\nКликнути \"Лозинке\" испод секције АутоПуњења. Десно од \"Сачуване лозинке\" кликнути 3 тачке. Кликнути \"Извоз лозинке...\".\nПотврдите извоз у новом прозору, кликните плаво дугме \"Извоз лозинке...\". Прозор \"Сачувати као\" ће се појавити. Именовати CSV датотеку и одаберите смештај."
+    },
+    "Import_Firefox_Instructions": {
+        "message": "Отворити Firefox и кликните на 3 хоризонталне линије. Одаберите \"Passwords\".\nНа десном горњем углу кликните на 3 тачке. Одаберите \"Export Logins...\" из менија. Добићете поруку да потврдите да желите да извозите. Кликнути црвено дугме \"Export...\".\nДијалог \"Save As\" ће се појавити. Именовати CSV датотеку и одаберите смештај."
+    },
+    "Import_Edge_Instructions": {
+        "message": "Отворити Edge и кликните на 3 тачке. Одаберите \"Settings\".\nПа \"Profiles\" са леве колоне и кликните на \"Passwords\". Онда кликните на 3 тачке. Кликнути \"Export passwords\".\nКликните плаво дугме \"Export passwords\". Унети вашу лозинку па \"OK\". Именовати CSV датотеку и одаберите смештај."
+    },
+    "Import_Opera_Instructions": {
+        "message": "Отворити Opera па кликнути Opera иконицу. Одабрати \"Settings\".\nКликнути \"Passwords\" испод секције Autofill. Кликнути 3 вертикалне тачкице. Кликнути \"Export passwords...\".\nПотврдите извоз са плавим дугметом \"Export passwords...\". Име новати датотеку и одабирајте смештај."
+    },
+    "Import_LastPass_Instructions": {
+        "message": "У алатној траци претраживача кликнути иконицу LastPass па \"Open My Vault\". Одабирајте \"Advanced Options\" на дну леве секције.\nКликнути \"Export\". Ако је заражено унесите главну лозинку па кликните црвено дугме \"Continue\".\nLastPass ће извести датотеку именовану \"lastpass_export.csv\" у фасцикли преузимања."
+    },
+    "Import_Dashlane_Instructions": {
+        "message": "Отворите претраживач и кликните Dashlane додатак.\nКликнути дугме \"More\" и одаберите опцију \"Open the app\".\nКликнути \"My Account\" и одаберите \"Export Data\". Унети главну лозинку па кликните на \"Export to CSV\".\nZIP датотека ће бити сачувана у фасцикли преузимања. Екстрактујте датотеку, унура има 5 CSV датотеке. CSV која садржава пријаве је именована \"credentials.csv\""
+    },
+    "Import_Bitwarden_Instructions": {
+        "message": "Отворите преттраживач и пријавите се на Bitwarden налог. Кликните \"Tools\".\nОдаберите \"Export Vault\" из леве стране. Испод \"File Format\" одаберите опцију .csv датотеку. Унети главну лозинку. И онда кликните на плаво дугме \"Export Vault\".\nКликните плаво дугме \"Export Vault\" да би потврдилиизвоз. Bitwarden ће извести CSV датотеку \"bitwarden_export_##############.csv\" у фасцикли преузимања."
+    },
+    "Import_1Password_Instructions_Win": {
+        "message": "Отворите 1Password и пријавите се.\nОдабрати податке које желите да извезете. Можете све одабрати пречицом \"Ctrl + A\". Десни клик па опцију \"Export\".\nПотврдите са главном лозинком и кликните \"Export\" дугме.\nУ прозору сачувавања требате да одаберете CSV одвојено запетом и менија \"Save as type\", именовати датотеку и подесите смештај па кликните на \"Save.\""
+    },
+    "Import_1Password_Instructions_Mac": {
+        "message": "Отворите 1Password и пријавите се.\nКликните \"File\" мени. Одаберите \"Export\" па \"All Items...\".\nУнесите главну лозинку па кликните плаво дугме \"Continue\".\nИменовати датотеку у одаберите смештај и одаберите \"Comma Delimited Text (.csv)\" из \"File Format\" мени. Испод \"Fields to Export\" требате да одаберете \"Include Common Labels\". када је све подешено како треба, кликните плаво дугме \"Save\"."
+    },
+    "Import_Keeper_Instructions_Win": {
+        "message": "Отворите Keeper и идите на вашем сефу.\nкликните мени налога дна горњем десном углу и одаберите \"Settings\". Па \"Export\" са леве стране.\nКликните дугме \"Export Now\" са десне стране \"Export to .csv File\". Унесите главну  лозинку па кликните дугме \"Export Now\".\nKeeper ће извести CSV датотеку у фасцикли преузимања."
+    },
+    "Import_Keeper_Instructions_Mac": {
+        "message": "Отворите Keeper и идите на вашем сефу.\nКликните мени налога дна горњем десном углу и одаберите \"Settings\". Па \"Export\" са леве стране.\nКликните дугме \"Export Now\" са десне стране \"Export to .csv File\". Унесите главну  лозинку па кликните дугме \"Export Now\".\n\"Save As\" мени ће се појавити. Именујте датотеку и смештај па кликните \"Save\". Keeper ће извести CSV датотеку у фасцикли преузимања."
+    },
+    "EmergencyAccess_Title": {
+        "message": "Хитан приступ"
+    },
+    "EmergencyAccess_DenyAccess_Text": {
+        "message": "Одбити приступ"
+    },
+    "EmergencyAccess_GrantAccess_Title": {
+        "message": "Одобрити приступ"
+    },
+    "DuplicatesDialog_WindowTitle": {
+        "message": "Исте датотеке нађене"
+    },
+    "DuplicatesDialog_MessageText": {
+        "message": "Надоградили сте \"%1\". Да ли да се постави та промене на исте датотеке приказане испод? Можете исто да обришете непотребне копије."
+    },
+    "DuplicatesDialog_RenameMessageText": {
+        "message": "Преименовали сте \"%1\" у \"%2\". Да ли желите да преиуменујете исте датотеке паказане испод? Такође можете обрисати непотребне копије."
+    },
+    "DuplicatesDialog_DeleteMessageText": {
+        "message": "Избрисали сте \"%1\". Да ли желите да избришете идентичне датотеке наведене испод?"
+    },
+    "DuplicatesDialog_ApplyChanges_Button": {
+        "message": "Примени"
+    },
+    "DuplicatesDialog_Rename_Button": {
+        "message": "Преименовати"
+    },
+    "DuplicatesDialog_Delete_Button": {
+        "message": "Обрисати"
+    },
+    "DuplicatesDialog_Cancel_Button": {
+        "message": "Не примени"
+    },
+    "DuplicatesDialog_CancelRename_Button": {
+        "message": "Не преименовати"
+    },
+    "DuplicatesDialog_CancelDelete_Button": {
+        "message": "Не брисати"
+    },
+    "DuplicatesDialog_Delete_Text": {
+        "message": "обриши"
+    },
+    "DuplicatesDialog_Undo_Text": {
+        "message": "задржи"
+    },
+    "RoboForm_Question": {
+        "message": "RoboForm Питања"
+    },
+    "RoboForm_Warning": {
+        "message": "RoboForm Пажња"
+    },
+    "RoboForm_Error": {
+        "message": "RoboForm Грешка"
+    },
+    "AlreadyExists_Error2": {
+        "message": "%1 именовано '%2' већ постоји"
+    },
+    "ReadOnly_Error": {
+        "message": "Податке су само-читљиве"
+    },
+    "NameInvalidCharacter_Error2": {
+        "message": "Име не може да буде празно и не може да садржава карактере \\ / : * ? \" < > |"
+    },
+    "WrongNameLenght_Error": {
+        "message": "Име мора имате 1-%1 знак"
+    },
+    "MasterPassword_Error2": {
+        "message": "Унета је погрешна лозинка. Имети Вашу Главну Лозинку"
+    },
+    "InterfaceLanguage_Warning": {
+        "message": "Да се пребаци језик од '%1' на '%2'?\nАко не познајете језик изабран биће вам тешко да се вратите назад.\nТреба се рестартовати Читач да би се промена уважила"
+    },
+    "EmailEmpty_Error": {
+        "message": "Имејл треба имати макар %1 слова"
+    },
+    "EmailMaxLength_Error": {
+        "message": "Имејл треба имати највише %1 слова"
+    },
+    "EmailIncorrect_Error": {
+        "message": "Имејл није добар"
+    },
+    "Filler_NoFormsFound": {
+        "message": "Немогуће наћи образац за Пуњење на страницу"
+    },
+    "Filler_NoMatchingFields": {
+        "message": "Није имало поља на овом листу (или одабран фрагмент) који може да се пуни, пошто ни једно поље не одговара онима из Идентитета/Пријаве"
+    },
+    "Filler_FillTheSameValues": {
+        "message": "Нема поља на страници који се могу Пунити са ове Картице/Идентитета пошто су сва поља већ напуњена"
+    },
+    "Filler_FillEmptyOnlyOnMessage": {
+        "message": "Нема празних (непопуњених) поља на страници и ПуниСамоПразнаПоља је постављен на ON"
+    },
+    "PassGen_Generate": {
+        "message": "Креирај"
+    },
+    "PassGen_Generate_Tip": {
+        "message": "Креирај нову лозинку"
+    },
+    "PassGen_Generated_Tip": {
+        "message": "Лозинка Креирана"
+    },
+    "PassGen_Fill": {
+        "message": "Пуни"
+    },
+    "PassGen_Fill_Tip": {
+        "message": "Постави креирану лозинку у сва поља лозинке у страници читача"
+    },
+    "PassGen_Copy": {
+        "message": "Копирај"
+    },
+    "PassGen_Copy_Tip": {
+        "message": "Копирај креирану лозинку у остави"
+    },
+    "PassGen_ExcludeSimilar_Tip": {
+        "message": "Избаци сличне карактере из креирања"
+    },
+    "PassGen_UseSpecial_Tip": {
+        "message": "Употреби специјалне карактере у креирање"
+    },
+    "PassGen_CharNumber_Text": {
+        "message": "Број карактера:"
+    },
+    "PassGen_CharNumber_Tip": {
+        "message": "Број карактера у креирање"
+    },
+    "PassGen_UseHexChars": {
+        "message": "Хексадецимално: 0-9, A-F"
+    },
+    "PassGen_UseHexChars_Tip": {
+        "message": "Употреби само хексадецималне карактере: 0-9, A-F"
+    },
+    "PassGen_ShowAdvanced": {
+        "message": "Напредна подешавања"
+    },
+    "PassGen_Title": {
+        "message": "Генератор Лозинке - RoboForm"
+    },
+    "PassGen_BitStrength": {
+        "message": "Јачина Бајта = "
+    },
+    "PassGen_Upper_Tip": {
+        "message": "Употреби A-Z карактере у креирање"
+    },
+    "PassGen_Lower_Tip": {
+        "message": "Употреби a-z карактере у креирање"
+    },
+    "PassGen_Numb_Tip": {
+        "message": "Употреби 0-9 карактере у креирање"
+    },
+    "RfSyncProgress_SyncingSharedFolders": {
+        "message": "Синхро дељених фасцикла"
+    },
+    "RfSyncProgress_Syncing": {
+        "message": "Синронизација..."
+    },
+    "RfSyncProgress_Connecting": {
+        "message": "Привезивање..."
+    },
+    "RfSyncProgress_RequestingAccountInfo": {
+        "message": "Тражење информације..."
+    },
+    "RfSyncProgress_Done": {
+        "message": "У реду"
+    },
+    "RfSyncProgress_SyncingSharedFiles": {
+        "message": "Синх дељене датотеке..."
+    },
+    "RfSyncProgress_Analyzed": {
+        "message": "Анализирано"
+    },
+    "RfSyncProgress_SyncingUsageInfo": {
+        "message": "Синх употребе..."
+    },
+    "RfSyncProgress_Synced": {
+        "message": "Синхронизовано"
+    },
+    "About_Version2": {
+        "message": "Верзија:"
+    },
+    "About_Sync2": {
+        "message": "Налог:"
+    },
+    "RFO_CreateAccountCannotSendEmail_Error": {
+        "message": "Налог није креиран. Не може да се пошаље код провере на имејл који сте дали.\nУнети добар имејл и помовите."
+    },
+    "HomeFolder": {
+        "message": "Кућа"
+    },
+    "CheckedRunMB_CheckButton": {
+        "message": "Не показати више ову поруку"
+    },
+    "SensitiveFields_Text_2": {
+        "message": "RF је нашао осетљива Поља. Потврдите да требају да буду попуњени:"
+    },
+    "SensitiveFields_Title2": {
+        "message": "Пронађена су осјетљива поља - RoboForm"
+    },
+    "DuplicateFields_Text1_2": {
+        "message": "Нашао сам поља која се појављују више одједном у формулар. Потврдити да требају та Поља да буду попуњена:"
+    },
+    "DuplicateFields_Text2_2": {
+        "message": "\n\nАко желите да попуните само део формулара из једног Идентитета онда одаберите део образца, кликните Попуни образце и само одабрани делови ће бити попуњени."
+    },
+    "DuplicateFields_Title": {
+        "message": "Пуњење Дуплих Поља - RoboForm"
+    },
+    "PhishingWarning_FrameDomainNotInLogin": {
+        "message": "Упозорење: домен фрејма није исти као из Пријаве.\n\nПријава: %1\nФрејм: %2\nГлавно:  %3\n\nДа ли ипак RF да попуни формулар?"
+    },
+    "PhishingWarning_FillingIntoDomainNotInLogin": {
+        "message": "Домен није исти као из картице.\n\nКартица: %1\nСајт: %2\n\nДа ли ипак да RF попуни формулар?"
+    },
+    "PhishingWarning_FillingIntoFrameDomainNotInLogin": {
+        "message": "Домен оквира не одговара УРЛ пријаве.\n\nУРЛ домена: %1\nОквир УРЛ домена: %2\n\nДа ли још увек желите да RoboForm попуни образац?"
+    },
+    "Policy_FileCreationProhibited_Text": {
+        "message": "Грешка: креација %1 је забрањено политиком."
+    },
+    "Policy_MasterPasswordChangeDisabled": {
+        "message": "Промена и креација главне лозинке је забрањено од полисе"
+    },
+    "Policy_CommandDisabled_Message": {
+        "message": "Команда је забрањена од полисе"
+    },
+    "Policy_FillingIntoDomainNotInLogin": {
+        "message": "Пуњење је заустављено пошто домени нису исти.\n\nКартица: %1\nСајт: %2"
+    },
+    "Policy_FillingIntoFrameDomainNotInLogin": {
+        "message": "Пуњење образца се прекида јер се домена оквира не подудара у складу са УРЛ-ом пријаве.\n\nУРЛ домена: %1\nОквир УРЛ домена: %2"
+    },
+    "Policy_DisableNonGroupData_Message": {
+        "message": "Команда је забрањена политиком. Можете креирати податке само унутар група"
+    },
+    "Policy_ProhibitedFolder_NonGroupData_Message": {
+        "message": "Фасцикла изабрана за спремање је забрањена политиком. Можете креирати податке само унутар група"
+    },
+    "ProAd_UpgradeNow_Button": {
+        "message": "Надогради"
+    },
+    "AccountLicenseStatus_Business": {
+        "message": "Бизнес лиценца"
+    },
+    "AccountLicenseStatus_TrialExpiresIn": {
+        "message": "Проба се завршава за %1 дан(а)"
+    },
+    "AccountLicenseStatus_TrialExpiresToday": {
+        "message": "Проба истече данас"
+    },
+    "AccountLicenseStatus_TrialExpired": {
+        "message": "Проба се завршила пре %1 дан(а)"
+    },
+    "AccountLicenseStatus_LicenseExpiresIn": {
+        "message": "Лиценца се завршава за %1 дан(а)"
+    },
+    "AccountLicenseStatus_LicenseExpiresToday": {
+        "message": "Лиценца истече данас"
+    },
+    "AccountLicenseStatus_LicenseExpired": {
+        "message": "Лиценца се завршила пре %1 дан(а)"
+    },
+    "AccountLicenseStatus_LicenseIsActive": {
+        "message": "Лиценца је активна"
+    },
+    "AccountLicenseStatus_NoLicense": {
+        "message": "Нема лиценце"
+    },
+    "Install_Next": {
+        "message": "Следеће"
+    },
+    "Install_Yes": {
+        "message": "Да"
+    },
+    "Install_No": {
+        "message": "Не"
+    },
+    "Setup_CreateAccountWithTakenEmail_Error2": {
+        "message": "Налог са овим имејлом већ постоји.\nУнети други имејл."
+    },
+    "Install_MemorizePassword_Prompt2": {
+        "message": "Не заборавите главну лозинку. Она садржи кључ који откључава ваше податке. Ако сте је заборавили, нећете моћи да приступите вашим подацима (чак и ми), и мораћете почети од нуле."
+    },
+    "Install_RoboFormMasterPassword": {
+        "message": "Главна лозинка:"
+    },
+    "Install_ConfirmRoboFormMasterPassword2": {
+        "message": "Потврда лозинке:"
+    },
+    "Install_Email": {
+        "message": "Имејл:"
+    },
+    "Install_AccountCreated_Text": {
+        "message": "Ваш RoboForm налог је успешно креиран"
+    },
+    "Install_ShowPassword_Tip": {
+        "message": "Прикажи лозинку као текст"
+    },
+    "Install_HidePassword_Tip": {
+        "message": "Сакриј лозинку"
+    },
+    "Install_PasswordTooShort": {
+        "message": "Лозинка треба имати макар 6 слова."
+    },
+    "Install_WarningSheet_Title": {
+        "message": "RoboForm паљња"
+    },
+    "AccountSetup_PasswordQualityIndicatorHint_Title": {
+        "message": "Лозинка мора да садржи:"
+    },
+    "AccountSetup_PasswordQualityIndicatorHint_Item_MinLength": {
+        "message": "најмање %1 карактер"
+    },
+    "AccountSetup_PasswordQualityIndicatorHint_Item_MinNonNumChars": {
+        "message": "%1 карактера не нумерична"
+    },
+    "AccountSetup_PasswordQualityIndicatorHint_Item_MinUpperCaseChars": {
+        "message": "%1 велика карактера"
+    },
+    "AccountSetup_PasswordQualityIndicatorHint_Item_MinLowerCaseChars": {
+        "message": "%1 мала карактера"
+    },
+    "AccountSetup_PasswordQualityIndicatorHint_Item_MinDigitChars": {
+        "message": "%1 цифара"
+    },
+    "SearchAction_Search_In": {
+        "message": "Тражи '%%query%%' у %1"
+    },
+    "SearchAction_Search_In_RoboForm_Names": {
+        "message": "Тражи '%%query%%' у RF Имена"
+    },
+    "SearchAction_Search_In_RoboForm_Files": {
+        "message": "Тражи '%%query%%' у RF датотеке"
+    },
+    "SaveDlg_ActionNote_Existing_Bookmark": {
+        "message": "Овај обележивач ће заменити постојећи: '%1'"
+    },
+    "Loading_Status_Text": {
+        "message": "Учитавање..."
+    },
+    "ShowLowerToolbar_Text2": {
+        "message": "Покажи доњу RoboForm траку у прегледаче"
+    },
+    "ShowLowerToolbar_Tip": {
+        "message": "Потпуно функционална RoboForm алатна трака причврстиће се на дно свих прегледача који имају инсталирању RoboForm екстензију"
+    },
+    "ShowLowerToolbarForPopups_Text": {
+        "message": "Покажи доњу траку RoboForm-а за попап прозоре"
+    },
+    "ShowLowerToolbarForPopups_Tip": {
+        "message": "Трака RoboForm-а ће се аутоматски закачити на дно отворених прозора прегледача"
+    },
+    "OpenStartpageOnEmptyTabs_Text2": {
+        "message": "Клик на дугме ектензије отвара Start Page на празном језичку"
+    },
+    "OpenStartpageOnEmptyTabs_Tip": {
+        "message": "RoboForm Start Page ће бити отворен ако корисник кликне на RoboForm дугме прегледаћа док је на празном језичку"
+    },
+    "ShowContextMenuCommands_Text2": {
+        "message": "Покажи RoboForm команде у контекстуалном менију прегледача"
+    },
+    "ShowContextMenuCommands_Tip": {
+        "message": "RoboForm команде ће бити приказане у кентекстуалном менију Windows-а"
+    },
+    "UseDesktopEditorForViewAndEdit_Text": {
+        "message": "Користите десктоп уређивач за приказ и уређивање"
+    },
+    "UseDesktopEditorForViewAndEdit_Tip": {
+        "message": "Преглед и уређивање команди покренуте од RoboForm екстензије и Start Page ће бити отворене у Desktop едитору"
+    },
+    "Options_EnableNativeIntegration_Text": {
+        "message": "Омогућите интеграцију са инсталираном RoboForm апликацијом"
+    },
+    "Options_UseNativeMenus_Text": {
+        "message": "Омогућити мени RoboForm десктопа"
+    },
+    "Options_UseNativeMenus_Tip": {
+        "message": "RoboForm Desktop мени ће бити укључен у екстензију прегледача"
+    },
+    "RFOSetup_CreateNewAccount_Button": {
+        "message": "Креирати нов налог"
+    },
+    "RFOSync_ForceMasterPasswordChange_Text": {
+        "message": "Главна лозинка је истекла. Морате промијенити главну лозинку."
+    },
+    "RFOError_WrongUserIDOrPassword": {
+        "message": "Унели сте погрешан корисник/лозинка"
+    },
+    "RFO_TwoFactorCaption_Text": {
+        "message": "ЈедноВремеснка Лозинка:"
+    },
+    "RFO_TwoFactorIsOn_TextShort": {
+        "message": "Једно временска лозинка  (OTP) је УПАЉЕНА за Ваш налог."
+    },
+    "RFO_TwoFactor_ByEmail_Text2": {
+        "message": "ЈВЛ је постављена на Вашу е-пошту."
+    },
+    "RFO_TwoFactor_BySMS_Text2": {
+        "message": "ЈБЛ је послана на мобилни преко СМС-а."
+    },
+    "RFO_TwoFactor_ByGA_Text3": {
+        "message": "Унети код са апликације за аутентифирање да би наставили."
+    },
+    "RFO_TwoFactor_PromptGeneric_Text": {
+        "message": "Двофакторска аутентикација јхе упаљена. Треба Вам додатни код да би приступили налогу."
+    },
+    "RFO_TwoFactor_WrongOTP_Text": {
+        "message": "Погрешна ЈВЛ"
+    },
+    "RI_Group_Service": {
+        "message": "Сервис"
+    },
+    "RI_Group_Service2": {
+        "message": "Заједнички"
+    },
+    "RI_Group_Summary": {
+        "message": "Садржај"
+    },
+    "RI_Summary___id_phone__": {
+        "message": "телефон:\t"
+    },
+    "RI_Summary___id_home__": {
+        "message": "кућни:\t"
+    },
+    "RI_Summary___id_work__": {
+        "message": "посао:\t"
+    },
+    "RI_Summary___id_cell__": {
+        "message": "моб:\t"
+    },
+    "RI_Summary___id_fax__": {
+        "message": "факс:\t"
+    },
+    "RI_Summary___id_mail__": {
+        "message": "имејл"
+    },
+    "RI_Summary___id_ssn__": {
+        "message": "ЈМБГ"
+    },
+    "RI_Summary___id_expiration__": {
+        "message": "крај"
+    },
+    "RI_Summary___id_cvv__": {
+        "message": "cvv"
+    },
+    "RI_Summary___id_bank__": {
+        "message": "банка"
+    },
+    "RI_Summary___id_account__": {
+        "message": "налог"
+    },
+    "RI_Summary___id_userid__": {
+        "message": "ид кор."
+    },
+    "RI_Summary___id_password__": {
+        "message": "лозинка"
+    },
+    "RI_Summary___id_carmakemodel__": {
+        "message": "урађено, модел"
+    },
+    "RI_Summary___id_platenumber__": {
+        "message": "број #"
+    },
+    "RI_Summary___id_passportnumber__": {
+        "message": "пасош #"
+    },
+    "RI_Summary___id_appname__": {
+        "message": "име прог."
+    },
+    "RI_Summary___id_filename__": {
+        "message": "име датотеке"
+    },
+    "RI_Job": {
+        "message": "Посао"
+    },
+    "RI_Contact": {
+        "message": "Контакт"
+    },
+    "RI_Address": {
+        "message": "Адреса"
+    },
+    "RI_Group_Person": {
+        "message": "Особа"
+    },
+    "RI_Title": {
+        "message": "Назив"
+    },
+    "RI_Title_Mr": {
+        "message": "Г. "
+    },
+    "RI_Title_Mrs": {
+        "message": "Гд-а"
+    },
+    "RI_Title_Ms": {
+        "message": "Гдица"
+    },
+    "RI_Title_Dr": {
+        "message": "Др"
+    },
+    "RI_Title_Prof": {
+        "message": "Проф"
+    },
+    "RI_Title_Engr": {
+        "message": "Енгр"
+    },
+    "RI_Name": {
+        "message": "Презиме"
+    },
+    "RI_First": {
+        "message": "Име"
+    },
+    "RI_Middle": {
+        "message": "Средње"
+    },
+    "RI_Last": {
+        "message": "Презиме"
+    },
+    "RI_Inset": {
+        "message": "Inset"
+    },
+    "RI_Last2": {
+        "message": "Презиме2"
+    },
+    "RI_Alphabet_Name": {
+        "message": "Абецеда"
+    },
+    "RI_Roman_Name": {
+        "message": "Roman"
+    },
+    "RI_Suffix": {
+        "message": "Суфикс"
+    },
+    "RI_Name_Suffix_Jr": {
+        "message": "Јр."
+    },
+    "RI_Name_Suffix_Sr": {
+        "message": "Ср."
+    },
+    "RI_Position": {
+        "message": "Посао"
+    },
+    "RI_Email": {
+        "message": "Имејл"
+    },
+    "RI_Phone": {
+        "message": "Телефон"
+    },
+    "RI_Home_Phone": {
+        "message": "Кућни Тел"
+    },
+    "RI_Work_Phone": {
+        "message": "Посао Тел"
+    },
+    "RI_Cell_Phone": {
+        "message": "Мобилни Тел"
+    },
+    "RI_Pager_Phone": {
+        "message": "Пејџер"
+    },
+    "RI_Fax_Phone": {
+        "message": "Факс"
+    },
+    "RI_Work_Phone_Ext": {
+        "message": "Еxт"
+    },
+    "RI_Mobile_Email": {
+        "message": "Мобилни Имејл"
+    },
+    "RI_NationalPrefix": {
+        "message": "Национални Префикс"
+    },
+    "RI_CountryCode": {
+        "message": "Код Земље"
+    },
+    "RI_Yahoo_ID": {
+        "message": "Yahoo ID"
+    },
+    "RI_MSN_ID": {
+        "message": "MSN ID"
+    },
+    "RI_ICQ_Number": {
+        "message": "ICQ No"
+    },
+    "RI_AOL_Screen_Name": {
+        "message": "AOL Име"
+    },
+    "RI_Skype_ID": {
+        "message": "Skype ID"
+    },
+    "RI_Sex": {
+        "message": "Род"
+    },
+    "RI_Sex_Male": {
+        "message": "Мушко"
+    },
+    "RI_Sex_Female": {
+        "message": "Женско"
+    },
+    "RI_Birth_Date": {
+        "message": "Датум Рођења"
+    },
+    "RI_Birth_Day": {
+        "message": "Дан Рођења"
+    },
+    "RI_Birth_Month": {
+        "message": "Mesec Рођења"
+    },
+    "RI_Birth_Year": {
+        "message": "Година Рођења"
+    },
+    "RI_dd": {
+        "message": "дд"
+    },
+    "RI_mm": {
+        "message": "мм"
+    },
+    "RI_yyyy": {
+        "message": "гггг"
+    },
+    "RI_Age": {
+        "message": "Годиште"
+    },
+    "RI_Birth_Place": {
+        "message": "Место Рођења"
+    },
+    "RI_Income": {
+        "message": "Приход"
+    },
+    "RI_Driver_License_Number": {
+        "message": "Дозвола"
+    },
+    "RI_Driver_License": {
+        "message": "Возачка дозвола"
+    },
+    "RI_Expires": {
+        "message": "Завршено"
+    },
+    "RI_Number": {
+        "message": "Број"
+    },
+    "RI_Social_Security_Number": {
+        "message": "Социјални број"
+    },
+    "RI_National_Insurance_Number": {
+        "message": "Национ. Бр."
+    },
+    "RI_Pension_Insurance_Number": {
+        "message": "Број пензијско осигурање"
+    },
+    "RI_National_Health_Service_Number": {
+        "message": "NHS Број"
+    },
+    "RI_ID_Card_Type": {
+        "message": "Тип Картице"
+    },
+    "RI_ID_Card_Number": {
+        "message": "Број Картице"
+    },
+    "RI_Personal_ID": {
+        "message": "Лични ID"
+    },
+    "RI_Tax_ID": {
+        "message": "Tax ID"
+    },
+    "RI_Fiscal_Code": {
+        "message": "Фискални код"
+    },
+    "RI_Person_Cadastre": {
+        "message": "Person Cadastre"
+    },
+    "RI_General_Register": {
+        "message": "GR"
+    },
+    "RI_Dispatching_Agency": {
+        "message": "Dispatching agency"
+    },
+    "RI_Group_Business": {
+        "message": "Фирма"
+    },
+    "RI_Company": {
+        "message": "Име Фирме"
+    },
+    "RI_Company_Department": {
+        "message": "Одељење"
+    },
+    "RI_Legal_Business_Name": {
+        "message": "Назив Фирме"
+    },
+    "RI_Type_Of_Business": {
+        "message": "Тип Активности"
+    },
+    "RI_Employer_Identitification_Number": {
+        "message": "Број радника"
+    },
+    "RI_Web_Site": {
+        "message": "Интернет Сајт"
+    },
+    "RI_Toll_Free_Phone": {
+        "message": "бесплатан Телефон"
+    },
+    "RI_Stock_Symbol": {
+        "message": "Деоница"
+    },
+    "RI_Company_Registration_Number": {
+        "message": "Број Регистрације фирме"
+    },
+    "RI_Company_Registration_Place": {
+        "message": "Место Регистрације Фирме"
+    },
+    "RI_Company_VAT_Number": {
+        "message": "VAT Број"
+    },
+    "RI_Company_Tax_ID": {
+        "message": "Company Tax ID"
+    },
+    "RI_Code_OKPO": {
+        "message": "OKPO"
+    },
+    "RI_Code_OKVED": {
+        "message": "OKVED"
+    },
+    "RI_Group_Passport": {
+        "message": "Пасош"
+    },
+    "RI_Passport": {
+        "message": "пасош"
+    },
+    "RI_Passport_Number": {
+        "message": "Број пасоша"
+    },
+    "RI_Passport_Series": {
+        "message": "Серије пасоша"
+    },
+    "RI_Series": {
+        "message": "Серије"
+    },
+    "RI_Passport_Issue_Place": {
+        "message": "Место издавања пасоша"
+    },
+    "RI_Passport_Issue_Date": {
+        "message": "Датум издавања пасоша"
+    },
+    "RI_Passport_Expiration_Date": {
+        "message": "Датум вазност пасоша"
+    },
+    "RI_Passport_Type": {
+        "message": "Тип пасоша"
+    },
+    "RI_Passport_Type_National": {
+        "message": "Национални"
+    },
+    "RI_Passport_Type_International": {
+        "message": "Интернационални"
+    },
+    "RI_Group_Location": {
+        "message": "Адреса"
+    },
+    "RI_Address_Line_1": {
+        "message": "Адреса линија 1"
+    },
+    "RI_Address_Line_2": {
+        "message": "Адреса линија 2"
+    },
+    "RI_StreetName": {
+        "message": "Улица"
+    },
+    "RI_StreetName_HouseNumber": {
+        "message": "Број"
+    },
+    "RI_StreetNameC_HouseNumber": {
+        "message": "Улица, Број"
+    },
+    "RI_HouseNumber": {
+        "message": "Број"
+    },
+    "RI_HouseNumber_StreetName": {
+        "message": "Број Улица"
+    },
+    "RI_HouseNumber_or_Name": {
+        "message": "Број или Улица"
+    },
+    "RI_Apartment_Number": {
+        "message": "Стан Број"
+    },
+    "RI_Subway_Station": {
+        "message": "Станица Метро"
+    },
+    "RI_Station": {
+        "message": "Станица"
+    },
+    "RI_City": {
+        "message": "Град"
+    },
+    "RI_Suburb": {
+        "message": "Предграђе"
+    },
+    "RI_State_Zip": {
+        "message": "Код државе"
+    },
+    "RI_State": {
+        "message": "Држава"
+    },
+    "RI_Province": {
+        "message": "Провинција"
+    },
+    "RI_State_Or_Province": {
+        "message": "Држава или провинција"
+    },
+    "RI_Region": {
+        "message": "Регион"
+    },
+    "RI_District": {
+        "message": "Округ"
+    },
+    "RI_Bundesland": {
+        "message": "Bundesland"
+    },
+    "RI_County": {
+        "message": "Земља"
+    },
+    "RI_Canton": {
+        "message": "Кантон"
+    },
+    "RI_Department": {
+        "message": "Регион"
+    },
+    "RI_Prefecture": {
+        "message": "Префектура"
+    },
+    "RI_Colony": {
+        "message": "Колонија"
+    },
+    "RI_Municipality": {
+        "message": "Муниципалитет"
+    },
+    "RI_Abbr": {
+        "message": "Ab."
+    },
+    "RI_ZipCode": {
+        "message": "Поштански број"
+    },
+    "RI_PostCode": {
+        "message": "Поштански код"
+    },
+    "RI_PostCode_City": {
+        "message": "Поштански број/град"
+    },
+    "RI_Zip_Or_PostCode": {
+        "message": "Поштански број"
+    },
+    "RI_Country": {
+        "message": "Земља"
+    },
+    "RI_Alphabet": {
+        "message": "Азбука"
+    },
+    "RI_State_Or_Province_Alaska": {
+        "message": "AK"
+    },
+    "RI_State_Or_Province_Alabama": {
+        "message": "AL"
+    },
+    "RI_State_Or_Province_Arkansas": {
+        "message": "AR"
+    },
+    "RI_State_Or_Province_Arizona": {
+        "message": "AZ"
+    },
+    "RI_State_Or_Province_California": {
+        "message": "CA"
+    },
+    "RI_State_Or_Province_Colorado": {
+        "message": "CO"
+    },
+    "RI_State_Or_Province_Connecticut": {
+        "message": "CT"
+    },
+    "RI_State_Or_Province_District_of_Columbia": {
+        "message": "DC"
+    },
+    "RI_State_Or_Province_Delaware": {
+        "message": "DE"
+    },
+    "RI_State_Or_Province_Florida": {
+        "message": "FL"
+    },
+    "RI_State_Or_Province_Georgia": {
+        "message": "GA"
+    },
+    "RI_State_Or_Province_Hawaii": {
+        "message": "HI"
+    },
+    "RI_State_Or_Province_Iowa": {
+        "message": "IA"
+    },
+    "RI_State_Or_Province_Idaho": {
+        "message": "ID"
+    },
+    "RI_State_Or_Province_Illinois": {
+        "message": "IL"
+    },
+    "RI_State_Or_Province_Indiana": {
+        "message": "IN"
+    },
+    "RI_State_Or_Province_Kansas": {
+        "message": "KS"
+    },
+    "RI_State_Or_Province_Kentucky": {
+        "message": "KY"
+    },
+    "RI_State_Or_Province_Louisiana": {
+        "message": "LA"
+    },
+    "RI_State_Or_Province_Massachusetts": {
+        "message": "MA"
+    },
+    "RI_State_Or_Province_Maryland": {
+        "message": "MD"
+    },
+    "RI_State_Or_Province_Maine": {
+        "message": "ME"
+    },
+    "RI_State_Or_Province_Michigan": {
+        "message": "MI"
+    },
+    "RI_State_Or_Province_Minnesota": {
+        "message": "MN"
+    },
+    "RI_State_Or_Province_Missouri": {
+        "message": "MO"
+    },
+    "RI_State_Or_Province_Mississippi": {
+        "message": "MS"
+    },
+    "RI_State_Or_Province_Montana": {
+        "message": "MT"
+    },
+    "RI_State_Or_Province_North_Carolina": {
+        "message": "NC"
+    },
+    "RI_State_Or_Province_North_Dakota": {
+        "message": "ND"
+    },
+    "RI_State_Or_Province_Nebraska": {
+        "message": "NE"
+    },
+    "RI_State_Or_Province_New_Hampshire": {
+        "message": "NH"
+    },
+    "RI_State_Or_Province_New_Jersey": {
+        "message": "NJ"
+    },
+    "RI_State_Or_Province_New_Mexico": {
+        "message": "NM"
+    },
+    "RI_State_Or_Province_Nevada": {
+        "message": "NV"
+    },
+    "RI_State_Or_Province_New_York": {
+        "message": "NY"
+    },
+    "RI_State_Or_Province_Ohio": {
+        "message": "OH"
+    },
+    "RI_State_Or_Province_Oklahoma": {
+        "message": "OK"
+    },
+    "RI_State_Or_Province_Oregon": {
+        "message": "OR"
+    },
+    "RI_State_Or_Province_Pennsylvania": {
+        "message": "PA"
+    },
+    "RI_State_Or_Province_Rhode_Island": {
+        "message": "RI"
+    },
+    "RI_State_Or_Province_South_Carolina": {
+        "message": "SC"
+    },
+    "RI_State_Or_Province_South_Dakota": {
+        "message": "SD"
+    },
+    "RI_State_Or_Province_Tennessee": {
+        "message": "TN"
+    },
+    "RI_State_Or_Province_Texas": {
+        "message": "TX"
+    },
+    "RI_State_Or_Province_Utah": {
+        "message": "UT"
+    },
+    "RI_State_Or_Province_Virginia": {
+        "message": "VA"
+    },
+    "RI_State_Or_Province_Vermont": {
+        "message": "VT"
+    },
+    "RI_State_Or_Province_Washington": {
+        "message": "WA"
+    },
+    "RI_State_Or_Province_Wisconsin": {
+        "message": "WI"
+    },
+    "RI_State_Or_Province_West_Virginia": {
+        "message": "WV"
+    },
+    "RI_State_Or_Province_Wyoming": {
+        "message": "WY"
+    },
+    "RI_State_Or_Province_AA": {
+        "message": "AA"
+    },
+    "RI_State_Or_Province_AE": {
+        "message": "AE"
+    },
+    "RI_State_Or_Province_AP": {
+        "message": "AP"
+    },
+    "RI_State_Or_Province_American_Samoa": {
+        "message": "AS"
+    },
+    "RI_State_Or_Province_Guam": {
+        "message": "GU"
+    },
+    "RI_State_Or_Province_Northern_Mariana_Is": {
+        "message": "MP"
+    },
+    "RI_State_Or_Province_Puerto_Rico": {
+        "message": "PR"
+    },
+    "RI_State_Or_Province_Palau": {
+        "message": "PW"
+    },
+    "RI_State_Or_Province_Virgin_Island": {
+        "message": "VI"
+    },
+    "RI_State_Or_Province_Alberta": {
+        "message": "Alberta"
+    },
+    "RI_State_Or_Province_British_Columbia": {
+        "message": "British Columbia"
+    },
+    "RI_State_Or_Province_Manitoba": {
+        "message": "Manitoba"
+    },
+    "RI_State_Or_Province_New_Brunswick": {
+        "message": "New Brunswick"
+    },
+    "RI_State_Or_Province_Newfoundland": {
+        "message": "Newfoundland"
+    },
+    "RI_State_Or_Province_Nova_Scotia": {
+        "message": "Nova Scotia"
+    },
+    "RI_State_Or_Province_Northwest_Territories": {
+        "message": "Northwest Territories"
+    },
+    "RI_State_Or_Province_Nunavut": {
+        "message": "Nunavut"
+    },
+    "RI_State_Or_Province_Ontario": {
+        "message": "Ontario"
+    },
+    "RI_State_Or_Province_Prince_Edward_Island": {
+        "message": "Prince Edward Island"
+    },
+    "RI_State_Or_Province_Quebec": {
+        "message": "Quebec"
+    },
+    "RI_State_Or_Province_Saskatchewan": {
+        "message": "Saskatchewan"
+    },
+    "RI_State_Or_Province_Yukon": {
+        "message": "Yukon"
+    },
+    "RI_State_Or_Province_Australian_Capital_Terr": {
+        "message": "ACT"
+    },
+    "RI_State_Or_Province_New_South_Wales": {
+        "message": "NSW"
+    },
+    "RI_State_Or_Province_Northern_Territory": {
+        "message": "NT"
+    },
+    "RI_State_Or_Province_Queensland": {
+        "message": "QLD"
+    },
+    "RI_State_Or_Province_South_Australia": {
+        "message": "SA"
+    },
+    "RI_State_Or_Province_Tasmania": {
+        "message": "TAS"
+    },
+    "RI_State_Or_Province_Victoria": {
+        "message": "VIC"
+    },
+    "RI_State_Or_Province_Western_Australia": {
+        "message": "WA"
+    },
+    "RI_State_Or_Province_Antwerpen": {
+        "message": "Antwerpen"
+    },
+    "RI_State_Or_Province_Brabant_Wallon": {
+        "message": "Brabant Wallon"
+    },
+    "RI_State_Or_Province_Brussels_Region": {
+        "message": "Brussels Region"
+    },
+    "RI_State_Or_Province_Hainaut": {
+        "message": "Hainaut"
+    },
+    "RI_State_Or_Province_Liege": {
+        "message": "Liege"
+    },
+    "RI_State_Or_Province_Limburg": {
+        "message": "Limburg"
+    },
+    "RI_State_Or_Province_Luxembourg": {
+        "message": "Luxembourg"
+    },
+    "RI_State_Or_Province_Namur": {
+        "message": "Namur"
+    },
+    "RI_State_Or_Province_Oost_Vlaanderen": {
+        "message": "Oost Vlaanderen"
+    },
+    "RI_State_Or_Province_Vlaams_Brabant": {
+        "message": "Vlaams Brabant"
+    },
+    "RI_State_Or_Province_West_Vlaanderen": {
+        "message": "West Vlaanderen"
+    },
+    "RI_State_Or_Province_Argovia": {
+        "message": "Argovia"
+    },
+    "RI_State_Or_Province_Appenzell_Inner_Rhodes": {
+        "message": "Appenzell Inner-Rhodes"
+    },
+    "RI_State_Or_Province_Appenzell_Outer_Rhodes": {
+        "message": "Appenzell Outer Rhodes"
+    },
+    "RI_State_Or_Province_Basle_Town": {
+        "message": "Basle-Town"
+    },
+    "RI_State_Or_Province_Basle_Country": {
+        "message": "Basle-Country"
+    },
+    "RI_State_Or_Province_Berne": {
+        "message": "Berne"
+    },
+    "RI_State_Or_Province_Fribourg": {
+        "message": "Fribourg"
+    },
+    "RI_State_Or_Province_Geneva": {
+        "message": "Geneva"
+    },
+    "RI_State_Or_Province_Glarus": {
+        "message": "Glarus"
+    },
+    "RI_State_Or_Province_Grisons": {
+        "message": "Grisons"
+    },
+    "RI_State_Or_Province_Jura": {
+        "message": "Jura"
+    },
+    "RI_State_Or_Province_Lucerne": {
+        "message": "Lucerne"
+    },
+    "RI_State_Or_Province_Neuchatel": {
+        "message": "Neuchatel"
+    },
+    "RI_State_Or_Province_Nidwalden": {
+        "message": "Nidwalden"
+    },
+    "RI_State_Or_Province_Obwalden": {
+        "message": "Obwalden"
+    },
+    "RI_State_Or_Province_Schaffhausen": {
+        "message": "Schaffhausen"
+    },
+    "RI_State_Or_Province_Schwyz": {
+        "message": "Schwyz"
+    },
+    "RI_State_Or_Province_Solothurn": {
+        "message": "Solothurn"
+    },
+    "RI_State_Or_Province_Saint_Gall": {
+        "message": "St. Gall"
+    },
+    "RI_State_Or_Province_Thurgovia": {
+        "message": "Thurgovia"
+    },
+    "RI_State_Or_Province_Ticino": {
+        "message": "Ticino"
+    },
+    "RI_State_Or_Province_Uri": {
+        "message": "Uri"
+    },
+    "RI_State_Or_Province_Valais": {
+        "message": "Valais"
+    },
+    "RI_State_Or_Province_Vaud": {
+        "message": "Vaud"
+    },
+    "RI_State_Or_Province_Zug": {
+        "message": "Zug"
+    },
+    "RI_State_Or_Province_Zurich": {
+        "message": "Zurich"
+    },
+    "RI_State_Or_Province_Aichi": {
+        "message": "Aichi"
+    },
+    "RI_State_Or_Province_Akita": {
+        "message": "Akita"
+    },
+    "RI_State_Or_Province_Aomori": {
+        "message": "Aomori"
+    },
+    "RI_State_Or_Province_Chiba": {
+        "message": "Chiba"
+    },
+    "RI_State_Or_Province_Ehime": {
+        "message": "Ehime"
+    },
+    "RI_State_Or_Province_Fukui": {
+        "message": "Fukui"
+    },
+    "RI_State_Or_Province_Fukuoka": {
+        "message": "Fukuoka"
+    },
+    "RI_State_Or_Province_Fukushima": {
+        "message": "Fukushima"
+    },
+    "RI_State_Or_Province_Gifu": {
+        "message": "Gifu"
+    },
+    "RI_State_Or_Province_Gunma": {
+        "message": "Gunma"
+    },
+    "RI_State_Or_Province_Hiroshima": {
+        "message": "Hiroshima"
+    },
+    "RI_State_Or_Province_Hokkaido": {
+        "message": "Hokkaido"
+    },
+    "RI_State_Or_Province_Hyougo": {
+        "message": "Hyougo"
+    },
+    "RI_State_Or_Province_Ibaraki": {
+        "message": "Ibaraki"
+    },
+    "RI_State_Or_Province_Ishikawa": {
+        "message": "Ishikawa"
+    },
+    "RI_State_Or_Province_Iwate": {
+        "message": "Iwate"
+    },
+    "RI_State_Or_Province_Kagawa": {
+        "message": "Kagawa"
+    },
+    "RI_State_Or_Province_Kagoshima": {
+        "message": "Kagoshima"
+    },
+    "RI_State_Or_Province_Kanagawa": {
+        "message": "Kanagawa"
+    },
+    "RI_State_Or_Province_Kouchi": {
+        "message": "Kouchi"
+    },
+    "RI_State_Or_Province_Kumamoto": {
+        "message": "Kumamoto"
+    },
+    "RI_State_Or_Province_Kyoto": {
+        "message": "Kyoto"
+    },
+    "RI_State_Or_Province_Mie": {
+        "message": "Mie"
+    },
+    "RI_State_Or_Province_Miyagi": {
+        "message": "Miyagi"
+    },
+    "RI_State_Or_Province_Miyazaki": {
+        "message": "Miyazaki"
+    },
+    "RI_State_Or_Province_Nagano": {
+        "message": "Nagano"
+    },
+    "RI_State_Or_Province_Nagasaki": {
+        "message": "Nagasaki"
+    },
+    "RI_State_Or_Province_Nara": {
+        "message": "Nara"
+    },
+    "RI_State_Or_Province_Niigata": {
+        "message": "Niigata"
+    },
+    "RI_State_Or_Province_Ooita": {
+        "message": "Ooita"
+    },
+    "RI_State_Or_Province_Okayama": {
+        "message": "Okayama"
+    },
+    "RI_State_Or_Province_Okinawa": {
+        "message": "Okinawa"
+    },
+    "RI_State_Or_Province_Osaka": {
+        "message": "Osaka"
+    },
+    "RI_State_Or_Province_Saga": {
+        "message": "Saga"
+    },
+    "RI_State_Or_Province_Saitama": {
+        "message": "Saitama"
+    },
+    "RI_State_Or_Province_Shiga": {
+        "message": "Shiga"
+    },
+    "RI_State_Or_Province_Shimane": {
+        "message": "Shimane"
+    },
+    "RI_State_Or_Province_Shizuoka": {
+        "message": "Shizuoka"
+    },
+    "RI_State_Or_Province_Tochigi": {
+        "message": "Tochigi"
+    },
+    "RI_State_Or_Province_Tokushima": {
+        "message": "Tokushima"
+    },
+    "RI_State_Or_Province_Tokyo": {
+        "message": "Tokyo"
+    },
+    "RI_State_Or_Province_Tottori": {
+        "message": "Tottori"
+    },
+    "RI_State_Or_Province_Toyama": {
+        "message": "Toyama"
+    },
+    "RI_State_Or_Province_Wakayama": {
+        "message": "Wakayama"
+    },
+    "RI_State_Or_Province_Yamagata": {
+        "message": "Yamagata"
+    },
+    "RI_State_Or_Province_Yamaguchi": {
+        "message": "Yamaguchi"
+    },
+    "RI_State_Or_Province_Yamanashi": {
+        "message": "Yamanashi"
+    },
+    "RI_State_Or_Province_Anhui": {
+        "message": "Anhui"
+    },
+    "RI_State_Or_Province_Aomen": {
+        "message": "Aomen"
+    },
+    "RI_State_Or_Province_Beijing": {
+        "message": "Beijing"
+    },
+    "RI_State_Or_Province_Chongqing": {
+        "message": "Chongqing"
+    },
+    "RI_State_Or_Province_Fujian": {
+        "message": "Fujian"
+    },
+    "RI_State_Or_Province_Gansu": {
+        "message": "Gansu"
+    },
+    "RI_State_Or_Province_Guangdong": {
+        "message": "Guangdong"
+    },
+    "RI_State_Or_Province_Guangxi": {
+        "message": "Guangxi"
+    },
+    "RI_State_Or_Province_Guizhou": {
+        "message": "Guizhou"
+    },
+    "RI_State_Or_Province_Hainan": {
+        "message": "Hainan"
+    },
+    "RI_State_Or_Province_Hebei": {
+        "message": "Hebei"
+    },
+    "RI_State_Or_Province_Henan": {
+        "message": "Henan"
+    },
+    "RI_State_Or_Province_Heilongjiang": {
+        "message": "Heilongjiang"
+    },
+    "RI_State_Or_Province_Hubei": {
+        "message": "Hubei"
+    },
+    "RI_State_Or_Province_Hunan": {
+        "message": "Hunan"
+    },
+    "RI_State_Or_Province_Jilin": {
+        "message": "Jilin"
+    },
+    "RI_State_Or_Province_Jiangxi": {
+        "message": "Jiangxi"
+    },
+    "RI_State_Or_Province_Jiangsu": {
+        "message": "Jiangsu"
+    },
+    "RI_State_Or_Province_Liaoning": {
+        "message": "Liaoning"
+    },
+    "RI_State_Or_Province_Nei_Mongol": {
+        "message": "Nei Mongol"
+    },
+    "RI_State_Or_Province_Ningxia": {
+        "message": "Ningxia"
+    },
+    "RI_State_Or_Province_Qinghai": {
+        "message": "Qinghai"
+    },
+    "RI_State_Or_Province_Shaanxi": {
+        "message": "Shaanxi"
+    },
+    "RI_State_Or_Province_Shandong": {
+        "message": "Shandong"
+    },
+    "RI_State_Or_Province_Shanxi": {
+        "message": "Shanxi"
+    },
+    "RI_State_Or_Province_Shanghai": {
+        "message": "Shanghai"
+    },
+    "RI_State_Or_Province_Sichuan": {
+        "message": "Sichuan"
+    },
+    "RI_State_Or_Province_Taiwan": {
+        "message": "Taiwan"
+    },
+    "RI_State_Or_Province_Tianjin": {
+        "message": "Tianjin"
+    },
+    "RI_State_Or_Province_Xianggang": {
+        "message": "Xianggang"
+    },
+    "RI_State_Or_Province_Xizang": {
+        "message": "Xizang"
+    },
+    "RI_State_Or_Province_Xinjiang": {
+        "message": "Xinjiang"
+    },
+    "RI_State_Or_Province_Yunnan": {
+        "message": "Yunnan"
+    },
+    "RI_State_Or_Province_Zhejiang": {
+        "message": "Zhejiang"
+    },
+    "RI_State_Or_Province_Agin_Buryat_avt_okrug": {
+        "message": "Agin Buryat avt okrug"
+    },
+    "RI_State_Or_Province_Adygeya_republic": {
+        "message": "Adygeya republic"
+    },
+    "RI_State_Or_Province_Altai_republic": {
+        "message": "Altai republic"
+    },
+    "RI_State_Or_Province_Altaiskiy_krai": {
+        "message": "Altaiskiy krai"
+    },
+    "RI_State_Or_Province_Amur_oblast": {
+        "message": "Amur oblast"
+    },
+    "RI_State_Or_Province_Arkhangelsk_oblast": {
+        "message": "Arkhangelsk oblast"
+    },
+    "RI_State_Or_Province_Astrakhan_oblast": {
+        "message": "Astrakhan oblast"
+    },
+    "RI_State_Or_Province_Bashkir_republic": {
+        "message": "Bashkir republic"
+    },
+    "RI_State_Or_Province_Belgorod_oblast": {
+        "message": "Belgorod oblast"
+    },
+    "RI_State_Or_Province_Bryansk_oblast": {
+        "message": "Bryansk oblast"
+    },
+    "RI_State_Or_Province_Buruyat_republic": {
+        "message": "Buruyat republic"
+    },
+    "RI_State_Or_Province_Vladimir_oblast": {
+        "message": "Vladimir oblast"
+    },
+    "RI_State_Or_Province_Volgograd_oblast": {
+        "message": "Volgograd oblast"
+    },
+    "RI_State_Or_Province_Vologod_oblast": {
+        "message": "Vologod oblast"
+    },
+    "RI_State_Or_Province_Voronezh_oblast": {
+        "message": "Voronezh oblast"
+    },
+    "RI_State_Or_Province_Dagestan_republic": {
+        "message": "Dagestan republic"
+    },
+    "RI_State_Or_Province_Evreyskaya_avt_oblast": {
+        "message": "Evreyskaya avt oblast"
+    },
+    "RI_State_Or_Province_Ivanovskaya_oblast": {
+        "message": "Ivanovskaya oblast"
+    },
+    "RI_State_Or_Province_Ingush_republic": {
+        "message": "Ingush republic"
+    },
+    "RI_State_Or_Province_Irkutsk_oblast": {
+        "message": "Irkutsk oblast"
+    },
+    "RI_State_Or_Province_Kabardino_Balkar_republic": {
+        "message": "Kabardino-Balkar republic"
+    },
+    "RI_State_Or_Province_Kalinigrad_oblast": {
+        "message": "Kalinigrad oblast"
+    },
+    "RI_State_Or_Province_Kalmykiya_republic": {
+        "message": "Kalmykiya republic"
+    },
+    "RI_State_Or_Province_Kaluga_oblast": {
+        "message": "Kaluga oblast"
+    },
+    "RI_State_Or_Province_Kamchatka_oblast": {
+        "message": "Kamchatka oblast"
+    },
+    "RI_State_Or_Province_Karachaevo_Cherkessia_republic": {
+        "message": "Karachaevo-Cherkessia republic"
+    },
+    "RI_State_Or_Province_Karelia_republic": {
+        "message": "Karelia republic"
+    },
+    "RI_State_Or_Province_Kemerovo_oblast": {
+        "message": "Kemerovo oblast"
+    },
+    "RI_State_Or_Province_Kirov_oblast": {
+        "message": "Kirov oblast"
+    },
+    "RI_State_Or_Province_Komi_republic": {
+        "message": "Komi republic"
+    },
+    "RI_State_Or_Province_Komi_Permyak_avt_okrug": {
+        "message": "Komi-Permyak avt okrug"
+    },
+    "RI_State_Or_Province_Koryak_avt_okrug": {
+        "message": "Koryak avt okrug"
+    },
+    "RI_State_Or_Province_Kostroma_oblast": {
+        "message": "Kostroma oblast"
+    },
+    "RI_State_Or_Province_Krasnodar_krai": {
+        "message": "Krasnodar krai"
+    },
+    "RI_State_Or_Province_Krasnoyarsk_krai": {
+        "message": "Krasnoyarsk krai"
+    },
+    "RI_State_Or_Province_Kurgan_oblast": {
+        "message": "Kurgan oblast"
+    },
+    "RI_State_Or_Province_Kursk_oblast": {
+        "message": "Kursk oblast"
+    },
+    "RI_State_Or_Province_Leningrad_oblast": {
+        "message": "Leningrad oblast"
+    },
+    "RI_State_Or_Province_Lipetsk_oblast": {
+        "message": "Lipetsk oblast"
+    },
+    "RI_State_Or_Province_Magadan_oblast": {
+        "message": "Magadan oblast"
+    },
+    "RI_State_Or_Province_Marii_El_republic": {
+        "message": "Marii El republic"
+    },
+    "RI_State_Or_Province_Mordovia_republic": {
+        "message": "Mordovia republic"
+    },
+    "RI_State_Or_Province_Moscow_city": {
+        "message": "Moscow city"
+    },
+    "RI_State_Or_Province_Moscow_oblast": {
+        "message": "Moscow oblast"
+    },
+    "RI_State_Or_Province_Murmansk_oblast": {
+        "message": "Murmansk oblast"
+    },
+    "RI_State_Or_Province_Nenetsk_avt_okrug": {
+        "message": "Nenetsk avt okrug"
+    },
+    "RI_State_Or_Province_Nizhegorodskaya_oblast": {
+        "message": "Nizhegorodskaya oblast"
+    },
+    "RI_State_Or_Province_Novgorod_oblast": {
+        "message": "Novgorod oblast"
+    },
+    "RI_State_Or_Province_Novosibirsk_oblast": {
+        "message": "Novosibirsk oblast"
+    },
+    "RI_State_Or_Province_Omsk_oblast": {
+        "message": "Omsk oblast"
+    },
+    "RI_State_Or_Province_Orenburg_oblast": {
+        "message": "Orenburg oblast"
+    },
+    "RI_State_Or_Province_Orel_oblast": {
+        "message": "Orel oblast"
+    },
+    "RI_State_Or_Province_Penza_oblast": {
+        "message": "Penza oblast"
+    },
+    "RI_State_Or_Province_Perm_oblast": {
+        "message": "Perm oblast"
+    },
+    "RI_State_Or_Province_Primorskii_krai": {
+        "message": "Primorskii krai"
+    },
+    "RI_State_Or_Province_Pskov_oblast": {
+        "message": "Pskov oblast"
+    },
+    "RI_State_Or_Province_Rostov_oblast": {
+        "message": "Rostov oblast"
+    },
+    "RI_State_Or_Province_Ryazan_oblast": {
+        "message": "Ryazan oblast"
+    },
+    "RI_State_Or_Province_Samara_oblast": {
+        "message": "Samara oblast"
+    },
+    "RI_State_Or_Province_St_Petersburg_city": {
+        "message": "St Petersburg city"
+    },
+    "RI_State_Or_Province_Saratov_oblast": {
+        "message": "Saratov oblast"
+    },
+    "RI_State_Or_Province_Saha_republic": {
+        "message": "Saha (Yakutia)"
+    },
+    "RI_State_Or_Province_Sakhalin_oblast": {
+        "message": "Sahalin oblast"
+    },
+    "RI_State_Or_Province_Sverdlovsk_oblast": {
+        "message": "Sverdlovsk oblast"
+    },
+    "RI_State_Or_Province_Severnaya_Ossetia_Alaniya_republic": {
+        "message": "Severnaya Ossetia-Alaniya republic"
+    },
+    "RI_State_Or_Province_Smolensk_oblast": {
+        "message": "Smolensk oblast"
+    },
+    "RI_State_Or_Province_Stavropol_krai": {
+        "message": "Stavropol krai"
+    },
+    "RI_State_Or_Province_Taimyr_act_okrug": {
+        "message": "Taimyr act okrug"
+    },
+    "RI_State_Or_Province_Tambov_oblast": {
+        "message": "Tambov oblast"
+    },
+    "RI_State_Or_Province_Tatarstan_republic": {
+        "message": "Tatarstan republic"
+    },
+    "RI_State_Or_Province_Tver_oblast": {
+        "message": "Tver oblast"
+    },
+    "RI_State_Or_Province_Tomsk_oblast": {
+        "message": "Tomsk oblast"
+    },
+    "RI_State_Or_Province_Tula_oblast": {
+        "message": "Tula oblast"
+    },
+    "RI_State_Or_Province_Tywa_republic": {
+        "message": "Tywa republic"
+    },
+    "RI_State_Or_Province_Tyumen_oblast": {
+        "message": "Tyumen oblast"
+    },
+    "RI_State_Or_Province_Udmurtia_republic": {
+        "message": "Udmurtia republic"
+    },
+    "RI_State_Or_Province_Ulianovsk_oblast": {
+        "message": "Ulianovsk oblast"
+    },
+    "RI_State_Or_Province_Ust_Ordynsk_Buryat_avt_okrug": {
+        "message": "Ust'-Ordynsk Buryat avt okrug"
+    },
+    "RI_State_Or_Province_Khabarovsk_krai": {
+        "message": "Khabarovsk krai"
+    },
+    "RI_State_Or_Province_Khakassia_republic": {
+        "message": "Khakassia republic"
+    },
+    "RI_State_Or_Province_Hanty_Mansy_avt_okrug": {
+        "message": "Hanty-Mansy avt okrug"
+    },
+    "RI_State_Or_Province_Chelyabinsk_oblast": {
+        "message": "Chelyabinsk oblast"
+    },
+    "RI_State_Or_Province_Chechen_republic": {
+        "message": "Chechen republic"
+    },
+    "RI_State_Or_Province_Chita_oblast": {
+        "message": "Chita oblast"
+    },
+    "RI_State_Or_Province_Chuvash_republic": {
+        "message": "Chuvash republic"
+    },
+    "RI_State_Or_Province_Chukotka_avt_okrug": {
+        "message": "Chukotka avt okrug"
+    },
+    "RI_State_Or_Province_Evenk_avt_okrug": {
+        "message": "Evenk avt okrug"
+    },
+    "RI_State_Or_Province_Yamalo_Nenetsk_avt_okrug": {
+        "message": "Yamalo-Nenetsk avt okrug"
+    },
+    "RI_State_Or_Province_Yaroslav_oblast": {
+        "message": "Yaroslav oblast"
+    },
+    "RI_State_Or_Province_Dolnoslaskie": {
+        "message": "Dolnoslaskie"
+    },
+    "RI_State_Or_Province_Kujawsko_Pomorskie": {
+        "message": "Kujawsko-Pomorskie"
+    },
+    "RI_State_Or_Province_Lodzkie": {
+        "message": "Lodzkie"
+    },
+    "RI_State_Or_Province_Lubelskie": {
+        "message": "Lubelskie"
+    },
+    "RI_State_Or_Province_Lubuskie": {
+        "message": "Lubuskie"
+    },
+    "RI_State_Or_Province_Malopolskie": {
+        "message": "Malopolskie"
+    },
+    "RI_State_Or_Province_Mazowieckie": {
+        "message": "Mazowieckie"
+    },
+    "RI_State_Or_Province_Opolskie": {
+        "message": "Opolskie"
+    },
+    "RI_State_Or_Province_Podkarpackie": {
+        "message": "Podkarpackie"
+    },
+    "RI_State_Or_Province_Podlaskie": {
+        "message": "Podlaskie"
+    },
+    "RI_State_Or_Province_Pomorskie": {
+        "message": "Pomorskie"
+    },
+    "RI_State_Or_Province_Slaskie": {
+        "message": "Slaskie"
+    },
+    "RI_State_Or_Province_Swietokrzyskie": {
+        "message": "Swietokrzyskie"
+    },
+    "RI_State_Or_Province_Warminsko_Mazurskie": {
+        "message": "Warminsko-Mazurskie"
+    },
+    "RI_State_Or_Province_Wielkopolskie": {
+        "message": "Wielkopolskie"
+    },
+    "RI_State_Or_Province_Zachodniopomorskie": {
+        "message": "Zachodniopomorskie"
+    },
+    "RI_Country_United_States": {
+        "message": "Ујединене нације"
+    },
+    "RI_Country_Afghanistan": {
+        "message": "Afghanistan"
+    },
+    "RI_Country_Andorra": {
+        "message": "Андора"
+    },
+    "RI_Country_Argentina": {
+        "message": "Аргентина"
+    },
+    "RI_Country_Armenia": {
+        "message": "Арменија"
+    },
+    "RI_Country_Australia": {
+        "message": "Аустралија"
+    },
+    "RI_Country_Austria": {
+        "message": "Аустрија"
+    },
+    "RI_Country_Belarus": {
+        "message": "Беларусија"
+    },
+    "RI_Country_Belgium": {
+        "message": "Белгија"
+    },
+    "RI_Country_Bolivia": {
+        "message": "Боливија"
+    },
+    "RI_Country_Bosnia_And_Herzegovina": {
+        "message": "Босна и херцеговина"
+    },
+    "RI_Country_Brazil": {
+        "message": "Бразил"
+    },
+    "RI_Country_Bulgaria": {
+        "message": "Бугарска"
+    },
+    "RI_Country_Canada": {
+        "message": "Канада"
+    },
+    "RI_Country_Chile": {
+        "message": "Чили"
+    },
+    "RI_Country_China": {
+        "message": "Кина"
+    },
+    "RI_Country_Colombia": {
+        "message": "Колумбија"
+    },
+    "RI_Country_Costa_Rica": {
+        "message": "Коста рика"
+    },
+    "RI_Country_Croatia": {
+        "message": "Хрватска"
+    },
+    "RI_Country_Cyprus": {
+        "message": "Кипар"
+    },
+    "RI_Country_Czech_Republic": {
+        "message": "Чешка република"
+    },
+    "RI_Country_Denmark": {
+        "message": "Денмарк"
+    },
+    "RI_Country_Egypt": {
+        "message": "Еипат"
+    },
+    "RI_Country_Estonia": {
+        "message": "Естонија"
+    },
+    "RI_Country_Finland": {
+        "message": "Финска"
+    },
+    "RI_Country_France": {
+        "message": "Француска"
+    },
+    "RI_Country_Haiti": {
+        "message": "Хаити"
+    },
+    "RI_Country_Gabon": {
+        "message": "Габон"
+    },
+    "RI_Country_Germany": {
+        "message": "Немачка"
+    },
+    "RI_Country_Gibraltar": {
+        "message": "Ђибралтар"
+    },
+    "RI_Country_Greece": {
+        "message": "Грчка"
+    },
+    "RI_Country_Greenland": {
+        "message": "Гринленд"
+    },
+    "RI_Country_Hong_Kong": {
+        "message": "Хонг Конг"
+    },
+    "RI_Country_Hungary": {
+        "message": "Мађарска"
+    },
+    "RI_Country_Iceland": {
+        "message": "Исленд"
+    },
+    "RI_Country_India": {
+        "message": "Индија"
+    },
+    "RI_Country_Indonesia": {
+        "message": "Индонесија"
+    },
+    "RI_Country_Iran": {
+        "message": "Иран"
+    },
+    "RI_Country_Iraq": {
+        "message": "Ирак"
+    },
+    "RI_Country_Ireland": {
+        "message": "Ирска"
+    },
+    "RI_Country_Israel": {
+        "message": "Израел"
+    },
+    "RI_Country_Italy": {
+        "message": "Италија"
+    },
+    "RI_Country_Jamaica": {
+        "message": "Јамаика"
+    },
+    "RI_Country_Japan": {
+        "message": "Јапан"
+    },
+    "RI_Country_Korea": {
+        "message": "Јужна кореа"
+    },
+    "RI_Country_Kazakhstan": {
+        "message": "Казакстан"
+    },
+    "RI_Country_Latvia": {
+        "message": "Латвија"
+    },
+    "RI_Country_Liechtenstein": {
+        "message": "Лиштенштајн"
+    },
+    "RI_Country_Lithuania": {
+        "message": "Литуанија"
+    },
+    "RI_Country_Luxembourg": {
+        "message": "Луксенбург"
+    },
+    "RI_Country_Macedonia": {
+        "message": "Македонија"
+    },
+    "RI_Country_Malaysia": {
+        "message": "Малесија"
+    },
+    "RI_Country_Malta": {
+        "message": "Малта"
+    },
+    "RI_Country_Mexico": {
+        "message": "Мексико"
+    },
+    "RI_Country_Moldova": {
+        "message": "Молдавија"
+    },
+    "RI_Country_Monaco": {
+        "message": "Монако"
+    },
+    "RI_Country_Montenegro": {
+        "message": "Црна гора"
+    },
+    "RI_Country_Morocco": {
+        "message": "Мороко"
+    },
+    "RI_Country_Namibia": {
+        "message": "Намибија"
+    },
+    "RI_Country_Netherlands": {
+        "message": "Холандија"
+    },
+    "RI_Country_Nigeria": {
+        "message": "Нигерија"
+    },
+    "RI_Country_Norway": {
+        "message": "Норвешка"
+    },
+    "RI_Country_New_Zealand": {
+        "message": "Нови Зеланд"
+    },
+    "RI_Country_Pakistan": {
+        "message": "Пакистан"
+    },
+    "RI_Country_Panama": {
+        "message": "Панама"
+    },
+    "RI_Country_Paraguay": {
+        "message": "Парагвај"
+    },
+    "RI_Country_Peru": {
+        "message": "Перу"
+    },
+    "RI_Country_Philippines": {
+        "message": "Филипине"
+    },
+    "RI_Country_Poland": {
+        "message": "Пољска"
+    },
+    "RI_Country_Portugal": {
+        "message": "Португалија"
+    },
+    "RI_Country_Qatar": {
+        "message": "Катар"
+    },
+    "RI_Country_Romania": {
+        "message": "Румунија"
+    },
+    "RI_Country_Russia": {
+        "message": "Русија"
+    },
+    "RI_Country_San_Marino": {
+        "message": "Сан Марино"
+    },
+    "RI_Country_Saudi_Arabia": {
+        "message": "Саудска арабија"
+    },
+    "RI_Country_Serbia": {
+        "message": "Србија"
+    },
+    "RI_Country_Singapore": {
+        "message": "Сингапор"
+    },
+    "RI_Country_Slovakia": {
+        "message": "Словачка"
+    },
+    "RI_Country_Slovenia": {
+        "message": "Словенија"
+    },
+    "RI_Country_South_Africa": {
+        "message": "Јужна африка"
+    },
+    "RI_Country_Spain": {
+        "message": "Шпанија"
+    },
+    "RI_Country_Sweden": {
+        "message": "Шведска"
+    },
+    "RI_Country_Switzerland": {
+        "message": "Швајцарска"
+    },
+    "RI_Country_Taiwan": {
+        "message": "Тајван"
+    },
+    "RI_Country_Thailand": {
+        "message": "Тајланд"
+    },
+    "RI_Country_Turkey": {
+        "message": "Турска"
+    },
+    "RI_Country_Ukraine": {
+        "message": "Украјна"
+    },
+    "RI_Country_United_Kingdom": {
+        "message": "Енгленска"
+    },
+    "RI_Country_Venezuela": {
+        "message": "Венезуела"
+    },
+    "RI_Country_Vietnam": {
+        "message": "Вијетнам"
+    },
+    "RI_Country_Other": {
+        "message": "Остало"
+    },
+    "RI_CountryAlt_United_States": {
+        "message": "Америчке Уједињене Нације;USA;US"
+    },
+    "RI_Group_Credit_Card": {
+        "message": "Кредитна Карта"
+    },
+    "RI_Card_Type": {
+        "message": "Тип Картице"
+    },
+    "RI_Card_Number": {
+        "message": "Број картице"
+    },
+    "RI_Card_Validation_Code": {
+        "message": "Код Провере"
+    },
+    "RI_Card_Password": {
+        "message": "Лозинка Картице"
+    },
+    "RI_Card_Expires": {
+        "message": "Важи до"
+    },
+    "RI_Valid_From": {
+        "message": "Важи од"
+    },
+    "RI_Card_User_Name": {
+        "message": "Корисник Картице"
+    },
+    "RI_Card_Issuing_Bank": {
+        "message": "Банка"
+    },
+    "RI_Card_Customer_Service_Phone": {
+        "message": "Телефон Банке "
+    },
+    "RI_International_Card_Customer_Service_Phone": {
+        "message": "Интернационални телефон банке"
+    },
+    "RI_Card_PIN_Number": {
+        "message": "PIN Број"
+    },
+    "RI_Card_Credit_Limit": {
+        "message": "Граница Кредита"
+    },
+    "RI_Card_Interest_Rate": {
+        "message": "Интерес"
+    },
+    "RI_Group_Bank_Account": {
+        "message": "Рачун Банке"
+    },
+    "RI_Bank_Name": {
+        "message": "Име банке"
+    },
+    "RI_Bank_Address": {
+        "message": "Адреса Банке"
+    },
+    "RI_Bank_Phone": {
+        "message": "Телефон Банке"
+    },
+    "RI_Bank_Corr_Account": {
+        "message": "Bank Corr Рачун"
+    },
+    "RI_Bank_Type": {
+        "message": "Тип Банке"
+    },
+    "RI_Bank_Branch_Name": {
+        "message": "Филијале банке"
+    },
+    "RI_Bank_Branch_Type": {
+        "message": "Филијала Тип"
+    },
+    "RI_Bank_Routing_Number": {
+        "message": "Routing Number"
+    },
+    "RI_Bank_Account_Number": {
+        "message": "Број рачуна"
+    },
+    "RI_Bank_Account_Owner": {
+        "message": "Корисник рачуна"
+    },
+    "RI_Bank_Account_Type": {
+        "message": "Тип Рачуна"
+    },
+    "RI_Bank_Account_Type_Checking": {
+        "message": "Провера"
+    },
+    "RI_Bank_Account_Type_Current": {
+        "message": "текуће"
+    },
+    "RI_Bank_Account_Type_Savings": {
+        "message": "сачувано"
+    },
+    "RI_Bank_Account_Type_Money_Manager": {
+        "message": "Менаджер Рачуна"
+    },
+    "RI_Bank_Interest_Rate": {
+        "message": "Интерес"
+    },
+    "RI_Bank_Swift_Code": {
+        "message": "SWIFT"
+    },
+    "RI_Bank_PIN_Code": {
+        "message": "ПИН код банке"
+    },
+    "RI_Int_Bank_Account_Number": {
+        "message": "IBAN"
+    },
+    "RI_Group_Default_Password": {
+        "message": "Аутентификација"
+    },
+    "RI_User_ID": {
+        "message": "Маркери ID Корисника"
+    },
+    "RI_Password": {
+        "message": "Омиљена Лозинка"
+    },
+    "RI_Password_Question": {
+        "message": "Питање Лозинке"
+    },
+    "RI_Password_Answer": {
+        "message": "Одговор Лозинке"
+    },
+    "RI_Group_Car": {
+        "message": "Кола"
+    },
+    "RI_Car_Make": {
+        "message": "Урађено"
+    },
+    "RI_Car_Model": {
+        "message": "Модел"
+    },
+    "RI_Car_Year": {
+        "message": "Година"
+    },
+    "RI_Car_Plate_Number": {
+        "message": "Број таблице"
+    },
+    "RI_Car_Plate": {
+        "message": "Број таблице"
+    },
+    "RI_Vehicle_Identification_Number": {
+        "message": "Идент. кола (VIN)"
+    },
+    "RI_Group_Custom": {
+        "message": "Прилагоди"
+    },
+    "Btn_Yes": {
+        "message": "Да"
+    },
+    "Btn_No": {
+        "message": "Не"
+    },
+    "Yes": {
+        "message": "Да"
+    },
+    "No": {
+        "message": "Не"
+    },
+    "RFOSetup_EnterPasswordForAccount": {
+        "message": "Унос лозинке за налог:"
+    },
+    "Setup_LoginWithExistingAccount_Prompt": {
+        "message": "* Потребни су колачиће. Будите сигурни да колачићи нису блокирани"
+    },
+    "ConfirmMasterPassword_Incorrect_Text": {
+        "message": "Лоњинке нису исте"
+    },
+    "SharedFolder_Revoke_Confirmation": {
+        "message": "Сигурно да опозовете дељену фасциклу '%1' за %2?"
+    },
+    "SendFilesConfirmation_Title": {
+        "message": "РобоФорм корисник вам је послао неке податке. \nПрихватите или одбаците послате датотеке:"
+    },
+    "SharedFolderSettings_RoleOwner": {
+        "message": "Власник"
+    },
+    "Cmd_GotoNewTab_Flat": {
+        "message": "Ићи у нов језичак"
+    },
+    "Cmd_GotoSameTab_Flat": {
+        "message": "Ићи у истом језичку"
+    },
+    "Cmd_LoginNewTab_Flat": {
+        "message": "Пријава у новом језичку"
+    },
+    "Cmd_LoginSameTab_Flat": {
+        "message": "Пријава у истом језичку"
+    },
+    "Cmd_Settings_Flat": {
+        "message": "Подешавања"
+    },
+    "Cmd_SharingCenter_Flat": {
+        "message": "Центар дељења"
+    },
+    "Cmd_View_Flat": {
+        "message": "Изглед"
+    },
+    "Cmd_AddToPinned_Flat": {
+        "message": "Додај у Прикачено"
+    },
+    "Cmd_Unpin_Flat": {
+        "message": "Одкачи"
+    },
+    "Cmd_Copy_Username_Flat": {
+        "message": "Копирај име"
+    },
+    "Cmd_Copy_Password_Flat": {
+        "message": "Копирај лозинку"
+    },
+    "Cmd_Password_Generator_Flat": {
+        "message": "Генератор лозинке"
+    },
+    "Cmd_Copy_URL_Flat": {
+        "message": "Копирај УРЛ"
+    },
+    "Cmd_NotNow_Flat": {
+        "message": "Не сада"
+    },
+    "Cmd_OpenDesktopEditor": {
+        "message": "Отвори Desktop уређивач"
+    },
+    "PassGen_helptext1": {
+        "message": "Нова лозинка је креирана. Кликнути Пуни за пуњење"
+    },
+    "PassGen_helptext2": {
+        "message": "лозинке из претраживача. Кликнути Копирај да се копира"
+    },
+    "PassGen_helptext3": {
+        "message": ". Генериши за ново генерисање."
+    },
+    "PassGen_WrongChars_Errtext": {
+        "message": "Погрешан број карактера (1-99)"
+    },
+    "PassGen_WrongNums_Errtext": {
+        "message": "Погрешан број цифара"
+    },
+    "Android_matching_dialog_title": {
+        "message": "Одговарајуће пријаве"
+    },
+    "Editor_Indicator_Show_NMatch": {
+        "message": "Показује све одговарајуће лозинке (%1)"
+    },
+    "Editor_Indicator_Show_AllIdentities": {
+        "message": "Покажи све идентитете (%1)"
+    },
+    "ItemsListPage_SearchMatchingLogins_Placeholder": {
+        "message": "Претражи одговарајуће пријаве"
+    },
+    "ItemsListPage_SearchIdentities_Placeholder": {
+        "message": "Претражи идентитете"
+    },
+    "ItemsListPage_RecentlyUsed_Title": {
+        "message": "Недавно коришћено"
+    },
+    "ItemsListPage_More_Button_Text": {
+        "message": "Више..."
+    },
+    "Options_WebExt_AutoLogoffAfterIdle_Text": {
+        "message": "Ауто одјавити после мировања(0-99999 минута)*"
+    },
+    "Options_WebExt_LogoffTakeEffectNextSession": {
+        "message": "*Она ће ступити на снагу не следећу RoboForm сесију"
+    },
+    "Options_WebExt_HighlightFields_Text": {
+        "message": "Обележити попуњена поља"
+    },
+    "Options_Extended_ActiveServer_Text": {
+        "message": "Сервер за рад:"
+    },
+    "Options_Security_AutoLogoffDisabled_Text": {
+        "message": "*Опција може да се промени само преко сајта,\nу Policy Editor"
+    },
+    "MasterPwdEnterDlg_CacheUntilLogoff": {
+        "message": "Употребити ову лозинку док се не одјавите"
+    },
+    "MasterPwdEnterDlg_Text3": {
+        "message": "Објекат је заштићен.<br />Унети главну лозинку<br />за употребу."
+    },
+    "MasterPwdEnterDlg_Limit_Text": {
+        "message": "Лозинка треба имати између 8 и 79 симбола"
+    },
+    "MasterPwdEnterDlg_CreatePwd_Text": {
+        "message": "Да би заштитили податке, требате да подесите главну лозинку"
+    },
+    "RFO_OTP_Memorize_Device": {
+        "message": "Записати овај претраживач, тако да ЈВЛ неће<br />бити тражена на следећу пријаву."
+    },
+    "RFO_TwoFactor_EnrollBrowserGA_Text": {
+        "message": "Упишите овај прегледач тако да код за аутентификацију неће бити тражен на наредну пријаву."
+    },
+    "RFO_TwoFactor_EnrollBrowserGeneric_Text": {
+        "message": "Упишите овај прегледач тако да дво-фактор аутентификације неће бити тражена за наредну пријаву."
+    },
+    "RFO_TwoFactor_Send_Button": {
+        "message": "Пошаљи ЈВЛ"
+    },
+    "SessionExpireDlg_Text": {
+        "message": "Ваша сесија је истекла. Поново се пријавите."
+    },
+    "ChangePwdDlg_OperationNotSupported": {
+        "message": "Рад није подржан. Надоградите на RoboForm в. 8"
+    },
+    "Change_Account_Password_Login_First": {
+        "message": "Прво требате да се пријавите пре него што можете да промените лозинку"
+    },
+    "Password_Successfully_Changed": {
+        "message": "Лозинка успешно промењена"
+    },
+    "ChangePwdDlg_Changing_Text": {
+        "message": "Промена лозинке"
+    },
+    "MasterPass_Expired": {
+        "message": "Време је дошло да промените Вашу Главну Лозинку"
+    },
+    "SA_ChangeAccountPwd_Error": {
+        "message": "Грешка %1"
+    },
+    "SA_LimitedMode_Text": {
+        "message": "Ограничена функционалност. За све функције"
+    },
+    "SA_LimitedMode_LinkRF_Text": {
+        "message": "Интсалирати RoboForm"
+    },
+    "SA_Setup_Description_First": {
+        "message": "Инсталирали сте додатак. Овај додатак пружа ограничене функције. За потпуну функционалност морате ажурирати или инсталирати комплетну апликацију на рачунару."
+    },
+    "SA_Setup_Description_Repair": {
+        "message": "Корситили сте додатак са инсталираном програмом на раљчунару, али је сада прогрем престар или није инсталиран. Кликнути \"Инсталирати сада\" да би поправили или надоградили верзију RoboForm-а."
+    },
+    "SA_Edge_Setup_Description_First": {
+        "message": "Инсталирали сте RoboForm за Edge самаставну верзију. За пуну верзију, инсталирајте RoboForm за Windows."
+    },
+    "SA_Setup_InstallNow_Button": {
+        "message": "Инсталирај сада"
+    },
+    "SA_Setup_Skip_Button": {
+        "message": "Прескочи"
+    },
+    "AskConsentToCollectData_Text": {
+        "message": "Да би RoboForm коректно радио,треба да имамо приступ и да прикупимо веб адресе (URL). Без тога, RoboForm не може да пуни и сачува акредитиве сајтова. Сазнај више о прикупљавањем података преко"
+    },
+    "AskConsentToCollectData_PrivacyPolicy_Link_Text": {
+        "message": "Политика прватности"
+    },
+    "AskConsentToCollectData_DeclineWarning_Text": {
+        "message": "Ако одбијено, не можете да користите RoboForm екстензију."
+    },
+    "AskConsentToCollectData_Accept_Button": {
+        "message": "Прихвати"
+    },
+    "AskConsentToCollectData_Decline_Button": {
+        "message": "Одбиј"
+    },
+    "AskConsentToCollectData_Title": {
+        "message": "Приватност"
+    },
+    "AskConsentToCollectData_SectionTitleStart_Text": {
+        "message": "Можемо ли прикупити следеће"
+    },
+    "AskConsentToCollectData_PersonalDataSection_Text": {
+        "message": "податци који Вас идентификују"
+    },
+    "AskConsentToCollectData_TechnicalDataSection_Text": {
+        "message": "анонимни податци о употреби RF-а"
+    },
+    "AskConsentToCollectData_UrlsAndSearchTerms_Text": {
+        "message": "Посечени URL и претраге, што прикупљамо за сачувавање и пунење Ваших акредитива на сајтовима"
+    },
+    "AskConsentToCollectData_ActionsAndFilledInformation_Text": {
+        "message": "Ваше акције (клик миша и тастатуру) и информације за пуњење сајтова, што прикупљамо за сачувавање и пунење Ваших акредитива на сајтовима"
+    },
+    "AskConsentToCollectData_PersonalRejectionImpact_Text": {
+        "message": "Ако нам не дозволите да прикупљамо личне податке, RoboForm неће радити"
+    },
+    "AskConsentToCollectData_TechnicalRejectionImpact_Text": {
+        "message": "Ако нам не дозволите да прикупљамо анонимме податке, RoboForm неће радити"
+    },
+    "AskConsentToCollectData_Details_Text": {
+        "message": "Потпуни детаљи о подацима које прикупљамо и шта са њима радимо налазе се у нашој"
+    },
+    "AskConsentToCollectData_ContinueButton_Text": {
+        "message": "Настави"
+    },
+    "AskConsentToCollectData_YesSwitcher_Text": {
+        "message": "Да"
+    },
+    "AskConsentToCollectData_NoSwitcher_Text": {
+        "message": "Не"
+    },
+    "AskConsentToCollectData_RoboFormCannotWorkWithoutPermissions_Text": {
+        "message": "Нажалост, без одабрања прикупљавања Ваших података, RoboForm неће радити јер је потребно за чување и попуњавање акредитива на веб локацијама. Ако не желите да преиспитате податке које дозволите да RoboForm прикупља, препоручујемо вам да уклоните RoboForm."
+    },
+    "AskConsentToCollectData_RemoveExtensionButton_Text": {
+        "message": "Уклони RoboForm"
+    },
+    "AskConsentToCollectData_RevisitConsentsButton_Text": {
+        "message": "Поново прегледајте сагласности за прикупљање података"
+    },
+    "CreateBlockingPass__WebExt_Confirm": {
+        "message": "Да ли желите да RoboForm не показује \nАутоСачувавање на овом сајту?\nДа би касније деблокирали сајт, кликнити 'Сачувати',\nпа 'Деблокирај'."
+    },
+    "DeleteBlockingPass__WebExt_Confirm": {
+        "message": "Да ли да RoboForm опет показује\nАутоСачувавање на овом сајту?"
+    },
+    "SaveDlg_AskBeforeSaving_Text": {
+        "message": "Тражи пре сачувавања"
+    },
+    "LicenseExceededWarning_EnterpriseExceeded_Title": {
+        "message": "RoboForm за Business је прекораћио"
+    },
+    "EmergencyAccess_GrantAccess_Text": {
+        "message": "Дозволи"
+    },
+    "EmergencyAccess_Revoke_Tip": {
+        "message": "Укини"
+    },
+    "EmergencyAccess_Reject_Invitation_Text": {
+        "message": "Одбаци приступ"
+    },
+    "EmergencyAccess_AccessRequestedDaysHours_Status": {
+        "message": "Тражено. Податак ће бити доступан за %1 дан(а) %2 сат(а)"
+    },
+    "EmergencyAccess_AccessRequestedDays_Status": {
+        "message": "Тражено. Податак ће бити доступан за %1 дан(а)"
+    },
+    "EmergencyAccess_AccessRequestedHours_Status": {
+        "message": "Тражено. Податак ће бити доступан за %1 сат(а)\n"
+    },
+    "EmergencyAccess_Loading_Title": {
+        "message": "Учитавање..."
+    },
+    "EmergencyAccess_invitationUserNotFound_Question": {
+        "message": "Послачемо поруку \"%1\" са позивом да буде Ваш хитан контакт"
+    },
+    "EmergencyAccess_Revoke_Question": {
+        "message": "Укидате \"%1\" са хитних контакта."
+    },
+    "EmergencyAccess_GetData_Help_Text": {
+        "message": "Ове су ставке које је %1 дозволио. Можете да их видите/додате у Вашем RoboForm налогу. Ако су додате, ставке ће бити у фасцикли хитан приступ."
+    },
+    "EmergencyAccess_Email_Is_Empty": {
+        "message": "Имејл је празан"
+    },
+    "EmergencyAccess_CreationDate_Title": {
+        "message": "Креација"
+    },
+    "EmergencyAccess_EditContact_Title": {
+        "message": "Уреди контакт \"%1\""
+    },
+    "EmergencyAccess_NoAccess_Status": {
+        "message": "Нема приступа"
+    },
+    "EmergencyAccess_Reject_Title": {
+        "message": "Одбити хитан контакт"
+    },
+    "EmergencyAccess_RejectAccess_Text": {
+        "message": "Одбаци"
+    },
+    "EmergencyAccess_InviteContact_Text": {
+        "message": "Позив"
+    },
+    "EmergencyAccess_RevokeAccess_Button_Text": {
+        "message": "Уклонити приступ"
+    },
+    "EmergencyAccess_DenyAccess_Button_Text": {
+        "message": "Одбити"
+    },
+    "EmergencyAccess_InviteAgain_Question": {
+        "message": "Сигурно да се опет позове корисника \"%1\"?"
+    },
+    "EmergencyAccess_Accept_Invitation_Question": {
+        "message": "Сигурно прихватити хитни контакт за \"%1\"?"
+    },
+    "EmergencyAccess_Reject_Invitation_Question": {
+        "message": "Сигурно одбити приступ за \"%1\"?"
+    },
+    "EmergencyAccess_GetData_Request_Question": {
+        "message": "Да ли сте сигурни да желите да добијете податке од \"%1\"? Ставке ће бити лоциране у фасцикли хитног приступа."
+    },
+    "GenericConfirmDialog_Title": {
+        "message": "Потврда"
+    },
+    "GenericConfirmDialog_Ok": {
+        "message": "У реду"
+    },
+    "GenericConfirmDialog_Cancel": {
+        "message": "Поништити"
+    },
+    "CompanyInvitationConfirmation_Title2": {
+        "message": "позвао да придруже ваш налог на свом RoboForm for Business налогу."
+    },
+    "DomainNotInLogin_Title": {
+        "message": "RF Пажња"
+    },
+    "DomainNotInLogin_Text": {
+        "message": "Домен сајта није исти као УРЛ Пријаве."
+    },
+    "DomainNotInLogin_Text2": {
+        "message": "Да ли ипак да RF попуни формулар?"
+    },
+    "AutoFill_RoboFormLogin_Text": {
+        "message": "Кликнути RoboForm дугме на траци са алаткама прегледача да бисте извршили пријаву."
+    },
+    "AutoFill_ConfirmPasswordChange_Text": {
+        "message": "Потврди проену лозинке %1"
+    },
+    "AutoFill_Ago_Text": {
+        "message": "пре %1"
+    },
+    "AutoFill_PreviousPassword_Text": {
+        "message": "Задржи стару лозинку %1"
+    },
+    "AutoFill_PasswordAge_Text": {
+        "message": "старо %1"
+    },
+    "AutoFill_KeepOldPasswordConfirm_Text": {
+        "message": "Да се уклони потврда за потврде нове лозинке %1 ?"
+    },
+    "AutoFill_IdentitiesWithMatchingValuesList_Header_Text": {
+        "message": "Нађени идентитети:"
+    },
+    "AutoFill_RecentlyUsedIdentitiesList_Header_Text": {
+        "message": "Недавни идентитети:"
+    },
+    "AutoFill_OtherIdentitiesList_Header_Text": {
+        "message": "Други идентитети (A-Z):"
+    },
+    "AutoSave_Notification_LoginSaved_Text": {
+        "message": "Пријава је сачувана!"
+    },
+    "AutoSave_Notification_DataSaved_Text": {
+        "message": "Податци су сачувани!"
+    },
+    "AutoSave_Notification_PasswordOnlyLoginSaved_Text": {
+        "message": "Лозинка је сачувана!"
+    },
+    "AutoSave_Notification_PasswordOnlyLoginSaved_Note_Text": {
+        "message": "RoboForm је успео да прикупи само лозинку а не корисника. Ова пријава ће бити ажурирана након што се поново пријавите на ову веб страницу."
+    },
+    "AutoSave_Notification_LoginUpdated_Text": {
+        "message": "Пријава је ажурирана!"
+    },
+    "AutoSave_Notification_LoginUrlUpdated_Text": {
+        "message": "Url из пријаве је ажуриран!"
+    },
+    "AutoSave_Notification_PasswordUpdated_Text": {
+        "message": "Лозинка је ажурирана!"
+    },
+    "AutoSave_Notification_DataUpdated_Text": {
+        "message": "Податци су ажурирани!"
+    },
+    "AutoSave_Notification_LoginCreated_ActionDescription_Text": {
+        "message": "Пријава је сачувана:"
+    },
+    "AutoSave_Notification_IdentityCreated_ActionDescription_Text": {
+        "message": "Идентитет је креиран:"
+    },
+    "AutoSave_Notification_LoginUpdated_ActionDescription_Text": {
+        "message": "Пријава је ажурирана:"
+    },
+    "AutoSave_Notification_PasswordUpdated_ActionDescription_Text": {
+        "message": "Лозинка из пријаве ја ажурирана:"
+    },
+    "AutoSave_Notification_IdentityUpdated_ActionDescription_Text": {
+        "message": "Идентитет је ажуриран:"
+    },
+    "AutoSave_Notification_LoginDeleted_ActionDescription_Text": {
+        "message": "Пријава је избрисана:"
+    },
+    "AutoSave_Notification_IdentityDeleted_ActionDescription_Text": {
+        "message": "Идентитет је избрисан:"
+    },
+    "AutoSave_Notification_Undo_ButtonText": {
+        "message": "Опозови"
+    },
+    "AutoSave_LoginRequiredNotification_Title": {
+        "message": "Пријавите се на RoboForm?"
+    },
+    "AutoSave_LoginRequiredNotification_LogInToRoboForm_Text": {
+        "message": "Пријавите се у RF и сачувајте унесене вредности за %1."
+    },
+    "AutoSave_LoginRequiredNotification_LogInToRoboForm_ButtonText": {
+        "message": "Пријавите се у RF"
+    },
+    "AutoSave_SaveToRoboFormQuestion_Text": {
+        "message": "Сачувати у RoboForm?"
+    },
+    "SaveDlg_UpdateExistingLogin_Section_Text": {
+        "message": "Ажурирај актуелну пријаву:"
+    },
+    "SaveDlg_SaveNewLogin_Section_Text": {
+        "message": "Сачувај нову пријаву:"
+    },
+    "SaveDlg_ReplaceExistingItem_Section_Text": {
+        "message": "Замени постојећу ставку:"
+    },
+    "SaveDlg_ReplaceExistingLogin_Section_Text": {
+        "message": "Замени постојећу пријаву:"
+    },
+    "SaveDlg_ActionNote_UpdateLogin_Text": {
+        "message": "Пријава '%1' биће ажурирана новим информацијама"
+    },
+    "SaveDlg_ActionNote_UpdateLoginUrl_Text": {
+        "message": "Url из пријаве „%1“ ће бити ажуриран"
+    },
+    "SaveDlg_UpdatePasswordQuestion_Text": {
+        "message": "Откривена је нова лозинка.\nАжурирај пријаву '%1' са новом лозинком?"
+    },
+    "SaveDlg_UpdateLoginQuestion_Text": {
+        "message": "Да ли треба RoboForm са ажурира Вашу пријаву?"
+    },
+    "SaveDlg_AutoSavedPassword_LoginTip": {
+        "message": "АутоСачувано из обрасца за промену лозинке"
+    },
+    "SaveDlg_Preview_Group_Title": {
+        "message": "Преглед"
+    },
+    "SaveDlg_PostSave_Notification_Title": {
+        "message": "Успешно"
+    },
+    "SaveDlg_PostSave_Notification_Text": {
+        "message": "ваши акредативи су сачувани."
+    },
+    "RenameDlg_InstanceRename_Prompt": {
+        "message": "преименуј %1 '%2' од %3 '%4' на:"
+    },
+    "RenameDlg_Instance_Type_Text": {
+        "message": "Инстанца"
+    },
+    "DeleteItemPage_Confirmation_Text": {
+        "message": "Обрисати '%1'?"
+    },
+    "AboutPage_Title": {
+        "message": "О програму"
+    },
+    "PassGen_ExcludeSimilar_Text": {
+        "message": "Одбаци слично"
+    },
+    "PassGen_RestoreDefaults_Text": {
+        "message": "Врати подр. вредности"
+    },
+    "WelcomePage_Page_Title": {
+        "message": "Добродошли"
+    },
+    "SetupPage_AlreadyHaveAnAccount_Question": {
+        "message": "Већ имате налог?"
+    },
+    "SetupPage_AlreadyHaveAnAccount_Text": {
+        "message": "Већ имате RoboForm налог?"
+    },
+    "SetupPage_CreateAccount_Button_Text": {
+        "message": "Креирајте Ваш RoboForm налог"
+    },
+    "SetupPage_CreateAccount_Link_Text": {
+        "message": "Крерај налог"
+    },
+    "SetupPage_DoNotHaveAnAccount_Text": {
+        "message": "Немате налог?"
+    },
+    "CreateAccountConfirmPage_ForgetTitle_Text": {
+        "message": "Немојте да заборавите Вашу Главну Лозинку"
+    },
+    "CreateAccountConfirmPage_ForgetInfo_Text": {
+        "message": "Ваша RoboForm Главна Лозинка је кључ који откључава ваше податке. Ако је заборавите, Ваши податци не могу бити дешифровани (чак ни ми) и мораћете да почнете од нуле."
+    },
+    "ChangeMasterPasswordPage_Title": {
+        "message": "Променити главну лозинку"
+    },
+    "MainPage_Start_Button_Text": {
+        "message": "Почетак"
+    },
+    "MainPage_Items_Button_Logins_Tip": {
+        "message": "RoboForm пријаве"
+    },
+    "MainPage_Items_Button_Pinned_Tip": {
+        "message": "Закачене ставке"
+    },
+    "MainPage_Items_Button_Bookmarks_Tip": {
+        "message": "RoboForm Букмарки"
+    },
+    "MainPage_Items_Button_Safenotes_Tip": {
+        "message": "RoboForm СигурноснеБелешке"
+    },
+    "MainPage_Items_Button_Identities_Tip": {
+        "message": "RoboForm идентитети"
+    },
+    "MainPage_Items_Button_All_Tip": {
+        "message": "RoboForm ставке"
+    },
+    "MainPage_FillLogins_Button_Text": {
+        "message": "Пуни пријаве"
+    },
+    "MainPage_FillLogins_Button_Tip": {
+        "message": "Листа нађене пријаве"
+    },
+    "MainPage_FillIdentities_Button_Text": {
+        "message": "Пуни ID"
+    },
+    "MainPage_Settings_Button_Tip": {
+        "message": "Алатке и подешавања RoboForm-а"
+    },
+    "MainPage_Popular_Header_Text": {
+        "message": "Популарно"
+    },
+    "MainPage_Recent_Header_Text": {
+        "message": "Недавно"
+    },
+    "MainPage_Pinned_Header_Text": {
+        "message": "Закачено"
+    },
+    "MainPage_AllItems_Header_Text": {
+        "message": "A-Z"
+    },
+    "MainPage_ShowAll_Header_Text": {
+        "message": "Све"
+    },
+    "Page_ListItem_MoreActions_Tip": {
+        "message": "Више акције"
+    },
+    "MainPage_LoginsTab_Search_Placeholder": {
+        "message": "Тражи RoboForm"
+    },
+    "MainPage_FillLoginsTab_Search_Placeholder": {
+        "message": "Тражи одговарајуће пријаве"
+    },
+    "MainPage_FillLoginsTabDomain_Search_Placeholder": {
+        "message": "Претражи пријаве домена"
+    },
+    "MainPage_FillLoginsTabAll_Search_Placeholder": {
+        "message": "претражи све пријаве"
+    },
+    "MainPage_FillIdentitiesTabMatch_Search_Placeholder": {
+        "message": "Претражи подударни идентитети"
+    },
+    "MainPage_FillIdentitiesTabAll_Search_Placeholder": {
+        "message": "претражи све идентитете"
+    },
+    "MainPage_FillLoginsTab_Search_NoMatchingLogins": {
+        "message": "Нема резултата претраге у одговарајућим пријавама."
+    },
+    "MainPage_FillLoginsTab_Search_NoSameDomainLogins": {
+        "message": "Нема резултата претраге у пријавама истог домена."
+    },
+    "MainPage_FillLoginsTab_Search_GeneralResults": {
+        "message": "Резултат опште претраге:"
+    },
+    "MainPage_MatchingLogins_Header_Text": {
+        "message": "Одговарајуће пријаве"
+    },
+    "MainPage_OtherLogins_Header_Text": {
+        "message": "Друге пријаве"
+    },
+    "Item_ClickToFill_Tip": {
+        "message": "Клик за пуњење"
+    },
+    "Item_ClickToLogin_Tip": {
+        "message": "Клик за пријављивање"
+    },
+    "Identity_ClickToView_Tip": {
+        "message": "Клик за преглед идентитета"
+    },
+    "Safenote_ClickToView_Tip": {
+        "message": "Клик за преглед СигурноснеБелешке"
+    },
+    "Bookmark_ClickToOpen_Tip": {
+        "message": "Клик за отварање"
+    },
+    "MainPage_AddNewLogin_Text": {
+        "message": "Додај нову пријаву"
+    },
+    "Notification_ItemType_Pinned_Text": {
+        "message": "%1 закачено"
+    },
+    "Notification_ItemType_UnPinned_Text": {
+        "message": "%1 одкачено"
+    },
+    "Notification_Username_Copied_Text": {
+        "message": "Име копирано"
+    },
+    "Notification_Password_Copied_Text": {
+        "message": "Лозинка копирана"
+    },
+    "Notification_File_Deleted_Text": {
+        "message": "Датотека обрисана: %1"
+    },
+    "Notification_Folder_Deleted_Text": {
+        "message": "фасцикла обрисана: %1"
+    },
+    "Notification_Item_Renamed_Text": {
+        "message": "%1 преименовано у %2"
+    },
+    "Notification_Copied_ToClipboard_Text": {
+        "message": "Копирано"
+    },
+    "Notification_URL_Copied_Text": {
+        "message": "УРЛ је копиран"
+    },
+    "Notification_Item_Created_Text": {
+        "message": "%1 је креиран(а)"
+    },
+    "Notification_Password_Filled_Text": {
+        "message": "Нова лозинка је попуњена"
+    },
+    "MainPage_CreateNew_Text": {
+        "message": "Креирај нов"
+    },
+    "MainPage_CreateNewButton_Login_Tip": {
+        "message": "Креирај нову Пријаву"
+    },
+    "MainPage_CreateNewButton_Safenote_Tip": {
+        "message": "Креирај нову СигурноснуБелешку"
+    },
+    "MainPage_CreateNewButton_Identity_Tip": {
+        "message": "Креирај нови Идентитет"
+    },
+    "MainPage_CreateNewButton_Bookmark_Tip": {
+        "message": "креирај нови Букмарк"
+    },
+    "MainPage_CreateNewButton_File_Tip": {
+        "message": "креирај нову RoboForm датотеку"
+    },
+    "MainPage_SaveButton_SaveForms_Tip": {
+        "message": "Сачувајте обрасце за тренутну страницу"
+    },
+    "MainPage_SaveButton_SaveBookmark_Tip": {
+        "message": "Сачувајте тренутну страницу као букмарк"
+    },
+    "MainPage_CreatePinItemInstruction_Text": {
+        "message": "Направите сопствену листу закачених ставки тако што ћете изабрати \"Додај у Прикачено\" на било којој RoboForm ставци. Закачени предмети задржавају свој положај."
+    },
+    "OTPPage_Input_Placeholder": {
+        "message": "Унети Вашу једнократну лозинку овде"
+    },
+    "OTPPage_EnrollCheck_Text": {
+        "message": "Запамти овај уређај"
+    },
+    "MainPage_Create_Identity_Text": {
+        "message": "Креирај идентитет"
+    },
+    "MainPage_Create_Identity_Tip": {
+        "message": "Креирати први идентитет"
+    },
+    "MainPage_ViewAllIdentities_Tip": {
+        "message": "Види све идентитете"
+    },
+    "MainPage_ShowAll_Logins_Text": {
+        "message": "Све Пријаве"
+    },
+    "MainPage_ShowAll_Identities_Text": {
+        "message": "Сви Идентитети"
+    },
+    "MainPage_ShowAll_Safenotes_Text": {
+        "message": "Све СигурноснеБелешке"
+    },
+    "MainPage_ShowAll_Bookmarks_Text": {
+        "message": "Сви Букмарки"
+    },
+    "MainPage_ShowAll_NativeMenu_Tip": {
+        "message": "Кликните да видите мени %1"
+    },
+    "MainPage_FillLoginsTab_MatchingLogins_Button_Text": {
+        "message": "Подударне пријаве"
+    },
+    "MainPage_FillLoginsTab_SameDomain_Button_Text": {
+        "message": "Исти домен"
+    },
+    "MainPage_FillLoginsTab_AllLogins_Button_Text": {
+        "message": "Све"
+    },
+    "MainPage_FillLoginsTab_NoLoginsForDomain_Text": {
+        "message": "За тренутну страницу нема сачуване пријаве"
+    },
+    "MainPage_FillLoginsTab_NoLoginsForPage_Text": {
+        "message": "Ова страница нема поља која могу да се попуне. Ићи на страницу са пријавом за боље налажење одговарајућих резултата"
+    },
+    "MainPage_CreateLoginInstruction_Top_Text": {
+        "message": "Постоје два начина за стварање пријава:"
+    },
+    "MainPage_CreateLoginInstruction_Option1_Text": {
+        "message": "Док се пријављујете на своје мрежне налоге, RoboForm ће вам понудити да сачувате лозинке."
+    },
+    "MainPage_CreateLoginInstruction_Option2_Text": {
+        "message": "Кликнути дугме %1, изаберите веб локацију и унесите своје податке."
+    },
+    "MainPage_CreateLoginInstruction_Option3_Text": {
+        "message": "Претходно сачуване лозинке: %1"
+    },
+    "MainPage_CreateLoginInstruction_Option3_Import_Text": {
+        "message": "Увоз"
+    },
+    "MainPage_CreateLoginInstruction_LearnMore_Link": {
+        "message": "Овде сазнајте више о креирању пријаве"
+    },
+    "MainPage_FillIdentitiesTab_MatchingIdentities_Button_Text": {
+        "message": "Одговара"
+    },
+    "MainPage_FillIdentitiesTab_AllIdentities_Button_Text": {
+        "message": "Све"
+    },
+    "MainPage_FillIdentitiesTab_IdentityView_Top_Text": {
+        "message": "Попуните овај идентитет, превуците и испустите или копирајте/налепите"
+    },
+    "MainPage_FillIdentitiesTab_IdentityView_Limited_Top_Text": {
+        "message": "Пуни из овог идентитета"
+    },
+    "MainPage_FillIdentitiesTab_IdentityView_CopyDrag_Tip": {
+        "message": "Кликните за копирање или превлачење и испуштање"
+    },
+    "MainPage_FillIdentitiesTab_IdentityView_Copy_Tip": {
+        "message": "Кликните за копирање"
+    },
+    "MainPage_FillIdentitiesTab_IdentityView_FillBtn_Tip": {
+        "message": "Пунити из идентитета '%1'"
+    },
+    "MainPage_FillIdentitiesTab_CreateFirst_Text": {
+        "message": "Кликнути дугме %1 да бисте додали личне податке као што су име, адреса, подаци о плаћању у Идентитет. RoboForm ће вам понудити да једним кликом попуните ове податке за обрасце за наплату или регистрацију рачуна."
+    },
+    "MainPage_FillIdentitiesTab_EmptyMatch_Text": {
+        "message": "У вашим идентитетима нема података који би испуњавали поља на тренутној страници. Ажурирајте свој постојећи идентитет одговарајућим вредностима или направите нови."
+    },
+    "MainPage_CreateFirstSafenoteInstructions_Text": {
+        "message": "Кликните дугме %1 да бисте креирали СигурноснуБелешку и додали поверљиви текст као што су бројеви пинова, кодови сигурног приступа и друга упутства за тајни приступ."
+    },
+    "MainPage_CreateFirstBookmarkInstructions_Text": {
+        "message": "Кликни „%1“ дугме да би креирао први Букмарк."
+    },
+    "MainPage_EnjoyUsing": {
+        "message": "Волите да користите %1 ?"
+    },
+    "MainPage_PleaseRateUs": {
+        "message": "Оцените нас"
+    },
+    "MainPage_RateUs_Btn_Text": {
+        "message": "Оценити %1"
+    },
+    "MainPage_RemindMeLater_Btn_Text": {
+        "message": "Потсети ме касније"
+    },
+    "MainPage_WouldYouLikeReportAnIssue": {
+        "message": "Да ли желите да пријавите проблем?"
+    },
+    "MainPage_EnableInpageIconsOnDomain_Text": {
+        "message": "Омогућите иконе страница на овом домену"
+    },
+    "MainPage_EnableAutoSaveOnDomain_Text": {
+        "message": "Омогућите АутоСачувавање на овом домену"
+    },
+    "Popup_ReportAnIssue_Command_Text": {
+        "message": "Пријави проблем на овој страници"
+    },
+    "AutoFill_ReportAnIssue_Command_Text": {
+        "message": "Пријави проблем са АутоПуњење"
+    },
+    "AutoFill_ReportAnIssue_Command_Tooltip": {
+        "message": "Пријави проблем са АутоПуњење на овој страници"
+    },
+    "AutoSave_ReportAnIssue_Command_Text": {
+        "message": "Пријави проблем"
+    },
+    "AutoSave_ReportAnIssue_Command_Tooltip": {
+        "message": "Пријави проблем са АутоСачувавање на овој страници"
+    },
+    "ReportAnIssue_RFSSTicket_Subject": {
+        "message": "RoboForm проблен на %1"
+    },
+    "ReportAnIssue_RFSSTicket_Message": {
+        "message": "Поштована подршка RoboForm-а, \nНа овој страници: %1 \nОткрио сам следећи проблем везан за RoboForm-ом: \n%2"
+    },
+    "LoginTip_CloseAfterSubmit_Text": {
+        "message": "Затвори после слања"
+    }
+}

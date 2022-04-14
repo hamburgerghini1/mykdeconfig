@@ -1,0 +1,4058 @@
+{
+   "AboutPage_Title": {
+      "message": "Over"
+   },
+   "About_Sync2": {
+      "message": "Account:"
+   },
+   "About_Version2": {
+      "message": "Versie:"
+   },
+   "AccountLicenseStatus_Business": {
+      "message": "Bedrijfslicentie"
+   },
+   "AccountLicenseStatus_LicenseExpired": {
+      "message": "Licentie verliep %1 dag(en) geleden"
+   },
+   "AccountLicenseStatus_LicenseExpiresIn": {
+      "message": "Licentie verloopt in %1 dag(en)"
+   },
+   "AccountLicenseStatus_LicenseExpiresToday": {
+      "message": "Licentie verloopt vandaag"
+   },
+   "AccountLicenseStatus_LicenseIsActive": {
+      "message": "Licentie is actief"
+   },
+   "AccountLicenseStatus_NoLicense": {
+      "message": "Geen licentie"
+   },
+   "AccountLicenseStatus_TrialExpired": {
+      "message": "Proef periode verliep %1 dag(en) geleden"
+   },
+   "AccountLicenseStatus_TrialExpiresIn": {
+      "message": "Proef periode verloopt in %1 dag(en)"
+   },
+   "AccountLicenseStatus_TrialExpiresToday": {
+      "message": "Proef periode verloopt vandaag"
+   },
+   "AlreadyExists_Error2": {
+      "message": "%1 genaamd '%2' bestaat al"
+   },
+   "Android_matching_dialog_title": {
+      "message": "Overeenkomende Logins"
+   },
+   "AskConsentToCollectData_Accept_Button": {
+      "message": "Accepteer"
+   },
+   "AskConsentToCollectData_ActionsAndFilledInformation_Text": {
+      "message": "Uw acties (muisklikken en toetsenborddrukken) en informatie die u invult in websites, die wij verzamelen om uw gegevens op websites op te slaan en te vullen"
+   },
+   "AskConsentToCollectData_ContinueButton_Text": {
+      "message": "Doorgaan"
+   },
+   "AskConsentToCollectData_DeclineWarning_Text": {
+      "message": "Als u weigert, kunt u de RoboForm-extensie niet gebruiken."
+   },
+   "AskConsentToCollectData_Decline_Button": {
+      "message": "Weiger"
+   },
+   "AskConsentToCollectData_Details_Text": {
+      "message": "Alle details over de gegevens die we verzamelen en wat we ermee doen, staan in onze "
+   },
+   "AskConsentToCollectData_NoSwitcher_Text": {
+      "message": "Nee"
+   },
+   "AskConsentToCollectData_PersonalDataSection_Text": {
+      "message": "gegevens die u persoonlijk identificeren"
+   },
+   "AskConsentToCollectData_PersonalRejectionImpact_Text": {
+      "message": "Als u ervoor kiest om ons niet toe te staan uw persoonlijke gegevens te verzamelen zal RoboForm niet werken"
+   },
+   "AskConsentToCollectData_PrivacyPolicy_Link_Text": {
+      "message": "Privacybeleid"
+   },
+   "AskConsentToCollectData_RemoveExtensionButton_Text": {
+      "message": "Verwijder RoboForm"
+   },
+   "AskConsentToCollectData_RevisitConsentsButton_Text": {
+      "message": "Opnieuw bekijken van de gegevensverzameling toestemmingen"
+   },
+   "AskConsentToCollectData_RoboFormCannotWorkWithoutPermissions_Text": {
+      "message": "Helaas, zonder het verzamelen van bezochte URL's, zoektermen, uw acties en informatie die u invult in websites, zal RoboForm niet werken omdat het nodig is om uw referenties op websites op te slaan en te vullen. Tenzij u de gegevens die u RoboForm laat verzamelen wilt heroverwegen, raden wij u aan RoboForm te verwijderen."
+   },
+   "AskConsentToCollectData_SectionTitleStart_Text": {
+      "message": "Kunnen we het volgende verzamelen "
+   },
+   "AskConsentToCollectData_TechnicalDataSection_Text": {
+      "message": "anonieme gegevens over uw gebruik van RoboForm"
+   },
+   "AskConsentToCollectData_TechnicalRejectionImpact_Text": {
+      "message": "Als u ervoor kiest om ons niet toe te staan om anonieme gegevens te verzamelen zal RoboForm niet werken"
+   },
+   "AskConsentToCollectData_Text": {
+      "message": "Om RoboForm goed te laten functioneren, moeten we toestemming hebben om webadressen (URL's) te openen en te verzamelen. Zonder toestemming kan RoboForm geen referenties invullen of opslaan op uw sites. Lees meer over de gegevens die RoboForm verzamelt in onze "
+   },
+   "AskConsentToCollectData_Title": {
+      "message": "Privacy"
+   },
+   "AskConsentToCollectData_UrlsAndSearchTerms_Text": {
+      "message": "Bezochte URL's en zoektermen, die we verzamelen om uw gegevens op te slaan en te vullen op websites"
+   },
+   "AskConsentToCollectData_YesSwitcher_Text": {
+      "message": "Ja"
+   },
+   "AutoFill_AddIdentityGroup": {
+      "message": "Voeg %1 toe"
+   },
+   "AutoFill_Ago_Text": {
+      "message": "%1 geleden"
+   },
+   "AutoFill_ConfirmPasswordChange_Text": {
+      "message": "Bevestig wachtwoordwijziging %1"
+   },
+   "AutoFill_Delete": {
+      "message": "Verwijder"
+   },
+   "AutoFill_DontShowOnThisDomain": {
+      "message": "Toon niet op dit domein"
+   },
+   "AutoFill_Edit": {
+      "message": "Bewerk"
+   },
+   "AutoFill_Fill": {
+      "message": "Vul"
+   },
+   "AutoFill_FillSubmit": {
+      "message": "Invullen & Bevestigen"
+   },
+   "AutoFill_Generate": {
+      "message": "Genereer"
+   },
+   "AutoFill_IdentitiesWithMatchingValuesList_Header_Text": {
+      "message": "Overeenkomende Identiteiten:"
+   },
+   "AutoFill_KeepOldPasswordConfirm_Text": {
+      "message": "Wilt u het nieuwe wachtwoord verwijderen in afwachting van de bevestiging voor %1 ?"
+   },
+   "AutoFill_Login": {
+      "message": "%1 Log In"
+   },
+   "AutoFill_NewPassword": {
+      "message": "Nieuw Wachtwoord"
+   },
+   "AutoFill_OtherIdentitiesList_Header_Text": {
+      "message": "Andere Identiteiten (A-Z):"
+   },
+   "AutoFill_PasswordAge_Text": {
+      "message": "%1 oud"
+   },
+   "AutoFill_PasswordGenerator_Settings": {
+      "message": "Instellingen..."
+   },
+   "AutoFill_PreviousPassword_Text": {
+      "message": "Behoud oud wachtwoord %1"
+   },
+   "AutoFill_RecentlyUsedIdentitiesList_Header_Text": {
+      "message": "Recente Identiteiten:"
+   },
+   "AutoFill_Rename": {
+      "message": "Hernoem"
+   },
+   "AutoFill_ReportAnIssue_Command_Text": {
+      "message": "Meld een AutoFill-probleem"
+   },
+   "AutoFill_ReportAnIssue_Command_Tooltip": {
+      "message": "Meld een AutoFill-probleem op deze pagina"
+   },
+   "AutoFill_RoboFormLogin_Text": {
+      "message": "Klik in de werkbalk van de browser op de RoboForm knop om in te loggen."
+   },
+   "AutoFill_ShowOnThisDomain": {
+      "message": "Toon op dit domein"
+   },
+   "AutoSave_LoginRequiredNotification_LogInToRoboForm_ButtonText": {
+      "message": "Log in bij RoboForm"
+   },
+   "AutoSave_LoginRequiredNotification_LogInToRoboForm_Text": {
+      "message": "Log in op RoboForm en bewaar de ingevoerde gegevens voor %1."
+   },
+   "AutoSave_Notification_DataSaved_Text": {
+      "message": "Uw Data is opgeslagen!"
+   },
+   "AutoSave_Notification_DataUpdated_Text": {
+      "message": "Uw Gegevens zijn bijgewerkt!"
+   },
+   "AutoSave_Notification_IdentityCreated_ActionDescription_Text": {
+      "message": "Identiteit is aangemaakt:"
+   },
+   "AutoSave_Notification_IdentityDeleted_ActionDescription_Text": {
+      "message": "Identiteit is verwijderd:"
+   },
+   "AutoSave_Notification_IdentityUpdated_ActionDescription_Text": {
+      "message": "Identiteit is bijgewerkt:"
+   },
+   "AutoSave_Notification_LoginCreated_ActionDescription_Text": {
+      "message": "Login is opgeslagen:"
+   },
+   "AutoSave_Notification_LoginDeleted_ActionDescription_Text": {
+      "message": "Login is verwijderd:"
+   },
+   "AutoSave_Notification_LoginSaved_Text": {
+      "message": "Uw Login is opgeslagen!"
+   },
+   "AutoSave_Notification_LoginUpdated_ActionDescription_Text": {
+      "message": "Login is bijgewerkt:"
+   },
+   "AutoSave_Notification_LoginUpdated_Text": {
+      "message": "Uw Login is bijgewerkt!"
+   },
+   "AutoSave_Notification_LoginUrlUpdated_Text": {
+      "message": "URL in uw login is bijgewerkt!"
+   },
+   "AutoSave_Notification_PasswordOnlyLoginSaved_Note_Text": {
+      "message": "RoboForm kreeg alleen het wachtwoord en geen GebruikerID. Deze Login zal worden bijgewerkt nadat u opnieuw inlogt op deze website."
+   },
+   "AutoSave_Notification_PasswordOnlyLoginSaved_Text": {
+      "message": "Uw wachtwoord is opgeslagen!"
+   },
+   "AutoSave_Notification_PasswordUpdated_ActionDescription_Text": {
+      "message": "Wachtwoord van Login is bijgewerkt:"
+   },
+   "AutoSave_Notification_PasswordUpdated_Text": {
+      "message": "Wachtwoord van uw Login is bijgewerkt!"
+   },
+   "AutoSave_Notification_Undo_ButtonText": {
+      "message": "Ongedaan maken"
+   },
+   "AutoSave_ReportAnIssue_Command_Text": {
+      "message": "Meld een probleem"
+   },
+   "AutoSave_ReportAnIssue_Command_Tooltip": {
+      "message": "Meld een AutoSave-probleem op deze pagina"
+   },
+   "BEM_Description": {
+      "message": "RoboForm, de #1 wachtwoordmanager, maakt uw leven makkelijker door wachtwoorden te onthouden en u automatisch aan te melden bij websites."
+   },
+   "BEM_FullName": {
+      "message": "RoboForm wachtwoordmanager"
+   },
+   "BEM_FullNameBeta": {
+      "message": "RoboForm wachtwoordmanager (Beta)"
+   },
+   "Bookmark_ClickToOpen_Tip": {
+      "message": "Klik om te openen"
+   },
+   "Btn_No": {
+      "message": "Nee"
+   },
+   "Btn_Yes": {
+      "message": "Ja"
+   },
+   "ChangeMasterPasswordPage_Title": {
+      "message": "Hoofdwachtwoord wijzigen"
+   },
+   "ChangePwdDlg_Changing_Text": {
+      "message": "Wachtwoord Wijzigen"
+   },
+   "ChangePwdDlg_OperationNotSupported": {
+      "message": "De operatie wordt niet ondersteund. Update RoboForm naar ver. 8"
+   },
+   "Change_Account_Password_Login_First": {
+      "message": "U moet eerst inloggen voordat u het wachtwoord van uw account kunt wijzigen"
+   },
+   "CheckedRunMB_CheckButton": {
+      "message": "Niet meer tonen"
+   },
+   "Cmd_About_Key": {
+      "message": "Over..."
+   },
+   "Cmd_Accept_Key": {
+      "message": "Accepteer"
+   },
+   "Cmd_AddToPinned_Flat": {
+      "message": "Toevoegen aan Gepind"
+   },
+   "Cmd_Cancel_Flat": {
+      "message": "Annuleren"
+   },
+   "Cmd_ClearList_Key": {
+      "message": "(Lijst wissen)"
+   },
+   "Cmd_Close_Flat": {
+      "message": "Sluiten"
+   },
+   "Cmd_ConvertFolderToGroup_Key": {
+      "message": "Omzetten naar Groep"
+   },
+   "Cmd_Copy_Password_Flat": {
+      "message": "Kopieer Wachtwoord"
+   },
+   "Cmd_Copy_URL_Flat": {
+      "message": "Kopieer URL"
+   },
+   "Cmd_Copy_Username_Flat": {
+      "message": "Kopieer Gebruikersnaam"
+   },
+   "Cmd_DeleteFolder_Confirm": {
+      "message": "Weet u zerek dat u uw RoboForm data wilt verwijderen in %1?\n%2\n\nNa het verwijderen kan dit niet meer ongedaan worden gemaakt."
+   },
+   "Cmd_DeleteFolder_OtherFiles": {
+      "message": "Andere bestanden"
+   },
+   "Cmd_Delete_Confirm": {
+      "message": "Weet u zeker dat u %1 '%2' wilt verwijderen?"
+   },
+   "Cmd_Delete_Flat": {
+      "message": "Verwijderen"
+   },
+   "Cmd_Done_Flat": {
+      "message": "Gedaan"
+   },
+   "Cmd_Edit_Flat": {
+      "message": "Bewerken"
+   },
+   "Cmd_EmergencyAccess_Key": {
+      "message": "Noodtoegang"
+   },
+   "Cmd_FillEmptyOnly_Key": {
+      "message": "Vul alleen lege velden in"
+   },
+   "Cmd_FillForms_Flat": {
+      "message": "Formulier Invullen"
+   },
+   "Cmd_FillGenPassword_Flat": {
+      "message": "Genereren"
+   },
+   "Cmd_GoFill_Flat": {
+      "message": "Ga naar en vul In"
+   },
+   "Cmd_GotoNewTab_Flat": {
+      "message": "Ga in Nieuwe tab"
+   },
+   "Cmd_GotoSameTab_Flat": {
+      "message": "Ga in Zelfde tab"
+   },
+   "Cmd_Goto_Flat": {
+      "message": "Ga naar"
+   },
+   "Cmd_GroupSettingsFlat": {
+      "message": "Groepsinstellingen"
+   },
+   "Cmd_Help_ContactSupport_Key": {
+      "message": "Contact support"
+   },
+   "Cmd_Help_FaqAll_Key": {
+      "message": "Alle Veel gestelde vragen"
+   },
+   "Cmd_Help_Flat": {
+      "message": "Help"
+   },
+   "Cmd_Help_ForgotPassword_Key": {
+      "message": "Wachtwoord Vergeten?"
+   },
+   "Cmd_Help_HomePage_Key": {
+      "message": "Home Pagina"
+   },
+   "Cmd_Help_Manual_Key": {
+      "message": "Handleiding"
+   },
+   "Cmd_Help_ProblemStepsRecorder_Key": {
+      "message": "Probleem Stappen Recorder"
+   },
+   "Cmd_Later_Flat": {
+      "message": "Later"
+   },
+   "Cmd_LoginNewTab_Flat": {
+      "message": "Login in Nieuwe tab"
+   },
+   "Cmd_LoginSameTab_Flat": {
+      "message": "Login in Zelfde tab"
+   },
+   "Cmd_Login_Flat": {
+      "message": "Aanmelden"
+   },
+   "Cmd_Logins_Flat": {
+      "message": "Logins"
+   },
+   "Cmd_Logoff_Flat": {
+      "message": "Afmelden"
+   },
+   "Cmd_NewFolder_Error": {
+      "message": "Fout bij het maken van nieuwe map: %1"
+   },
+   "Cmd_NewFolder_Exist_Error": {
+      "message": "Map '%1' bestaat al"
+   },
+   "Cmd_NewFolder_Title": {
+      "message": "Nieuwe Map"
+   },
+   "Cmd_Ok_Flat": {
+      "message": "OK"
+   },
+   "Cmd_Options_Flat": {
+      "message": "Opties"
+   },
+   "Cmd_PasswordAuditRun_Key": {
+      "message": "Veiligheidscentrum"
+   },
+   "Cmd_Password_Generator_Flat": {
+      "message": "Wachtwoord Generator"
+   },
+   "Cmd_RejectAll_Flat": {
+      "message": "Wijs Alles Af"
+   },
+   "Cmd_Reject_Key": {
+      "message": "Weiger"
+   },
+   "Cmd_Rename_Error": {
+      "message": "Fout bij hernoemen van %1 '%2':\n%3"
+   },
+   "Cmd_Rename_Flat": {
+      "message": "Hernoemen"
+   },
+   "Cmd_Rename_Name_Prompt": {
+      "message": "Hernoem naar:"
+   },
+   "Cmd_RenewalRewards_Flat": {
+      "message": "Verlenging Beloningen"
+   },
+   "Cmd_Retry_Flat": {
+      "message": "Opnieuw"
+   },
+   "Cmd_RoboForm_Flat": {
+      "message": "RoboForm"
+   },
+   "Cmd_RunEditor_Flat": {
+      "message": "Editor"
+   },
+   "Cmd_Safenote_CopyClipboard_Flat": {
+      "message": "Kopieer Tekst"
+   },
+   "Cmd_SaveForms_Flat": {
+      "message": "Opslaan"
+   },
+   "Cmd_SaveForms_Key": {
+      "message": "Formulieren opslaan..."
+   },
+   "Cmd_SendFile_Key": {
+      "message": "Verstuur..."
+   },
+   "Cmd_Settings_Flat": {
+      "message": "Instellingen"
+   },
+   "Cmd_ShareExistingFolder_Key": {
+      "message": "Deel map"
+   },
+   "Cmd_SharedFileSettings_Key": {
+      "message": "Delen..."
+   },
+   "Cmd_SharedFolderSettings_Key": {
+      "message": "Delen..."
+   },
+   "Cmd_SharingCenter_Flat": {
+      "message": "Sharing Center"
+   },
+   "Cmd_Skip_Flat": {
+      "message": "Overslaan"
+   },
+   "Cmd_StartPage_Tip": {
+      "message": "Open RoboForm Startpagina"
+   },
+   "Cmd_Sync_RoboFormAccount_Key": {
+      "message": "Beheer RoboForm Account"
+   },
+   "Cmd_ToolBarSync": {
+      "message": "Synchroniseer"
+   },
+   "Cmd_Unpin_Flat": {
+      "message": "Losmaken"
+   },
+   "Cmd_Update_Flat": {
+      "message": "Upgrade"
+   },
+   "Cmd_View_Flat": {
+      "message": "Bekijk"
+   },
+   "CompanyInvitationConfirmationMultiple_Title": {
+      "message": "U bent uitgenodigd bij meerdere bedrijven. Merk op dat u zich in totaal maar bij een enkele bedrijf kunt aansluiten.\nGelieve de onderstaande uitnodigingen te aanvaarden of te weigeren:"
+   },
+   "CompanyInvitationConfirmation_Title": {
+      "message": "U bent uitgenodigd voor een bedrijf.\nGelieve de onderstaande uitnodiging te aanvaarden of te weigeren:"
+   },
+   "CompanyInvitationConfirmation_Title2": {
+      "message": "uitgenodigd om uw RoboForm Everywhere account aan te sluiten bij hun RoboForm voor Bedrijven bedrijfsaccount."
+   },
+   "CompanyInvitationToConfirm_WithSender_Info": {
+      "message": "'%1' bedrijf "
+   },
+   "CompromisedItemButton_Tooltip": {
+      "message": "Het wachtwoord van deze Login kan gecompromitteerd zijn! Klik om de details te zien"
+   },
+   "ConfirmMasterPassword_Incorrect_Text": {
+      "message": "Wachtwoord komt niet overeen"
+   },
+   "ContextMenuAndShortcuts_ClearFields_Acc": {
+      "message": "0"
+   },
+   "ContextMenuAndShortcuts_ClearFields_Text": {
+      "message": "Velden wissen"
+   },
+   "ContextMenuAndShortcuts_FillForms_Acc": {
+      "message": "]"
+   },
+   "ContextMenuAndShortcuts_FillForms_Text": {
+      "message": "Formulieren Invullen"
+   },
+   "ContextMenuAndShortcuts_FillSubmit_Acc3": {
+      "message": "Z"
+   },
+   "ContextMenuAndShortcuts_FillSubmit_Text": {
+      "message": "Invullen en Bevestigen"
+   },
+   "ContextMenuAndShortcuts_IdentitiesEditor_Acc": {
+      "message": ","
+   },
+   "ContextMenuAndShortcuts_IdentitiesEditor_Text": {
+      "message": "Identiteiten editor"
+   },
+   "ContextMenuAndShortcuts_Identities_Acc2": {
+      "message": "N"
+   },
+   "ContextMenuAndShortcuts_Identities_Text": {
+      "message": "Identiteiten"
+   },
+   "ContextMenuAndShortcuts_Logins_Acc2": {
+      "message": "X"
+   },
+   "ContextMenuAndShortcuts_Logins_Text": {
+      "message": "Logins"
+   },
+   "ContextMenuAndShortcuts_Logoff_Acc": {
+      "message": "L"
+   },
+   "ContextMenuAndShortcuts_Logoff_Text": {
+      "message": "Uitloggen"
+   },
+   "ContextMenuAndShortcuts_MatchingPasscard_Acc": {
+      "message": "M"
+   },
+   "ContextMenuAndShortcuts_MatchingPasscard_Text": {
+      "message": "Overeenkomende Passcards"
+   },
+   "ContextMenuAndShortcuts_MyIdentity_Acc": {
+      "message": "19"
+   },
+   "ContextMenuAndShortcuts_MyIdentity_Text": {
+      "message": "Mijn Identiteit"
+   },
+   "ContextMenuAndShortcuts_Options_Acc": {
+      "message": "O"
+   },
+   "ContextMenuAndShortcuts_Options_Text": {
+      "message": "RoboForm Opties"
+   },
+   "ContextMenuAndShortcuts_PasscardsEditor_Acc": {
+      "message": "."
+   },
+   "ContextMenuAndShortcuts_PasscardsEditor_Text": {
+      "message": "Passcards editor"
+   },
+   "ContextMenuAndShortcuts_ResetFields_Acc": {
+      "message": "-"
+   },
+   "ContextMenuAndShortcuts_ResetFields_Text": {
+      "message": "Velden resetten"
+   },
+   "ContextMenuAndShortcuts_RoboFormMenu_Acc2": {
+      "message": "U"
+   },
+   "ContextMenuAndShortcuts_RoboFormMenu_Text": {
+      "message": "RoboForm Menu"
+   },
+   "ContextMenuAndShortcuts_RoboFormToolbar_Acc3": {
+      "message": "R"
+   },
+   "ContextMenuAndShortcuts_RoboFormToolbar_Text": {
+      "message": "RoboForm Werkbalk"
+   },
+   "ContextMenuAndShortcuts_RunPassGen_Acc": {
+      "message": "P"
+   },
+   "ContextMenuAndShortcuts_RunPassGen_Text": {
+      "message": "Wachtwoord Generator"
+   },
+   "ContextMenuAndShortcuts_RunTaskbar_Acc": {
+      "message": "I"
+   },
+   "ContextMenuAndShortcuts_RunTaskbar_Text": {
+      "message": "RoboForm Taakbalk Pictogram"
+   },
+   "ContextMenuAndShortcuts_SafenotesEditor_Acc": {
+      "message": "/"
+   },
+   "ContextMenuAndShortcuts_SafenotesEditor_Text": {
+      "message": "SafeNotes editor"
+   },
+   "ContextMenuAndShortcuts_Safenotes_Acc": {
+      "message": "C"
+   },
+   "ContextMenuAndShortcuts_Safenotes_Text": {
+      "message": "Safenotes"
+   },
+   "ContextMenuAndShortcuts_SaveForms_Acc": {
+      "message": "["
+   },
+   "ContextMenuAndShortcuts_SaveForms_Text": {
+      "message": "Formulieren opslaan"
+   },
+   "ContextMenuAndShortcuts_SearchBox_Acc": {
+      "message": "S"
+   },
+   "ContextMenuAndShortcuts_SearchBox_Text": {
+      "message": "Zoekvak"
+   },
+   "ContextMenuAndShortcuts_SetFields_Acc": {
+      "message": "="
+   },
+   "ContextMenuAndShortcuts_SetFields_Text": {
+      "message": "Velden instellen"
+   },
+   "Copyright": {
+      "message": ""
+   },
+   "CreateAccountConfirmPage_ForgetInfo_Text": {
+      "message": "Uw RoboForm hoofdwachtwoord is de sleutel die uw gegevens ontgrendelt. Als u het hoofdwachtwoord vergeet, kunnen uw gegevens niet worden ontsleuteld (zelfs niet door ons) en moet u weer opnieuw beginnen."
+   },
+   "CreateAccountConfirmPage_ForgetTitle_Text": {
+      "message": "Vergeet uw hoofdwachtwoord niet"
+   },
+   "CreateBlockingPass__WebExt_Confirm": {
+      "message": "Wilt u dat RoboForm AutoSave voorkomt \nom op alle pagina's van deze website te verschijnen?\nOm deze website later te deblokkeren klikt u op 'Opslaan',\ndaarna klikt u op Deblokkeer."
+   },
+   "DeleteBlockingPass__WebExt_Confirm": {
+      "message": "Wilt u dat RoboForm AutoSave toestaat\nom weer te verschijnen op alle pagina's van deze website?"
+   },
+   "DeleteItemPage_Confirmation_Text": {
+      "message": "Wilt u '%1' verwijderen?"
+   },
+   "DeleteSharedFolder_Permissions_Error": {
+      "message": "Onvoldoende rechten om '%1' te verwijderen."
+   },
+   "DomainNotInLogin_Text": {
+      "message": "Het site-domein komt niet overeen met de URL van de Login."
+   },
+   "DomainNotInLogin_Text2": {
+      "message": "Wilt u nog steeds dat RoboForm het formulier invult?"
+   },
+   "DomainNotInLogin_Title": {
+      "message": "RoboForm Waarschuwing"
+   },
+   "DuplicateFields_Text1_2": {
+      "message": "RoboForm heeft velden gevonden die meer dan eens in het formulier voorkomen. Bevestig dat u toestaat dat deze velden worden ingevuld.:"
+   },
+   "DuplicateFields_Text2_2": {
+      "message": "\n\nAls u slechts een deel van het formulier van een Identiteit wilt invullen, markeer (selecteer) dan een deel van het formulier, klik op Formulieren Invullen en alleen het gemarkeerde deel zal worden ingevuld."
+   },
+   "DuplicateFields_Title": {
+      "message": "Identieke velden ingevulde Velden - RoboForm"
+   },
+   "DuplicatesDialog_ApplyChanges_Button": {
+      "message": "Toepassen"
+   },
+   "DuplicatesDialog_CancelDelete_Button": {
+      "message": "Nie Verwijderen"
+   },
+   "DuplicatesDialog_CancelRename_Button": {
+      "message": "Nie Hernoemen"
+   },
+   "DuplicatesDialog_Cancel_Button": {
+      "message": "Nie Toepassen"
+   },
+   "DuplicatesDialog_DeleteMessageText": {
+      "message": "U heeft \"%1\" verwijderd. Wilt u de onderstaande identieke bestanden verwijderen?"
+   },
+   "DuplicatesDialog_Delete_Button": {
+      "message": "Verwijderd"
+   },
+   "DuplicatesDialog_Delete_Text": {
+      "message": "Verwijderen"
+   },
+   "DuplicatesDialog_MessageText": {
+      "message": "U heeft \"%1\"geupdatet. Wilt u deze wijzigingen toepassen op de hieronder vermelde identieke bestanden? U kunt ook de onnodige bestanden verwijderen."
+   },
+   "DuplicatesDialog_RenameMessageText": {
+      "message": "U heeft \"%1\" hernoemd als \"%2\". Wilt u de onderstaande identieke bestanden hernoemen tot deze naam? U kunt ook de onnodige bestanden verwijderen."
+   },
+   "DuplicatesDialog_Rename_Button": {
+      "message": "Hernoem"
+   },
+   "DuplicatesDialog_Undo_Text": {
+      "message": "Houden"
+   },
+   "DuplicatesDialog_WindowTitle": {
+      "message": "Identieke RoboForm Bestanden Gedetecteerd"
+   },
+   "Editor_Cmd_Selector_All_Flat": {
+      "message": "Alle"
+   },
+   "Editor_Indicator_Show_AllIdentities": {
+      "message": "Toon alle Identiteiten (%1)"
+   },
+   "Editor_Indicator_Show_NMatch": {
+      "message": "Toon alle overeenkomende Logins (%1)"
+   },
+   "Editor_SharedFolderOrGroupExists_Error": {
+      "message": "Gedeelde map of groep met de naam '%1' bestaat al"
+   },
+   "Editor_SharedFolderTooLongName_Error": {
+      "message": "Naam is te lang, maximaal toegestane naamlengte voor gedeelde mappen en groepen is %1 symbolen"
+   },
+   "EmailEmpty_Error": {
+      "message": "E-mail moet ten minste %1 tekens bevatten"
+   },
+   "EmailIncorrect_Error": {
+      "message": "E-mail is niet correct"
+   },
+   "EmailMaxLength_Error": {
+      "message": "E-mail mag niet meer dan %1 tekens bevatten"
+   },
+   "EmergencyAccessContactConfirmationDescription_Text": {
+      "message": "Een mede RoboForm gebruiker heeft u uitgenodigd om hun Noodcontactpersoon te zijn. Gelieve de uitnodiging hieronder te aanvaarden of te weigeren:"
+   },
+   "EmergencyAccessDataAccessConfirmationDescription_Text": {
+      "message": "Uw Noodcontactpersonen hebben gevraagd om Noodtoegang tot uw RoboForm accountgegevens.\nAls u geen actie onderneemt op deze aanvragen binnen de gestelde termijnen, wordt er automatisch toegang verleend."
+   },
+   "EmergencyAccess_Accept_Invitation_Question": {
+      "message": "Weet u zeker dat u wilt accepteren dat u Noodcontactpersoon wordt voor \"%1\"?"
+   },
+   "EmergencyAccess_AccessRequestedDaysHours_Status": {
+      "message": "Aangevraagd. De gegevens zullen beschikbaar zijn in %1 dag(en) %2 uur"
+   },
+   "EmergencyAccess_AccessRequestedDays_Status": {
+      "message": "Aangevraagd. De gegevens zullen beschikbaar zijn in %1 dag(en)"
+   },
+   "EmergencyAccess_AccessRequestedHours_Status": {
+      "message": "Aangevraagd. De gegevens zullen beschikbaar zijn in %1 uur"
+   },
+   "EmergencyAccess_CreationDate_Title": {
+      "message": "Aanmaakdatum"
+   },
+   "EmergencyAccess_DenyAccess_Button_Text": {
+      "message": "Weiger"
+   },
+   "EmergencyAccess_DenyAccess_Text": {
+      "message": "Toegang Weigeren"
+   },
+   "EmergencyAccess_EditContact_Title": {
+      "message": "Contact wijzigen \"%1\""
+   },
+   "EmergencyAccess_Email_Is_Empty": {
+      "message": "E-mail is leeg"
+   },
+   "EmergencyAccess_GetData_Help_Text": {
+      "message": "Dit zijn items waar %1 u Noodtoegang tot heeft gegeven. U kunt ze bekijken of toevoegen aan uw RoboForm-account. Indien toegevoegd, zullen de items zich bevinden in de map voor Noodtoegang."
+   },
+   "EmergencyAccess_GetData_Request_Question": {
+      "message": "Weet u zeker dat u gegevens wilt krijgen van \"%1\"? De Items zullen worden geplaatst in de map voor Noodgevallen."
+   },
+   "EmergencyAccess_GrantAccess_Text": {
+      "message": "Toekennen"
+   },
+   "EmergencyAccess_GrantAccess_Title": {
+      "message": "Toegang Verlenen"
+   },
+   "EmergencyAccess_InviteAgain_Question": {
+      "message": "Weet u zeker dat u gebruiker \"%1\" weer wilt uitnodigen?"
+   },
+   "EmergencyAccess_InviteContact_Text": {
+      "message": "Uitnodigen"
+   },
+   "EmergencyAccess_Loading_Title": {
+      "message": "Laden..."
+   },
+   "EmergencyAccess_NoAccess_Status": {
+      "message": "Geen Toegang"
+   },
+   "EmergencyAccess_RejectAccess_Text": {
+      "message": "Weiger"
+   },
+   "EmergencyAccess_Reject_Invitation_Question": {
+      "message": "Weet u zeker dat u de toegang weigert tot \"%1\"?"
+   },
+   "EmergencyAccess_Reject_Invitation_Text": {
+      "message": "Weiger Toegang"
+   },
+   "EmergencyAccess_Reject_Title": {
+      "message": "Weiger Noodcontactpersoon"
+   },
+   "EmergencyAccess_RevokeAccess_Button_Text": {
+      "message": "Toegang Terugtrekken"
+   },
+   "EmergencyAccess_Revoke_Question": {
+      "message": "U trekt \"%1\" terug uit uw Noodcontactpersonen."
+   },
+   "EmergencyAccess_Revoke_Tip": {
+      "message": "Noodcontactpersoon terugtrekken"
+   },
+   "EmergencyAccess_Title": {
+      "message": "Noodtoegang"
+   },
+   "EmergencyAccess_invitationUserNotFound_Question": {
+      "message": "We sturen een e-mail naar \"%1\" met de uitnodiging om uw Noodcontactpersoon te zijn"
+   },
+   "FillDlg_FindFill_Title": {
+      "message": "Formulieren invullen - RoboForm"
+   },
+   "Filler_FillEmptyOnlyOnMessage": {
+      "message": "Er zijn geen lege (niet ingevulde) velden op deze internet pagina en de optie 'Vul alleen lege velden in' is aangezet"
+   },
+   "Filler_FillTheSameValues": {
+      "message": "Er kunnen geen formulier velden op deze internet pagina (of het geselecteerdde deel) ingevuld worden vanuit deze Identiteit of Passcard omdat de corresponderende velden al ingevuld zijn."
+   },
+   "Filler_NoFormsFound": {
+      "message": "Kan geen formulieren vinden om in te vullen op deze internet pagina"
+   },
+   "Filler_NoMatchingFields": {
+      "message": "Er kunnen geen formulier velden op deze internet pagina (of het geselecteerdde deel) ingevuld worden vanuit deze Identiteit of Passcard omdat er geen overenkomende velden gevonden zijn."
+   },
+   "FolderTree_NewItem": {
+      "message": "Nieuwe Map"
+   },
+   "GenericConfirmDialog_Cancel": {
+      "message": "Annuleer"
+   },
+   "GenericConfirmDialog_Ok": {
+      "message": "OK"
+   },
+   "GenericConfirmDialog_Title": {
+      "message": "Bevestiging"
+   },
+   "HomeFolder": {
+      "message": "Start"
+   },
+   "Identities_Cmd_Instance_AlreadyExists_Error": {
+      "message": "Exemplaar bestaat al in de groep"
+   },
+   "Identities_Cmd_Instance_NotExists_Error": {
+      "message": "Er is geen opgegeven exemplaar in de groep."
+   },
+   "Identities_ConfirmDeleteInstance": {
+      "message": "Wilt u '%1' of '%2' verwijderen?"
+   },
+   "Identities_CustomFieldOverrideHeader": {
+      "message": "Eigen velden verhinderen het correct invullen van sommige standaardvelden van RoboForm.\nVerwijder deze eigen velden uit deze Identiteit, zodat de standaardvelden correct worden ingevuld."
+   },
+   "Identities_CustomFieldOverride_1": {
+      "message": "'%1' overschrijft %2"
+   },
+   "Identities_InstanceNameInvalidCharacter": {
+      "message": "Exemplaarnaam kan alleen letters, cijfers, karakters '_' en '-' bevatten"
+   },
+   "Identities_Instance_Main": {
+      "message": "Hoofd"
+   },
+   "Identity_ClickToView_Tip": {
+      "message": "Klik om Identiteit te bekijken"
+   },
+   "Import_AdditionalInformation_Note": {
+      "message": "Aanvullende informatie:\n"
+   },
+   "Import_Chrome_Browser_Text": {
+      "message": "Google Chrome"
+   },
+   "Import_CustomFields_Note": {
+      "message": "Aangepaste velden:"
+   },
+   "Import_Edge_Browser_Text": {
+      "message": "Microsoft Edge"
+   },
+   "Import_Firefox_Browser_Text": {
+      "message": "Mozilla Firefox"
+   },
+   "Import_From1Password_Note": {
+      "message": "Geïmporteerd van 1Password."
+   },
+   "Import_FromBitwarden_Note": {
+      "message": "Geïmporteerd van Bitwarden."
+   },
+   "Import_FromCSVFile_Note": {
+      "message": "Geïmporteerd van een CSV-bestand."
+   },
+   "Import_FromDashlane_Note": {
+      "message": "Geïmporteerd van Dashlane."
+   },
+   "Import_FromKeeper_Note": {
+      "message": "Geïmporteerd van Keeper."
+   },
+   "Import_FromLastPass_Note": {
+      "message": "Geïmporteerd van LastPass."
+   },
+   "Import_ImportFromFileButton_Text": {
+      "message": "Import van Bestand"
+   },
+   "Import_Opera_Browser_Text": {
+      "message": "Opera"
+   },
+   "Import_ReportAddedGeneric_Text": {
+      "message": "%1 %2 toegevoegd\n"
+   },
+   "Import_ReportError_Text": {
+      "message": "Er is een fout opgetreden"
+   },
+   "Import_ReportExistingGeneric_Text": {
+      "message": "%1 %2 waren al in RoboForm RoboForm\n"
+   },
+   "Import_SelectedFolderIsReadOnly_Error": {
+      "message": "Kan niet importeren in alleen-lezen map."
+   },
+   "Import_Succeeded_Title": {
+      "message": "De import is succesvol afgerond"
+   },
+   "Install_AccountCreated_Text": {
+      "message": "Uw RoboForm account is succesvol aangemaakt"
+   },
+   "Install_ConfirmRoboFormMasterPassword2": {
+      "message": "Bevestig Wachtwoord:"
+   },
+   "Install_Email": {
+      "message": "E-mail:"
+   },
+   "Install_HidePassword_Tip": {
+      "message": "Verberg wachtwoord"
+   },
+   "Install_MemorizePassword_Prompt2": {
+      "message": "Vergeet uw Hoofdwachtwoord niet. Het bevat de code die uw gegevens ontgrendelt. Als u uw gegevens vergeten bent, kunt u er niet bij (zelfs niet door ons) en moet u opnieuw beginnen."
+   },
+   "Install_Next": {
+      "message": "Volgende"
+   },
+   "Install_No": {
+      "message": "Nee"
+   },
+   "Install_PasswordTooShort": {
+      "message": "Wachtwoord moet tenminste 6 karakters lang zijn."
+   },
+   "Install_RoboFormMasterPassword": {
+      "message": "Hoofdwachtwoord:"
+   },
+   "Install_ShowPassword_Tip": {
+      "message": "Wachtwoord als tekst tonen"
+   },
+   "Install_WarningSheet_Title": {
+      "message": "RoboForm Setup Waarschuwing"
+   },
+   "Install_Yes": {
+      "message": "Ja"
+   },
+   "InterfaceLanguage_Warning": {
+      "message": "Wilt u de taal van de gebruikersinterface wijzigen van '%1' naar '%2'?\nAls u de taal die u gaat wijzigen niet kent, kan het moeilijk worden om terug te keren.\nTevens moet u de browser misschien opnieuw starten om de taalverandering effectief te maken."
+   },
+   "Item_ClickToFill_Tip": {
+      "message": "Klik om in te vullen"
+   },
+   "Item_ClickToLogin_Tip": {
+      "message": "Klik om in te loggen"
+   },
+   "ItemsListPage_More_Button_Text": {
+      "message": "Meer..."
+   },
+   "ItemsListPage_RecentlyUsed_Title": {
+      "message": "Recent gebruikt"
+   },
+   "ItemsListPage_SearchIdentities_Placeholder": {
+      "message": "Identiteiten zoeken"
+   },
+   "ItemsListPage_SearchMatchingLogins_Placeholder": {
+      "message": "Overeenkomende logins zoeken"
+   },
+   "LicenseExceededWarning_EnterpriseExceeded_Title": {
+      "message": "RoboForm voor Zakelijk abonnement is verlopen"
+   },
+   "Loading_Status_Text": {
+      "message": "Laden..."
+   },
+   "MainPage_AddNewLogin_Text": {
+      "message": "Nieuwe Login toevoegen"
+   },
+   "MainPage_AllItems_Header_Text": {
+      "message": "A-Z"
+   },
+   "MainPage_CreateFirstBookmarkInstructions_Text": {
+      "message": "Klik op onderstaande %1 knop om uw eerste Bookmark aan te maken."
+   },
+   "MainPage_CreateFirstSafenoteInstructions_Text": {
+      "message": "Klik op onderstaande %1 knop om Safenote aan te maken en vertrouwelijke tekst toe te voegen, zoals pinnummers, veilige toegangscodes en andere vertrouwelijke toegangsinstructies."
+   },
+   "MainPage_CreateLoginInstruction_LearnMore_Link": {
+      "message": "Leer hier meer over het aanmaken van een Login"
+   },
+   "MainPage_CreateLoginInstruction_Option1_Text": {
+      "message": "Als u inlogt op uw online accounts, zal RoboForm aanbieden om uw wachtwoorden op te slaan."
+   },
+   "MainPage_CreateLoginInstruction_Option2_Text": {
+      "message": "Klik op %1 knop, selecteer de website, en voer uw inloggegevens in."
+   },
+   "MainPage_CreateLoginInstruction_Top_Text": {
+      "message": "Er zijn twee manieren om Logins aan te maken:"
+   },
+   "MainPage_CreateNew_Text": {
+      "message": "Nieuwe aanmaken"
+   },
+   "MainPage_CreatePinItemInstruction_Text": {
+      "message": "Maak uw eigen lijst van gepinde items door \"Toevoegen aan Gepinde\" te selecteren op elk RoboForm item. Gepinde items blijven op hun plaats."
+   },
+   "MainPage_Create_Identity_Text": {
+      "message": "Identiteit aanmaken"
+   },
+   "MainPage_Create_Identity_Tip": {
+      "message": "Uw eerste Identiteit aanmaken"
+   },
+   "MainPage_EnableAutoSaveOnDomain_Text": {
+      "message": "Automatisch opslaan op dit domein inschakelen"
+   },
+   "MainPage_EnableInpageIconsOnDomain_Text": {
+      "message": "Schakel in-pagina pictogrammen in op dit domein"
+   },
+   "MainPage_EnjoyUsing": {
+      "message": "Veel plezier met het gebruik van %1 ?"
+   },
+   "MainPage_FillIdentitiesTabAll_Search_Placeholder": {
+      "message": "Zoek Alle Identiteiten"
+   },
+   "MainPage_FillIdentitiesTabMatch_Search_Placeholder": {
+      "message": "Zoek overeenkomende Identiteiten"
+   },
+   "MainPage_FillIdentitiesTab_AllIdentities_Button_Text": {
+      "message": "Alles"
+   },
+   "MainPage_FillIdentitiesTab_CreateFirst_Text": {
+      "message": "Klik op onderstaande %1 knop om uw persoonlijke gegevens zoals naam, adres, en betalingsinformatie toe te voegen aan Identiteit. RoboForm zal aanbieden om deze gegevens voor u in te vullen met één klik bij het afrekenen of bij registratieformulieren voor accounts."
+   },
+   "MainPage_FillIdentitiesTab_EmptyMatch_Text": {
+      "message": "Er zijn geen gegevens in uw Identiteiten om de velden in de huidige pagina in te vullen. Werk uw bestaande Identiteit bij met de juiste gegevens of maak een nieuwe aan."
+   },
+   "MainPage_FillIdentitiesTab_IdentityView_CopyDrag_Tip": {
+      "message": "Klik om te kopiëren of sleep en plaats"
+   },
+   "MainPage_FillIdentitiesTab_IdentityView_Copy_Tip": {
+      "message": "Klik om te kopiëren"
+   },
+   "MainPage_FillIdentitiesTab_IdentityView_FillBtn_Tip": {
+      "message": "Invullen van '%1' Identiteit"
+   },
+   "MainPage_FillIdentitiesTab_IdentityView_Limited_Top_Text": {
+      "message": "Invullen van deze Identiteit"
+   },
+   "MainPage_FillIdentitiesTab_IdentityView_Top_Text": {
+      "message": "Invullen vanuit deze Identiteit, sleep en plaats of kopieer/plak"
+   },
+   "MainPage_FillIdentitiesTab_MatchingIdentities_Button_Text": {
+      "message": "Overeenkomend"
+   },
+   "MainPage_FillIdentities_Button_Text": {
+      "message": "ID invullen"
+   },
+   "MainPage_FillLoginsTabAll_Search_Placeholder": {
+      "message": "Zoek Alle Logins"
+   },
+   "MainPage_FillLoginsTabDomain_Search_Placeholder": {
+      "message": "Zoek Domein Logins"
+   },
+   "MainPage_FillLoginsTab_AllLogins_Button_Text": {
+      "message": "Alles"
+   },
+   "MainPage_FillLoginsTab_MatchingLogins_Button_Text": {
+      "message": "Overeenkomende Logins"
+   },
+   "MainPage_FillLoginsTab_NoLoginsForDomain_Text": {
+      "message": "Er zijn geen Logins opgeslagen voor de huidige pagina"
+   },
+   "MainPage_FillLoginsTab_NoLoginsForPage_Text": {
+      "message": "Deze pagina heeft geen overeenkomende velden die we kunnen invullen. Navigeer naar de inlogpagina van de website of schakel over naar de overeenkomende \"Hetzelfde domein\" Login-categorie."
+   },
+   "MainPage_FillLoginsTab_SameDomain_Button_Text": {
+      "message": "Hetzelfde domein"
+   },
+   "MainPage_FillLoginsTab_Search_GeneralResults": {
+      "message": "Algemene zoekresultaten:"
+   },
+   "MainPage_FillLoginsTab_Search_NoMatchingLogins": {
+      "message": "Geen zoekresultaten voor overeenkomende Logins."
+   },
+   "MainPage_FillLoginsTab_Search_NoSameDomainLogins": {
+      "message": "Geen zoekresultaten in Logins voor hetzelfde domein."
+   },
+   "MainPage_FillLoginsTab_Search_Placeholder": {
+      "message": "Zoek overeenkomende Logins"
+   },
+   "MainPage_FillLogins_Button_Text": {
+      "message": "Logins invullen"
+   },
+   "MainPage_FillLogins_Button_Tip": {
+      "message": "Lijst van Overeenkomende Logins"
+   },
+   "MainPage_Items_Button_All_Tip": {
+      "message": "Uw RoboForm Items"
+   },
+   "MainPage_Items_Button_Bookmarks_Tip": {
+      "message": "Uw RoboForm Bookmarks"
+   },
+   "MainPage_Items_Button_Identities_Tip": {
+      "message": "Uw RoboForm Identiteiten"
+   },
+   "MainPage_Items_Button_Logins_Tip": {
+      "message": "Uw RoboForm Logins"
+   },
+   "MainPage_Items_Button_Pinned_Tip": {
+      "message": "Uw Gepinde Items"
+   },
+   "MainPage_Items_Button_Safenotes_Tip": {
+      "message": "Uw RoboForm Safenotes"
+   },
+   "MainPage_LoginsTab_Search_Placeholder": {
+      "message": "Zoek RoboForm"
+   },
+   "MainPage_MatchingLogins_Header_Text": {
+      "message": "Overeenkomende Logins"
+   },
+   "MainPage_OtherLogins_Header_Text": {
+      "message": "Andere Logins"
+   },
+   "MainPage_Pinned_Header_Text": {
+      "message": "Gepind"
+   },
+   "MainPage_PleaseRateUs": {
+      "message": "Beoordeel ons alstublieft"
+   },
+   "MainPage_Popular_Header_Text": {
+      "message": "Populair"
+   },
+   "MainPage_RateUs_Btn_Text": {
+      "message": "Beoordeel %1"
+   },
+   "MainPage_Recent_Header_Text": {
+      "message": "Recent"
+   },
+   "MainPage_RemindMeLater_Btn_Text": {
+      "message": "Herinner mij later"
+   },
+   "MainPage_SaveButton_SaveBookmark_Tip": {
+      "message": "Huidige pagina opslaan als bookmark"
+   },
+   "MainPage_SaveButton_SaveForms_Tip": {
+      "message": "Formulieren opslaan voor de huidige pagina"
+   },
+   "MainPage_Settings_Button_Tip": {
+      "message": "RoboForm Hulpmiddelen en Instellingen"
+   },
+   "MainPage_ShowAll_Bookmarks_Text": {
+      "message": "Alle Bookmarks"
+   },
+   "MainPage_ShowAll_Header_Text": {
+      "message": "Alles"
+   },
+   "MainPage_ShowAll_Identities_Text": {
+      "message": "Alle Identiteiten"
+   },
+   "MainPage_ShowAll_Logins_Text": {
+      "message": "Alle Logins"
+   },
+   "MainPage_ShowAll_NativeMenu_Tip": {
+      "message": "Klik om %1 bureaubladmenu te zien"
+   },
+   "MainPage_ShowAll_Safenotes_Text": {
+      "message": "Alle Safenotes"
+   },
+   "MainPage_Start_Button_Text": {
+      "message": "Start"
+   },
+   "MainPage_ViewAllIdentities_Tip": {
+      "message": "Alle identiteiten bekijken"
+   },
+   "MainPage_WouldYouLikeReportAnIssue": {
+      "message": "Wilt u een probleem melden ?"
+   },
+   "MasterPass_DoNotMatch_Status": {
+      "message": "De wachtwoorden komen niet overeen"
+   },
+   "MasterPass_Expired": {
+      "message": "Het is tijd om uw RoboForm-Hoofdwachtwoord te wijzigen"
+   },
+   "MasterPass_New_BlanksOnly_Error": {
+      "message": "Een Hoofdwachtwoord mag niet alleen uit spaties bestaan"
+   },
+   "MasterPass_New_DigitChars_Error": {
+      "message": "Het minimale aantal cijfers in het wachtwoord moet zijn %1"
+   },
+   "MasterPass_New_Length_Error": {
+      "message": "Lengte van het Hoofdwachtwoord moet tussen %1 en %2 tekens zijn"
+   },
+   "MasterPass_New_LowerCaseChars_Error": {
+      "message": "Het minimale aantal kleine letters in het wachtwoord moet zijn %1"
+   },
+   "MasterPass_New_NonNumChars_Error": {
+      "message": "Er moeten minstens %1 nietnumerieke karakters in het wachtwoord worden gebruikt"
+   },
+   "MasterPass_New_TheSameAsPrevious_Error": {
+      "message": "Een nieuw Hoofdwachtwoord moet verschillen van het huidige wachtwoord."
+   },
+   "MasterPass_New_UpperCaseChars_Error": {
+      "message": "Het minimale aantal hoofdletters in het wachtwoord moet zijn %1"
+   },
+   "MasterPass_Prompt_TypeNew": {
+      "message": "Nieuw Hoofdwachtwoord:"
+   },
+   "MasterPass_Prompt_TypeOld": {
+      "message": "Oud Hoofdwachtwoord:"
+   },
+   "MasterPassword_Error2": {
+      "message": "U hebt een onjuist Hoofdwachtwoord ingevoerd"
+   },
+   "MasterPwdEnterDlg_CacheUntilLogoff": {
+      "message": "Gebruik dit wachtwoord tot het uitloggen"
+   },
+   "MasterPwdEnterDlg_CreatePwd_Text": {
+      "message": "Om uw gegevens te beveiligen met een wachtwoord moet u een hoofdwachtwoord instellen."
+   },
+   "MasterPwdEnterDlg_Limit_Text": {
+      "message": "Wachtwoord moet tussen 8 en 79 symbolen zijn"
+   },
+   "MasterPwdEnterDlg_Text3": {
+      "message": "Dit object is beveiligd met een wachtwoord.\nVoer uw Hoofdwachtwoord in \nom het te gebruiken."
+   },
+   "NameInvalidCharacter_Error2": {
+      "message": "Naam kan niet leeg zijn en kan niet de karakters \\ / : * ? \" \u003C > | bevatten."
+   },
+   "NewGroup_NoPermissions_Error": {
+      "message": "U heeft geen rechten om een groep aan te maken. Alleen de bedrijfsadministrator kan groepen aanmaken."
+   },
+   "NewSharedFolder_Title": {
+      "message": "Naam:"
+   },
+   "No": {
+      "message": "Nee"
+   },
+   "Notification_Copied_ToClipboard_Text": {
+      "message": "Gekopieerd naar klembord"
+   },
+   "Notification_File_Deleted_Text": {
+      "message": "Bestand Verwijderd: %1"
+   },
+   "Notification_Folder_Deleted_Text": {
+      "message": "Map Verwijderd: %1"
+   },
+   "Notification_ItemType_Pinned_Text": {
+      "message": "%1 toegevoegd naar Gepind"
+   },
+   "Notification_ItemType_UnPinned_Text": {
+      "message": "%1 verwijderd van Gepind"
+   },
+   "Notification_Item_Created_Text": {
+      "message": "%1 is aangemaakt"
+   },
+   "Notification_Item_Renamed_Text": {
+      "message": "%1 hernoemd naar %2"
+   },
+   "Notification_Password_Copied_Text": {
+      "message": "Wachtwoord is gekopieerd naar klembord"
+   },
+   "Notification_Password_Filled_Text": {
+      "message": "Nieuw wachtwoord is ingevuld"
+   },
+   "Notification_URL_Copied_Text": {
+      "message": "URL is gekopieerd naar klembord"
+   },
+   "Notification_Username_Copied_Text": {
+      "message": "Gebruikersnaam is gekopieerd naar klembord"
+   },
+   "OTPPage_EnrollCheck_Text": {
+      "message": "Onthoud dit apparaat"
+   },
+   "OTPPage_Input_Placeholder": {
+      "message": "Voer hier uw Eenmalige Wachtwoord in"
+   },
+   "OpenStartpageOnEmptyTabs_Text2": {
+      "message": "Extensie-knop klikken opent startpagina op lege tabbladen"
+   },
+   "OpenStartpageOnEmptyTabs_Tip": {
+      "message": "RoboForm startpagina zal worden geopend als een gebruiker klikt op de knop van de RoboForm-browserextensie terwijl de browser een leeg tabblad heeft"
+   },
+   "Options_Account_Title": {
+      "message": "Account"
+   },
+   "Options_Adapter_Chrome_Text": {
+      "message": "Google Chrome extensie"
+   },
+   "Options_Adapter_ChromiumBased_Text": {
+      "message": "Chromium-based browsers"
+   },
+   "Options_Adapter_Edge_Text": {
+      "message": "Microsoft Edge extensie"
+   },
+   "Options_Adapter_FirefoxBased_Text": {
+      "message": "Firefox-based browsers"
+   },
+   "Options_Adapter_Firefox_Text2": {
+      "message": "Mozilla Firefox Extensie"
+   },
+   "Options_Adapter_Install_Text": {
+      "message": "Installeer"
+   },
+   "Options_Adapter_Opera_Text": {
+      "message": "Opera extensie"
+   },
+   "Options_Advanced_Title": {
+      "message": "Geavanceerd"
+   },
+   "Options_AuthMethod_EnterMasterPassword_Prompt": {
+      "message": "Voer het Hoofdwachtwoord in om te bevestigen dat de Authenticatiemethode is gewijzigd in %1"
+   },
+   "Options_AuthMethod_Fingerprint": {
+      "message": "Vingerafdruk (WBF)"
+   },
+   "Options_AuthMethod_Fingerprint_Tip": {
+      "message": "Gebruik de vingerafdruk op het WBF-lezer om in te loggen in plaats van uw Hoofdwachtwoord. Merk op dat het Hoofdwachtwoord nog steeds nodig kan zijn om in te loggen, dus u moet het weten."
+   },
+   "Options_AuthMethod_MasterPasswordOnly": {
+      "message": "Vraag altijd naar het Hoofdwachtwoord"
+   },
+   "Options_AuthMethod_MasterPasswordOnly_Tip": {
+      "message": "U kunt alleen Inloggen door uw Hoofdwachtwoord in te voeren."
+   },
+   "Options_AuthMethod_Title": {
+      "message": "Authenticatiemethode"
+   },
+   "Options_AuthMethod_WindowsHello": {
+      "message": "Windows Hello"
+   },
+   "Options_AuthMethod_WindowsHello_Tip": {
+      "message": "Gebruik Windows Hello om In te Loggen in plaats van uw Hoofdwachtwoord. Merk op dat het Hoofdwachtwoord nog steeds nodig kan zijn om In te Loggen, u moet dit dus weten."
+   },
+   "Options_AutoFillBoth_Text2": {
+      "message": "Toon Logins en Identiteiten"
+   },
+   "Options_AutoFillBoth_Tip2": {
+      "message": "Bied AutoFill-formulieren aan, zowel van Logins als van Identiteiten"
+   },
+   "Options_AutoFillIdentities_Text": {
+      "message": "Toon alleen Identiteiten"
+   },
+   "Options_AutoFillIdentities_Tip": {
+      "message": "Bied AutoFill-formulieren aan, alleen van Identiteiten en niet van Logins"
+   },
+   "Options_AutoFillIfPass_Text2": {
+      "message": "AutoFill van Logins alleen op pagina's met Wachtwoorden"
+   },
+   "Options_AutoFillIfPass_Tip2": {
+      "message": "Indien aangevinkt: Aanbieden om AutoFill van Overeenkomende Logins alleen te gebruiken op webpagina's die wachtwoordvelden bevatten. Indien niet aangevinkt: Aanbieden om AutoFill van Overeenkomende Logins op webpagina's aan te bieden, zelfs als deze geen wachtwoordvelden bevatten"
+   },
+   "Options_AutoFillLogins_Text": {
+      "message": "Toon alleen Logins"
+   },
+   "Options_AutoFillLogins_Tip": {
+      "message": "Bied AutoFill-formulieren aan, alleen van Logins en niet van Identiteiten"
+   },
+   "Options_AutoFillThreshold_Text2": {
+      "message": "Pagina velden die nodig zijn om de AutoFill Prompt voor Identiteiten te activeren"
+   },
+   "Options_AutoFillThreshold_Tip": {
+      "message": "Minimum aantal in te vullen velden die op een internet pagina nodig zijn om AutoFill vanuit Identiteit aan te bieden"
+   },
+   "Options_AutoFill_DontOffer_Text": {
+      "message": "Bied AutoFill niet aan"
+   },
+   "Options_AutoFill_FromContacts_Text": {
+      "message": "Aanbieden aan AutoFill vanuit Contacten"
+   },
+   "Options_AutoFill_FromContacts_Tip2": {
+      "message": "Automatisch invullen biedt standaard alleen identiteiten aan. Met deze instelling kunnen ook contactpersonen worden aangeboden"
+   },
+   "Options_AutoFill_OfferInOldBrowsers_Text": {
+      "message": "Aanbieden om AutoFill te gebruiken in Internet Explorer"
+   },
+   "Options_AutoFill_OfferInOldBrowsers_Tip2": {
+      "message": "Automatisch invullen-dialoogvenster dat aanbiedt om te vullen vanuit overeenkomende logins en identiteiten zal worden getoond in Internet Explorer"
+   },
+   "Options_AutoFill_Offer_Text": {
+      "message": "Aanbieden aan AutoFill"
+   },
+   "Options_AutoFill_Offer_Tip": {
+      "message": "Wanneer RoboForm webformulieren (HTML) tegenkomt die kan worden ingevuld vanuit een Overeenkomende Login of een Identiteit, toon AutoFill op pagina's die Overeenkomende Logins en Identiteiten biedt"
+   },
+   "Options_AutoFill_Text": {
+      "message": "Automatisch invullen"
+   },
+   "Options_AutoFill_Tip": {
+      "message": "Selecteer hoe RoboForm moet aanbieden om online formulieren in te vullen van opgeslagen logins en identiteiten"
+   },
+   "Options_AutoFill_Title": {
+      "message": "AutoFill"
+   },
+   "Options_AutoFill_WithoutAsking_Text1": {
+      "message": "Automatisch invullen zonder te vragen"
+   },
+   "Options_AutoFill_WithoutAsking_Text2": {
+      "message": "(als er één keuze is)"
+   },
+   "Options_AutoFill_WithoutAsking_Tip": {
+      "message": "Vul de formulieren op de webpagina in vanuit een Login of Identiteit die het beste bij de pagina past, zonder AutoFill te tonen. Als er echter meerdere Logins overeenkomen met een webpagina, toon dan AutoFill"
+   },
+   "Options_AutoForgetTime_Text": {
+      "message": "Auto-Uitloggen na zoveel minuten"
+   },
+   "Options_AutoForgetTime_Tip2": {
+      "message": "RoboForm zal u automatisch uitloggen uit uw huidige sessie na dit aantal minuten van inactiviteit"
+   },
+   "Options_AutoRenewStatus_BillingAmount_Text": {
+      "message": "Bedrag: %1"
+   },
+   "Options_AutoRenewStatus_BillingDate_Text": {
+      "message": "Factureringsdatum: %1"
+   },
+   "Options_AutoRenewStatus_Failed_Text": {
+      "message": "MISLUKT"
+   },
+   "Options_AutoRenewStatus_Off_Text": {
+      "message": "UIT"
+   },
+   "Options_AutoRenewStatus_On_Text": {
+      "message": "AAN"
+   },
+   "Options_AutoRenew_Text": {
+      "message": "Status automatische verlenging"
+   },
+   "Options_AutoRenew_TurnOff_Button_Text": {
+      "message": "Zet automatische verlenging UIT"
+   },
+   "Options_AutoRenew_TurnOn_Button_Text": {
+      "message": "Zet automatische verlenging AAN"
+   },
+   "Options_AutoSave_AltClickEnable_Text2": {
+      "message": "Toetsenbordsnelkoppeling inschakelen: ALT+klik op aanmeldknop forceert automatisch opslaan"
+   },
+   "Options_AutoSave_ShiftEnterEnable_Text2": {
+      "message": "Toetsenbordsnelkoppeling inschakelen: SHIFT+ENTER in het tekstveld forceert automatisch opslaan"
+   },
+   "Options_AutoSave_Text": {
+      "message": "Automatisch opslaan"
+   },
+   "Options_AutoSave_Tip": {
+      "message": "Selecteer hoe RoboForm de nieuwe gedetecteerde aanmeldgegevens moet opslaan"
+   },
+   "Options_AutoSave_Title": {
+      "message": "AutoSave"
+   },
+   "Options_AutoSave_WebForms_No_Text": {
+      "message": "AutoSave niet Aanbieden"
+   },
+   "Options_AutoSave_WebForms_No_Tip": {
+      "message": "Wanneer u een ingevulde Login webformulier indient (HTML), zal RoboForm het niet opslaan"
+   },
+   "Options_AutoSave_WebForms_WithConfirmation_Text1": {
+      "message": "Aanbieden om automatisch op te slaan"
+   },
+   "Options_AutoSave_WebForms_WithConfirmation_Text2": {
+      "message": "(vereist bevestiging van de gebruiker)"
+   },
+   "Options_AutoSave_WebForms_WithConfirmation_Tip": {
+      "message": "Wanneer u een ingevulde Login webformulier indient (HTML), zal Roboform aanbieden om dit op te slaan"
+   },
+   "Options_AutoSave_WebForms_WitoutAsking_Text": {
+      "message": "AutoSave zonder te Vragen"
+   },
+   "Options_AutoSave_WebForms_WitoutAsking_Tip": {
+      "message": "Wanneer u een ingevulde Login webformulier indient, zal RoboForm het automatisch opslaan"
+   },
+   "Options_BackupRestoreFrame_Text": {
+      "message": "Backup en Herstel"
+   },
+   "Options_Billing_Title": {
+      "message": "Facturering"
+   },
+   "Options_Browsers_Title": {
+      "message": "Browsers"
+   },
+   "Options_DisableShortcuts_Text": {
+      "message": "Schakel RoboForm Snelkoppelingen in de Browser in"
+   },
+   "Options_DisableShortcuts_Tip": {
+      "message": "Schakel RoboForm Snelkoppelingen in de Browser in.\nRoboForm Snelkoppelingen:\nALT+R - RoboForm Werkbalk\nALT+S - Zet focus op RoboForm Zoekveld\nALT+- - Velden legen\nALT+P - Toon Wachtwoord Generator\nALT+n - Toon mini-dialoog voor n-de Identiteit\nALT+M - toon mini-dialoog die alle passcards toont die overeen komen met deze site."
+   },
+   "Options_Domains_Equivalences_BadDomains_Error": {
+      "message": "Alleen domeinen kunnen hier worden gedefinieerd. Domeinen kunnen alleen letters, cijfers, koppeltekens ('-') en punten ('.') bevatten. Domeinen moeten beginnen en eindigen met een letter of een cijfer. Verkeerde Domein(en):\n'%1'"
+   },
+   "Options_Domains_Equivalences_Custom_Tip": {
+      "message": "Lijst met door de gebruiker gedefinieerde domein equivalenten. Elke lijn definieert equivalente domeinen, gescheiden door '='. Voeg domeinen toe zonder 'http' and 'www'.\nDomein equivalenten zijn transitief, bijvoorbeeld: \naaa.com=bbb.com=ccc.com\nddd.com=bbb.com\nddd.com=eee\ngeeft als resultaat dat alle deze domeinen gelijk zijn."
+   },
+   "Options_Domains_Equivalences_Frame": {
+      "message": "Domein equivalenten"
+   },
+   "Options_Domains_FillingFromLoginChecksDomain_Text2": {
+      "message": "Waarschuw me voordat logingegevens worden ingevuld op een niet overeenkomend domein"
+   },
+   "Options_Domains_FillingFromLoginChecksDomain_Tip": {
+      "message": "RoboForm waarschuwt voordat inloggegevens worden ingevuld op een ander domein dan dat van de betreffende login"
+   },
+   "Options_Domains_Title": {
+      "message": "Domeinen"
+   },
+   "Options_EnableNativeIntegration_Text": {
+      "message": "Integreer met geïnstalleerde RoboForm applicatie"
+   },
+   "Options_Extended_ActiveServer_Text": {
+      "message": "Actieve server werkt met: "
+   },
+   "Options_General_Title": {
+      "message": "Algemeen"
+   },
+   "Options_Import_FolderSuffix_Text": {
+      "message": "Geimporteerd"
+   },
+   "Options_ImportsButton_Text2": {
+      "message": "Importeer"
+   },
+   "Options_IncorrectValue_AuxKey": {
+      "message": "Minimaal 1 extensie moet geselecteerdd zijn"
+   },
+   "Options_Keyboard_Title": {
+      "message": "Toetsenbord"
+   },
+   "Options_Language_Tip": {
+      "message": "Selecteer de taal van de interface van uw RoboForm-toepassing"
+   },
+   "Options_Language_Title": {
+      "message": "Taal"
+   },
+   "Options_LicenseStatus_ActiveSubscription_Text": {
+      "message": "Actief abonnement"
+   },
+   "Options_LicenseStatus_ExpirationDate_Text": {
+      "message": "Vervaldatum: %1"
+   },
+   "Options_LicenseStatus_ExpiredSubscription_Text": {
+      "message": "Verlopen abonnement"
+   },
+   "Options_LicenseStatus_ExpiredTrial_Text": {
+      "message": "Verlopen proefversie"
+   },
+   "Options_LicenseStatus_FreeAccount_Text": {
+      "message": "Gratis account"
+   },
+   "Options_LicenseStatus_FreeTrial_Text": {
+      "message": "Gratis proefversie"
+   },
+   "Options_LicenseStatus_NoLicense_Text": {
+      "message": "Geen licentie"
+   },
+   "Options_LicenseStatus_PurchaseLicense_Button_Text": {
+      "message": "Koop een licentie"
+   },
+   "Options_LicenseStatus_RenewNow_Button_Text": {
+      "message": "Vernieuw nu"
+   },
+   "Options_LicenseStatus_Text": {
+      "message": "Licentiestatus"
+   },
+   "Options_LicenseType_Business_Text": {
+      "message": "Zakelijk"
+   },
+   "Options_LicenseType_Everywhere_Text": {
+      "message": "Overal"
+   },
+   "Options_LicenseType_Family_Text": {
+      "message": "Familie"
+   },
+   "Options_LicenseType_Text": {
+      "message": "Type licentie"
+   },
+   "Options_LoginToViewMoreOptions_Text": {
+      "message": "Sommige opties zijn niet beschikbaar totdat u inlogt in uw RoboForm-account. Klik op de RoboForm-knop op de werkbalk van de browser om in te loggen."
+   },
+   "Options_ManagedByPolicy_Text": {
+      "message": "Beheerd door het bedrijfsbeleid."
+   },
+   "Options_NativeIntegrationChange_Warning": {
+      "message": "Wilt u de optie voor oorspronkelijke integratie wijzigen?\nDe extensie zal worden herladen."
+   },
+   "Options_No": {
+      "message": "Nee"
+   },
+   "Options_NotPrimaryBuyer_Text": {
+      "message": "Uw RoboForm Account is geen primaire licentiehouder (factureringscontact).\nNeem contact op met de primaire rekeninghouder voor de verlenging,\nof u kunt het abonnement voor alleen deze account zelf verlengen (nieuwe factureringsgegevens zullen worden gevraagd)."
+   },
+   "Options_OfferAutoFill_BasicAuthDialogs_Text": {
+      "message": "Automatisch invullen van basisauthenticatie-dialogen in browsers"
+   },
+   "Options_OfferAutoFill_BasicAuthDialogs_Tip": {
+      "message": "Bied aan om basisauthenticatie-dialoogvensters te vullen van overeenkomende logins"
+   },
+   "Options_OfferAutoFill_WinDialogs_Text2": {
+      "message": "AutoFill Windows Basis Authenticatie dialogen in browsers"
+   },
+   "Options_OfferAutoFill_WinDialogs_Tip2": {
+      "message": "Bied aan om Windows-dialoogvenster te vullen (basisauthenticatie) van overeenkomende logins"
+   },
+   "Options_OfferAutoSave_BasicAuthDialogs_Text": {
+      "message": "Automatisch opslaan vanuit dialoogvensters voor basisauthenticatie in browsers"
+   },
+   "Options_OfferAutoSave_BasicAuthDialogs_Tip": {
+      "message": "AutoSave wordt geactiveerd door het indienen van een formulier in het basis authenticatie-dialoogvenster in browsers"
+   },
+   "Options_OfferAutoSave_WinDialogs_Text": {
+      "message": "Automatisch opslaan vanuit Windows-dialoogvenster (basisauthenticatie) in browsers"
+   },
+   "Options_OfferAutoSave_WinDialogs_Tip2": {
+      "message": "Automatisch opslaan wordt geactiveerd door het indienen van een formulier in een Windows-dialoogvenster (basisauthenticatie) in browsers"
+   },
+   "Options_OpenSPOnLoginFromExtension_Title": {
+      "message": "Open Startpagina wanneer ik inlog in RoboForm"
+   },
+   "Options_PaymentInfo_Text": {
+      "message": "Factureringsinfo"
+   },
+   "Options_PaymentInfo_UpdateBillingInfo_Text": {
+      "message": "Factureringsinfo bijwerken"
+   },
+   "Options_RightAltForShortcuts_Text": {
+      "message": "Gebruik ook de Rechter ALT toets voor Snelkoppelingen"
+   },
+   "Options_RightAltForShortcuts_Tip": {
+      "message": "Indien geselecteerdd: de Rechter ALT + Toets roept de RoboForm snelkoppeling aan als aanvulling op de Linker ALT + Toets.  Indien niet geselecteerdd dan roept alleen de Linker ALT + Toets de RoboForm snelkoppeling aan"
+   },
+   "Options_RoboFormOpensWith_AllPopularItems_Text": {
+      "message": "Alle populaire items"
+   },
+   "Options_RoboFormOpensWith_AllRecentlyUsedItems_Text": {
+      "message": "Alle recent gebruikte items"
+   },
+   "Options_RoboFormOpensWith_LastSelected_Text": {
+      "message": "Laatst geselecteerde sortering"
+   },
+   "Options_RoboFormOpensWith_PinnedItems_Text": {
+      "message": "Gepinde items"
+   },
+   "Options_RoboFormOpensWith_PopularLogins_Text": {
+      "message": "Populaire logins"
+   },
+   "Options_RoboFormOpensWith_RecentlyUsedLogins_Text": {
+      "message": "Recent gebruikte logins"
+   },
+   "Options_Security_AutoLogoffDisabled_Text": {
+      "message": "*Deze optie is ingesteld en kan alleen worden gewijzigd op de RoboForm Online website,\nin tab Beleidseditor"
+   },
+   "Options_Security_Title": {
+      "message": "Beveiliging"
+   },
+   "Options_Security_TurnOffBuiltInPwdMgr_Text": {
+      "message": "Schakel de ingebouwde wachtwoordmanager van de browser uit"
+   },
+   "Options_SetPasswordButton_Text4": {
+      "message": "Wijzig Hoofdwachtwoord"
+   },
+   "Options_SetPasswordLink_Text": {
+      "message": "Wijzigen"
+   },
+   "Options_Settings_Title": {
+      "message": "Instellingen"
+   },
+   "Options_Shortcut_Alt_Text": {
+      "message": "Alt"
+   },
+   "Options_Shortcut_Ctrl_Text": {
+      "message": "Ctrl"
+   },
+   "Options_Shortcut_Shift_Text": {
+      "message": "Shift"
+   },
+   "Options_ShortcutsList_Text": {
+      "message": "Snelkoppelingen Lijst"
+   },
+   "Options_ShortcutsList_Tip": {
+      "message": "Lijst met RoboForm snelkoppelingen in de browser. U kunt ook iedere snelkoppeling afzonderlijk aan en uitzetten"
+   },
+   "Options_ShowBookmarksAndLoginsTogether_Text": {
+      "message": "Toon Bookmarks en Logins samen"
+   },
+   "Options_ShowBookmarksAndLoginsTogether_Tip2": {
+      "message": "Bookmarks worden getoond onder logins in alle RoboForm-interfaces"
+   },
+   "Options_ShowCompromisedPasswordsIndicator": {
+      "message": "Toon gecompromitteerde wachtwoorden indicator"
+   },
+   "Options_ShowCompromisedPasswordsIndicator_Tip": {
+      "message": "Er verschijnt een rood uitroepteken naast de logins die gecompromitteerde wachtwoorden bevatten"
+   },
+   "Options_StoreMPInSystemProtectedStorage_Text2": {
+      "message": "Vraag niet naar het Hoofdwachtwoord"
+   },
+   "Options_StoreMPInSystemProtectedStorage_Tip2": {
+      "message": "Nadat u het Hoofdwachtwoord hebt ingevoerd, wordt het opgeslagen in de beveiligde opslagruimte van het systeem, zodat u het niet opnieuw hoeft in te voeren.\nOm RoboForm opnieuw een Hoofdwachtwoord aan te laten vragen, klikt u op de knop Uitloggen, waardoor het Hoofdwachtwoord uit de systeembeveiligde opslag wordt gewist. RoboForm zal niet automatisch Uitloggen als gevolg van een timeout."
+   },
+   "Options_TimeZone_Title": {
+      "message": "Tijdzone instellen"
+   },
+   "Options_UpgradeToFamilyPlan_Button_Text": {
+      "message": "Upgrade naar familieplan"
+   },
+   "Options_UseNativeMenus_Text": {
+      "message": "RoboForm Desktop Menu inschakelen"
+   },
+   "Options_UseNativeMenus_Tip": {
+      "message": "Het RoboForm-bureaublad menu zal toegevoegd worden aan de browserextensie"
+   },
+   "Options_WarnAboutFillingSensitiveInfo_Text2": {
+      "message": "Waarschuw me voordat mijn creditcard- of bankrekeninggegevens worden ingevuld"
+   },
+   "Options_WarnAboutFillingSensitiveInfo_Tip": {
+      "message": "RoboForm zal vragen om een extra bevestiging voordat alle betalingsgegevens die zijn opgeslagen in uw identiteit worden gevuld"
+   },
+   "Options_WebExt_AutoLogoffAfterIdle_Text": {
+      "message": "Automatisch Uitloggen na inactiviteit (0-99999 minuten)*"
+   },
+   "Options_WebExt_HighlightFields_Text": {
+      "message": "Markeer ingevulde velden"
+   },
+   "Options_WebExt_LogoffTakeEffectNextSession": {
+      "message": "*Het wordt van kracht vanaf de volgende RoboForm-sessie."
+   },
+   "Options_Yes": {
+      "message": "Ja"
+   },
+   "Page_ListItem_MoreActions_Tip": {
+      "message": "Meer acties"
+   },
+   "PassAud_PwdStrengthGood": {
+      "message": "Goed"
+   },
+   "PassAud_PwdStrengthMedium": {
+      "message": "Gemiddeld"
+   },
+   "PassAud_PwdStrengthStrong": {
+      "message": "Sterk"
+   },
+   "PassAud_PwdStrengthWeak": {
+      "message": "Zwak"
+   },
+   "PassCards_LoginTip_EditTipText": {
+      "message": "Puntlettertype wijzigen"
+   },
+   "PassCards_LoginTip_HideMonospaceText": {
+      "message": "Monospace lettertype niet gebruiken"
+   },
+   "PassCards_LoginTip_ShowMonospaceText": {
+      "message": "Gebruik monospace lettertype"
+   },
+   "PassCards_LoginTip_Title": {
+      "message": "Login Tip"
+   },
+   "PassCards_Note": {
+      "message": "Notitie"
+   },
+   "PassCards_Password": {
+      "message": "Wachtwoord"
+   },
+   "PassCards_UserId": {
+      "message": "GebruikerID"
+   },
+   "PassGen_BitStrength": {
+      "message": "Bitsterkte = "
+   },
+   "PassGen_CharNumber_Text": {
+      "message": "Aantal tekens"
+   },
+   "PassGen_CharNumber_Tip": {
+      "message": "Aantal tekens in het gegenereerde wachtwoord"
+   },
+   "PassGen_Copy": {
+      "message": "Kopiëren"
+   },
+   "PassGen_Copy_Tip": {
+      "message": "Het gegenereerde wachtwoord naar het klembord kopiëren"
+   },
+   "PassGen_ExcludeSimilar_Text": {
+      "message": "Vergelijkbare uitsluiten"
+   },
+   "PassGen_ExcludeSimilar_Tip": {
+      "message": "Gelijke tekens in het gegenereerde wachtwoord uitsluiten"
+   },
+   "PassGen_Fill": {
+      "message": "Invullen"
+   },
+   "PassGen_Fill_Tip": {
+      "message": "Het gegenereerde wachtwoord in alle wachtwoordvelden op de internet pagina invullen"
+   },
+   "PassGen_Generate": {
+      "message": "Nieuw Genereren"
+   },
+   "PassGen_Generate_Tip": {
+      "message": "Nieuw wachtwoord genereren"
+   },
+   "PassGen_Generated_Tip": {
+      "message": "Gegenereerd wachtwoord"
+   },
+   "PassGen_Lower_Tip": {
+      "message": "a-z tekens in het gegenereerde wachtwoord gebruiken"
+   },
+   "PassGen_Numb_Tip": {
+      "message": "0-9 tekens in het gegenereerde wachtwoord gebruiken"
+   },
+   "PassGen_RestoreDefaults_Text": {
+      "message": "Standaardwaarden herstellen"
+   },
+   "PassGen_ShowAdvanced": {
+      "message": "Geavanceerde instellingen"
+   },
+   "PassGen_Title": {
+      "message": "Wachtwoord Generator - RoboForm"
+   },
+   "PassGen_Upper_Tip": {
+      "message": "A-Z tekens in het gegenereerde wachtwoord gebruiken"
+   },
+   "PassGen_UseHexChars": {
+      "message": "Hexadecimaal 0-9, A-F"
+   },
+   "PassGen_UseHexChars_Tip": {
+      "message": "Alleen hexadecimale tekens gebruiken: 0-9, A-F"
+   },
+   "PassGen_UseSpecial_Tip": {
+      "message": "Speciale tekens in het gegenereerde wachtwoord gebruiken"
+   },
+   "PassGen_WrongChars_Errtext": {
+      "message": "Verkeerd aantal tekens (1-512)"
+   },
+   "PassGen_WrongNums_Errtext": {
+      "message": "Verkeerd aantal cijfers"
+   },
+   "PassGen_helptext1": {
+      "message": "Er is een nieuw wachtwoord gegenereerd. Klik op Vullen om te vullen"
+   },
+   "PassGen_helptext2": {
+      "message": "Wachtwoordveld in de browser. Klik op Kopieer om het te kopiëren"
+   },
+   "PassGen_helptext3": {
+      "message": "naar Klembord. Klik op Genereer om een nieuwe te genereren."
+   },
+   "PassType_Blocking_Suffix": {
+      "message": " -Geblokkeerd-"
+   },
+   "PassportExpirationDate_DisplayText": {
+      "message": "ver. %1"
+   },
+   "Passw_Account_Title": {
+      "message": "voor RoboForm Account:"
+   },
+   "Passw_ChangeAccount": {
+      "message": "Wijzig Account"
+   },
+   "Passw_DontRememberButton_Text": {
+      "message": "Ik ben het Hoofdwachtwoord vergeten"
+   },
+   "Passw_EnterNotifySet_Text2": {
+      "message": "Om veiligheidsredenen vragen wij u om uw Hoofdwachtwoord elke %1 dagen in te voeren."
+   },
+   "Passw_EnterNotify_Text2": {
+      "message": "Om veiligheidsredenen vragen wij u om uw Hoofdwachtwoord elke %1 dagen in te voeren."
+   },
+   "Passw_EnterNowButton_Text": {
+      "message": "Nu Invoeren"
+   },
+   "Passw_Generic_Header": {
+      "message": "Voer Hoofdwachtwoord in"
+   },
+   "Passw_Login": {
+      "message": "Log In"
+   },
+   "Passw_SubmitButton_Text": {
+      "message": "Bevestigen"
+   },
+   "Password_Successfully_Changed": {
+      "message": "Wachtwoord Succesvol Gewijzigd"
+   },
+   "PhishingWarning_FillingIntoDomainNotInLogin": {
+      "message": "Het sitedomein komt niet overeen met de URL van de Login.\n\nMatch URL: %1\nSite URL: %2\n\nWilt u nog steeds dat RoboForm het formulier invult?"
+   },
+   "PhishingWarning_FillingIntoFrameDomainNotInLogin": {
+      "message": "Het domein van het frame komt niet overeen met de URL van de Login.\n\nOvereenkomende URL domein: %1\nFrame URL domein: %2\n\nWilt u nog steeds dat RoboForm het formulier invult?"
+   },
+   "PhishingWarning_FrameDomainNotInLogin": {
+      "message": "Phishing-waarschuwing: het domein van het frame komt niet overeen met de URL van de Login.\n\nMatch URL: %1\nFrame URL: %2\nMain URL:  %3\n\nWilt u nog steeds dat RoboForm het formulier invult?"
+   },
+   "Policy_CommandDisabled_Message": {
+      "message": "Dit commando is niet toegestaan door het beveiligingsbeleid"
+   },
+   "Policy_DisableNonGroupData_Message": {
+      "message": "Dit commando is verboden door het beleid. U kunt alleen gegevens binnen groepen aanmaken"
+   },
+   "Policy_FileCreationProhibited_Text": {
+      "message": "Fout: het aanmaken van %1 is verboden door het beleid."
+   },
+   "Policy_FillingIntoDomainNotInLogin": {
+      "message": "Het invullen van het formulier wordt afgebroken omdat het site-domein niet overeenkomt met de URL van de Login.\n\nMatch URL: %1\nSite URL: %2"
+   },
+   "Policy_FillingIntoFrameDomainNotInLogin": {
+      "message": "Het invullen van het formulier is afgebroken omdat het domein van het frame niet overeenkomt met de URL van de Login.\n\nOvereenkomende URL domein: %1\nFrame URL domein: %2"
+   },
+   "Policy_MasterPasswordChangeDisabled": {
+      "message": "Maken en wijzigen van het Hoofdwachtwoord zijn niet toegestaan door het beveiligingsbeleid"
+   },
+   "Policy_ProhibitedFolder_NonGroupData_Message": {
+      "message": "De geselecteerde map voor het opslaan is verboden door het beleid. U kunt alleen gegevens binnen groepen aanmaken"
+   },
+   "Popup_ReportAnIssue_Command_Text": {
+      "message": "Meld een probleem op deze pagina"
+   },
+   "ProAd_UpgradeNow_Button": {
+      "message": "Upgrade Nu"
+   },
+   "RFOError_WrongUserIDOrPassword": {
+      "message": "U heeft een onjuist User Id of Wachtwoord ingegeven"
+   },
+   "RFOSetup_CreateNewAccount_Button": {
+      "message": "Nieuwe Account aanmaken"
+   },
+   "RFOSetup_EnterPasswordForAccount": {
+      "message": "Voer wachtwoord in voor RoboForm Account:"
+   },
+   "RFOSync_ForceMasterPasswordChange_Text": {
+      "message": "Het Hoofdwachtwoord is verlopen. U moet uw Hoofdwachtwoord wijzigen."
+   },
+   "RFO_CreateAccountCannotSendEmail_Error": {
+      "message": "Er is geen account aangemaakt. We konden geen verificatiemail voor het aanmaken van een account sturen naar het door u opgegeven e-mailadres.\nVoer een geldig e-mailadres in en probeer het opnieuw."
+   },
+   "RFO_OTP_Memorize_Device": {
+      "message": "Schrijf deze browser in, zodat er bij de volgende Login geen Eenmalig Wachtwoord wordt gevraagd."
+   },
+   "RFO_TwoFactorCaption_Text": {
+      "message": "Eenmalig Wachtwoord"
+   },
+   "RFO_TwoFactorIsOn_TextShort": {
+      "message": "De Eenmalig wachtwoord (OTP) instelling staat AAN op uw account."
+   },
+   "RFO_TwoFactor_ByEmail_Text2": {
+      "message": "De OTP is naar uw geverifieerde e-mailadres verzonden."
+   },
+   "RFO_TwoFactor_ByGA_Text3": {
+      "message": "Voer de code van uw authenticatie-app in om verder te gaan."
+   },
+   "RFO_TwoFactor_BySMS_Text2": {
+      "message": "De OTP is via SMS naar uw geverifieerde telefoonnummer gestuurd."
+   },
+   "RFO_TwoFactor_EnrollBrowserGA_Text": {
+      "message": "Schrijf deze browser in zodat de Authenticatiecode niet wordt opgevraagd bij uw volgende login."
+   },
+   "RFO_TwoFactor_EnrollBrowserGeneric_Text": {
+      "message": "Schrijf deze browser in zodat de Two-Factor Authenticatie niet wordt gebruikt bij uw volgende login."
+   },
+   "RFO_TwoFactor_PromptGeneric_Text": {
+      "message": "Twee-Factor-Authenticatie staat aan op uw account. U heeft de extra code nodig om toegang te krijgen tot uw account."
+   },
+   "RFO_TwoFactor_Send_Button": {
+      "message": "OTP verzenden"
+   },
+   "RFO_TwoFactor_WrongOTP_Text": {
+      "message": "Verkeerd Eenmalig Wachtwoord"
+   },
+   "RI_AOL_Screen_Name": {
+      "message": "AOL Naam"
+   },
+   "RI_Abbr": {
+      "message": "Ab."
+   },
+   "RI_Address": {
+      "message": "Adres"
+   },
+   "RI_Address_Line_1": {
+      "message": "Adres 1"
+   },
+   "RI_Address_Line_2": {
+      "message": "Adres 2"
+   },
+   "RI_Age": {
+      "message": "Leeftijd"
+   },
+   "RI_Alphabet": {
+      "message": "Alfabet"
+   },
+   "RI_Alphabet_Name": {
+      "message": "Alfabet"
+   },
+   "RI_Apartment_Number": {
+      "message": "Appartement Nummer"
+   },
+   "RI_Bank_Account_Number": {
+      "message": "Rekeningnummer"
+   },
+   "RI_Bank_Account_Owner": {
+      "message": "Rekening Eigenaar"
+   },
+   "RI_Bank_Account_Type": {
+      "message": "Rekening Type"
+   },
+   "RI_Bank_Account_Type_Checking": {
+      "message": "Controleren"
+   },
+   "RI_Bank_Account_Type_Current": {
+      "message": "Actuele"
+   },
+   "RI_Bank_Account_Type_Money_Manager": {
+      "message": "Geld Manager"
+   },
+   "RI_Bank_Account_Type_Savings": {
+      "message": "Spaarrekening"
+   },
+   "RI_Bank_Address": {
+      "message": "Bank Adres"
+   },
+   "RI_Bank_Branch_Name": {
+      "message": "Bankafdeling"
+   },
+   "RI_Bank_Branch_Type": {
+      "message": "Filiaal Type"
+   },
+   "RI_Bank_Corr_Account": {
+      "message": "Bank Corr Rekening"
+   },
+   "RI_Bank_Interest_Rate": {
+      "message": "Rentepercentage"
+   },
+   "RI_Bank_Name": {
+      "message": "Bank Naam"
+   },
+   "RI_Bank_PIN_Code": {
+      "message": "Bank PIN Code"
+   },
+   "RI_Bank_Phone": {
+      "message": "Bank Telefoon"
+   },
+   "RI_Bank_Routing_Number": {
+      "message": "Routering Nummer"
+   },
+   "RI_Bank_Swift_Code": {
+      "message": "SWIFT"
+   },
+   "RI_Bank_Type": {
+      "message": "Bank Type"
+   },
+   "RI_Birth_Date": {
+      "message": "Geboortedatum"
+   },
+   "RI_Birth_Day": {
+      "message": "Dag"
+   },
+   "RI_Birth_Month": {
+      "message": "Maand"
+   },
+   "RI_Birth_Place": {
+      "message": "Geboorteplaats"
+   },
+   "RI_Birth_Year": {
+      "message": "Jaar"
+   },
+   "RI_Bundesland": {
+      "message": "Bundesland"
+   },
+   "RI_Canton": {
+      "message": "Kanton"
+   },
+   "RI_Car_Make": {
+      "message": "Fabrikant"
+   },
+   "RI_Car_Model": {
+      "message": "Model"
+   },
+   "RI_Car_Plate": {
+      "message": "Plaat"
+   },
+   "RI_Car_Plate_Number": {
+      "message": "Kentekenplaat #"
+   },
+   "RI_Car_Year": {
+      "message": "Jaar"
+   },
+   "RI_Card_Credit_Limit": {
+      "message": "Krediet Limiet"
+   },
+   "RI_Card_Customer_Service_Phone": {
+      "message": "Klantenservice tel nr."
+   },
+   "RI_Card_Expires": {
+      "message": "Vervaldatum Kaart"
+   },
+   "RI_Card_Interest_Rate": {
+      "message": "Rentepercentage"
+   },
+   "RI_Card_Issuing_Bank": {
+      "message": "Uitgifte Bank"
+   },
+   "RI_Card_Number": {
+      "message": "Kaartnummer"
+   },
+   "RI_Card_PIN_Number": {
+      "message": "PIN Nummer"
+   },
+   "RI_Card_Password": {
+      "message": "Kaart Wachtwoord"
+   },
+   "RI_Card_Type": {
+      "message": "Kaart Type"
+   },
+   "RI_Card_User_Name": {
+      "message": "Gebruikersnaam op kaart"
+   },
+   "RI_Card_Validation_Code": {
+      "message": "Geldigheidscode"
+   },
+   "RI_Cell_Phone": {
+      "message": "Mobiele Tel"
+   },
+   "RI_City": {
+      "message": "Plaats"
+   },
+   "RI_Code_OKPO": {
+      "message": "OKPO"
+   },
+   "RI_Code_OKVED": {
+      "message": "OKVED"
+   },
+   "RI_Colony": {
+      "message": "Kolonie"
+   },
+   "RI_Company": {
+      "message": "Bedrijfsnaam"
+   },
+   "RI_Company_Department": {
+      "message": "Afdeling"
+   },
+   "RI_Company_Registration_Number": {
+      "message": "KvK Nummer"
+   },
+   "RI_Company_Registration_Place": {
+      "message": "KvK Regio"
+   },
+   "RI_Company_Tax_ID": {
+      "message": "Bedrijfsbelasting ID"
+   },
+   "RI_Company_VAT_Number": {
+      "message": "BTW Nummer"
+   },
+   "RI_Contact": {
+      "message": "Contact"
+   },
+   "RI_Country": {
+      "message": "Land"
+   },
+   "RI_CountryAlt_United_States": {
+      "message": "Verenigde Staten van Amerika;USA;VS"
+   },
+   "RI_CountryCode": {
+      "message": "Landcode"
+   },
+   "RI_Country_Afghanistan": {
+      "message": "Afghanistan"
+   },
+   "RI_Country_Andorra": {
+      "message": "Andorra"
+   },
+   "RI_Country_Argentina": {
+      "message": "Argentinië"
+   },
+   "RI_Country_Armenia": {
+      "message": "Armenië"
+   },
+   "RI_Country_Australia": {
+      "message": "Australië"
+   },
+   "RI_Country_Austria": {
+      "message": "Oostenrijk"
+   },
+   "RI_Country_Belarus": {
+      "message": "Wit Rusland"
+   },
+   "RI_Country_Belgium": {
+      "message": "België"
+   },
+   "RI_Country_Bolivia": {
+      "message": "Bolivia"
+   },
+   "RI_Country_Bosnia_And_Herzegovina": {
+      "message": "Bosnië en Herzegovina"
+   },
+   "RI_Country_Brazil": {
+      "message": "Brazilië"
+   },
+   "RI_Country_Bulgaria": {
+      "message": "Bulgarije"
+   },
+   "RI_Country_Canada": {
+      "message": "Canada"
+   },
+   "RI_Country_Chile": {
+      "message": "Chili"
+   },
+   "RI_Country_China": {
+      "message": "China"
+   },
+   "RI_Country_Colombia": {
+      "message": "Colombia"
+   },
+   "RI_Country_Costa_Rica": {
+      "message": "Costa Rica"
+   },
+   "RI_Country_Croatia": {
+      "message": "Kroatië"
+   },
+   "RI_Country_Cyprus": {
+      "message": "Cyprus"
+   },
+   "RI_Country_Czech_Republic": {
+      "message": "Tsjechische Republiek"
+   },
+   "RI_Country_Denmark": {
+      "message": "Denenmarken"
+   },
+   "RI_Country_Egypt": {
+      "message": "Egypte"
+   },
+   "RI_Country_Estonia": {
+      "message": "Estland"
+   },
+   "RI_Country_Finland": {
+      "message": "Finland"
+   },
+   "RI_Country_France": {
+      "message": "Frankrijk"
+   },
+   "RI_Country_Gabon": {
+      "message": "Gabon"
+   },
+   "RI_Country_Germany": {
+      "message": "Duitsland"
+   },
+   "RI_Country_Gibraltar": {
+      "message": "Gibraltar"
+   },
+   "RI_Country_Greece": {
+      "message": "Griekenland"
+   },
+   "RI_Country_Greenland": {
+      "message": "Groenland"
+   },
+   "RI_Country_Haiti": {
+      "message": "Haïti"
+   },
+   "RI_Country_Hong_Kong": {
+      "message": "Hong Kong"
+   },
+   "RI_Country_Hungary": {
+      "message": "Hongarije"
+   },
+   "RI_Country_Iceland": {
+      "message": "IJsland"
+   },
+   "RI_Country_India": {
+      "message": "Indië"
+   },
+   "RI_Country_Indonesia": {
+      "message": "Indonesië"
+   },
+   "RI_Country_Iran": {
+      "message": "Iran"
+   },
+   "RI_Country_Iraq": {
+      "message": "Irak"
+   },
+   "RI_Country_Ireland": {
+      "message": "Ierland"
+   },
+   "RI_Country_Israel": {
+      "message": "Israël"
+   },
+   "RI_Country_Italy": {
+      "message": "Italië"
+   },
+   "RI_Country_Jamaica": {
+      "message": "Jamaica"
+   },
+   "RI_Country_Japan": {
+      "message": "Japan"
+   },
+   "RI_Country_Kazakhstan": {
+      "message": "Kazakstan"
+   },
+   "RI_Country_Korea": {
+      "message": "Korea"
+   },
+   "RI_Country_Latvia": {
+      "message": "Letland"
+   },
+   "RI_Country_Liechtenstein": {
+      "message": "Liechtenstein"
+   },
+   "RI_Country_Lithuania": {
+      "message": "Litouwen"
+   },
+   "RI_Country_Luxembourg": {
+      "message": "Luxemburg"
+   },
+   "RI_Country_Macedonia": {
+      "message": "Macedonië"
+   },
+   "RI_Country_Malaysia": {
+      "message": "Maleisië"
+   },
+   "RI_Country_Malta": {
+      "message": "Malta"
+   },
+   "RI_Country_Mexico": {
+      "message": "Mexico"
+   },
+   "RI_Country_Moldova": {
+      "message": "Moldavië"
+   },
+   "RI_Country_Monaco": {
+      "message": "Monaco"
+   },
+   "RI_Country_Montenegro": {
+      "message": "Montenegro"
+   },
+   "RI_Country_Morocco": {
+      "message": "Marokko"
+   },
+   "RI_Country_Namibia": {
+      "message": "Namibië"
+   },
+   "RI_Country_Netherlands": {
+      "message": "Nederland"
+   },
+   "RI_Country_New_Zealand": {
+      "message": "Nieuw Zeeland"
+   },
+   "RI_Country_Nigeria": {
+      "message": "Nigeria"
+   },
+   "RI_Country_Norway": {
+      "message": "Noorwegen"
+   },
+   "RI_Country_Other": {
+      "message": "Andere"
+   },
+   "RI_Country_Pakistan": {
+      "message": "Pakistan"
+   },
+   "RI_Country_Panama": {
+      "message": "Panama"
+   },
+   "RI_Country_Paraguay": {
+      "message": "Paraguay"
+   },
+   "RI_Country_Peru": {
+      "message": "Peru"
+   },
+   "RI_Country_Philippines": {
+      "message": "Filipijnen"
+   },
+   "RI_Country_Poland": {
+      "message": "Polen"
+   },
+   "RI_Country_Portugal": {
+      "message": "Portugal"
+   },
+   "RI_Country_Qatar": {
+      "message": "Qatar"
+   },
+   "RI_Country_Romania": {
+      "message": "Roemenië"
+   },
+   "RI_Country_Russia": {
+      "message": "Rusland"
+   },
+   "RI_Country_San_Marino": {
+      "message": "San Marino"
+   },
+   "RI_Country_Saudi_Arabia": {
+      "message": "Saudi-Arabië"
+   },
+   "RI_Country_Serbia": {
+      "message": "Servië"
+   },
+   "RI_Country_Singapore": {
+      "message": "Singapore"
+   },
+   "RI_Country_Slovakia": {
+      "message": "Slowakije"
+   },
+   "RI_Country_Slovenia": {
+      "message": "Slovenië"
+   },
+   "RI_Country_South_Africa": {
+      "message": "Zuidafrika"
+   },
+   "RI_Country_Spain": {
+      "message": "Spanje"
+   },
+   "RI_Country_Sweden": {
+      "message": "Zweden"
+   },
+   "RI_Country_Switzerland": {
+      "message": "Zwitserland"
+   },
+   "RI_Country_Taiwan": {
+      "message": "Taiwan"
+   },
+   "RI_Country_Thailand": {
+      "message": "Thailand"
+   },
+   "RI_Country_Turkey": {
+      "message": "Turkije"
+   },
+   "RI_Country_Ukraine": {
+      "message": "Ukraïne"
+   },
+   "RI_Country_United_Kingdom": {
+      "message": "Engeland"
+   },
+   "RI_Country_United_States": {
+      "message": "Amerika"
+   },
+   "RI_Country_Venezuela": {
+      "message": "Venezuela"
+   },
+   "RI_Country_Vietnam": {
+      "message": "Vietnam"
+   },
+   "RI_County": {
+      "message": "Land"
+   },
+   "RI_Department": {
+      "message": "Departement"
+   },
+   "RI_Dispatching_Agency": {
+      "message": "Verzendend agentschap"
+   },
+   "RI_District": {
+      "message": "District"
+   },
+   "RI_Driver_License": {
+      "message": "Rijbewijsnr"
+   },
+   "RI_Driver_License_Number": {
+      "message": "Rijbewijsnummer"
+   },
+   "RI_Email": {
+      "message": "E-mail"
+   },
+   "RI_Employer_Identitification_Number": {
+      "message": "Werkgever Id No."
+   },
+   "RI_Expires": {
+      "message": "Verloopt"
+   },
+   "RI_Fax_Phone": {
+      "message": "Fax"
+   },
+   "RI_First": {
+      "message": "Voornaam"
+   },
+   "RI_Fiscal_Code": {
+      "message": "Fiscale Code"
+   },
+   "RI_General_Register": {
+      "message": "GR"
+   },
+   "RI_Group_Bank_Account": {
+      "message": "Bankrekening"
+   },
+   "RI_Group_Business": {
+      "message": "Bedrijf"
+   },
+   "RI_Group_Car": {
+      "message": "Auto"
+   },
+   "RI_Group_Credit_Card": {
+      "message": "Creditcard"
+   },
+   "RI_Group_Custom": {
+      "message": "Aangepast"
+   },
+   "RI_Group_Default_Password": {
+      "message": "Authenticatie"
+   },
+   "RI_Group_Location": {
+      "message": "Adres"
+   },
+   "RI_Group_Passport": {
+      "message": "Paspoort"
+   },
+   "RI_Group_Person": {
+      "message": "Persoon"
+   },
+   "RI_Group_Service": {
+      "message": "Service"
+   },
+   "RI_Group_Service2": {
+      "message": "Gemeenschappelijk"
+   },
+   "RI_Group_Summary": {
+      "message": "Samenvatting"
+   },
+   "RI_Home_Phone": {
+      "message": "Huis Tel"
+   },
+   "RI_HouseNumber": {
+      "message": "Huisnummer"
+   },
+   "RI_HouseNumber_StreetName": {
+      "message": "Huisnummer Straatnaam"
+   },
+   "RI_HouseNumber_or_Name": {
+      "message": "Huisnummer of Naam"
+   },
+   "RI_ICQ_Number": {
+      "message": "ICQ Nummer"
+   },
+   "RI_ID_Card_Number": {
+      "message": "ID Kaart Nummer"
+   },
+   "RI_ID_Card_Type": {
+      "message": "ID Kaart Type"
+   },
+   "RI_Income": {
+      "message": "Inkomen"
+   },
+   "RI_Inset": {
+      "message": "Tussenvoegsels"
+   },
+   "RI_Int_Bank_Account_Number": {
+      "message": "IBAN"
+   },
+   "RI_International_Card_Customer_Service_Phone": {
+      "message": "Internationaal Klantenservice Tel nr."
+   },
+   "RI_Job": {
+      "message": "Beroep"
+   },
+   "RI_Last": {
+      "message": "Achternaam"
+   },
+   "RI_Last2": {
+      "message": "Achternaam 2"
+   },
+   "RI_Legal_Business_Name": {
+      "message": "Wettelijke Handelsnaam"
+   },
+   "RI_MSN_ID": {
+      "message": "MSN ID"
+   },
+   "RI_Middle": {
+      "message": "Tussenvoegsels"
+   },
+   "RI_Mobile_Email": {
+      "message": "Mobiele e-mail"
+   },
+   "RI_Municipality": {
+      "message": "Gemeente"
+   },
+   "RI_Name": {
+      "message": "Naam"
+   },
+   "RI_Name_Suffix_Jr": {
+      "message": "Jr."
+   },
+   "RI_Name_Suffix_Sr": {
+      "message": "Sr."
+   },
+   "RI_NationalPrefix": {
+      "message": "Nationaal netnummer"
+   },
+   "RI_National_Health_Service_Number": {
+      "message": "NHS Nummer"
+   },
+   "RI_National_Insurance_Number": {
+      "message": "NI Nummer"
+   },
+   "RI_Number": {
+      "message": "Nummer"
+   },
+   "RI_Pager_Phone": {
+      "message": "Pieper"
+   },
+   "RI_Passport": {
+      "message": "Passport"
+   },
+   "RI_Passport_Expiration_Date": {
+      "message": "Paspoort verloopdatum"
+   },
+   "RI_Passport_Issue_Date": {
+      "message": "Paspoort datum van uitgifte"
+   },
+   "RI_Passport_Issue_Place": {
+      "message": "Paspoort plaats van uitgifte"
+   },
+   "RI_Passport_Number": {
+      "message": "Paspoort Nummer"
+   },
+   "RI_Passport_Series": {
+      "message": "Paspoort Serie"
+   },
+   "RI_Passport_Type": {
+      "message": "Paspoort Type"
+   },
+   "RI_Passport_Type_International": {
+      "message": "Internationaal"
+   },
+   "RI_Passport_Type_National": {
+      "message": "Nationaal"
+   },
+   "RI_Password": {
+      "message": "Wachtwoord"
+   },
+   "RI_Password_Answer": {
+      "message": "Wachtwoord Antwoord"
+   },
+   "RI_Password_Question": {
+      "message": "Wachtwoord Vraag"
+   },
+   "RI_Pension_Insurance_Number": {
+      "message": "Pensioenverzekeringsnummer"
+   },
+   "RI_Person_Cadastre": {
+      "message": "Persoon ingeschreven bij het Kadaster"
+   },
+   "RI_Personal_ID": {
+      "message": "Persoonlijk ID"
+   },
+   "RI_Phone": {
+      "message": "Telefoon"
+   },
+   "RI_Position": {
+      "message": "Functie"
+   },
+   "RI_PostCode": {
+      "message": "Postcode"
+   },
+   "RI_PostCode_City": {
+      "message": "Postcode Plaats"
+   },
+   "RI_Prefecture": {
+      "message": "Prefectuur"
+   },
+   "RI_Province": {
+      "message": "Provincie"
+   },
+   "RI_Region": {
+      "message": "Regio"
+   },
+   "RI_Roman_Name": {
+      "message": "Romeins"
+   },
+   "RI_Series": {
+      "message": "Serie"
+   },
+   "RI_Sex": {
+      "message": "Geslacht"
+   },
+   "RI_Sex_Female": {
+      "message": "Vrouw"
+   },
+   "RI_Sex_Male": {
+      "message": "Man"
+   },
+   "RI_Skype_ID": {
+      "message": "Skype ID"
+   },
+   "RI_Social_Security_Number": {
+      "message": "Sofi Nummer (BSN)"
+   },
+   "RI_State": {
+      "message": "Staat"
+   },
+   "RI_State_Or_Province": {
+      "message": "Staat of Provincie"
+   },
+   "RI_State_Or_Province_AA": {
+      "message": "AA"
+   },
+   "RI_State_Or_Province_AE": {
+      "message": "AE"
+   },
+   "RI_State_Or_Province_AP": {
+      "message": "AP"
+   },
+   "RI_State_Or_Province_Adygeya_republic": {
+      "message": "Adygeya republic"
+   },
+   "RI_State_Or_Province_Agin_Buryat_avt_okrug": {
+      "message": "Agin Buryat avt okrug"
+   },
+   "RI_State_Or_Province_Aichi": {
+      "message": "Aichi"
+   },
+   "RI_State_Or_Province_Akita": {
+      "message": "Akita"
+   },
+   "RI_State_Or_Province_Alabama": {
+      "message": "AL"
+   },
+   "RI_State_Or_Province_Alaska": {
+      "message": "AK"
+   },
+   "RI_State_Or_Province_Alberta": {
+      "message": "Alberta"
+   },
+   "RI_State_Or_Province_Altai_republic": {
+      "message": "Altai republic"
+   },
+   "RI_State_Or_Province_Altaiskiy_krai": {
+      "message": "Altaiskiy krai"
+   },
+   "RI_State_Or_Province_American_Samoa": {
+      "message": "AS"
+   },
+   "RI_State_Or_Province_Amur_oblast": {
+      "message": "Amur oblast"
+   },
+   "RI_State_Or_Province_Anhui": {
+      "message": "Anhui"
+   },
+   "RI_State_Or_Province_Antwerpen": {
+      "message": "Antwerpen"
+   },
+   "RI_State_Or_Province_Aomen": {
+      "message": "Aomen"
+   },
+   "RI_State_Or_Province_Aomori": {
+      "message": "Aomori"
+   },
+   "RI_State_Or_Province_Appenzell_Inner_Rhodes": {
+      "message": "Appenzell Innerrhoden"
+   },
+   "RI_State_Or_Province_Appenzell_Outer_Rhodes": {
+      "message": "Appenzell Ausserrhoden"
+   },
+   "RI_State_Or_Province_Argovia": {
+      "message": "Aargau"
+   },
+   "RI_State_Or_Province_Arizona": {
+      "message": "AZ"
+   },
+   "RI_State_Or_Province_Arkansas": {
+      "message": "AR"
+   },
+   "RI_State_Or_Province_Arkhangelsk_oblast": {
+      "message": "Arkhangelsk oblast"
+   },
+   "RI_State_Or_Province_Astrakhan_oblast": {
+      "message": "Astrakhan oblast"
+   },
+   "RI_State_Or_Province_Australian_Capital_Terr": {
+      "message": "ACT"
+   },
+   "RI_State_Or_Province_Bashkir_republic": {
+      "message": "Bashkir republic"
+   },
+   "RI_State_Or_Province_Basle_Country": {
+      "message": "Bazel-Landschap"
+   },
+   "RI_State_Or_Province_Basle_Town": {
+      "message": "Bazel-Stad"
+   },
+   "RI_State_Or_Province_Beijing": {
+      "message": "Beijing"
+   },
+   "RI_State_Or_Province_Belgorod_oblast": {
+      "message": "Belgorod oblast"
+   },
+   "RI_State_Or_Province_Berne": {
+      "message": "Bern"
+   },
+   "RI_State_Or_Province_Brabant_Wallon": {
+      "message": "Waals-Brabant"
+   },
+   "RI_State_Or_Province_British_Columbia": {
+      "message": "British Columbia"
+   },
+   "RI_State_Or_Province_Brussels_Region": {
+      "message": "Brussels Gewest"
+   },
+   "RI_State_Or_Province_Bryansk_oblast": {
+      "message": "Bryansk oblast"
+   },
+   "RI_State_Or_Province_Buruyat_republic": {
+      "message": "Buruyat republic"
+   },
+   "RI_State_Or_Province_California": {
+      "message": "CA"
+   },
+   "RI_State_Or_Province_Chechen_republic": {
+      "message": "Chechen republic"
+   },
+   "RI_State_Or_Province_Chelyabinsk_oblast": {
+      "message": "Chelyabinsk oblast"
+   },
+   "RI_State_Or_Province_Chiba": {
+      "message": "Chiba"
+   },
+   "RI_State_Or_Province_Chita_oblast": {
+      "message": "Chita oblast"
+   },
+   "RI_State_Or_Province_Chongqing": {
+      "message": "Chongqing"
+   },
+   "RI_State_Or_Province_Chukotka_avt_okrug": {
+      "message": "Chukotka avt okrug"
+   },
+   "RI_State_Or_Province_Chuvash_republic": {
+      "message": "Chuvash republic"
+   },
+   "RI_State_Or_Province_Colorado": {
+      "message": "CO"
+   },
+   "RI_State_Or_Province_Connecticut": {
+      "message": "CT"
+   },
+   "RI_State_Or_Province_Dagestan_republic": {
+      "message": "Dagestan republic"
+   },
+   "RI_State_Or_Province_Delaware": {
+      "message": "DE"
+   },
+   "RI_State_Or_Province_District_of_Columbia": {
+      "message": "DC"
+   },
+   "RI_State_Or_Province_Dolnoslaskie": {
+      "message": "Dolnoslaskie"
+   },
+   "RI_State_Or_Province_Ehime": {
+      "message": "Ehime"
+   },
+   "RI_State_Or_Province_Evenk_avt_okrug": {
+      "message": "Evenk avt okrug"
+   },
+   "RI_State_Or_Province_Evreyskaya_avt_oblast": {
+      "message": "Evreyskaya avt oblast"
+   },
+   "RI_State_Or_Province_Florida": {
+      "message": "FL"
+   },
+   "RI_State_Or_Province_Fribourg": {
+      "message": "Fribourg"
+   },
+   "RI_State_Or_Province_Fujian": {
+      "message": "Fujian"
+   },
+   "RI_State_Or_Province_Fukui": {
+      "message": "Fukui"
+   },
+   "RI_State_Or_Province_Fukuoka": {
+      "message": "Fukuoka"
+   },
+   "RI_State_Or_Province_Fukushima": {
+      "message": "Fukushima"
+   },
+   "RI_State_Or_Province_Gansu": {
+      "message": "Gansu"
+   },
+   "RI_State_Or_Province_Geneva": {
+      "message": "Genève"
+   },
+   "RI_State_Or_Province_Georgia": {
+      "message": "GA"
+   },
+   "RI_State_Or_Province_Gifu": {
+      "message": "Gifu"
+   },
+   "RI_State_Or_Province_Glarus": {
+      "message": "Glarus"
+   },
+   "RI_State_Or_Province_Grisons": {
+      "message": "Graubünden"
+   },
+   "RI_State_Or_Province_Guam": {
+      "message": "GU"
+   },
+   "RI_State_Or_Province_Guangdong": {
+      "message": "Guangdong"
+   },
+   "RI_State_Or_Province_Guangxi": {
+      "message": "Guangxi"
+   },
+   "RI_State_Or_Province_Guizhou": {
+      "message": "Guizhou"
+   },
+   "RI_State_Or_Province_Gunma": {
+      "message": "Gunma"
+   },
+   "RI_State_Or_Province_Hainan": {
+      "message": "Hainan"
+   },
+   "RI_State_Or_Province_Hainaut": {
+      "message": "Henegouwen"
+   },
+   "RI_State_Or_Province_Hanty_Mansy_avt_okrug": {
+      "message": "Hanty-Mansy avt okrug"
+   },
+   "RI_State_Or_Province_Hawaii": {
+      "message": "HI"
+   },
+   "RI_State_Or_Province_Hebei": {
+      "message": "Hebei"
+   },
+   "RI_State_Or_Province_Heilongjiang": {
+      "message": "Heilongjiang"
+   },
+   "RI_State_Or_Province_Henan": {
+      "message": "Henan"
+   },
+   "RI_State_Or_Province_Hiroshima": {
+      "message": "Hiroshima"
+   },
+   "RI_State_Or_Province_Hokkaido": {
+      "message": "Hokkaido"
+   },
+   "RI_State_Or_Province_Hubei": {
+      "message": "Hubei"
+   },
+   "RI_State_Or_Province_Hunan": {
+      "message": "Hunan"
+   },
+   "RI_State_Or_Province_Hyougo": {
+      "message": "Hyougo"
+   },
+   "RI_State_Or_Province_Ibaraki": {
+      "message": "Ibaraki"
+   },
+   "RI_State_Or_Province_Idaho": {
+      "message": "ID"
+   },
+   "RI_State_Or_Province_Illinois": {
+      "message": "IL"
+   },
+   "RI_State_Or_Province_Indiana": {
+      "message": "IN"
+   },
+   "RI_State_Or_Province_Ingush_republic": {
+      "message": "Ingush republic"
+   },
+   "RI_State_Or_Province_Iowa": {
+      "message": "IA"
+   },
+   "RI_State_Or_Province_Irkutsk_oblast": {
+      "message": "Irkutsk oblast"
+   },
+   "RI_State_Or_Province_Ishikawa": {
+      "message": "Ishikawa"
+   },
+   "RI_State_Or_Province_Ivanovskaya_oblast": {
+      "message": "Ivanovskaya oblast"
+   },
+   "RI_State_Or_Province_Iwate": {
+      "message": "Iwate"
+   },
+   "RI_State_Or_Province_Jiangsu": {
+      "message": "Jiangsu"
+   },
+   "RI_State_Or_Province_Jiangxi": {
+      "message": "Jiangxi"
+   },
+   "RI_State_Or_Province_Jilin": {
+      "message": "Jilin"
+   },
+   "RI_State_Or_Province_Jura": {
+      "message": "Jura"
+   },
+   "RI_State_Or_Province_Kabardino_Balkar_republic": {
+      "message": "Kabardino-Balkar republic"
+   },
+   "RI_State_Or_Province_Kagawa": {
+      "message": "Kagawa"
+   },
+   "RI_State_Or_Province_Kagoshima": {
+      "message": "Kagoshima"
+   },
+   "RI_State_Or_Province_Kalinigrad_oblast": {
+      "message": "Kalinigrad oblast"
+   },
+   "RI_State_Or_Province_Kalmykiya_republic": {
+      "message": "Kalmykiya republic"
+   },
+   "RI_State_Or_Province_Kaluga_oblast": {
+      "message": "Kaluga oblast"
+   },
+   "RI_State_Or_Province_Kamchatka_oblast": {
+      "message": "Kamchatka oblast"
+   },
+   "RI_State_Or_Province_Kanagawa": {
+      "message": "Kanagawa"
+   },
+   "RI_State_Or_Province_Kansas": {
+      "message": "KS"
+   },
+   "RI_State_Or_Province_Karachaevo_Cherkessia_republic": {
+      "message": "Karachaevo-Cherkessia republic"
+   },
+   "RI_State_Or_Province_Karelia_republic": {
+      "message": "Karelia republic"
+   },
+   "RI_State_Or_Province_Kemerovo_oblast": {
+      "message": "Kemerovo oblast"
+   },
+   "RI_State_Or_Province_Kentucky": {
+      "message": "KY"
+   },
+   "RI_State_Or_Province_Khabarovsk_krai": {
+      "message": "Khabarovsk krai"
+   },
+   "RI_State_Or_Province_Khakassia_republic": {
+      "message": "Khakassia republic"
+   },
+   "RI_State_Or_Province_Kirov_oblast": {
+      "message": "Kirov oblast"
+   },
+   "RI_State_Or_Province_Komi_Permyak_avt_okrug": {
+      "message": "Komi-Permyak avt okrug"
+   },
+   "RI_State_Or_Province_Komi_republic": {
+      "message": "Komi republic"
+   },
+   "RI_State_Or_Province_Koryak_avt_okrug": {
+      "message": "Koryak avt okrug"
+   },
+   "RI_State_Or_Province_Kostroma_oblast": {
+      "message": "Kostroma oblast"
+   },
+   "RI_State_Or_Province_Kouchi": {
+      "message": "Kouchi"
+   },
+   "RI_State_Or_Province_Krasnodar_krai": {
+      "message": "Krasnodar krai"
+   },
+   "RI_State_Or_Province_Krasnoyarsk_krai": {
+      "message": "Krasnoyarsk krai"
+   },
+   "RI_State_Or_Province_Kujawsko_Pomorskie": {
+      "message": "Kujawsko-Pomorskie"
+   },
+   "RI_State_Or_Province_Kumamoto": {
+      "message": "Kumamoto"
+   },
+   "RI_State_Or_Province_Kurgan_oblast": {
+      "message": "Kurgan oblast"
+   },
+   "RI_State_Or_Province_Kursk_oblast": {
+      "message": "Kursk oblast"
+   },
+   "RI_State_Or_Province_Kyoto": {
+      "message": "Kyoto"
+   },
+   "RI_State_Or_Province_Leningrad_oblast": {
+      "message": "Leningrad oblast"
+   },
+   "RI_State_Or_Province_Liaoning": {
+      "message": "Liaoning"
+   },
+   "RI_State_Or_Province_Liege": {
+      "message": "Luik"
+   },
+   "RI_State_Or_Province_Limburg": {
+      "message": "Limburg"
+   },
+   "RI_State_Or_Province_Lipetsk_oblast": {
+      "message": "Lipetsk oblast"
+   },
+   "RI_State_Or_Province_Lodzkie": {
+      "message": "Lodzkie"
+   },
+   "RI_State_Or_Province_Louisiana": {
+      "message": "LA"
+   },
+   "RI_State_Or_Province_Lubelskie": {
+      "message": "Lubelskie"
+   },
+   "RI_State_Or_Province_Lubuskie": {
+      "message": "Lubuskie"
+   },
+   "RI_State_Or_Province_Lucerne": {
+      "message": "Luzern"
+   },
+   "RI_State_Or_Province_Luxembourg": {
+      "message": "Luxemburg"
+   },
+   "RI_State_Or_Province_Magadan_oblast": {
+      "message": "Magadan oblast"
+   },
+   "RI_State_Or_Province_Maine": {
+      "message": "ME"
+   },
+   "RI_State_Or_Province_Malopolskie": {
+      "message": "Malopolskie"
+   },
+   "RI_State_Or_Province_Manitoba": {
+      "message": "Manitoba"
+   },
+   "RI_State_Or_Province_Marii_El_republic": {
+      "message": "Marii El republic"
+   },
+   "RI_State_Or_Province_Maryland": {
+      "message": "MD"
+   },
+   "RI_State_Or_Province_Massachusetts": {
+      "message": "MA"
+   },
+   "RI_State_Or_Province_Mazowieckie": {
+      "message": "Mazowieckie"
+   },
+   "RI_State_Or_Province_Michigan": {
+      "message": "MI"
+   },
+   "RI_State_Or_Province_Mie": {
+      "message": "Mie"
+   },
+   "RI_State_Or_Province_Minnesota": {
+      "message": "MN"
+   },
+   "RI_State_Or_Province_Mississippi": {
+      "message": "MS"
+   },
+   "RI_State_Or_Province_Missouri": {
+      "message": "MO"
+   },
+   "RI_State_Or_Province_Miyagi": {
+      "message": "Miyagi"
+   },
+   "RI_State_Or_Province_Miyazaki": {
+      "message": "Miyazaki"
+   },
+   "RI_State_Or_Province_Montana": {
+      "message": "MT"
+   },
+   "RI_State_Or_Province_Mordovia_republic": {
+      "message": "Mordovia republic"
+   },
+   "RI_State_Or_Province_Moscow_city": {
+      "message": "Moscow city"
+   },
+   "RI_State_Or_Province_Moscow_oblast": {
+      "message": "Moscow oblast"
+   },
+   "RI_State_Or_Province_Murmansk_oblast": {
+      "message": "Murmansk oblast"
+   },
+   "RI_State_Or_Province_Nagano": {
+      "message": "Nagano"
+   },
+   "RI_State_Or_Province_Nagasaki": {
+      "message": "Nagasaki"
+   },
+   "RI_State_Or_Province_Namur": {
+      "message": "Namen"
+   },
+   "RI_State_Or_Province_Nara": {
+      "message": "Nara"
+   },
+   "RI_State_Or_Province_Nebraska": {
+      "message": "NE"
+   },
+   "RI_State_Or_Province_Nei_Mongol": {
+      "message": "Nei Mongol"
+   },
+   "RI_State_Or_Province_Nenetsk_avt_okrug": {
+      "message": "Nenetsk avt okrug"
+   },
+   "RI_State_Or_Province_Neuchatel": {
+      "message": "Neuchâtel"
+   },
+   "RI_State_Or_Province_Nevada": {
+      "message": "NV"
+   },
+   "RI_State_Or_Province_New_Brunswick": {
+      "message": "New Brunswick"
+   },
+   "RI_State_Or_Province_New_Hampshire": {
+      "message": "NH"
+   },
+   "RI_State_Or_Province_New_Jersey": {
+      "message": "NJ"
+   },
+   "RI_State_Or_Province_New_Mexico": {
+      "message": "NM"
+   },
+   "RI_State_Or_Province_New_South_Wales": {
+      "message": "NSW"
+   },
+   "RI_State_Or_Province_New_York": {
+      "message": "NY"
+   },
+   "RI_State_Or_Province_Newfoundland": {
+      "message": "Newfoundland"
+   },
+   "RI_State_Or_Province_Nidwalden": {
+      "message": "Nidwalden"
+   },
+   "RI_State_Or_Province_Niigata": {
+      "message": "Niigata"
+   },
+   "RI_State_Or_Province_Ningxia": {
+      "message": "Ningxia"
+   },
+   "RI_State_Or_Province_Nizhegorodskaya_oblast": {
+      "message": "Nizhegorodskaya oblast"
+   },
+   "RI_State_Or_Province_North_Carolina": {
+      "message": "NC"
+   },
+   "RI_State_Or_Province_North_Dakota": {
+      "message": "ND"
+   },
+   "RI_State_Or_Province_Northern_Mariana_Is": {
+      "message": "MP"
+   },
+   "RI_State_Or_Province_Northern_Territory": {
+      "message": "NT"
+   },
+   "RI_State_Or_Province_Northwest_Territories": {
+      "message": "Northwest Territories"
+   },
+   "RI_State_Or_Province_Nova_Scotia": {
+      "message": "Nova Scotia"
+   },
+   "RI_State_Or_Province_Novgorod_oblast": {
+      "message": "Novgorod oblast"
+   },
+   "RI_State_Or_Province_Novosibirsk_oblast": {
+      "message": "Novosibirsk oblast"
+   },
+   "RI_State_Or_Province_Nunavut": {
+      "message": "Nunavut"
+   },
+   "RI_State_Or_Province_Obwalden": {
+      "message": "Obwalden"
+   },
+   "RI_State_Or_Province_Ohio": {
+      "message": "OH"
+   },
+   "RI_State_Or_Province_Okayama": {
+      "message": "Okayama"
+   },
+   "RI_State_Or_Province_Okinawa": {
+      "message": "Okinawa"
+   },
+   "RI_State_Or_Province_Oklahoma": {
+      "message": "OK"
+   },
+   "RI_State_Or_Province_Omsk_oblast": {
+      "message": "Omsk oblast"
+   },
+   "RI_State_Or_Province_Ontario": {
+      "message": "Ontario"
+   },
+   "RI_State_Or_Province_Ooita": {
+      "message": "Ooita"
+   },
+   "RI_State_Or_Province_Oost_Vlaanderen": {
+      "message": "Oost-Vlaanderen"
+   },
+   "RI_State_Or_Province_Opolskie": {
+      "message": "Opolskie"
+   },
+   "RI_State_Or_Province_Oregon": {
+      "message": "OR"
+   },
+   "RI_State_Or_Province_Orel_oblast": {
+      "message": "Orel oblast"
+   },
+   "RI_State_Or_Province_Orenburg_oblast": {
+      "message": "Orenburg oblast"
+   },
+   "RI_State_Or_Province_Osaka": {
+      "message": "Osaka"
+   },
+   "RI_State_Or_Province_Palau": {
+      "message": "PW"
+   },
+   "RI_State_Or_Province_Pennsylvania": {
+      "message": "PA"
+   },
+   "RI_State_Or_Province_Penza_oblast": {
+      "message": "Penza oblast"
+   },
+   "RI_State_Or_Province_Perm_oblast": {
+      "message": "Perm oblast"
+   },
+   "RI_State_Or_Province_Podkarpackie": {
+      "message": "Podkarpackie"
+   },
+   "RI_State_Or_Province_Podlaskie": {
+      "message": "Podlaskie"
+   },
+   "RI_State_Or_Province_Pomorskie": {
+      "message": "Pomorskie"
+   },
+   "RI_State_Or_Province_Primorskii_krai": {
+      "message": "Primorskii krai"
+   },
+   "RI_State_Or_Province_Prince_Edward_Island": {
+      "message": "Prince Edward Island"
+   },
+   "RI_State_Or_Province_Pskov_oblast": {
+      "message": "Pskov oblast"
+   },
+   "RI_State_Or_Province_Puerto_Rico": {
+      "message": "PR"
+   },
+   "RI_State_Or_Province_Qinghai": {
+      "message": "Qinghai"
+   },
+   "RI_State_Or_Province_Quebec": {
+      "message": "Quebec"
+   },
+   "RI_State_Or_Province_Queensland": {
+      "message": "QLD"
+   },
+   "RI_State_Or_Province_Rhode_Island": {
+      "message": "RI"
+   },
+   "RI_State_Or_Province_Rostov_oblast": {
+      "message": "Rostov oblast"
+   },
+   "RI_State_Or_Province_Ryazan_oblast": {
+      "message": "Ryazan oblast"
+   },
+   "RI_State_Or_Province_Saga": {
+      "message": "Saga"
+   },
+   "RI_State_Or_Province_Saha_republic": {
+      "message": "Saha (Yakutia)"
+   },
+   "RI_State_Or_Province_Saint_Gall": {
+      "message": "Sankt Gallen"
+   },
+   "RI_State_Or_Province_Saitama": {
+      "message": "Saitama"
+   },
+   "RI_State_Or_Province_Sakhalin_oblast": {
+      "message": "Sachalin oblast"
+   },
+   "RI_State_Or_Province_Samara_oblast": {
+      "message": "Samara oblast"
+   },
+   "RI_State_Or_Province_Saratov_oblast": {
+      "message": "Saratov oblast"
+   },
+   "RI_State_Or_Province_Saskatchewan": {
+      "message": "Saskatchewan"
+   },
+   "RI_State_Or_Province_Schaffhausen": {
+      "message": "Schaffhausen"
+   },
+   "RI_State_Or_Province_Schwyz": {
+      "message": "Schwyz"
+   },
+   "RI_State_Or_Province_Severnaya_Ossetia_Alaniya_republic": {
+      "message": "Severnaya Ossetia-Alaniya republic"
+   },
+   "RI_State_Or_Province_Shaanxi": {
+      "message": "Shaanxi"
+   },
+   "RI_State_Or_Province_Shandong": {
+      "message": "Shandong"
+   },
+   "RI_State_Or_Province_Shanghai": {
+      "message": "Shanghai"
+   },
+   "RI_State_Or_Province_Shanxi": {
+      "message": "Shanxi"
+   },
+   "RI_State_Or_Province_Shiga": {
+      "message": "Shiga"
+   },
+   "RI_State_Or_Province_Shimane": {
+      "message": "Shimane"
+   },
+   "RI_State_Or_Province_Shizuoka": {
+      "message": "Shizuoka"
+   },
+   "RI_State_Or_Province_Sichuan": {
+      "message": "Sichuan"
+   },
+   "RI_State_Or_Province_Slaskie": {
+      "message": "Slaskie"
+   },
+   "RI_State_Or_Province_Smolensk_oblast": {
+      "message": "Smolensk oblast"
+   },
+   "RI_State_Or_Province_Solothurn": {
+      "message": "Solothurn"
+   },
+   "RI_State_Or_Province_South_Australia": {
+      "message": "SA"
+   },
+   "RI_State_Or_Province_South_Carolina": {
+      "message": "SC"
+   },
+   "RI_State_Or_Province_South_Dakota": {
+      "message": "SD"
+   },
+   "RI_State_Or_Province_St_Petersburg_city": {
+      "message": "St Petersburg city"
+   },
+   "RI_State_Or_Province_Stavropol_krai": {
+      "message": "Stavropol krai"
+   },
+   "RI_State_Or_Province_Sverdlovsk_oblast": {
+      "message": "Sverdlovsk oblast"
+   },
+   "RI_State_Or_Province_Swietokrzyskie": {
+      "message": "Swietokrzyskie"
+   },
+   "RI_State_Or_Province_Taimyr_act_okrug": {
+      "message": "Taimyr act okrug"
+   },
+   "RI_State_Or_Province_Taiwan": {
+      "message": "Taiwan"
+   },
+   "RI_State_Or_Province_Tambov_oblast": {
+      "message": "Tambov oblast"
+   },
+   "RI_State_Or_Province_Tasmania": {
+      "message": "TAS"
+   },
+   "RI_State_Or_Province_Tatarstan_republic": {
+      "message": "Tatarstan republic"
+   },
+   "RI_State_Or_Province_Tennessee": {
+      "message": "TN"
+   },
+   "RI_State_Or_Province_Texas": {
+      "message": "TX"
+   },
+   "RI_State_Or_Province_Thurgovia": {
+      "message": "Thurgau"
+   },
+   "RI_State_Or_Province_Tianjin": {
+      "message": "Tianjin"
+   },
+   "RI_State_Or_Province_Ticino": {
+      "message": "Ticino"
+   },
+   "RI_State_Or_Province_Tochigi": {
+      "message": "Tochigi"
+   },
+   "RI_State_Or_Province_Tokushima": {
+      "message": "Tokushima"
+   },
+   "RI_State_Or_Province_Tokyo": {
+      "message": "Tokyo"
+   },
+   "RI_State_Or_Province_Tomsk_oblast": {
+      "message": "Tomsk oblast"
+   },
+   "RI_State_Or_Province_Tottori": {
+      "message": "Tottori"
+   },
+   "RI_State_Or_Province_Toyama": {
+      "message": "Toyama"
+   },
+   "RI_State_Or_Province_Tula_oblast": {
+      "message": "Tula oblast"
+   },
+   "RI_State_Or_Province_Tver_oblast": {
+      "message": "Tver oblast"
+   },
+   "RI_State_Or_Province_Tyumen_oblast": {
+      "message": "Tyumen oblast"
+   },
+   "RI_State_Or_Province_Tywa_republic": {
+      "message": "Tywa republic"
+   },
+   "RI_State_Or_Province_Udmurtia_republic": {
+      "message": "Udmurtia republic"
+   },
+   "RI_State_Or_Province_Ulianovsk_oblast": {
+      "message": "Ulianovsk oblast"
+   },
+   "RI_State_Or_Province_Uri": {
+      "message": "Uri"
+   },
+   "RI_State_Or_Province_Ust_Ordynsk_Buryat_avt_okrug": {
+      "message": "Ust'-Ordynsk Buryat avt okrug"
+   },
+   "RI_State_Or_Province_Utah": {
+      "message": "UT"
+   },
+   "RI_State_Or_Province_Valais": {
+      "message": "Wallis"
+   },
+   "RI_State_Or_Province_Vaud": {
+      "message": "Vaud"
+   },
+   "RI_State_Or_Province_Vermont": {
+      "message": "VT"
+   },
+   "RI_State_Or_Province_Victoria": {
+      "message": "VIC"
+   },
+   "RI_State_Or_Province_Virgin_Island": {
+      "message": "VI"
+   },
+   "RI_State_Or_Province_Virginia": {
+      "message": "VA"
+   },
+   "RI_State_Or_Province_Vlaams_Brabant": {
+      "message": "Vlaams-Brabant"
+   },
+   "RI_State_Or_Province_Vladimir_oblast": {
+      "message": "Vladimir oblast"
+   },
+   "RI_State_Or_Province_Volgograd_oblast": {
+      "message": "Volgograd oblast"
+   },
+   "RI_State_Or_Province_Vologod_oblast": {
+      "message": "Vologod oblast"
+   },
+   "RI_State_Or_Province_Voronezh_oblast": {
+      "message": "Voronezh oblast"
+   },
+   "RI_State_Or_Province_Wakayama": {
+      "message": "Wakayama"
+   },
+   "RI_State_Or_Province_Warminsko_Mazurskie": {
+      "message": "Warminsko-Mazurskie"
+   },
+   "RI_State_Or_Province_Washington": {
+      "message": "WA"
+   },
+   "RI_State_Or_Province_West_Virginia": {
+      "message": "WV"
+   },
+   "RI_State_Or_Province_West_Vlaanderen": {
+      "message": "West-Vlaanderen"
+   },
+   "RI_State_Or_Province_Western_Australia": {
+      "message": "WA"
+   },
+   "RI_State_Or_Province_Wielkopolskie": {
+      "message": "Wielkopolskie"
+   },
+   "RI_State_Or_Province_Wisconsin": {
+      "message": "WI"
+   },
+   "RI_State_Or_Province_Wyoming": {
+      "message": "WY"
+   },
+   "RI_State_Or_Province_Xianggang": {
+      "message": "Xianggang"
+   },
+   "RI_State_Or_Province_Xinjiang": {
+      "message": "Xinjiang"
+   },
+   "RI_State_Or_Province_Xizang": {
+      "message": "Xizang"
+   },
+   "RI_State_Or_Province_Yamagata": {
+      "message": "Yamagata"
+   },
+   "RI_State_Or_Province_Yamaguchi": {
+      "message": "Yamaguchi"
+   },
+   "RI_State_Or_Province_Yamalo_Nenetsk_avt_okrug": {
+      "message": "Yamalo-Nenetsk avt okrug"
+   },
+   "RI_State_Or_Province_Yamanashi": {
+      "message": "Yamanashi"
+   },
+   "RI_State_Or_Province_Yaroslav_oblast": {
+      "message": "Yaroslav oblast"
+   },
+   "RI_State_Or_Province_Yukon": {
+      "message": "Yukon"
+   },
+   "RI_State_Or_Province_Yunnan": {
+      "message": "Yunnan"
+   },
+   "RI_State_Or_Province_Zachodniopomorskie": {
+      "message": "Zachodniopomorskie"
+   },
+   "RI_State_Or_Province_Zhejiang": {
+      "message": "Zhejiang"
+   },
+   "RI_State_Or_Province_Zug": {
+      "message": "Zug"
+   },
+   "RI_State_Or_Province_Zurich": {
+      "message": "Zürich"
+   },
+   "RI_State_Zip": {
+      "message": "Staat Postcode"
+   },
+   "RI_Station": {
+      "message": "Station"
+   },
+   "RI_Stock_Symbol": {
+      "message": "Aandeelsymbool"
+   },
+   "RI_StreetName": {
+      "message": "Straatnaam"
+   },
+   "RI_StreetNameC_HouseNumber": {
+      "message": "Straatnaam, Huisnummer"
+   },
+   "RI_StreetName_HouseNumber": {
+      "message": "Straatnaam Huisnummer"
+   },
+   "RI_Suburb": {
+      "message": "Wijk"
+   },
+   "RI_Subway_Station": {
+      "message": "Metro Station"
+   },
+   "RI_Suffix": {
+      "message": "Achtervoegsel"
+   },
+   "RI_Summary___id_account__": {
+      "message": "rekening"
+   },
+   "RI_Summary___id_appname__": {
+      "message": "programmanaam"
+   },
+   "RI_Summary___id_bank__": {
+      "message": "bank"
+   },
+   "RI_Summary___id_carmakemodel__": {
+      "message": "fabrikant, model"
+   },
+   "RI_Summary___id_cell__": {
+      "message": "mobiel:\t"
+   },
+   "RI_Summary___id_cvv__": {
+      "message": "cvv"
+   },
+   "RI_Summary___id_expiration__": {
+      "message": "verloopt"
+   },
+   "RI_Summary___id_fax__": {
+      "message": "fax:\t"
+   },
+   "RI_Summary___id_filename__": {
+      "message": "bestandsnaam"
+   },
+   "RI_Summary___id_home__": {
+      "message": "thuis:\t"
+   },
+   "RI_Summary___id_mail__": {
+      "message": "mail"
+   },
+   "RI_Summary___id_passportnumber__": {
+      "message": "paspoort #"
+   },
+   "RI_Summary___id_password__": {
+      "message": "wachtwoord"
+   },
+   "RI_Summary___id_phone__": {
+      "message": "telefoonnummer:\t"
+   },
+   "RI_Summary___id_platenumber__": {
+      "message": "Kentekenplaat #"
+   },
+   "RI_Summary___id_ssn__": {
+      "message": "SSN #"
+   },
+   "RI_Summary___id_userid__": {
+      "message": "gebruikersnaam"
+   },
+   "RI_Summary___id_work__": {
+      "message": "werk:\t"
+   },
+   "RI_Tax_ID": {
+      "message": "Belasting ID"
+   },
+   "RI_Title": {
+      "message": "Titel"
+   },
+   "RI_Title_Dr": {
+      "message": "Dr."
+   },
+   "RI_Title_Engr": {
+      "message": "Ir."
+   },
+   "RI_Title_Mr": {
+      "message": "Hr."
+   },
+   "RI_Title_Mrs": {
+      "message": "Mevr."
+   },
+   "RI_Title_Ms": {
+      "message": "Mej."
+   },
+   "RI_Title_Prof": {
+      "message": "Prof."
+   },
+   "RI_Toll_Free_Phone": {
+      "message": "Gratis tel nr"
+   },
+   "RI_Type_Of_Business": {
+      "message": "Bedrijfstype"
+   },
+   "RI_User_ID": {
+      "message": "Gebruikers ID"
+   },
+   "RI_Valid_From": {
+      "message": "Geldig vanaf"
+   },
+   "RI_Vehicle_Identification_Number": {
+      "message": "VIN"
+   },
+   "RI_Web_Site": {
+      "message": "internet site"
+   },
+   "RI_Work_Phone": {
+      "message": "Werk Tel"
+   },
+   "RI_Work_Phone_Ext": {
+      "message": "toestelnummer"
+   },
+   "RI_Yahoo_ID": {
+      "message": "Yahoo ID"
+   },
+   "RI_ZipCode": {
+      "message": "Zip Code"
+   },
+   "RI_Zip_Or_PostCode": {
+      "message": "Zip Of PostCode"
+   },
+   "RI__End": {
+      "message": ""
+   },
+   "RI__Start": {
+      "message": ""
+   },
+   "RI_dd": {
+      "message": "dd"
+   },
+   "RI_mm": {
+      "message": "mm"
+   },
+   "RI_yyyy": {
+      "message": "jjjj"
+   },
+   "ReadOnly_Error": {
+      "message": "Gegevens zijn alleen-lezen"
+   },
+   "RenameDlg_InstanceRename_Prompt": {
+      "message": "Hernoem %1 '%2' van %3 '%4' naar:"
+   },
+   "RenameDlg_Instance_Type_Text": {
+      "message": "Instance"
+   },
+   "ReportAnIssue_RFSSTicket_Message": {
+      "message": "Beste RoboForm Support, \nOp de pagina: %1 \nheb ik de volgende problemen in RoboForm ontdekt: \n%2"
+   },
+   "ReportAnIssue_RFSSTicket_Subject": {
+      "message": "RoboForm probleem op %1"
+   },
+   "RfSyncProgress_Analyzed": {
+      "message": "Geanalyseerd"
+   },
+   "RfSyncProgress_Connecting": {
+      "message": "Verbinden..."
+   },
+   "RfSyncProgress_Done": {
+      "message": "Gereed"
+   },
+   "RfSyncProgress_RequestingAccountInfo": {
+      "message": "Informatie aanvragen..."
+   },
+   "RfSyncProgress_Synced": {
+      "message": "Gesynchroniseerd"
+   },
+   "RfSyncProgress_Syncing": {
+      "message": "Syncen..."
+   },
+   "RfSyncProgress_SyncingSharedFiles": {
+      "message": "Gedeelde bestanden syncen..."
+   },
+   "RfSyncProgress_SyncingSharedFolders": {
+      "message": "Gedeelde mappen syncen..."
+   },
+   "RfSyncProgress_SyncingUsageInfo": {
+      "message": "Gebruiksgegevens syncen..."
+   },
+   "RoboForm_Error": {
+      "message": "RoboForm Fout"
+   },
+   "RoboForm_Question": {
+      "message": "RoboForm Vraag"
+   },
+   "RoboForm_Warning": {
+      "message": "RoboForm Waarschuwing"
+   },
+   "RoboformType_Bookmark": {
+      "message": "Bladwijzer"
+   },
+   "RoboformType_Bookmarks": {
+      "message": "Bladwijzers"
+   },
+   "RoboformType_Contact": {
+      "message": "Contact"
+   },
+   "RoboformType_Contacts": {
+      "message": "Contacten"
+   },
+   "RoboformType_File": {
+      "message": "Bestand"
+   },
+   "RoboformType_Files": {
+      "message": "Bestanden"
+   },
+   "RoboformType_Folder": {
+      "message": "Map"
+   },
+   "RoboformType_Folders": {
+      "message": "Mappen"
+   },
+   "RoboformType_Identities": {
+      "message": "Identiteiten"
+   },
+   "RoboformType_Identity": {
+      "message": "Identiteit"
+   },
+   "RoboformType_Login": {
+      "message": "Login"
+   },
+   "RoboformType_Logins": {
+      "message": "Logins"
+   },
+   "RoboformType_Safenote": {
+      "message": "Safenote"
+   },
+   "RoboformType_Safenotes": {
+      "message": "Safenotes"
+   },
+   "RoboformType_Searchcard": {
+      "message": "Zoekkaart"
+   },
+   "RoboformType_Searchcards": {
+      "message": "Zoekkaarten"
+   },
+   "Roboform_Folder": {
+      "message": "Map"
+   },
+   "SA_ChangeAccountPwd_Error": {
+      "message": "Foutcode %1"
+   },
+   "SA_Edge_Setup_Description_First": {
+      "message": "U hebt RoboForm voor Edge standalone extensie geïnstalleerd. Voor de volledige versie, installeer RoboForm voor Windows."
+   },
+   "SA_LimitedMode_LinkRF_Text": {
+      "message": "Installeer RoboForm"
+   },
+   "SA_LimitedMode_Text": {
+      "message": "Beperkte functionaliteit. Voor alle features "
+   },
+   "SA_Setup_Description_First": {
+      "message": "U heeft de extensie RoboForm geïnstalleerd. Deze uitbreiding biedt slechts een beperkte functionaliteit. Voor volledige functionaliteit moet u de RoboForm applicatie updaten of installeren op uw computer."
+   },
+   "SA_Setup_Description_Repair": {
+      "message": "U gebruikte eerder de RoboForm-extensie met RoboForm-software op uw computer, maar nu is de RoboForm-software oud of niet geinstalleerd. Klik op de \"Installeer nu\" knop hieronder om de RoboForm-versie op uw computer te repareren of te updaten."
+   },
+   "SA_Setup_InstallNow_Button": {
+      "message": "Installeer nu"
+   },
+   "SA_Setup_Skip_Button": {
+      "message": "Overslaan"
+   },
+   "Safenote_ClickToView_Tip": {
+      "message": "Klik om Safenote te bekijken"
+   },
+   "SaveDlg_ActionNote_Existing_Bookmark": {
+      "message": "Deze Bookmark zal een bestaande Bookmark vervangen: '%1'"
+   },
+   "SaveDlg_ActionNote_Existing_Login": {
+      "message": "Deze Login gegevens vervangen een bestaande Login: '%1'"
+   },
+   "SaveDlg_ActionNote_NewAccountLogin": {
+      "message": "Nieuwe accountgegevens worden opgeslagen in nieuwe Login '%1'"
+   },
+   "SaveDlg_ActionNote_UpdateLoginPassword": {
+      "message": "Een nieuw wachtwoord vervangt het oude wachtwoord in de bestaande Login: '%1', andere velden zullen niet veranderen"
+   },
+   "SaveDlg_ActionNote_UpdateLoginUrl_Text": {
+      "message": "URL in Login '%1' zal worden bijgewerkt"
+   },
+   "SaveDlg_ActionNote_UpdateLogin_Text": {
+      "message": "Login '%1' zal worden bijgewerkt met nieuwe informatie"
+   },
+   "SaveDlg_AskBeforeSaving_Text": {
+      "message": "Vragen voor het opslaan"
+   },
+   "SaveDlg_AutoSavedPassword_LoginTip": {
+      "message": "Automatisch opgeslagen van wachtwoord wijzigingsformulier"
+   },
+   "SaveDlg_Folder_Text": {
+      "message": "Map:"
+   },
+   "SaveDlg_NeverForThisSite_Text": {
+      "message": "Nooit voor deze site"
+   },
+   "SaveDlg_NewFolder_Text": {
+      "message": "Map Aanmaken..."
+   },
+   "SaveDlg_Note_AccountCreationData_Text": {
+      "message": "Gegevens Aanmaken Account:"
+   },
+   "SaveDlg_Note_PasswordChanged_Text2": {
+      "message": "%1: Wachtwoord gewijzigd van '%2'"
+   },
+   "SaveDlg_Preview_Group_Title": {
+      "message": "Voorbeeld"
+   },
+   "SaveDlg_ReplaceExistingItem_Section_Text": {
+      "message": "Vervang bestaande item:"
+   },
+   "SaveDlg_ReplaceExistingLogin_Section_Text": {
+      "message": "Vervang bestaande Login:"
+   },
+   "SaveDlg_SaveAs_Bookmark_Text": {
+      "message": "Bookmark"
+   },
+   "SaveDlg_SaveAs_Login_Text": {
+      "message": "Login"
+   },
+   "SaveDlg_SaveNewLogin_Section_Text": {
+      "message": "Nieuwe Login opslaan:"
+   },
+   "SaveDlg_Unblock_Key": {
+      "message": "Deblokkeer"
+   },
+   "SaveDlg_UpdateExistingLogin_Section_Text": {
+      "message": "Bestaande Login bijwerken:"
+   },
+   "SaveDlg_UpdateLoginQuestion_Text": {
+      "message": "Wilt u dat RoboForm uw Login bijwerkt?"
+   },
+   "SaveDlg_UpdatePasswordQuestion_Text": {
+      "message": "Nieuw wachtwoord gedetecteerd.\nLogin '%1' bijwerken met het nieuwe wachtwoord?"
+   },
+   "SaveForms_Disabled": {
+      "message": "Opslagformulieren is uitgeschakeld door het veiligheidsbeleid"
+   },
+   "SearchAction_Search_In": {
+      "message": "Zoeken '%%query%%' in %1"
+   },
+   "SearchAction_Search_In_RoboForm_Files": {
+      "message": "Zoeken '%%query%%' in RoboForm bestanden"
+   },
+   "SearchAction_Search_In_RoboForm_Names": {
+      "message": "Zoeken '%%query%%' in RoboForm namen"
+   },
+   "SendFilesConfirmation_Title": {
+      "message": "Een RoboForm gebruiker heeft u enkele RoboForm gegevens gestuurd.\nGelieve de onderstaande verzonden bestand(en) te aanvaarden of te weigeren:"
+   },
+   "SensitiveFields_Text_2": {
+      "message": "RoboForm heeft gevoelige velden gevonden. Bevestig dat u toestaat dat deze Velden worden ingevuld:"
+   },
+   "SensitiveFields_Title2": {
+      "message": "Gevoelige Velden Gevonden - RoboForm"
+   },
+   "SessionExpireDlg_Text": {
+      "message": "Je sessie is getimed. Gelieve opnieuw aan te melden."
+   },
+   "SetupPage_AlreadyHaveAnAccount_Question": {
+      "message": "Heeft u al een account?"
+   },
+   "SetupPage_AlreadyHaveAnAccount_Text": {
+      "message": "Heeft u al een RoboForm account?"
+   },
+   "SetupPage_CreateAccount_Button_Text": {
+      "message": "Een RoboForm account aanmaken"
+   },
+   "SetupPage_CreateAccount_Link_Text": {
+      "message": "Account aanmaken"
+   },
+   "SetupPage_DoNotHaveAnAccount_Text": {
+      "message": "Heeft u geen account?"
+   },
+   "Setup_CreateAccountWithTakenEmail_Error2": {
+      "message": "Account met deze e-mail bestaat al.\nVoer een andere e-mail in."
+   },
+   "Setup_LoginWithExistingAccount_Prompt": {
+      "message": "* Voor de RoboForm-extensie zijn cookies nodig. Zorg ervoor dat uw 'Cookies' instelling is ingesteld op 'Cookies niet blokkeren'"
+   },
+   "ShareExistingFolder_TooLongName_Error": {
+      "message": "De naam van de map '%1' is te lang. De maximale toegestane naamlengte voor gedeelde mappen en groepen is %2 symbolen."
+   },
+   "SharedFileSettings_CompanyMembersOnlySending_Error": {
+      "message": "Het verzenden van bestanden wordt beperkt door het beleid. U kunt bestanden alleen naar leden van uw bedrijf sturen."
+   },
+   "SharedFileSettings_CompanyMembersOnlySharing_Error": {
+      "message": "Het delen van bestanden wordt beperkt door het beleid. U kunt bestanden alleen delen met leden van uw bedrijf."
+   },
+   "SharedFilesConfirmation_Title": {
+      "message": "Een RoboForm gebruiker wil enkele RoboForm gegevens met u delen.\nGelieve de gedeelde bestanden te aanvaarden of te weigeren:"
+   },
+   "SharedFolderSettings_CompanyMembersOnlySharing_Error": {
+      "message": "Het delen van mappen wordt beperkt door het beleid. U kunt mappen alleen delen met leden van uw bedrijf."
+   },
+   "SharedFolderSettings_Folder": {
+      "message": "Gedeelde Map"
+   },
+   "SharedFolderSettings_Group": {
+      "message": "Groep"
+   },
+   "SharedFolderSettings_RejectSharedFolder": {
+      "message": "Weiger"
+   },
+   "SharedFolderSettings_RoleOwner": {
+      "message": "Eigenaar"
+   },
+   "SharedFolder_Revoke_Confirmation": {
+      "message": "Weet u zeker dat u de gedeelde map '%1' wilt terugtrekken van gebruiker %2?"
+   },
+   "SharedFoldersConfirmation_Title": {
+      "message": "Een RoboForm gebruiker wil enkele RoboForm gegevens met u delen.\nGelieve de onderstaande gedeelde map(pen) te aanvaarden of af te wijzen:"
+   },
+   "ShowAutoFillUI_Text": {
+      "message": "Toon in plaats van AutoFill UI"
+   },
+   "ShowContextMenuCommands_Text2": {
+      "message": "Toon RoboForm-commando's in het contextmenu van de browser"
+   },
+   "ShowContextMenuCommands_Tip": {
+      "message": "RoboForm commando's zullen verschijnen in de Windows-contextmenu's"
+   },
+   "ShowLowerToolbarForPopups_Text": {
+      "message": "Toon onderste RoboForm-werkbalk voor popupvensters"
+   },
+   "ShowLowerToolbarForPopups_Tip": {
+      "message": "RoboForm-zoekvak zal zich automatisch vasthechten aan de onderkant van de geopende browser-popupvensters"
+   },
+   "ShowLowerToolbar_Text2": {
+      "message": "Toon lagere RoboForm-zoekvak in webbrowsers"
+   },
+   "ShowLowerToolbar_Tip": {
+      "message": "Volledig functionele RoboForm-zoekvak zal zich vasthechten aan de onderkant van alle webbrowsers die de RoboForm-extensie hebben geïnstalleerd"
+   },
+   "StopSharingFolder_DataInFolder_Error": {
+      "message": "Uw gegevens zijn opgeslagen in de map \"%1\".\nFout: %2."
+   },
+   "StopSharingFolder_DataInFolder_RemoveShared_Error": {
+      "message": "Uw gegevens zijn opgeslagen in de map \"%1\".\nU moet een gedeelde map(groep) verwijderen of afwijzen.\nFout: %2."
+   },
+   "StopSharingFolder_NotFolderOwner_Error": {
+      "message": "Alleen de eigenaar van een gedeelde map kan het delen van een map stoppen."
+   },
+   "UseDesktopEditorForViewAndEdit_Text": {
+      "message": "Gebruik Desktop Editor om te bekijken en te bewerken\"Het invullen van het formulier is afgebroken omdat het domein van het frame niet overeenkomt met de URL van de Login"
+   },
+   "UseDesktopEditorForViewAndEdit_Tip": {
+      "message": "Bekijk en bewerk commando's gestart vanuit de RoboForm-extensie en startpagina-menu's zullen worden geopend in bureaublad-editor"
+   },
+   "WelcomePage_Page_Title": {
+      "message": "Welkom"
+   },
+   "WrongNameLenght_Error": {
+      "message": "Lengte van naam moet 1-%1 symbolen bevatten"
+   },
+   "Yes": {
+      "message": "Ja"
+   }
+}

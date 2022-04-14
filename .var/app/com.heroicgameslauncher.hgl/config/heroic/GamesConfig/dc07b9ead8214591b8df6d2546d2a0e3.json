@@ -1,0 +1,26 @@
+{
+  "dc07b9ead8214591b8df6d2546d2a0e3": {
+    "autoInstallDxvk": true,
+    "autoInstallVkd3d": true,
+    "maxSharpness": 2,
+    "nvidiaPrime": false,
+    "otherOptions": "",
+    "savesPath": "",
+    "showFps": true,
+    "showMangohud": true,
+    "targetExe": "",
+    "useGameMode": true,
+    "wineCrossoverBottle": "Heroic",
+    "winePrefix": "/home/tommi/Games/Heroic/Prefixes/Aven-Colony",
+    "wineVersion": {
+      "bin": "'/home/tommi/.local/share/lutris/runners/wine/lutris-6.14-4-x86_64/bin/wine'",
+      "name": "Wine - lutris-6.14-4-x86_64",
+      "type": "wine",
+      "wineserver": "'/home/tommi/.local/share/lutris/runners/wine/lutris-6.14-4-x86_64/bin/wineserver'",
+      "wineboot": "'/home/tommi/.local/share/lutris/runners/wine/lutris-6.14-4-x86_64/bin/wineboot'"
+    },
+    "useSteamRuntime": false
+  },
+  "version": "v0",
+  "explicit": true
+}

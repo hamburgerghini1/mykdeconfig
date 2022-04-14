@@ -1,0 +1,4058 @@
+{
+   "AboutPage_Title": {
+      "message": "关于"
+   },
+   "About_Sync2": {
+      "message": "账户"
+   },
+   "About_Version2": {
+      "message": "版本"
+   },
+   "AccountLicenseStatus_Business": {
+      "message": "商业版执照"
+   },
+   "AccountLicenseStatus_LicenseExpired": {
+      "message": "执照%1天前过期"
+   },
+   "AccountLicenseStatus_LicenseExpiresIn": {
+      "message": "执照%1天过期"
+   },
+   "AccountLicenseStatus_LicenseExpiresToday": {
+      "message": "执照今天过期"
+   },
+   "AccountLicenseStatus_LicenseIsActive": {
+      "message": "许可证激活状态"
+   },
+   "AccountLicenseStatus_NoLicense": {
+      "message": "没有执照"
+   },
+   "AccountLicenseStatus_TrialExpired": {
+      "message": "试用期%1天前过期了"
+   },
+   "AccountLicenseStatus_TrialExpiresIn": {
+      "message": "试用期%1天过期"
+   },
+   "AccountLicenseStatus_TrialExpiresToday": {
+      "message": "试用期今天过期"
+   },
+   "AlreadyExists_Error2": {
+      "message": "已存在名为'%2'的%1 "
+   },
+   "Android_matching_dialog_title": {
+      "message": "匹配登录名"
+   },
+   "AskConsentToCollectData_Accept_Button": {
+      "message": "接受"
+   },
+   "AskConsentToCollectData_ActionsAndFilledInformation_Text": {
+      "message": "我们收集您的操作（鼠标单击和键盘输入）和您填写到网站中的信息用于保存和填写您在网站上的身份证明"
+   },
+   "AskConsentToCollectData_ContinueButton_Text": {
+      "message": "继续"
+   },
+   "AskConsentToCollectData_DeclineWarning_Text": {
+      "message": "如果拒绝，您将无法使用RoboForm扩展。"
+   },
+   "AskConsentToCollectData_Decline_Button": {
+      "message": "拒绝"
+   },
+   "AskConsentToCollectData_Details_Text": {
+      "message": "如需了解有关我们收集的数据及其处理方式的全部详细信息，请查阅我们的"
+   },
+   "AskConsentToCollectData_NoSwitcher_Text": {
+      "message": "否"
+   },
+   "AskConsentToCollectData_PersonalDataSection_Text": {
+      "message": "可识别您个人身份的数据"
+   },
+   "AskConsentToCollectData_PersonalRejectionImpact_Text": {
+      "message": "如果您选择不允许我们收集您的个人数据，RoboForm将无法运作"
+   },
+   "AskConsentToCollectData_PrivacyPolicy_Link_Text": {
+      "message": "隐私政策"
+   },
+   "AskConsentToCollectData_RemoveExtensionButton_Text": {
+      "message": "移除RoboForm"
+   },
+   "AskConsentToCollectData_RevisitConsentsButton_Text": {
+      "message": "重新访问数据收集同意书"
+   },
+   "AskConsentToCollectData_RoboFormCannotWorkWithoutPermissions_Text": {
+      "message": "很抱歉，如果我们无法收集您访问的网址URL、搜索词、您的操作和填写到网站中的信息，那么RoboForm将无法运作，因为我们需要使用RoboForm来保存及填写您在网站上的身份证明。如果您想重新考虑是否允许RoboForm收集数据，我们建议您先移除RoboForm。"
+   },
+   "AskConsentToCollectData_SectionTitleStart_Text": {
+      "message": "我们可以收集以下内容吗"
+   },
+   "AskConsentToCollectData_TechnicalDataSection_Text": {
+      "message": "有关您使用RoboForm的匿名数据"
+   },
+   "AskConsentToCollectData_TechnicalRejectionImpact_Text": {
+      "message": "如果您选择不允许我们收集匿名数据，则RoboForm将无法运作"
+   },
+   "AskConsentToCollectData_Text": {
+      "message": "为了确保RoboForm正常运行，我们必须具有访问和收集网址（URL）的权限。未经许可，RoboForm无法将凭据填写或保存到您的网站。了解更多有关RoboForm的信息，请相见我们的"
+   },
+   "AskConsentToCollectData_Title": {
+      "message": "个人隐私"
+   },
+   "AskConsentToCollectData_UrlsAndSearchTerms_Text": {
+      "message": "我们将收集您访问过的网址和搜索词用于保存和填充您在网站上的身份证明"
+   },
+   "AskConsentToCollectData_YesSwitcher_Text": {
+      "message": "是"
+   },
+   "AutoFill_AddIdentityGroup": {
+      "message": "添加 %1"
+   },
+   "AutoFill_Ago_Text": {
+      "message": "之前的%1"
+   },
+   "AutoFill_ConfirmPasswordChange_Text": {
+      "message": "确认密码更改%1"
+   },
+   "AutoFill_Delete": {
+      "message": "删除"
+   },
+   "AutoFill_DontShowOnThisDomain": {
+      "message": "不在此域中显示"
+   },
+   "AutoFill_Edit": {
+      "message": "编辑"
+   },
+   "AutoFill_Fill": {
+      "message": "填表"
+   },
+   "AutoFill_FillSubmit": {
+      "message": "填写并提交"
+   },
+   "AutoFill_Generate": {
+      "message": "生成"
+   },
+   "AutoFill_IdentitiesWithMatchingValuesList_Header_Text": {
+      "message": "匹配身份："
+   },
+   "AutoFill_KeepOldPasswordConfirm_Text": {
+      "message": "是否要移除等待%1确认的新密码？"
+   },
+   "AutoFill_Login": {
+      "message": "登录%1"
+   },
+   "AutoFill_NewPassword": {
+      "message": "新密码"
+   },
+   "AutoFill_OtherIdentitiesList_Header_Text": {
+      "message": "其他身份信息 (A-Z排序):"
+   },
+   "AutoFill_PasswordAge_Text": {
+      "message": "旧密码%1"
+   },
+   "AutoFill_PasswordGenerator_Settings": {
+      "message": "设置..."
+   },
+   "AutoFill_PreviousPassword_Text": {
+      "message": "保留旧密码%1"
+   },
+   "AutoFill_RecentlyUsedIdentitiesList_Header_Text": {
+      "message": "最近使用的身份信息："
+   },
+   "AutoFill_Rename": {
+      "message": "重命名"
+   },
+   "AutoFill_ReportAnIssue_Command_Text": {
+      "message": "报告自动填充问题"
+   },
+   "AutoFill_ReportAnIssue_Command_Tooltip": {
+      "message": "在此页面上报告关于自动填充问题"
+   },
+   "AutoFill_RoboFormLogin_Text": {
+      "message": "请单击浏览器工具栏中的RoboForm按钮以执行登录操作。"
+   },
+   "AutoFill_ShowOnThisDomain": {
+      "message": "在此域中显示"
+   },
+   "AutoSave_LoginRequiredNotification_LogInToRoboForm_ButtonText": {
+      "message": "登录RoboForm"
+   },
+   "AutoSave_LoginRequiredNotification_LogInToRoboForm_Text": {
+      "message": "登录到RoboForm并为 %1保存所输入的信息凭证。"
+   },
+   "AutoSave_Notification_DataSaved_Text": {
+      "message": "您的数据已保存！"
+   },
+   "AutoSave_Notification_DataUpdated_Text": {
+      "message": "您的数据已更新！"
+   },
+   "AutoSave_Notification_IdentityCreated_ActionDescription_Text": {
+      "message": "已创建身份信息："
+   },
+   "AutoSave_Notification_IdentityDeleted_ActionDescription_Text": {
+      "message": "身份信息已被删除："
+   },
+   "AutoSave_Notification_IdentityUpdated_ActionDescription_Text": {
+      "message": "身份信息已更新："
+   },
+   "AutoSave_Notification_LoginCreated_ActionDescription_Text": {
+      "message": "登录名已保存："
+   },
+   "AutoSave_Notification_LoginDeleted_ActionDescription_Text": {
+      "message": "登录名已被删除："
+   },
+   "AutoSave_Notification_LoginSaved_Text": {
+      "message": "您的登录名已保存！"
+   },
+   "AutoSave_Notification_LoginUpdated_ActionDescription_Text": {
+      "message": "登录名已更新："
+   },
+   "AutoSave_Notification_LoginUpdated_Text": {
+      "message": "您的登录名已更新！"
+   },
+   "AutoSave_Notification_LoginUrlUpdated_Text": {
+      "message": "您登录名中的网址已更新！"
+   },
+   "AutoSave_Notification_PasswordOnlyLoginSaved_Note_Text": {
+      "message": "RoboForm只能收集密码，而不能收集用户ID。再次登录该网站后，此登录名将被更新。"
+   },
+   "AutoSave_Notification_PasswordOnlyLoginSaved_Text": {
+      "message": "您的密码已保存！"
+   },
+   "AutoSave_Notification_PasswordUpdated_ActionDescription_Text": {
+      "message": "登录密码已更新："
+   },
+   "AutoSave_Notification_PasswordUpdated_Text": {
+      "message": "您登录名中的密码已更新！"
+   },
+   "AutoSave_Notification_Undo_ButtonText": {
+      "message": "撤消"
+   },
+   "AutoSave_ReportAnIssue_Command_Text": {
+      "message": "报告一个问题"
+   },
+   "AutoSave_ReportAnIssue_Command_Tooltip": {
+      "message": "在此页面上报告关于自动保存问题"
+   },
+   "BEM_Description": {
+      "message": "RoboForm，当今市面上排名第一的密码管理软件，通过记住密码和自动登录网站，让您的生活更轻松便捷"
+   },
+   "BEM_FullName": {
+      "message": "RoboForm密码管理器"
+   },
+   "BEM_FullNameBeta": {
+      "message": "RoboForm密码管理器（测试版）"
+   },
+   "Bookmark_ClickToOpen_Tip": {
+      "message": "点击打开"
+   },
+   "Btn_No": {
+      "message": "否(N)"
+   },
+   "Btn_Yes": {
+      "message": "是(Y)"
+   },
+   "ChangeMasterPasswordPage_Title": {
+      "message": "更改主密码"
+   },
+   "ChangePwdDlg_Changing_Text": {
+      "message": "密码修改中"
+   },
+   "ChangePwdDlg_OperationNotSupported": {
+      "message": "不支持该操作。请将RoboForm更新到ver. 8版本"
+   },
+   "Change_Account_Password_Login_First": {
+      "message": "您需要先登录才能修改帐户密码"
+   },
+   "CheckedRunMB_CheckButton": {
+      "message": "不再显示此信息"
+   },
+   "Cmd_About_Key": {
+      "message": "关于(A)..."
+   },
+   "Cmd_Accept_Key": {
+      "message": "接受"
+   },
+   "Cmd_AddToPinned_Flat": {
+      "message": "添加到固定栏"
+   },
+   "Cmd_Cancel_Flat": {
+      "message": "取消"
+   },
+   "Cmd_ClearList_Key": {
+      "message": "(清除列表)"
+   },
+   "Cmd_Close_Flat": {
+      "message": "关闭"
+   },
+   "Cmd_ConvertFolderToGroup_Key": {
+      "message": "转换为组"
+   },
+   "Cmd_Copy_Password_Flat": {
+      "message": "复制密码"
+   },
+   "Cmd_Copy_URL_Flat": {
+      "message": "复制网址"
+   },
+   "Cmd_Copy_Username_Flat": {
+      "message": "复制用户名"
+   },
+   "Cmd_DeleteFolder_Confirm": {
+      "message": "您确定要删除位于%1的RoboForm数据吗？\n%2\n\n一旦删除，这些个人文件将丢失。"
+   },
+   "Cmd_DeleteFolder_OtherFiles": {
+      "message": "其它文件"
+   },
+   "Cmd_Delete_Confirm": {
+      "message": "您确定要删除%1'%2'吗？"
+   },
+   "Cmd_Delete_Flat": {
+      "message": "删除"
+   },
+   "Cmd_Done_Flat": {
+      "message": "完成"
+   },
+   "Cmd_Edit_Flat": {
+      "message": "编辑"
+   },
+   "Cmd_EmergencyAccess_Key": {
+      "message": "紧急访问"
+   },
+   "Cmd_FillEmptyOnly_Key": {
+      "message": "只填写空白字段(E)"
+   },
+   "Cmd_FillForms_Flat": {
+      "message": "填写表单"
+   },
+   "Cmd_FillGenPassword_Flat": {
+      "message": "生成密码"
+   },
+   "Cmd_GoFill_Flat": {
+      "message": "浏览并填写"
+   },
+   "Cmd_GotoNewTab_Flat": {
+      "message": "转到新标签页中"
+   },
+   "Cmd_GotoSameTab_Flat": {
+      "message": "转到同一标签页中"
+   },
+   "Cmd_Goto_Flat": {
+      "message": "转到"
+   },
+   "Cmd_GroupSettingsFlat": {
+      "message": "组设置"
+   },
+   "Cmd_Help_ContactSupport_Key": {
+      "message": "联系技术支持(S)"
+   },
+   "Cmd_Help_FaqAll_Key": {
+      "message": "常见问题解答(F)"
+   },
+   "Cmd_Help_Flat": {
+      "message": "帮助"
+   },
+   "Cmd_Help_ForgotPassword_Key": {
+      "message": "忘记密码？"
+   },
+   "Cmd_Help_HomePage_Key": {
+      "message": "主页(H)"
+   },
+   "Cmd_Help_Manual_Key": {
+      "message": "手册"
+   },
+   "Cmd_Help_ProblemStepsRecorder_Key": {
+      "message": "问题步骤记录器"
+   },
+   "Cmd_Later_Flat": {
+      "message": "再试"
+   },
+   "Cmd_LoginNewTab_Flat": {
+      "message": "登录新标签页"
+   },
+   "Cmd_LoginSameTab_Flat": {
+      "message": "登录到同一标签页"
+   },
+   "Cmd_Login_Flat": {
+      "message": "登录"
+   },
+   "Cmd_Logins_Flat": {
+      "message": "登录"
+   },
+   "Cmd_Logoff_Flat": {
+      "message": "注销"
+   },
+   "Cmd_NewFolder_Error": {
+      "message": "创建新文件夹错误：%1"
+   },
+   "Cmd_NewFolder_Exist_Error": {
+      "message": "文件夹'%1'已经存在"
+   },
+   "Cmd_NewFolder_Title": {
+      "message": "新建文件夹"
+   },
+   "Cmd_Ok_Flat": {
+      "message": "确定"
+   },
+   "Cmd_Options_Flat": {
+      "message": "选项"
+   },
+   "Cmd_PasswordAuditRun_Key": {
+      "message": "安全中心"
+   },
+   "Cmd_Password_Generator_Flat": {
+      "message": "密码生成器"
+   },
+   "Cmd_RejectAll_Flat": {
+      "message": "全部拒绝"
+   },
+   "Cmd_Reject_Key": {
+      "message": "拒绝"
+   },
+   "Cmd_Rename_Error": {
+      "message": "重命名 %1 '%2'时出错:\n%3"
+   },
+   "Cmd_Rename_Flat": {
+      "message": "重命名"
+   },
+   "Cmd_Rename_Name_Prompt": {
+      "message": "重命名为："
+   },
+   "Cmd_RenewalRewards_Flat": {
+      "message": "续订奖励"
+   },
+   "Cmd_Retry_Flat": {
+      "message": "重试"
+   },
+   "Cmd_RoboForm_Flat": {
+      "message": "RoboForm"
+   },
+   "Cmd_RunEditor_Flat": {
+      "message": "编辑器"
+   },
+   "Cmd_Safenote_CopyClipboard_Flat": {
+      "message": "复制文本"
+   },
+   "Cmd_SaveForms_Flat": {
+      "message": "保存"
+   },
+   "Cmd_SaveForms_Key": {
+      "message": "保存表单(S)..."
+   },
+   "Cmd_SendFile_Key": {
+      "message": "发送。。。"
+   },
+   "Cmd_Settings_Flat": {
+      "message": "设置"
+   },
+   "Cmd_ShareExistingFolder_Key": {
+      "message": "共享文件夹"
+   },
+   "Cmd_SharedFileSettings_Key": {
+      "message": "正在分享。。。"
+   },
+   "Cmd_SharedFolderSettings_Key": {
+      "message": "正在分享。。。"
+   },
+   "Cmd_SharingCenter_Flat": {
+      "message": "共享中心"
+   },
+   "Cmd_Skip_Flat": {
+      "message": "忽略"
+   },
+   "Cmd_StartPage_Tip": {
+      "message": "打开RoboForm主页"
+   },
+   "Cmd_Sync_RoboFormAccount_Key": {
+      "message": "管理RoboForm账户"
+   },
+   "Cmd_ToolBarSync": {
+      "message": "同步"
+   },
+   "Cmd_Unpin_Flat": {
+      "message": "取消固定"
+   },
+   "Cmd_Update_Flat": {
+      "message": "更新"
+   },
+   "Cmd_View_Flat": {
+      "message": "查看"
+   },
+   "CompanyInvitationConfirmationMultiple_Title": {
+      "message": "您被多家企业邀请加入。请注意，您只能加入一家公司。\n请接受或拒绝以下邀请："
+   },
+   "CompanyInvitationConfirmation_Title": {
+      "message": "您被邀请加入公司。\n请接受或拒绝以下邀请："
+   },
+   "CompanyInvitationConfirmation_Title2": {
+      "message": "您的RoboForm 通用版帐户被邀请加入RoboForm for Business公司帐户。"
+   },
+   "CompanyInvitationToConfirm_WithSender_Info": {
+      "message": "'%1'公司"
+   },
+   "CompromisedItemButton_Tooltip": {
+      "message": "此登录密码可能已被泄露！请点击查看详情"
+   },
+   "ConfirmMasterPassword_Incorrect_Text": {
+      "message": "密码不一致"
+   },
+   "ContextMenuAndShortcuts_ClearFields_Acc": {
+      "message": "0"
+   },
+   "ContextMenuAndShortcuts_ClearFields_Text": {
+      "message": "清空字段"
+   },
+   "ContextMenuAndShortcuts_FillForms_Acc": {
+      "message": "]"
+   },
+   "ContextMenuAndShortcuts_FillForms_Text": {
+      "message": "填写表单"
+   },
+   "ContextMenuAndShortcuts_FillSubmit_Acc3": {
+      "message": "Z"
+   },
+   "ContextMenuAndShortcuts_FillSubmit_Text": {
+      "message": "填写并提交"
+   },
+   "ContextMenuAndShortcuts_IdentitiesEditor_Acc": {
+      "message": ","
+   },
+   "ContextMenuAndShortcuts_IdentitiesEditor_Text": {
+      "message": "个人信息编辑器"
+   },
+   "ContextMenuAndShortcuts_Identities_Acc2": {
+      "message": "N"
+   },
+   "ContextMenuAndShortcuts_Identities_Text": {
+      "message": "个人信息"
+   },
+   "ContextMenuAndShortcuts_Logins_Acc2": {
+      "message": "X"
+   },
+   "ContextMenuAndShortcuts_Logins_Text": {
+      "message": "登录信息"
+   },
+   "ContextMenuAndShortcuts_Logoff_Acc": {
+      "message": "L"
+   },
+   "ContextMenuAndShortcuts_Logoff_Text": {
+      "message": "注销"
+   },
+   "ContextMenuAndShortcuts_MatchingPasscard_Acc": {
+      "message": "M"
+   },
+   "ContextMenuAndShortcuts_MatchingPasscard_Text": {
+      "message": "匹配密码卡片"
+   },
+   "ContextMenuAndShortcuts_MyIdentity_Acc": {
+      "message": "19"
+   },
+   "ContextMenuAndShortcuts_MyIdentity_Text": {
+      "message": "我的标识"
+   },
+   "ContextMenuAndShortcuts_Options_Acc": {
+      "message": "O"
+   },
+   "ContextMenuAndShortcuts_Options_Text": {
+      "message": "RoboForm选项"
+   },
+   "ContextMenuAndShortcuts_PasscardsEditor_Acc": {
+      "message": "."
+   },
+   "ContextMenuAndShortcuts_PasscardsEditor_Text": {
+      "message": "密码卡片编辑器"
+   },
+   "ContextMenuAndShortcuts_ResetFields_Acc": {
+      "message": "-"
+   },
+   "ContextMenuAndShortcuts_ResetFields_Text": {
+      "message": "重置字段"
+   },
+   "ContextMenuAndShortcuts_RoboFormMenu_Acc2": {
+      "message": "U"
+   },
+   "ContextMenuAndShortcuts_RoboFormMenu_Text": {
+      "message": "RoboForm 菜单"
+   },
+   "ContextMenuAndShortcuts_RoboFormToolbar_Acc3": {
+      "message": "R"
+   },
+   "ContextMenuAndShortcuts_RoboFormToolbar_Text": {
+      "message": "RoboForm工具栏"
+   },
+   "ContextMenuAndShortcuts_RunPassGen_Acc": {
+      "message": "P"
+   },
+   "ContextMenuAndShortcuts_RunPassGen_Text": {
+      "message": "密码生成器"
+   },
+   "ContextMenuAndShortcuts_RunTaskbar_Acc": {
+      "message": "I"
+   },
+   "ContextMenuAndShortcuts_RunTaskbar_Text": {
+      "message": "RoboForm系统栏图标"
+   },
+   "ContextMenuAndShortcuts_SafenotesEditor_Acc": {
+      "message": "/"
+   },
+   "ContextMenuAndShortcuts_SafenotesEditor_Text": {
+      "message": "保密笔记本编辑器"
+   },
+   "ContextMenuAndShortcuts_Safenotes_Acc": {
+      "message": "C"
+   },
+   "ContextMenuAndShortcuts_Safenotes_Text": {
+      "message": "保密笔记本"
+   },
+   "ContextMenuAndShortcuts_SaveForms_Acc": {
+      "message": "["
+   },
+   "ContextMenuAndShortcuts_SaveForms_Text": {
+      "message": "保存表单"
+   },
+   "ContextMenuAndShortcuts_SearchBox_Acc": {
+      "message": "S"
+   },
+   "ContextMenuAndShortcuts_SearchBox_Text": {
+      "message": "搜索框"
+   },
+   "ContextMenuAndShortcuts_SetFields_Acc": {
+      "message": "="
+   },
+   "ContextMenuAndShortcuts_SetFields_Text": {
+      "message": "设置字段"
+   },
+   "Copyright": {
+      "message": ""
+   },
+   "CreateAccountConfirmPage_ForgetInfo_Text": {
+      "message": "您的RoboForm主密码是解锁数据的密钥。如果忘记了，您的数据将无法解密（即使是我们也无法解密），您将不得不清零后从新开始。"
+   },
+   "CreateAccountConfirmPage_ForgetTitle_Text": {
+      "message": "请不要遗忘您的主密码"
+   },
+   "CreateBlockingPass__WebExt_Confirm": {
+      "message": "您是否希望RoboForm阻止自动保存功能\n在此网站的所有页面上弹出？\nT以后要取消对此站点的屏蔽操作请单击“保存”，\n然后单击“取消阻止”按钮。"
+   },
+   "DeleteBlockingPass__WebExt_Confirm": {
+      "message": "您是否希望RoboForm允许自动保存功能\n继续在此网站的所有页面上弹出？"
+   },
+   "DeleteItemPage_Confirmation_Text": {
+      "message": "您要删除 '%1' 吗?"
+   },
+   "DeleteSharedFolder_Permissions_Error": {
+      "message": "权限不足，无法删除'%1'。"
+   },
+   "DomainNotInLogin_Text": {
+      "message": "站点域名与登录的网址不匹配。"
+   },
+   "DomainNotInLogin_Text2": {
+      "message": "您是否仍想让RoboForm填写此表格？"
+   },
+   "DomainNotInLogin_Title": {
+      "message": "RoboForm警告"
+   },
+   "DuplicateFields_Text1_2": {
+      "message": "RoboForm找到了在表单中多次出现的字段。请您允许填写这些字段："
+   },
+   "DuplicateFields_Text2_2": {
+      "message": "\n \n如果您只想填写表格的一部分，则突出显示（选择）表格的一部分点击填写表格，只填写高亮部分。"
+   },
+   "DuplicateFields_Title": {
+      "message": "填写重复的字段-RoboForm"
+   },
+   "DuplicatesDialog_ApplyChanges_Button": {
+      "message": "应用"
+   },
+   "DuplicatesDialog_CancelDelete_Button": {
+      "message": "不删除"
+   },
+   "DuplicatesDialog_CancelRename_Button": {
+      "message": "不重命名"
+   },
+   "DuplicatesDialog_Cancel_Button": {
+      "message": "不要应用"
+   },
+   "DuplicatesDialog_DeleteMessageText": {
+      "message": "您已删除\"%1\"文件。您要删除下面列出的相同文件吗？"
+   },
+   "DuplicatesDialog_Delete_Button": {
+      "message": "删除"
+   },
+   "DuplicatesDialog_Delete_Text": {
+      "message": "删除"
+   },
+   "DuplicatesDialog_MessageText": {
+      "message": "您已更新\"%1 \"，您是否要将这些更改应用于下列相同的文件？您也可以删除不必要的副本。"
+   },
+   "DuplicatesDialog_RenameMessageText": {
+      "message": "您已将\"%1\"重命名为\"%2\"。您是否要将下面列出的相同文件重命名为该名称？您也可以删除不必要的副本。"
+   },
+   "DuplicatesDialog_Rename_Button": {
+      "message": "重命名"
+   },
+   "DuplicatesDialog_Undo_Text": {
+      "message": "保留"
+   },
+   "DuplicatesDialog_WindowTitle": {
+      "message": "检测到相同的RoboForm文件"
+   },
+   "Editor_Cmd_Selector_All_Flat": {
+      "message": "所有"
+   },
+   "Editor_Indicator_Show_AllIdentities": {
+      "message": "显示所有个人信息(%1)"
+   },
+   "Editor_Indicator_Show_NMatch": {
+      "message": "显示所有匹配的登录名(%1)"
+   },
+   "Editor_SharedFolderOrGroupExists_Error": {
+      "message": "名为'%1'的共享文件夹或组已存在"
+   },
+   "Editor_SharedFolderTooLongName_Error": {
+      "message": "名称过长，共享文件夹和组的最大允许名称长度为%1个字符"
+   },
+   "EmailEmpty_Error": {
+      "message": "电子邮件必须至少有%1个字符长"
+   },
+   "EmailIncorrect_Error": {
+      "message": "电子邮件地址不对"
+   },
+   "EmailMaxLength_Error": {
+      "message": "电子邮件必须少于%1个字符长"
+   },
+   "EmergencyAccessContactConfirmationDescription_Text": {
+      "message": " RoboForm的资深用户邀请您成为他们的紧急访问联系人。请选择接受或拒绝以下邀请："
+   },
+   "EmergencyAccessDataAccessConfirmationDescription_Text": {
+      "message": "您的紧急联系人已请求紧急访问您的RoboForm帐户数据。\n如果您在指定的时间段内不对这些请求采取任何措施，则访问权限将会被自动授予。"
+   },
+   "EmergencyAccess_Accept_Invitation_Question": {
+      "message": "您确定要接受成为\"%1\"的紧急联系人吗？"
+   },
+   "EmergencyAccess_AccessRequestedDaysHours_Status": {
+      "message": "己发送请求。数据将在%1天%2小时内可用"
+   },
+   "EmergencyAccess_AccessRequestedDays_Status": {
+      "message": "己发送请求。数据将在%1天内可用"
+   },
+   "EmergencyAccess_AccessRequestedHours_Status": {
+      "message": "己发送请求。数据将在%1小时内可用"
+   },
+   "EmergencyAccess_CreationDate_Title": {
+      "message": "创建日期"
+   },
+   "EmergencyAccess_DenyAccess_Button_Text": {
+      "message": "回决"
+   },
+   "EmergencyAccess_DenyAccess_Text": {
+      "message": "拒绝访问"
+   },
+   "EmergencyAccess_EditContact_Title": {
+      "message": "编辑联系人\"%1\""
+   },
+   "EmergencyAccess_Email_Is_Empty": {
+      "message": "电子邮箱地址是空的"
+   },
+   "EmergencyAccess_GetData_Help_Text": {
+      "message": "这些是%1授予您紧急访问权限的项目。您可以查看它们或将它们添加到您的RoboForm帐户中。添加后这些项目将存入“紧急访问”文件夹中。"
+   },
+   "EmergencyAccess_GetData_Request_Question": {
+      "message": "您确定要从\"%1\"获取数据吗？项目将存储在名为“紧急访问”的文件夹中。"
+   },
+   "EmergencyAccess_GrantAccess_Text": {
+      "message": "授予"
+   },
+   "EmergencyAccess_GrantAccess_Title": {
+      "message": "准许访问"
+   },
+   "EmergencyAccess_InviteAgain_Question": {
+      "message": "您确定要再次邀请用户 \"%1\"吗？"
+   },
+   "EmergencyAccess_InviteContact_Text": {
+      "message": "邀请"
+   },
+   "EmergencyAccess_Loading_Title": {
+      "message": "正在载入..."
+   },
+   "EmergencyAccess_NoAccess_Status": {
+      "message": "禁止访问"
+   },
+   "EmergencyAccess_RejectAccess_Text": {
+      "message": "拒绝"
+   },
+   "EmergencyAccess_Reject_Invitation_Question": {
+      "message": "您确定要拒绝访问\"%1\"的权限吗？"
+   },
+   "EmergencyAccess_Reject_Invitation_Text": {
+      "message": "拒绝访问"
+   },
+   "EmergencyAccess_Reject_Title": {
+      "message": "拒绝紧急联系人请求"
+   },
+   "EmergencyAccess_RevokeAccess_Button_Text": {
+      "message": "撤消访问权限"
+   },
+   "EmergencyAccess_Revoke_Question": {
+      "message": "您正在将\"%1\"从您的紧急联系人清单中移除"
+   },
+   "EmergencyAccess_Revoke_Tip": {
+      "message": "撤销紧急联系人"
+   },
+   "EmergencyAccess_Title": {
+      "message": "紧急访问"
+   },
+   "EmergencyAccess_invitationUserNotFound_Question": {
+      "message": "我们将向\"%1\"发送电子邮件，邀请其成为您的紧急联系人"
+   },
+   "FillDlg_FindFill_Title": {
+      "message": "填表 - RoboForm"
+   },
+   "Filler_FillEmptyOnlyOnMessage": {
+      "message": "只填写空字段 选项启动，但该网页没有空(未填写)的字段"
+   },
+   "Filler_FillTheSameValues": {
+      "message": "在这个网页(或选定的框架)上没有可以用此个人信息/密码卡片\n填写的表单字段，因为RoboForm可以填写的字段都已经填写了。"
+   },
+   "Filler_NoFormsFound": {
+      "message": "在当前网页没有发现可以填写的表单"
+   },
+   "Filler_NoMatchingFields": {
+      "message": "在这个网页(或选定的框架)上没有可以用此个人信息\n/密码卡片填写的表单字段，因为没有匹配的字段。"
+   },
+   "FolderTree_NewItem": {
+      "message": "新建文件夹"
+   },
+   "GenericConfirmDialog_Cancel": {
+      "message": "取消"
+   },
+   "GenericConfirmDialog_Ok": {
+      "message": "是"
+   },
+   "GenericConfirmDialog_Title": {
+      "message": "确认"
+   },
+   "HomeFolder": {
+      "message": "主目录"
+   },
+   "Identities_Cmd_Instance_AlreadyExists_Error": {
+      "message": "组中已存在该实例"
+   },
+   "Identities_Cmd_Instance_NotExists_Error": {
+      "message": "组中不存在指定的实例"
+   },
+   "Identities_ConfirmDeleteInstance": {
+      "message": "您确认要删除'%2'的'%1'吗？"
+   },
+   "Identities_CustomFieldOverrideHeader": {
+      "message": "某些自定义的字段使一些标准 RoboForm 字段无法正确填写。\n如果希望受影响的标准字段正确填写，请去除个人信息中的这些自定义字段。"
+   },
+   "Identities_CustomFieldOverride_1": {
+      "message": "'%1' 覆盖 %2"
+   },
+   "Identities_InstanceNameInvalidCharacter": {
+      "message": "实例名只能包含字母，数字，字符'_'和'-'"
+   },
+   "Identities_Instance_Main": {
+      "message": "首选"
+   },
+   "Identity_ClickToView_Tip": {
+      "message": "点击查看身份信息"
+   },
+   "Import_AdditionalInformation_Note": {
+      "message": "附加信息:\n"
+   },
+   "Import_Chrome_Browser_Text": {
+      "message": "谷歌浏览器"
+   },
+   "Import_CustomFields_Note": {
+      "message": "自定义字段："
+   },
+   "Import_Edge_Browser_Text": {
+      "message": "微软ME浏览器"
+   },
+   "Import_Firefox_Browser_Text": {
+      "message": "火狐浏览器"
+   },
+   "Import_From1Password_Note": {
+      "message": "从1Password导入。"
+   },
+   "Import_FromBitwarden_Note": {
+      "message": "从Bitwarden导入。"
+   },
+   "Import_FromCSVFile_Note": {
+      "message": "从单个CSV文件导入。"
+   },
+   "Import_FromDashlane_Note": {
+      "message": "从Dashlane导入。"
+   },
+   "Import_FromKeeper_Note": {
+      "message": "从Keeper导入。"
+   },
+   "Import_FromLastPass_Note": {
+      "message": "从LastPass导入。"
+   },
+   "Import_ImportFromFileButton_Text": {
+      "message": "导入文件"
+   },
+   "Import_Opera_Browser_Text": {
+      "message": "Opera浏览器"
+   },
+   "Import_ReportAddedGeneric_Text": {
+      "message": "已添加%1 %2\n"
+   },
+   "Import_ReportError_Text": {
+      "message": "错误"
+   },
+   "Import_ReportExistingGeneric_Text": {
+      "message": "%1 %2已存在于RoboForm中\n"
+   },
+   "Import_SelectedFolderIsReadOnly_Error": {
+      "message": "无法导入到只读文件夹中。"
+   },
+   "Import_Succeeded_Title": {
+      "message": "成功完成导入"
+   },
+   "Install_AccountCreated_Text": {
+      "message": "您的RoboForm账户成功建立了"
+   },
+   "Install_ConfirmRoboFormMasterPassword2": {
+      "message": "确认密码："
+   },
+   "Install_Email": {
+      "message": "电子邮件："
+   },
+   "Install_HidePassword_Tip": {
+      "message": "隐藏密码"
+   },
+   "Install_MemorizePassword_Prompt2": {
+      "message": "不要忘记您的主密码。它包含用于解锁数据的密钥。如果忘记了，您的数据将无法访问（即使我们也无法访问），您将不得不从头开始。"
+   },
+   "Install_Next": {
+      "message": "下一步"
+   },
+   "Install_No": {
+      "message": "否"
+   },
+   "Install_PasswordTooShort": {
+      "message": "密码长度至少为 6 字符。"
+   },
+   "Install_RoboFormMasterPassword": {
+      "message": "主密码："
+   },
+   "Install_ShowPassword_Tip": {
+      "message": "限制密码"
+   },
+   "Install_WarningSheet_Title": {
+      "message": "RoboForm安装提示"
+   },
+   "Install_Yes": {
+      "message": "是"
+   },
+   "InterfaceLanguage_Warning": {
+      "message": "您想改变用户界面'%1'为'%2'吗？\n如果您不能确定您所改变的界面语言，将很难改回来。\n您也需要重启浏览器使界面语言的更改完全生效"
+   },
+   "Item_ClickToFill_Tip": {
+      "message": "点击填写"
+   },
+   "Item_ClickToLogin_Tip": {
+      "message": "点击登录"
+   },
+   "ItemsListPage_More_Button_Text": {
+      "message": "更多..."
+   },
+   "ItemsListPage_RecentlyUsed_Title": {
+      "message": "最近使用"
+   },
+   "ItemsListPage_SearchIdentities_Placeholder": {
+      "message": "搜索身份信息"
+   },
+   "ItemsListPage_SearchMatchingLogins_Placeholder": {
+      "message": "搜索匹配登录名"
+   },
+   "LicenseExceededWarning_EnterpriseExceeded_Title": {
+      "message": " RoboForm for Business订阅已过期"
+   },
+   "Loading_Status_Text": {
+      "message": "缓冲。。。"
+   },
+   "MainPage_AddNewLogin_Text": {
+      "message": "添加新的 登录"
+   },
+   "MainPage_AllItems_Header_Text": {
+      "message": "首字母A到Z排序"
+   },
+   "MainPage_CreateFirstBookmarkInstructions_Text": {
+      "message": "单击下方按钮%1以创建您的第一个书签。"
+   },
+   "MainPage_CreateFirstSafenoteInstructions_Text": {
+      "message": "单击下方按钮%1以创建安全记事本并添加机密文本，例如密码、安全访问代码和其他密钥访问指令。"
+   },
+   "MainPage_CreateLoginInstruction_LearnMore_Link": {
+      "message": "在此处了解有关创建登录信息的更多信息"
+   },
+   "MainPage_CreateLoginInstruction_Option1_Text": {
+      "message": "当您登录在线帐户时，RoboForm将提示您是否保存密码"
+   },
+   "MainPage_CreateLoginInstruction_Option2_Text": {
+      "message": "点击按钮%1，选择网站，然后输入您的身份证明。"
+   },
+   "MainPage_CreateLoginInstruction_Top_Text": {
+      "message": "有两种创建登录名的方法："
+   },
+   "MainPage_CreateNew_Text": {
+      "message": "新建"
+   },
+   "MainPage_CreatePinItemInstruction_Text": {
+      "message": "通过在任意RoboForm项目栏中选择“添加到固定项”命令来创建自己的固定项目列表。固定的项目保留其位置。"
+   },
+   "MainPage_Create_Identity_Text": {
+      "message": "创建身份"
+   },
+   "MainPage_Create_Identity_Tip": {
+      "message": "创建您的首个身份信息"
+   },
+   "MainPage_EnableAutoSaveOnDomain_Text": {
+      "message": "在此域上启用自动保存功能"
+   },
+   "MainPage_EnableInpageIconsOnDomain_Text": {
+      "message": "在此域上启用页内图标"
+   },
+   "MainPage_EnjoyUsing": {
+      "message": "您喜欢使用%1吗？"
+   },
+   "MainPage_FillIdentitiesTabAll_Search_Placeholder": {
+      "message": "搜索所有身份信息"
+   },
+   "MainPage_FillIdentitiesTabMatch_Search_Placeholder": {
+      "message": "搜索匹配的身份信息"
+   },
+   "MainPage_FillIdentitiesTab_AllIdentities_Button_Text": {
+      "message": "所有"
+   },
+   "MainPage_FillIdentitiesTab_CreateFirst_Text": {
+      "message": "点击按钮%1，将您的个人数据（例如姓名、地址、付款信息）添加到身份信息表。RoboForm将提供一键填写此数据到您的帐户注册表格中或帮助您实现支付功能。"
+   },
+   "MainPage_FillIdentitiesTab_EmptyMatch_Text": {
+      "message": "您的身份信息中没有数据可填写当前页面中的字段。请使用匹配的值更新您当前的身份或创建一个新的身份。"
+   },
+   "MainPage_FillIdentitiesTab_IdentityView_CopyDrag_Tip": {
+      "message": "单击以复制或拖放"
+   },
+   "MainPage_FillIdentitiesTab_IdentityView_Copy_Tip": {
+      "message": "点击复制"
+   },
+   "MainPage_FillIdentitiesTab_IdentityView_FillBtn_Tip": {
+      "message": "通过身份信息'%1'进行填写"
+   },
+   "MainPage_FillIdentitiesTab_IdentityView_Limited_Top_Text": {
+      "message": "通过本身份信息进行填写"
+   },
+   "MainPage_FillIdentitiesTab_IdentityView_Top_Text": {
+      "message": "通过本身份信息进行填写，拖放或复制/粘贴"
+   },
+   "MainPage_FillIdentitiesTab_MatchingIdentities_Button_Text": {
+      "message": "匹配"
+   },
+   "MainPage_FillIdentities_Button_Text": {
+      "message": "填写身份ID"
+   },
+   "MainPage_FillLoginsTabAll_Search_Placeholder": {
+      "message": "搜索所有登录名"
+   },
+   "MainPage_FillLoginsTabDomain_Search_Placeholder": {
+      "message": "搜索域登录名"
+   },
+   "MainPage_FillLoginsTab_AllLogins_Button_Text": {
+      "message": "所有"
+   },
+   "MainPage_FillLoginsTab_MatchingLogins_Button_Text": {
+      "message": "匹配登录名"
+   },
+   "MainPage_FillLoginsTab_NoLoginsForDomain_Text": {
+      "message": "当前页面没有登录名被保存"
+   },
+   "MainPage_FillLoginsTab_NoLoginsForPage_Text": {
+      "message": "此页面没有我们可以填写的匹配字段。请导航到网站登录页面，或切换到与登录类型匹配的“相同域”。"
+   },
+   "MainPage_FillLoginsTab_SameDomain_Button_Text": {
+      "message": "相同域"
+   },
+   "MainPage_FillLoginsTab_Search_GeneralResults": {
+      "message": "常规搜索结果："
+   },
+   "MainPage_FillLoginsTab_Search_NoMatchingLogins": {
+      "message": "登录匹配中没有找到搜索结果。"
+   },
+   "MainPage_FillLoginsTab_Search_NoSameDomainLogins": {
+      "message": "在相同域的登录名中没有找到搜索结果。"
+   },
+   "MainPage_FillLoginsTab_Search_Placeholder": {
+      "message": "搜索匹配的登录名"
+   },
+   "MainPage_FillLogins_Button_Text": {
+      "message": "填写登录名"
+   },
+   "MainPage_FillLogins_Button_Tip": {
+      "message": "匹配登录名列表"
+   },
+   "MainPage_Items_Button_All_Tip": {
+      "message": "您的RoboForm项目"
+   },
+   "MainPage_Items_Button_Bookmarks_Tip": {
+      "message": "您的RoboForm书签"
+   },
+   "MainPage_Items_Button_Identities_Tip": {
+      "message": "您的RoboForm身份"
+   },
+   "MainPage_Items_Button_Logins_Tip": {
+      "message": "您的RoboForm登录名"
+   },
+   "MainPage_Items_Button_Pinned_Tip": {
+      "message": "您的固定项"
+   },
+   "MainPage_Items_Button_Safenotes_Tip": {
+      "message": "您的RoboForm安全记事本"
+   },
+   "MainPage_LoginsTab_Search_Placeholder": {
+      "message": "搜索RoboForm"
+   },
+   "MainPage_MatchingLogins_Header_Text": {
+      "message": "匹配登录名"
+   },
+   "MainPage_OtherLogins_Header_Text": {
+      "message": "其他登录名"
+   },
+   "MainPage_Pinned_Header_Text": {
+      "message": "锁定"
+   },
+   "MainPage_PleaseRateUs": {
+      "message": "请给我们评分"
+   },
+   "MainPage_Popular_Header_Text": {
+      "message": "常用"
+   },
+   "MainPage_RateUs_Btn_Text": {
+      "message": "评分%1"
+   },
+   "MainPage_Recent_Header_Text": {
+      "message": "最近"
+   },
+   "MainPage_RemindMeLater_Btn_Text": {
+      "message": "稍后再提醒我"
+   },
+   "MainPage_SaveButton_SaveBookmark_Tip": {
+      "message": "将当前页面另存为书签"
+   },
+   "MainPage_SaveButton_SaveForms_Tip": {
+      "message": "保存当前页面的表单"
+   },
+   "MainPage_Settings_Button_Tip": {
+      "message": "RoboForm工具栏和设置"
+   },
+   "MainPage_ShowAll_Bookmarks_Text": {
+      "message": "所有书签"
+   },
+   "MainPage_ShowAll_Header_Text": {
+      "message": "所有"
+   },
+   "MainPage_ShowAll_Identities_Text": {
+      "message": "所有身份"
+   },
+   "MainPage_ShowAll_Logins_Text": {
+      "message": "所有登录"
+   },
+   "MainPage_ShowAll_NativeMenu_Tip": {
+      "message": "点击以查看桌面菜单%1"
+   },
+   "MainPage_ShowAll_Safenotes_Text": {
+      "message": "所有安全记事本"
+   },
+   "MainPage_Start_Button_Text": {
+      "message": "开始"
+   },
+   "MainPage_ViewAllIdentities_Tip": {
+      "message": "查看所有身份信息"
+   },
+   "MainPage_WouldYouLikeReportAnIssue": {
+      "message": "您想提交问题吗？"
+   },
+   "MasterPass_DoNotMatch_Status": {
+      "message": "密码不一样"
+   },
+   "MasterPass_Expired": {
+      "message": "是时候更改您的RoboForm主密码了"
+   },
+   "MasterPass_New_BlanksOnly_Error": {
+      "message": "主密码不能只有空格"
+   },
+   "MasterPass_New_DigitChars_Error": {
+      "message": "密码中数字字符最小数目应为 %1"
+   },
+   "MasterPass_New_Length_Error": {
+      "message": "主密码的长度必须达到%1～%2字符"
+   },
+   "MasterPass_New_LowerCaseChars_Error": {
+      "message": "密码中小写字符最小数目应为 %1"
+   },
+   "MasterPass_New_NonNumChars_Error": {
+      "message": "密码中最小数量的非数字字符必须是%1"
+   },
+   "MasterPass_New_TheSameAsPrevious_Error": {
+      "message": "新主密码不能和以前的一样"
+   },
+   "MasterPass_New_UpperCaseChars_Error": {
+      "message": "密码中大写字符最小数目应为 %1"
+   },
+   "MasterPass_Prompt_TypeNew": {
+      "message": "新的主密码(N)："
+   },
+   "MasterPass_Prompt_TypeOld": {
+      "message": "旧的主密码(O)："
+   },
+   "MasterPassword_Error2": {
+      "message": "您输入了不正确的密码，请重新输入您的主密码"
+   },
+   "MasterPwdEnterDlg_CacheUntilLogoff": {
+      "message": "在推出登录前请使用此密码"
+   },
+   "MasterPwdEnterDlg_CreatePwd_Text": {
+      "message": "要通过密码保护数据，您就必须设置主密码"
+   },
+   "MasterPwdEnterDlg_Limit_Text": {
+      "message": "密码必须在8到79个字符之间"
+   },
+   "MasterPwdEnterDlg_Text3": {
+      "message": "此对象受密码保护。\n请输入您的主密码\n才能使用。"
+   },
+   "NameInvalidCharacter_Error2": {
+      "message": "名称不能为空并且不能包含字符 \\ / : * ? \" \u003C > |"
+   },
+   "NewGroup_NoPermissions_Error": {
+      "message": "您没有创建组的权限。 只有公司管理员可以创建组。"
+   },
+   "NewSharedFolder_Title": {
+      "message": "名字:"
+   },
+   "No": {
+      "message": "否"
+   },
+   "Notification_Copied_ToClipboard_Text": {
+      "message": "复制到剪贴板"
+   },
+   "Notification_File_Deleted_Text": {
+      "message": "已删除1个文件: %1"
+   },
+   "Notification_Folder_Deleted_Text": {
+      "message": "已删除1个文件夹: %1"
+   },
+   "Notification_ItemType_Pinned_Text": {
+      "message": "%1 已添加到固定栏"
+   },
+   "Notification_ItemType_UnPinned_Text": {
+      "message": "%1 已从固定栏移除"
+   },
+   "Notification_Item_Created_Text": {
+      "message": "已创建%1"
+   },
+   "Notification_Item_Renamed_Text": {
+      "message": "%1 重命名为 %2"
+   },
+   "Notification_Password_Copied_Text": {
+      "message": "密码已复制到剪贴板"
+   },
+   "Notification_Password_Filled_Text": {
+      "message": "新密码已填写"
+   },
+   "Notification_URL_Copied_Text": {
+      "message": "网址URL已复制到剪贴板"
+   },
+   "Notification_Username_Copied_Text": {
+      "message": "用户名已复制到剪贴板"
+   },
+   "OTPPage_EnrollCheck_Text": {
+      "message": "记住此设备"
+   },
+   "OTPPage_Input_Placeholder": {
+      "message": "在这里输入您的一次性密码"
+   },
+   "OpenStartpageOnEmptyTabs_Text2": {
+      "message": "单击扩展按钮可在空白选项卡上打开起始页"
+   },
+   "OpenStartpageOnEmptyTabs_Tip": {
+      "message": "如果用户在空白的浏览器选项卡上单击RoboForm浏览器扩展按钮，则会打开RoboForm的起始页"
+   },
+   "Options_Account_Title": {
+      "message": "帐户"
+   },
+   "Options_Adapter_Chrome_Text": {
+      "message": "Google Chrome"
+   },
+   "Options_Adapter_ChromiumBased_Text": {
+      "message": "Chromium浏览器"
+   },
+   "Options_Adapter_Edge_Text": {
+      "message": " Microsoft Edge扩展项"
+   },
+   "Options_Adapter_FirefoxBased_Text": {
+      "message": "Firefox浏览器"
+   },
+   "Options_Adapter_Firefox_Text2": {
+      "message": "火狐浏览器（Mozilla Firefox）扩展项"
+   },
+   "Options_Adapter_Install_Text": {
+      "message": "安装"
+   },
+   "Options_Adapter_Opera_Text": {
+      "message": "Opera"
+   },
+   "Options_Advanced_Title": {
+      "message": "高级设置"
+   },
+   "Options_AuthMethod_EnterMasterPassword_Prompt": {
+      "message": "通过输入主密码，以确认身份验证方式已更改为%1"
+   },
+   "Options_AuthMethod_Fingerprint": {
+      "message": "指纹识别功能(WBF)"
+   },
+   "Options_AuthMethod_Fingerprint_Tip": {
+      "message": "使用WBF设备上的指纹识别功能（而不是通过您的主密码）登录。请注意，登录仍可能需要主密码，因此您必须知晓主密码。"
+   },
+   "Options_AuthMethod_MasterPasswordOnly": {
+      "message": "总是要求输入主密码"
+   },
+   "Options_AuthMethod_MasterPasswordOnly_Tip": {
+      "message": "您只能通过输入主密码来登录。"
+   },
+   "Options_AuthMethod_Title": {
+      "message": "身份验证方式"
+   },
+   "Options_AuthMethod_WindowsHello": {
+      "message": "Windows Hello"
+   },
+   "Options_AuthMethod_WindowsHello_Tip": {
+      "message": "使用Windows Hello而不是您的主密码登录。请注意，登录仍可能需要主密码，因此您必须知晓主密码。"
+   },
+   "Options_AutoFillBoth_Text2": {
+      "message": "显示登录名和身份信息"
+   },
+   "Options_AutoFillBoth_Tip2": {
+      "message": "提供登录名和身份信息给自动填写表格"
+   },
+   "Options_AutoFillIdentities_Text": {
+      "message": "仅显示身份信息"
+   },
+   "Options_AutoFillIdentities_Tip": {
+      "message": "仅提供身份信息给自动填写表格，而不提供登录名"
+   },
+   "Options_AutoFillIfPass_Text2": {
+      "message": "仅在需填写密码的页面上提供登录名自动填写功能"
+   },
+   "Options_AutoFillIfPass_Tip2": {
+      "message": "如果已选中：仅在包含密码字段的网页上从匹配的登录名提供给自动填写功能。如果未选中：即使没有密码字段，也将匹配的登录名提供给自动填写功能"
+   },
+   "Options_AutoFillLogins_Text": {
+      "message": "仅显示登录名"
+   },
+   "Options_AutoFillLogins_Tip": {
+      "message": "仅提供登录名给自动填写表格，而不提供身份信息"
+   },
+   "Options_AutoFillThreshold_Text2": {
+      "message": "触发身份信息自动填写提示所需的页面字段"
+   },
+   "Options_AutoFillThreshold_Tip": {
+      "message": "从个人信息启动自动填表时网页中可填的最少字段数"
+   },
+   "Options_AutoFill_DontOffer_Text": {
+      "message": "不提供自动填写功能"
+   },
+   "Options_AutoFill_FromContacts_Text": {
+      "message": "提供联系人信息自动填写功能"
+   },
+   "Options_AutoFill_FromContacts_Tip2": {
+      "message": "默认设置状态下，自动填充功能将仅用于身份信息填写。此设置还允许提供联系人"
+   },
+   "Options_AutoFill_OfferInOldBrowsers_Text": {
+      "message": "在IE浏览器中提供自动填写功能"
+   },
+   "Options_AutoFill_OfferInOldBrowsers_Tip2": {
+      "message": "选择从匹配的登录名和身份信息进行填充的自动填充对话框将显示在IE浏览器（Internet Explorer）中"
+   },
+   "Options_AutoFill_Offer_Text": {
+      "message": "提供自动填写功能"
+   },
+   "Options_AutoFill_Offer_Tip": {
+      "message": "当RoboForm遇到可以从匹配登录名或身份信息填写的网站（HTML）表单时，显示页面内自动填写，该页面提供的匹配登录名和身份信息"
+   },
+   "Options_AutoFill_Text": {
+      "message": "自动填充"
+   },
+   "Options_AutoFill_Tip": {
+      "message": "针对从已经保存的登录名和身份信息请选择RoboForm如何进行在线表格内容填充"
+   },
+   "Options_AutoFill_Title": {
+      "message": "自动填表"
+   },
+   "Options_AutoFill_WithoutAsking_Text1": {
+      "message": "无需询问即可自动填充"
+   },
+   "Options_AutoFill_WithoutAsking_Text2": {
+      "message": "（如果只能单选）"
+   },
+   "Options_AutoFill_WithoutAsking_Tip": {
+      "message": "通过与页面最匹配的单个登录名或身份信息填写网页上的表格，而不显示“自动填写功能”。但是，如果多个登录名与同一个网页相匹配，则显示“自动填写功能”"
+   },
+   "Options_AutoForgetTime_Text": {
+      "message": "分钟后自动注消"
+   },
+   "Options_AutoForgetTime_Tip2": {
+      "message": "RoboForm将在待机几分钟后自动退出当前会话"
+   },
+   "Options_AutoRenewStatus_BillingAmount_Text": {
+      "message": "金额：%1"
+   },
+   "Options_AutoRenewStatus_BillingDate_Text": {
+      "message": "计费日期：%1"
+   },
+   "Options_AutoRenewStatus_Failed_Text": {
+      "message": "失败"
+   },
+   "Options_AutoRenewStatus_Off_Text": {
+      "message": "关"
+   },
+   "Options_AutoRenewStatus_On_Text": {
+      "message": "开"
+   },
+   "Options_AutoRenew_Text": {
+      "message": "自动续订状态"
+   },
+   "Options_AutoRenew_TurnOff_Button_Text": {
+      "message": "关闭自动续订功能"
+   },
+   "Options_AutoRenew_TurnOn_Button_Text": {
+      "message": "开启自动续订功能"
+   },
+   "Options_AutoSave_AltClickEnable_Text2": {
+      "message": "启用键盘快捷键：ALT+单击登录按钮强制自动保存"
+   },
+   "Options_AutoSave_ShiftEnterEnable_Text2": {
+      "message": "启用键盘快捷键：SHIFT+ENTER键强制自动保存文本字段"
+   },
+   "Options_AutoSave_Text": {
+      "message": "自动保存"
+   },
+   "Options_AutoSave_Tip": {
+      "message": "请选择如何保存新检测到的登录信息至RoboForm"
+   },
+   "Options_AutoSave_Title": {
+      "message": "自动保存"
+   },
+   "Options_AutoSave_WebForms_No_Text": {
+      "message": "不提供自动保存功能"
+   },
+   "Options_AutoSave_WebForms_No_Tip": {
+      "message": "当您提交填写的登录网站（HTML）表格时，RoboForm将不会对其进行保存"
+   },
+   "Options_AutoSave_WebForms_WithConfirmation_Text1": {
+      "message": "提供自动保存"
+   },
+   "Options_AutoSave_WebForms_WithConfirmation_Text2": {
+      "message": "（需用户确认）"
+   },
+   "Options_AutoSave_WebForms_WithConfirmation_Tip": {
+      "message": "当您提交填写好的登录网站（HTML）表格时，RoboForm将对其进行保存"
+   },
+   "Options_AutoSave_WebForms_WitoutAsking_Text": {
+      "message": "无需询问即可自动保存"
+   },
+   "Options_AutoSave_WebForms_WitoutAsking_Tip": {
+      "message": "当您提交填写好的登录网站（HTML）表格时，RoboForm将自动进行保存"
+   },
+   "Options_BackupRestoreFrame_Text": {
+      "message": "备份与恢复"
+   },
+   "Options_Billing_Title": {
+      "message": "资费清单"
+   },
+   "Options_Browsers_Title": {
+      "message": "浏览器"
+   },
+   "Options_DisableShortcuts_Text": {
+      "message": "禁用浏览器中的RoboForm快捷键(H)"
+   },
+   "Options_DisableShortcuts_Tip": {
+      "message": "禁用浏览器中的RoboForm快捷键。\nRoboForm快捷键如下：\nALT+R - RoboForm工具栏\nALT+S - 把焦点移到RoboForm搜索框\nALT+0 - 重置字段\nALT+G - 显示密码生成器窗口\nALT+n - 在迷你窗口中显示第n个个人信息\nALT+P - 在迷你窗口中显示与当前站点匹配的所有密码卡片"
+   },
+   "Options_Domains_Equivalences_BadDomains_Error": {
+      "message": "此处只能定义域名。域名只能包含字母，数字，连号字符 ('-')和句号 ('。')。域名必须以字母或数字开头和结尾。域名错误：\n'%1'"
+   },
+   "Options_Domains_Equivalences_Custom_Tip": {
+      "message": "用户定义的域名等价列表。通过'='，每行宣言等价域名 。填写域名时不要带 'http' 和 'www'.\n域名等价是可传递的，例如：\naaa.com=bbb.com=ccc.com\nddd.com=bbb.com\nddd.com=eee\n在结果中，这些域名都是等价的。"
+   },
+   "Options_Domains_Equivalences_Frame": {
+      "message": "域名等价"
+   },
+   "Options_Domains_FillingFromLoginChecksDomain_Text2": {
+      "message": "在不匹配的域上填充登录数据之前警告提醒我"
+   },
+   "Options_Domains_FillingFromLoginChecksDomain_Tip": {
+      "message": "将登录数据填充到与该登录名关联的域不同的域之前RoboForm将发出警告提醒"
+   },
+   "Options_Domains_Title": {
+      "message": "域名"
+   },
+   "Options_EnableNativeIntegration_Text": {
+      "message": "启用与已安装的RoboForm应用程序的集成功能"
+   },
+   "Options_Extended_ActiveServer_Text": {
+      "message": "活跃的服务器可以使用："
+   },
+   "Options_General_Title": {
+      "message": "一般"
+   },
+   "Options_Import_FolderSuffix_Text": {
+      "message": "已导入"
+   },
+   "Options_ImportsButton_Text2": {
+      "message": "导入"
+   },
+   "Options_IncorrectValue_AuxKey": {
+      "message": "至少选择一个扩展值"
+   },
+   "Options_Keyboard_Title": {
+      "message": "快捷键"
+   },
+   "Options_Language_Tip": {
+      "message": "请选择您的RoboForm应用程序界面语言"
+   },
+   "Options_Language_Title": {
+      "message": "语言"
+   },
+   "Options_LicenseStatus_ActiveSubscription_Text": {
+      "message": "主动订阅"
+   },
+   "Options_LicenseStatus_ExpirationDate_Text": {
+      "message": "期限日期：%1"
+   },
+   "Options_LicenseStatus_ExpiredSubscription_Text": {
+      "message": "订阅已过期"
+   },
+   "Options_LicenseStatus_ExpiredTrial_Text": {
+      "message": "试用时限过期"
+   },
+   "Options_LicenseStatus_FreeAccount_Text": {
+      "message": "免费账户"
+   },
+   "Options_LicenseStatus_FreeTrial_Text": {
+      "message": "免费试用"
+   },
+   "Options_LicenseStatus_NoLicense_Text": {
+      "message": "没有许可证"
+   },
+   "Options_LicenseStatus_PurchaseLicense_Button_Text": {
+      "message": "购买许可证"
+   },
+   "Options_LicenseStatus_RenewNow_Button_Text": {
+      "message": "立即续订"
+   },
+   "Options_LicenseStatus_Text": {
+      "message": "许可证状态"
+   },
+   "Options_LicenseType_Business_Text": {
+      "message": "商务版"
+   },
+   "Options_LicenseType_Everywhere_Text": {
+      "message": "通用版"
+   },
+   "Options_LicenseType_Family_Text": {
+      "message": "家庭版"
+   },
+   "Options_LicenseType_Text": {
+      "message": "许可证类型"
+   },
+   "Options_LoginToViewMoreOptions_Text": {
+      "message": "在您登录 RoboForm 帐户之前，某些选项不可用。请点击浏览器工具栏中的RoboForm按钮进行登录操作。"
+   },
+   "Options_ManagedByPolicy_Text": {
+      "message": "受公司政策管理"
+   },
+   "Options_NativeIntegrationChange_Warning": {
+      "message": "您想更改本机出厂设置吗？\n将重新加载扩展项。"
+   },
+   "Options_No": {
+      "message": "否"
+   },
+   "Options_NotPrimaryBuyer_Text": {
+      "message": "您的RoboForm帐户不是主要许可证持有人（资费清单联系人）。\n请联系主要帐户持有人进行续订，您也不能依此帐户自行续订（将要求提供新的资费清单信息）。"
+   },
+   "Options_OfferAutoFill_BasicAuthDialogs_Text": {
+      "message": "浏览器中的自动填充基本身份验证对话框"
+   },
+   "Options_OfferAutoFill_BasicAuthDialogs_Tip": {
+      "message": "可选择从匹配的登录信息中自动填写基本身份验证对话框"
+   },
+   "Options_OfferAutoFill_WinDialogs_Text2": {
+      "message": "浏览器中的“自动填写Windows基本身份验证”对话框"
+   },
+   "Options_OfferAutoFill_WinDialogs_Tip2": {
+      "message": "可选择将匹配的登录账户中的信息填充到Windows对话框（基本身份验证）"
+   },
+   "Options_OfferAutoSave_BasicAuthDialogs_Text": {
+      "message": "针对浏览器中的基本身份验证对话框进行自动保存"
+   },
+   "Options_OfferAutoSave_BasicAuthDialogs_Tip": {
+      "message": "自动保存功能将由浏览器中基本身份验证对话框中的表单提交触发"
+   },
+   "Options_OfferAutoSave_WinDialogs_Text": {
+      "message": "从浏览器中的Windows对话框（基本身份验证）自动保存"
+   },
+   "Options_OfferAutoSave_WinDialogs_Tip2": {
+      "message": "自动保存功能将由浏览器中的 Windows 对话框（基本身份验证）中的表单提交触发"
+   },
+   "Options_OpenSPOnLoginFromExtension_Title": {
+      "message": "登录RoboForm时打开起始页"
+   },
+   "Options_PaymentInfo_Text": {
+      "message": "付款信息"
+   },
+   "Options_PaymentInfo_UpdateBillingInfo_Text": {
+      "message": "更新账单信息"
+   },
+   "Options_RightAltForShortcuts_Text": {
+      "message": "也为快捷方式使用右ALT(R)"
+   },
+   "Options_RightAltForShortcuts_Tip": {
+      "message": "如果选中，右ALT组合键等价于左ALT组合键，将调用左ALT组合键的RoboForm快捷功能。如果未选中，则只有左ALT组合键能调用RoboForm快捷功能"
+   },
+   "Options_RoboFormOpensWith_AllPopularItems_Text": {
+      "message": "所有常用项目"
+   },
+   "Options_RoboFormOpensWith_AllRecentlyUsedItems_Text": {
+      "message": "所有最近使用的项目信息"
+   },
+   "Options_RoboFormOpensWith_LastSelected_Text": {
+      "message": "最新选择的排序方式"
+   },
+   "Options_RoboFormOpensWith_PinnedItems_Text": {
+      "message": "标签项"
+   },
+   "Options_RoboFormOpensWith_PopularLogins_Text": {
+      "message": "常用登录名"
+   },
+   "Options_RoboFormOpensWith_RecentlyUsedLogins_Text": {
+      "message": "最近使用的登录名"
+   },
+   "Options_Security_AutoLogoffDisabled_Text": {
+      "message": "**此选项已设置，只能在Rofoform Online网站的\n“策略编辑器”选项中更改"
+   },
+   "Options_Security_Title": {
+      "message": "信息安全"
+   },
+   "Options_Security_TurnOffBuiltInPwdMgr_Text": {
+      "message": "关闭浏览器内置的密码管理器"
+   },
+   "Options_SetPasswordButton_Text4": {
+      "message": "修改主密码"
+   },
+   "Options_SetPasswordLink_Text": {
+      "message": "更改"
+   },
+   "Options_Settings_Title": {
+      "message": "设置"
+   },
+   "Options_Shortcut_Alt_Text": {
+      "message": "Alt"
+   },
+   "Options_Shortcut_Ctrl_Text": {
+      "message": "Ctrl"
+   },
+   "Options_Shortcut_Shift_Text": {
+      "message": "Shift"
+   },
+   "Options_ShortcutsList_Text": {
+      "message": "快捷键列表"
+   },
+   "Options_ShortcutsList_Tip": {
+      "message": "列出了浏览器中的RoboForm快捷键。您可以决定其中任何一个快捷键的使用状态(启用或关闭)"
+   },
+   "Options_ShowBookmarksAndLoginsTogether_Text": {
+      "message": "同时显示书签和登录信息(B)"
+   },
+   "Options_ShowBookmarksAndLoginsTogether_Tip2": {
+      "message": "所有RoboForm界面下的登录名账户中将被列入书签"
+   },
+   "Options_ShowCompromisedPasswordsIndicator": {
+      "message": "显示密码泄露提示信息"
+   },
+   "Options_ShowCompromisedPasswordsIndicator_Tip": {
+      "message": "对于已泄露密码的登录名旁边将出现红色感叹号图标"
+   },
+   "Options_StoreMPInSystemProtectedStorage_Text2": {
+      "message": "不要求主密码"
+   },
+   "Options_StoreMPInSystemProtectedStorage_Tip2": {
+      "message": "输入主密码后，密码将被存储在系统保护的储存空间中因此您不必再次输入密码。\n要再次使RoboForm请求主密码单击注销按钮，从系统保护存储中清除主密码。RoboForm不会由于超时自动注销。"
+   },
+   "Options_TimeZone_Title": {
+      "message": "时区设置"
+   },
+   "Options_UpgradeToFamilyPlan_Button_Text": {
+      "message": "升级到家用版应用环境"
+   },
+   "Options_UseNativeMenus_Text": {
+      "message": "启用RoboForm桌面菜单"
+   },
+   "Options_UseNativeMenus_Tip": {
+      "message": "RoboForm的桌面菜单将包含在浏览器扩展项中"
+   },
+   "Options_WarnAboutFillingSensitiveInfo_Text2": {
+      "message": "当我要填写信用卡或银行帐户数据信息之前，请警告提醒我"
+   },
+   "Options_WarnAboutFillingSensitiveInfo_Tip": {
+      "message": "存储在您身份信息中的任何付款信息数据在填写之前，RoboForm都会要求进行额外确认"
+   },
+   "Options_WebExt_AutoLogoffAfterIdle_Text": {
+      "message": "处于空闲状态后自动退出登录（0-99999分钟）*"
+   },
+   "Options_WebExt_HighlightFields_Text": {
+      "message": "突出显示填写的字段"
+   },
+   "Options_WebExt_LogoffTakeEffectNextSession": {
+      "message": "*它将从下一个RoboForm会话开始生效"
+   },
+   "Options_Yes": {
+      "message": "是"
+   },
+   "Page_ListItem_MoreActions_Tip": {
+      "message": "更多操作"
+   },
+   "PassAud_PwdStrengthGood": {
+      "message": "好"
+   },
+   "PassAud_PwdStrengthMedium": {
+      "message": "中等"
+   },
+   "PassAud_PwdStrengthStrong": {
+      "message": "强"
+   },
+   "PassAud_PwdStrengthWeak": {
+      "message": "弱"
+   },
+   "PassCards_LoginTip_EditTipText": {
+      "message": "编辑登录提示"
+   },
+   "PassCards_LoginTip_HideMonospaceText": {
+      "message": "不要使用等宽字体"
+   },
+   "PassCards_LoginTip_ShowMonospaceText": {
+      "message": "使用等宽字体"
+   },
+   "PassCards_LoginTip_Title": {
+      "message": "登录提示"
+   },
+   "PassCards_Note": {
+      "message": "标注"
+   },
+   "PassCards_Password": {
+      "message": "密码"
+   },
+   "PassCards_UserId": {
+      "message": "登录名"
+   },
+   "PassGen_BitStrength": {
+      "message": "位长 = "
+   },
+   "PassGen_CharNumber_Text": {
+      "message": "字符数目(N)"
+   },
+   "PassGen_CharNumber_Tip": {
+      "message": "生成的密码中的字符数目"
+   },
+   "PassGen_Copy": {
+      "message": "复制(C)"
+   },
+   "PassGen_Copy_Tip": {
+      "message": "复制生成的密码到剪贴板"
+   },
+   "PassGen_ExcludeSimilar_Text": {
+      "message": "排除类似"
+   },
+   "PassGen_ExcludeSimilar_Tip": {
+      "message": "从生成的密码中排除相似的字符"
+   },
+   "PassGen_Fill": {
+      "message": "填写(F)"
+   },
+   "PassGen_Fill_Tip": {
+      "message": "填写生成的密码到此页面中的所有密码字段"
+   },
+   "PassGen_Generate": {
+      "message": "生成新密码(G)"
+   },
+   "PassGen_Generate_Tip": {
+      "message": "生成新密码"
+   },
+   "PassGen_Generated_Tip": {
+      "message": "生成的密码"
+   },
+   "PassGen_Lower_Tip": {
+      "message": "在生成的密码中使用a-z"
+   },
+   "PassGen_Numb_Tip": {
+      "message": "在生成的密码中使用0-9"
+   },
+   "PassGen_RestoreDefaults_Text": {
+      "message": "恢复默认值"
+   },
+   "PassGen_ShowAdvanced": {
+      "message": "高级设置"
+   },
+   "PassGen_Title": {
+      "message": "密码生成器 - RoboForm"
+   },
+   "PassGen_Upper_Tip": {
+      "message": "在生成的密码中使用A-Z"
+   },
+   "PassGen_UseHexChars": {
+      "message": "十六进制 0-9，A-F(X)"
+   },
+   "PassGen_UseHexChars_Tip": {
+      "message": "仅使用十六进制字符：0-9，A-F"
+   },
+   "PassGen_UseSpecial_Tip": {
+      "message": "在生成的密码中使用特殊字符"
+   },
+   "PassGen_WrongChars_Errtext": {
+      "message": "字符数错误（1-512）"
+   },
+   "PassGen_WrongNums_Errtext": {
+      "message": "字符位数错误"
+   },
+   "PassGen_helptext1": {
+      "message": "已生成新密码。单击“填充”进行填写"
+   },
+   "PassGen_helptext2": {
+      "message": "浏览器中的密码字段。 单击“复制”进行复制"
+   },
+   "PassGen_helptext3": {
+      "message": "剪贴板。单击“生成”进行生成一个新的。"
+   },
+   "PassType_Blocking_Suffix": {
+      "message": "-阻止的-"
+   },
+   "PassportExpirationDate_DisplayText": {
+      "message": "截止日期：%1"
+   },
+   "Passw_Account_Title": {
+      "message": "RoboForm账户"
+   },
+   "Passw_ChangeAccount": {
+      "message": "改账号"
+   },
+   "Passw_DontRememberButton_Text": {
+      "message": "我不记得主密码"
+   },
+   "Passw_EnterNotifySet_Text2": {
+      "message": "为了确保安全，我们会要求您每%1天输入一次主密码。"
+   },
+   "Passw_EnterNotify_Text2": {
+      "message": "为了确保安全，我们要求您每%1天输入一次主密码。"
+   },
+   "Passw_EnterNowButton_Text": {
+      "message": "立即输入"
+   },
+   "Passw_Generic_Header": {
+      "message": "输入密码"
+   },
+   "Passw_Login": {
+      "message": "登录"
+   },
+   "Passw_SubmitButton_Text": {
+      "message": "提交"
+   },
+   "Password_Successfully_Changed": {
+      "message": "密码修改成功"
+   },
+   "PhishingWarning_FillingIntoDomainNotInLogin": {
+      "message": "网站域名与登录名的匹配网址不匹配。\n\n匹配网址：%1\n网站地址：%2\n\n您是否仍希望通过RoboForm填写表格？"
+   },
+   "PhishingWarning_FillingIntoFrameDomainNotInLogin": {
+      "message": "框架域与登录名的匹配网址域不相符。\n\n匹配网址域为：%1\n框架域为：%2\n\n您是否仍希望RoboForm填写此表格？"
+   },
+   "PhishingWarning_FrameDomainNotInLogin": {
+      "message": "网络钓鱼警告：页框连结的域名与登录名的匹配地址不匹配。\n\n匹配网址：%1\n页框连结：%2\n主网址：%3\n\n您是否仍希望通过RoboForm填写表格？"
+   },
+   "Policy_CommandDisabled_Message": {
+      "message": "该命令被协议禁止"
+   },
+   "Policy_DisableNonGroupData_Message": {
+      "message": "该命令被政策禁止。您只能在群组内创建数据"
+   },
+   "Policy_FileCreationProhibited_Text": {
+      "message": "错误：因策略原因禁止创建%1。"
+   },
+   "Policy_FillingIntoDomainNotInLogin": {
+      "message": "表格填写被中止，因为网站域名与登录名的匹配网址不匹配。\n\n匹配网址：%1\n网站地址：%2"
+   },
+   "Policy_FillingIntoFrameDomainNotInLogin": {
+      "message": "表单填写功能被中止，因为框架域与登录名的匹配网址域不相符。\n\n匹配网址域为：%1\n框架域为：%2"
+   },
+   "Policy_MasterPasswordChangeDisabled": {
+      "message": "修改和创建主密码操作被协议禁止"
+   },
+   "Policy_ProhibitedFolder_NonGroupData_Message": {
+      "message": "因政策禁止选择用于保存的文件夹。您只能在群组内创建数据"
+   },
+   "Popup_ReportAnIssue_Command_Text": {
+      "message": "在此页面上报告一个问题"
+   },
+   "ProAd_UpgradeNow_Button": {
+      "message": "立刻升级"
+   },
+   "RFOError_WrongUserIDOrPassword": {
+      "message": "您输入了无效的用户ID或密码"
+   },
+   "RFOSetup_CreateNewAccount_Button": {
+      "message": "创建新帐户"
+   },
+   "RFOSetup_EnterPasswordForAccount": {
+      "message": "请输入RoboForm帐户的密码："
+   },
+   "RFOSync_ForceMasterPasswordChange_Text": {
+      "message": "主密码已过期，您必须更改主密码。"
+   },
+   "RFO_CreateAccountCannotSendEmail_Error": {
+      "message": "帐户尚未创建。我们无法将帐户创建验证电子邮件发送到您所提供的电子邮件地址。\n请输入有效的电子邮件地址，然后重试。"
+   },
+   "RFO_OTP_Memorize_Device": {
+      "message": "注册该浏览器，以便下次登录时不再需要一次性密码。"
+   },
+   "RFO_TwoFactorCaption_Text": {
+      "message": "一次性密码"
+   },
+   "RFO_TwoFactorIsOn_TextShort": {
+      "message": "您的帐户的一次性密码（OTP）设置为启用。"
+   },
+   "RFO_TwoFactor_ByEmail_Text2": {
+      "message": "一次性密码已发送到您的验证过的电子邮件地址。"
+   },
+   "RFO_TwoFactor_ByGA_Text3": {
+      "message": "输入身份验证码以继续。"
+   },
+   "RFO_TwoFactor_BySMS_Text2": {
+      "message": "一次性密码已通过短信发送到您的验证电话号码。"
+   },
+   "RFO_TwoFactor_EnrollBrowserGA_Text": {
+      "message": "注册该浏览器，以便在您下次登录时不需要再输入身份验证码。"
+   },
+   "RFO_TwoFactor_EnrollBrowserGeneric_Text": {
+      "message": "注册该浏览器，以便下次登录时不需要双重认证。"
+   },
+   "RFO_TwoFactor_PromptGeneric_Text": {
+      "message": "您的帐户的“双重身份验证”处于启用状态。您需要其他代码才能访问您的帐户。"
+   },
+   "RFO_TwoFactor_Send_Button": {
+      "message": "发送一次性密码（OTP）"
+   },
+   "RFO_TwoFactor_WrongOTP_Text": {
+      "message": "一次性密码错误"
+   },
+   "RI_AOL_Screen_Name": {
+      "message": "美国在线(AOL)用户名"
+   },
+   "RI_Abbr": {
+      "message": "缩写"
+   },
+   "RI_Address": {
+      "message": "地址"
+   },
+   "RI_Address_Line_1": {
+      "message": "地址1"
+   },
+   "RI_Address_Line_2": {
+      "message": "地址2"
+   },
+   "RI_Age": {
+      "message": "年龄"
+   },
+   "RI_Alphabet": {
+      "message": "字母"
+   },
+   "RI_Alphabet_Name": {
+      "message": "字母读音"
+   },
+   "RI_Apartment_Number": {
+      "message": "公寓编号"
+   },
+   "RI_Bank_Account_Number": {
+      "message": "帐号"
+   },
+   "RI_Bank_Account_Owner": {
+      "message": "帐户名称"
+   },
+   "RI_Bank_Account_Type": {
+      "message": "帐户类型"
+   },
+   "RI_Bank_Account_Type_Checking": {
+      "message": "支票"
+   },
+   "RI_Bank_Account_Type_Current": {
+      "message": "现金"
+   },
+   "RI_Bank_Account_Type_Money_Manager": {
+      "message": "短期资本经营户"
+   },
+   "RI_Bank_Account_Type_Savings": {
+      "message": "存款"
+   },
+   "RI_Bank_Address": {
+      "message": "银行地址"
+   },
+   "RI_Bank_Branch_Name": {
+      "message": "银行分理处"
+   },
+   "RI_Bank_Branch_Type": {
+      "message": "分理处类型"
+   },
+   "RI_Bank_Corr_Account": {
+      "message": "代理帐户"
+   },
+   "RI_Bank_Interest_Rate": {
+      "message": "利率"
+   },
+   "RI_Bank_Name": {
+      "message": "银行名称"
+   },
+   "RI_Bank_PIN_Code": {
+      "message": "银行验证码"
+   },
+   "RI_Bank_Phone": {
+      "message": "银行电话"
+   },
+   "RI_Bank_Routing_Number": {
+      "message": "转帐代码"
+   },
+   "RI_Bank_Swift_Code": {
+      "message": "SWIFT代码"
+   },
+   "RI_Bank_Type": {
+      "message": "银行类型"
+   },
+   "RI_Birth_Date": {
+      "message": "生日"
+   },
+   "RI_Birth_Day": {
+      "message": "日"
+   },
+   "RI_Birth_Month": {
+      "message": "月"
+   },
+   "RI_Birth_Place": {
+      "message": "出生地"
+   },
+   "RI_Birth_Year": {
+      "message": "年"
+   },
+   "RI_Bundesland": {
+      "message": "联邦"
+   },
+   "RI_Canton": {
+      "message": "州/区"
+   },
+   "RI_Car_Make": {
+      "message": "生成"
+   },
+   "RI_Car_Model": {
+      "message": "模型"
+   },
+   "RI_Car_Plate": {
+      "message": "盘"
+   },
+   "RI_Car_Plate_Number": {
+      "message": "盘 #"
+   },
+   "RI_Car_Year": {
+      "message": "年"
+   },
+   "RI_Card_Credit_Limit": {
+      "message": "信用额度"
+   },
+   "RI_Card_Customer_Service_Phone": {
+      "message": "客户服务电话"
+   },
+   "RI_Card_Expires": {
+      "message": "有效期限"
+   },
+   "RI_Card_Interest_Rate": {
+      "message": "利率"
+   },
+   "RI_Card_Issuing_Bank": {
+      "message": "发卡行"
+   },
+   "RI_Card_Number": {
+      "message": "信用卡号"
+   },
+   "RI_Card_PIN_Number": {
+      "message": "个人身份码"
+   },
+   "RI_Card_Password": {
+      "message": "信用卡密码"
+   },
+   "RI_Card_Type": {
+      "message": "信用卡类型"
+   },
+   "RI_Card_User_Name": {
+      "message": "持卡人姓名"
+   },
+   "RI_Card_Validation_Code": {
+      "message": "校验码"
+   },
+   "RI_Cell_Phone": {
+      "message": "移动电话"
+   },
+   "RI_City": {
+      "message": "城市"
+   },
+   "RI_Code_OKPO": {
+      "message": "OKPO"
+   },
+   "RI_Code_OKVED": {
+      "message": "OKVED"
+   },
+   "RI_Colony": {
+      "message": "侨居地"
+   },
+   "RI_Company": {
+      "message": "公司名称"
+   },
+   "RI_Company_Department": {
+      "message": "部门"
+   },
+   "RI_Company_Registration_Number": {
+      "message": "公司注册号码"
+   },
+   "RI_Company_Registration_Place": {
+      "message": "公司注册地点"
+   },
+   "RI_Company_Tax_ID": {
+      "message": "公司纳税号"
+   },
+   "RI_Company_VAT_Number": {
+      "message": "增值税号"
+   },
+   "RI_Contact": {
+      "message": "联系人"
+   },
+   "RI_Country": {
+      "message": "国家"
+   },
+   "RI_CountryAlt_United_States": {
+      "message": "美利坚合众国;USA;US"
+   },
+   "RI_CountryCode": {
+      "message": "国家代码"
+   },
+   "RI_Country_Afghanistan": {
+      "message": "阿富汗"
+   },
+   "RI_Country_Andorra": {
+      "message": "安道尔"
+   },
+   "RI_Country_Argentina": {
+      "message": "阿根廷"
+   },
+   "RI_Country_Armenia": {
+      "message": "亚美尼亚"
+   },
+   "RI_Country_Australia": {
+      "message": "澳大利亚"
+   },
+   "RI_Country_Austria": {
+      "message": "奥地利"
+   },
+   "RI_Country_Belarus": {
+      "message": "白俄罗斯"
+   },
+   "RI_Country_Belgium": {
+      "message": "比利时"
+   },
+   "RI_Country_Bolivia": {
+      "message": "玻利维亚"
+   },
+   "RI_Country_Bosnia_And_Herzegovina": {
+      "message": "波斯尼亚和黑塞哥维"
+   },
+   "RI_Country_Brazil": {
+      "message": "巴西"
+   },
+   "RI_Country_Bulgaria": {
+      "message": "保加利亚"
+   },
+   "RI_Country_Canada": {
+      "message": "加拿大"
+   },
+   "RI_Country_Chile": {
+      "message": "智利"
+   },
+   "RI_Country_China": {
+      "message": "中国"
+   },
+   "RI_Country_Colombia": {
+      "message": "哥伦比亚"
+   },
+   "RI_Country_Costa_Rica": {
+      "message": "哥斯达黎加"
+   },
+   "RI_Country_Croatia": {
+      "message": "克罗爱西亚"
+   },
+   "RI_Country_Cyprus": {
+      "message": "塞浦路斯"
+   },
+   "RI_Country_Czech_Republic": {
+      "message": "捷克共和国"
+   },
+   "RI_Country_Denmark": {
+      "message": "丹麦"
+   },
+   "RI_Country_Egypt": {
+      "message": "埃及"
+   },
+   "RI_Country_Estonia": {
+      "message": "爱沙尼亚"
+   },
+   "RI_Country_Finland": {
+      "message": "芬兰"
+   },
+   "RI_Country_France": {
+      "message": "法国"
+   },
+   "RI_Country_Gabon": {
+      "message": "加蓬共和国"
+   },
+   "RI_Country_Germany": {
+      "message": "德国"
+   },
+   "RI_Country_Gibraltar": {
+      "message": "直布罗陀"
+   },
+   "RI_Country_Greece": {
+      "message": "希腊"
+   },
+   "RI_Country_Greenland": {
+      "message": "格陵兰岛"
+   },
+   "RI_Country_Haiti": {
+      "message": "海地"
+   },
+   "RI_Country_Hong_Kong": {
+      "message": "香港"
+   },
+   "RI_Country_Hungary": {
+      "message": "匈牙利"
+   },
+   "RI_Country_Iceland": {
+      "message": "冰岛"
+   },
+   "RI_Country_India": {
+      "message": "印度"
+   },
+   "RI_Country_Indonesia": {
+      "message": "印度尼西亚"
+   },
+   "RI_Country_Iran": {
+      "message": "伊朗"
+   },
+   "RI_Country_Iraq": {
+      "message": "伊拉克"
+   },
+   "RI_Country_Ireland": {
+      "message": "冰岛共和国"
+   },
+   "RI_Country_Israel": {
+      "message": "以色列"
+   },
+   "RI_Country_Italy": {
+      "message": "意大利"
+   },
+   "RI_Country_Jamaica": {
+      "message": "牙买加"
+   },
+   "RI_Country_Japan": {
+      "message": "日本"
+   },
+   "RI_Country_Kazakhstan": {
+      "message": "哈萨克斯坦"
+   },
+   "RI_Country_Korea": {
+      "message": "韩国"
+   },
+   "RI_Country_Latvia": {
+      "message": "拉脱维亚"
+   },
+   "RI_Country_Liechtenstein": {
+      "message": "列支敦士敦"
+   },
+   "RI_Country_Lithuania": {
+      "message": "立陶宛"
+   },
+   "RI_Country_Luxembourg": {
+      "message": "卢森堡"
+   },
+   "RI_Country_Macedonia": {
+      "message": "马其顿王国"
+   },
+   "RI_Country_Malaysia": {
+      "message": "马来西亚"
+   },
+   "RI_Country_Malta": {
+      "message": "马耳他"
+   },
+   "RI_Country_Mexico": {
+      "message": "墨西哥"
+   },
+   "RI_Country_Moldova": {
+      "message": "摩尔多瓦"
+   },
+   "RI_Country_Monaco": {
+      "message": "摩纳哥"
+   },
+   "RI_Country_Montenegro": {
+      "message": "黑山"
+   },
+   "RI_Country_Morocco": {
+      "message": "摩洛哥"
+   },
+   "RI_Country_Namibia": {
+      "message": "纳米比亚"
+   },
+   "RI_Country_Netherlands": {
+      "message": "荷兰"
+   },
+   "RI_Country_New_Zealand": {
+      "message": "新西兰"
+   },
+   "RI_Country_Nigeria": {
+      "message": "尼日利亚"
+   },
+   "RI_Country_Norway": {
+      "message": "挪威"
+   },
+   "RI_Country_Other": {
+      "message": "其它"
+   },
+   "RI_Country_Pakistan": {
+      "message": "巴基斯坦"
+   },
+   "RI_Country_Panama": {
+      "message": "巴拿马"
+   },
+   "RI_Country_Paraguay": {
+      "message": "巴拉圭"
+   },
+   "RI_Country_Peru": {
+      "message": "秘鲁"
+   },
+   "RI_Country_Philippines": {
+      "message": "菲律宾"
+   },
+   "RI_Country_Poland": {
+      "message": "波兰"
+   },
+   "RI_Country_Portugal": {
+      "message": "葡萄牙"
+   },
+   "RI_Country_Qatar": {
+      "message": "卡塔尔"
+   },
+   "RI_Country_Romania": {
+      "message": "罗马尼亚"
+   },
+   "RI_Country_Russia": {
+      "message": "俄罗斯"
+   },
+   "RI_Country_San_Marino": {
+      "message": "圣马力诺"
+   },
+   "RI_Country_Saudi_Arabia": {
+      "message": "沙特阿拉伯"
+   },
+   "RI_Country_Serbia": {
+      "message": "塞尔维亚"
+   },
+   "RI_Country_Singapore": {
+      "message": "新加坡"
+   },
+   "RI_Country_Slovakia": {
+      "message": "斯洛伐克"
+   },
+   "RI_Country_Slovenia": {
+      "message": "斯洛法尼亚"
+   },
+   "RI_Country_South_Africa": {
+      "message": "南非"
+   },
+   "RI_Country_Spain": {
+      "message": "苏丹"
+   },
+   "RI_Country_Sweden": {
+      "message": "约旦"
+   },
+   "RI_Country_Switzerland": {
+      "message": "瑞士"
+   },
+   "RI_Country_Taiwan": {
+      "message": "台湾"
+   },
+   "RI_Country_Thailand": {
+      "message": "泰国"
+   },
+   "RI_Country_Turkey": {
+      "message": "土尔其"
+   },
+   "RI_Country_Ukraine": {
+      "message": "乌克兰"
+   },
+   "RI_Country_United_Kingdom": {
+      "message": "英国"
+   },
+   "RI_Country_United_States": {
+      "message": "美国"
+   },
+   "RI_Country_Venezuela": {
+      "message": "委内瑞拉"
+   },
+   "RI_Country_Vietnam": {
+      "message": "越南"
+   },
+   "RI_County": {
+      "message": "县/区"
+   },
+   "RI_Department": {
+      "message": "部门"
+   },
+   "RI_Dispatching_Agency": {
+      "message": "分理处"
+   },
+   "RI_District": {
+      "message": "行政区"
+   },
+   "RI_Driver_License": {
+      "message": "驾照"
+   },
+   "RI_Driver_License_Number": {
+      "message": "驾驶执照"
+   },
+   "RI_Email": {
+      "message": "电子邮件"
+   },
+   "RI_Employer_Identitification_Number": {
+      "message": "职员号"
+   },
+   "RI_Expires": {
+      "message": "过期"
+   },
+   "RI_Fax_Phone": {
+      "message": "传真"
+   },
+   "RI_First": {
+      "message": "名"
+   },
+   "RI_Fiscal_Code": {
+      "message": "财务代码"
+   },
+   "RI_General_Register": {
+      "message": "正常注册"
+   },
+   "RI_Group_Bank_Account": {
+      "message": "银行帐户"
+   },
+   "RI_Group_Business": {
+      "message": "商业"
+   },
+   "RI_Group_Car": {
+      "message": "汽车"
+   },
+   "RI_Group_Credit_Card": {
+      "message": "信用卡"
+   },
+   "RI_Group_Custom": {
+      "message": "自定义"
+   },
+   "RI_Group_Default_Password": {
+      "message": "默认密码"
+   },
+   "RI_Group_Location": {
+      "message": "所在地"
+   },
+   "RI_Group_Passport": {
+      "message": "护照"
+   },
+   "RI_Group_Person": {
+      "message": "个人"
+   },
+   "RI_Group_Service": {
+      "message": "服务"
+   },
+   "RI_Group_Service2": {
+      "message": "普通"
+   },
+   "RI_Group_Summary": {
+      "message": "摘要"
+   },
+   "RI_Home_Phone": {
+      "message": "家庭电话"
+   },
+   "RI_HouseNumber": {
+      "message": "楼宇名称"
+   },
+   "RI_HouseNumber_StreetName": {
+      "message": "楼宇名称/街道名称"
+   },
+   "RI_HouseNumber_or_Name": {
+      "message": "楼宇编号或名称"
+   },
+   "RI_ICQ_Number": {
+      "message": "ICQ号码"
+   },
+   "RI_ID_Card_Number": {
+      "message": "证件号码"
+   },
+   "RI_ID_Card_Type": {
+      "message": "证件类型"
+   },
+   "RI_Income": {
+      "message": "收入"
+   },
+   "RI_Inset": {
+      "message": "插入名"
+   },
+   "RI_Int_Bank_Account_Number": {
+      "message": "国际银行帐号"
+   },
+   "RI_International_Card_Customer_Service_Phone": {
+      "message": "国际客服电话"
+   },
+   "RI_Job": {
+      "message": "工作"
+   },
+   "RI_Last": {
+      "message": "姓"
+   },
+   "RI_Last2": {
+      "message": "外姓"
+   },
+   "RI_Legal_Business_Name": {
+      "message": "法定名称"
+   },
+   "RI_MSN_ID": {
+      "message": "MSN用户名"
+   },
+   "RI_Middle": {
+      "message": "字"
+   },
+   "RI_Mobile_Email": {
+      "message": "移动Email"
+   },
+   "RI_Municipality": {
+      "message": "市"
+   },
+   "RI_Name": {
+      "message": "姓名"
+   },
+   "RI_Name_Suffix_Jr": {
+      "message": "Jr."
+   },
+   "RI_Name_Suffix_Sr": {
+      "message": "Sr."
+   },
+   "RI_NationalPrefix": {
+      "message": "国内区号"
+   },
+   "RI_National_Health_Service_Number": {
+      "message": "NHS号码"
+   },
+   "RI_National_Insurance_Number": {
+      "message": "国家保险号"
+   },
+   "RI_Number": {
+      "message": "号码"
+   },
+   "RI_Pager_Phone": {
+      "message": "寻呼机"
+   },
+   "RI_Passport": {
+      "message": "护照"
+   },
+   "RI_Passport_Expiration_Date": {
+      "message": "护照过期日期"
+   },
+   "RI_Passport_Issue_Date": {
+      "message": "护照签发日期"
+   },
+   "RI_Passport_Issue_Place": {
+      "message": "护照签发地点"
+   },
+   "RI_Passport_Number": {
+      "message": "护照编号"
+   },
+   "RI_Passport_Series": {
+      "message": "护照序号"
+   },
+   "RI_Passport_Type": {
+      "message": "护照类型"
+   },
+   "RI_Passport_Type_International": {
+      "message": "国际"
+   },
+   "RI_Passport_Type_National": {
+      "message": "本土"
+   },
+   "RI_Password": {
+      "message": "收藏的密码"
+   },
+   "RI_Password_Answer": {
+      "message": "密码问题答案"
+   },
+   "RI_Password_Question": {
+      "message": "密码提示问题"
+   },
+   "RI_Pension_Insurance_Number": {
+      "message": "养老保险号码"
+   },
+   "RI_Person_Cadastre": {
+      "message": "个人户口簿"
+   },
+   "RI_Personal_ID": {
+      "message": "身份证号"
+   },
+   "RI_Phone": {
+      "message": "电话"
+   },
+   "RI_Position": {
+      "message": "职位"
+   },
+   "RI_PostCode": {
+      "message": "邮编"
+   },
+   "RI_PostCode_City": {
+      "message": "城市邮编"
+   },
+   "RI_Prefecture": {
+      "message": "辖区"
+   },
+   "RI_Province": {
+      "message": "省"
+   },
+   "RI_Region": {
+      "message": "地区"
+   },
+   "RI_Roman_Name": {
+      "message": "罗马字母"
+   },
+   "RI_Series": {
+      "message": "序号"
+   },
+   "RI_Sex": {
+      "message": "性别"
+   },
+   "RI_Sex_Female": {
+      "message": "女"
+   },
+   "RI_Sex_Male": {
+      "message": "男"
+   },
+   "RI_Skype_ID": {
+      "message": "Skype用户名"
+   },
+   "RI_Social_Security_Number": {
+      "message": "社会安全号"
+   },
+   "RI_State": {
+      "message": "州"
+   },
+   "RI_State_Or_Province": {
+      "message": "省(州)"
+   },
+   "RI_State_Or_Province_AA": {
+      "message": "美驻美洲部队(不含加拿大)"
+   },
+   "RI_State_Or_Province_AE": {
+      "message": "美驻加拿大、中东、欧洲、非洲部队"
+   },
+   "RI_State_Or_Province_AP": {
+      "message": "美驻太平洋部队"
+   },
+   "RI_State_Or_Province_Adygeya_republic": {
+      "message": "Adygeya republic"
+   },
+   "RI_State_Or_Province_Agin_Buryat_avt_okrug": {
+      "message": "Agin Buryat avt okrug"
+   },
+   "RI_State_Or_Province_Aichi": {
+      "message": "爱知"
+   },
+   "RI_State_Or_Province_Akita": {
+      "message": "秋田"
+   },
+   "RI_State_Or_Province_Alabama": {
+      "message": "阿拉巴马"
+   },
+   "RI_State_Or_Province_Alaska": {
+      "message": "阿拉斯加"
+   },
+   "RI_State_Or_Province_Alberta": {
+      "message": "阿尔伯达"
+   },
+   "RI_State_Or_Province_Altai_republic": {
+      "message": "Altai republic"
+   },
+   "RI_State_Or_Province_Altaiskiy_krai": {
+      "message": "Altaiskiy krai"
+   },
+   "RI_State_Or_Province_American_Samoa": {
+      "message": "萨摩亚"
+   },
+   "RI_State_Or_Province_Amur_oblast": {
+      "message": "Amur oblast"
+   },
+   "RI_State_Or_Province_Anhui": {
+      "message": "安徽"
+   },
+   "RI_State_Or_Province_Antwerpen": {
+      "message": "安特卫普"
+   },
+   "RI_State_Or_Province_Aomen": {
+      "message": "澳门"
+   },
+   "RI_State_Or_Province_Aomori": {
+      "message": "青森"
+   },
+   "RI_State_Or_Province_Appenzell_Inner_Rhodes": {
+      "message": "内阿彭策尔"
+   },
+   "RI_State_Or_Province_Appenzell_Outer_Rhodes": {
+      "message": "外阿彭策尔"
+   },
+   "RI_State_Or_Province_Argovia": {
+      "message": "阿尔高"
+   },
+   "RI_State_Or_Province_Arizona": {
+      "message": "亚利桑那"
+   },
+   "RI_State_Or_Province_Arkansas": {
+      "message": "阿肯色"
+   },
+   "RI_State_Or_Province_Arkhangelsk_oblast": {
+      "message": "Arkhangelsk oblast"
+   },
+   "RI_State_Or_Province_Astrakhan_oblast": {
+      "message": "Astrakhan oblast"
+   },
+   "RI_State_Or_Province_Australian_Capital_Terr": {
+      "message": "澳大利亚首都地区"
+   },
+   "RI_State_Or_Province_Bashkir_republic": {
+      "message": "Bashkir republic"
+   },
+   "RI_State_Or_Province_Basle_Country": {
+      "message": "巴塞尔-乡村"
+   },
+   "RI_State_Or_Province_Basle_Town": {
+      "message": "巴塞尔-城镇"
+   },
+   "RI_State_Or_Province_Beijing": {
+      "message": "北京"
+   },
+   "RI_State_Or_Province_Belgorod_oblast": {
+      "message": "Belgorod oblast"
+   },
+   "RI_State_Or_Province_Berne": {
+      "message": "伯尔尼"
+   },
+   "RI_State_Or_Province_Brabant_Wallon": {
+      "message": "瓦隆-布拉班特"
+   },
+   "RI_State_Or_Province_British_Columbia": {
+      "message": "英属哥伦比亚"
+   },
+   "RI_State_Or_Province_Brussels_Region": {
+      "message": "布鲁塞尔首都行政区"
+   },
+   "RI_State_Or_Province_Bryansk_oblast": {
+      "message": "Bryansk oblast"
+   },
+   "RI_State_Or_Province_Buruyat_republic": {
+      "message": "Buruyat republic"
+   },
+   "RI_State_Or_Province_California": {
+      "message": "加利福尼亚"
+   },
+   "RI_State_Or_Province_Chechen_republic": {
+      "message": "Chechen republic"
+   },
+   "RI_State_Or_Province_Chelyabinsk_oblast": {
+      "message": "Chelyabinsk oblast"
+   },
+   "RI_State_Or_Province_Chiba": {
+      "message": "千叶"
+   },
+   "RI_State_Or_Province_Chita_oblast": {
+      "message": "Chita oblast"
+   },
+   "RI_State_Or_Province_Chongqing": {
+      "message": "重庆"
+   },
+   "RI_State_Or_Province_Chukotka_avt_okrug": {
+      "message": "Chukotka avt okrug"
+   },
+   "RI_State_Or_Province_Chuvash_republic": {
+      "message": "Chuvash republic"
+   },
+   "RI_State_Or_Province_Colorado": {
+      "message": "科罗拉多"
+   },
+   "RI_State_Or_Province_Connecticut": {
+      "message": "康涅狄格"
+   },
+   "RI_State_Or_Province_Dagestan_republic": {
+      "message": "Dagestan republic"
+   },
+   "RI_State_Or_Province_Delaware": {
+      "message": "特拉华"
+   },
+   "RI_State_Or_Province_District_of_Columbia": {
+      "message": "哥伦比亚"
+   },
+   "RI_State_Or_Province_Dolnoslaskie": {
+      "message": "Dolnoslaskie"
+   },
+   "RI_State_Or_Province_Ehime": {
+      "message": "爱媛"
+   },
+   "RI_State_Or_Province_Evenk_avt_okrug": {
+      "message": "Evenk avt okrug"
+   },
+   "RI_State_Or_Province_Evreyskaya_avt_oblast": {
+      "message": "Evreyskaya avt oblast"
+   },
+   "RI_State_Or_Province_Florida": {
+      "message": "佛罗里达"
+   },
+   "RI_State_Or_Province_Fribourg": {
+      "message": "弗里堡"
+   },
+   "RI_State_Or_Province_Fujian": {
+      "message": "福建"
+   },
+   "RI_State_Or_Province_Fukui": {
+      "message": "福井"
+   },
+   "RI_State_Or_Province_Fukuoka": {
+      "message": "福冈"
+   },
+   "RI_State_Or_Province_Fukushima": {
+      "message": "福岛"
+   },
+   "RI_State_Or_Province_Gansu": {
+      "message": "甘肃"
+   },
+   "RI_State_Or_Province_Geneva": {
+      "message": "日内瓦"
+   },
+   "RI_State_Or_Province_Georgia": {
+      "message": "乔治亚"
+   },
+   "RI_State_Or_Province_Gifu": {
+      "message": "岐阜"
+   },
+   "RI_State_Or_Province_Glarus": {
+      "message": "格拉鲁斯"
+   },
+   "RI_State_Or_Province_Grisons": {
+      "message": "格劳宾登"
+   },
+   "RI_State_Or_Province_Guam": {
+      "message": "关岛"
+   },
+   "RI_State_Or_Province_Guangdong": {
+      "message": "广东"
+   },
+   "RI_State_Or_Province_Guangxi": {
+      "message": "广西"
+   },
+   "RI_State_Or_Province_Guizhou": {
+      "message": "贵州"
+   },
+   "RI_State_Or_Province_Gunma": {
+      "message": "群马"
+   },
+   "RI_State_Or_Province_Hainan": {
+      "message": "海南"
+   },
+   "RI_State_Or_Province_Hainaut": {
+      "message": "埃诺"
+   },
+   "RI_State_Or_Province_Hanty_Mansy_avt_okrug": {
+      "message": "Hanty-Mansy avt okrug"
+   },
+   "RI_State_Or_Province_Hawaii": {
+      "message": "夏威夷"
+   },
+   "RI_State_Or_Province_Hebei": {
+      "message": "河北"
+   },
+   "RI_State_Or_Province_Heilongjiang": {
+      "message": "黑龙江"
+   },
+   "RI_State_Or_Province_Henan": {
+      "message": "河南"
+   },
+   "RI_State_Or_Province_Hiroshima": {
+      "message": "广岛"
+   },
+   "RI_State_Or_Province_Hokkaido": {
+      "message": "北海道"
+   },
+   "RI_State_Or_Province_Hubei": {
+      "message": "湖北"
+   },
+   "RI_State_Or_Province_Hunan": {
+      "message": "湖南"
+   },
+   "RI_State_Or_Province_Hyougo": {
+      "message": "兵库"
+   },
+   "RI_State_Or_Province_Ibaraki": {
+      "message": "茨城"
+   },
+   "RI_State_Or_Province_Idaho": {
+      "message": "爱达荷"
+   },
+   "RI_State_Or_Province_Illinois": {
+      "message": "伊利诺斯"
+   },
+   "RI_State_Or_Province_Indiana": {
+      "message": "印第安那"
+   },
+   "RI_State_Or_Province_Ingush_republic": {
+      "message": "Ingush republic"
+   },
+   "RI_State_Or_Province_Iowa": {
+      "message": "爱荷华"
+   },
+   "RI_State_Or_Province_Irkutsk_oblast": {
+      "message": "Irkutsk oblast"
+   },
+   "RI_State_Or_Province_Ishikawa": {
+      "message": "石川"
+   },
+   "RI_State_Or_Province_Ivanovskaya_oblast": {
+      "message": "Ivanovskaya oblast"
+   },
+   "RI_State_Or_Province_Iwate": {
+      "message": "岩手"
+   },
+   "RI_State_Or_Province_Jiangsu": {
+      "message": "江苏"
+   },
+   "RI_State_Or_Province_Jiangxi": {
+      "message": "江西"
+   },
+   "RI_State_Or_Province_Jilin": {
+      "message": "吉林"
+   },
+   "RI_State_Or_Province_Jura": {
+      "message": "汝拉"
+   },
+   "RI_State_Or_Province_Kabardino_Balkar_republic": {
+      "message": "Kabardino-Balkar republic"
+   },
+   "RI_State_Or_Province_Kagawa": {
+      "message": "香川"
+   },
+   "RI_State_Or_Province_Kagoshima": {
+      "message": "鹿儿岛"
+   },
+   "RI_State_Or_Province_Kalinigrad_oblast": {
+      "message": "Kalinigrad oblast"
+   },
+   "RI_State_Or_Province_Kalmykiya_republic": {
+      "message": "Kalmykiya republic"
+   },
+   "RI_State_Or_Province_Kaluga_oblast": {
+      "message": "Kaluga oblast"
+   },
+   "RI_State_Or_Province_Kamchatka_oblast": {
+      "message": "Kamchatka oblast"
+   },
+   "RI_State_Or_Province_Kanagawa": {
+      "message": "神奈川"
+   },
+   "RI_State_Or_Province_Kansas": {
+      "message": "堪萨斯"
+   },
+   "RI_State_Or_Province_Karachaevo_Cherkessia_republic": {
+      "message": "Karachaevo-Cherkessia republic"
+   },
+   "RI_State_Or_Province_Karelia_republic": {
+      "message": "Karelia republic"
+   },
+   "RI_State_Or_Province_Kemerovo_oblast": {
+      "message": "Kemerovo oblast"
+   },
+   "RI_State_Or_Province_Kentucky": {
+      "message": "肯塔基"
+   },
+   "RI_State_Or_Province_Khabarovsk_krai": {
+      "message": "Khabarovsk krai"
+   },
+   "RI_State_Or_Province_Khakassia_republic": {
+      "message": "Khakassia republic"
+   },
+   "RI_State_Or_Province_Kirov_oblast": {
+      "message": "Kirov oblast"
+   },
+   "RI_State_Or_Province_Komi_Permyak_avt_okrug": {
+      "message": "Komi-Permyak avt okrug"
+   },
+   "RI_State_Or_Province_Komi_republic": {
+      "message": "Komi republic"
+   },
+   "RI_State_Or_Province_Koryak_avt_okrug": {
+      "message": "Koryak avt okrug"
+   },
+   "RI_State_Or_Province_Kostroma_oblast": {
+      "message": "Kostroma oblast"
+   },
+   "RI_State_Or_Province_Kouchi": {
+      "message": "高知"
+   },
+   "RI_State_Or_Province_Krasnodar_krai": {
+      "message": "Krasnodar krai"
+   },
+   "RI_State_Or_Province_Krasnoyarsk_krai": {
+      "message": "Krasnoyarsk krai"
+   },
+   "RI_State_Or_Province_Kujawsko_Pomorskie": {
+      "message": "Kujawsko-Pomorskie"
+   },
+   "RI_State_Or_Province_Kumamoto": {
+      "message": "熊本"
+   },
+   "RI_State_Or_Province_Kurgan_oblast": {
+      "message": "Kurgan oblast"
+   },
+   "RI_State_Or_Province_Kursk_oblast": {
+      "message": "Kursk oblast"
+   },
+   "RI_State_Or_Province_Kyoto": {
+      "message": "京都"
+   },
+   "RI_State_Or_Province_Leningrad_oblast": {
+      "message": "Leningrad oblast"
+   },
+   "RI_State_Or_Province_Liaoning": {
+      "message": "辽宁"
+   },
+   "RI_State_Or_Province_Liege": {
+      "message": "列日"
+   },
+   "RI_State_Or_Province_Limburg": {
+      "message": "林堡"
+   },
+   "RI_State_Or_Province_Lipetsk_oblast": {
+      "message": "Lipetsk oblast"
+   },
+   "RI_State_Or_Province_Lodzkie": {
+      "message": "Lodzkie"
+   },
+   "RI_State_Or_Province_Louisiana": {
+      "message": "路易斯安那"
+   },
+   "RI_State_Or_Province_Lubelskie": {
+      "message": "Lubelskie"
+   },
+   "RI_State_Or_Province_Lubuskie": {
+      "message": "Lubuskie"
+   },
+   "RI_State_Or_Province_Lucerne": {
+      "message": "卢塞恩"
+   },
+   "RI_State_Or_Province_Luxembourg": {
+      "message": "卢森堡"
+   },
+   "RI_State_Or_Province_Magadan_oblast": {
+      "message": "Magadan oblast"
+   },
+   "RI_State_Or_Province_Maine": {
+      "message": "缅因"
+   },
+   "RI_State_Or_Province_Malopolskie": {
+      "message": "Malopolskie"
+   },
+   "RI_State_Or_Province_Manitoba": {
+      "message": "马尼托巴"
+   },
+   "RI_State_Or_Province_Marii_El_republic": {
+      "message": "Marii El republic"
+   },
+   "RI_State_Or_Province_Maryland": {
+      "message": "马里兰"
+   },
+   "RI_State_Or_Province_Massachusetts": {
+      "message": "马萨诸塞"
+   },
+   "RI_State_Or_Province_Mazowieckie": {
+      "message": "Mazowieckie"
+   },
+   "RI_State_Or_Province_Michigan": {
+      "message": "密歇根"
+   },
+   "RI_State_Or_Province_Mie": {
+      "message": "三重"
+   },
+   "RI_State_Or_Province_Minnesota": {
+      "message": "明尼苏达"
+   },
+   "RI_State_Or_Province_Mississippi": {
+      "message": "密西西比"
+   },
+   "RI_State_Or_Province_Missouri": {
+      "message": "密苏里"
+   },
+   "RI_State_Or_Province_Miyagi": {
+      "message": "宫城"
+   },
+   "RI_State_Or_Province_Miyazaki": {
+      "message": "宫崎"
+   },
+   "RI_State_Or_Province_Montana": {
+      "message": "蒙大纳"
+   },
+   "RI_State_Or_Province_Mordovia_republic": {
+      "message": "Mordovia republic"
+   },
+   "RI_State_Or_Province_Moscow_city": {
+      "message": "Moscow city"
+   },
+   "RI_State_Or_Province_Moscow_oblast": {
+      "message": "Moscow oblast"
+   },
+   "RI_State_Or_Province_Murmansk_oblast": {
+      "message": "Murmansk oblast"
+   },
+   "RI_State_Or_Province_Nagano": {
+      "message": "长野"
+   },
+   "RI_State_Or_Province_Nagasaki": {
+      "message": "长崎"
+   },
+   "RI_State_Or_Province_Namur": {
+      "message": "那慕尔"
+   },
+   "RI_State_Or_Province_Nara": {
+      "message": "奈良"
+   },
+   "RI_State_Or_Province_Nebraska": {
+      "message": "内布拉斯加"
+   },
+   "RI_State_Or_Province_Nei_Mongol": {
+      "message": "内蒙古"
+   },
+   "RI_State_Or_Province_Nenetsk_avt_okrug": {
+      "message": "Nenetsk avt okrug"
+   },
+   "RI_State_Or_Province_Neuchatel": {
+      "message": "纳沙泰尔"
+   },
+   "RI_State_Or_Province_Nevada": {
+      "message": "内华达"
+   },
+   "RI_State_Or_Province_New_Brunswick": {
+      "message": "新不伦瑞克"
+   },
+   "RI_State_Or_Province_New_Hampshire": {
+      "message": "新汉普郡"
+   },
+   "RI_State_Or_Province_New_Jersey": {
+      "message": "新泽西"
+   },
+   "RI_State_Or_Province_New_Mexico": {
+      "message": "新墨西哥"
+   },
+   "RI_State_Or_Province_New_South_Wales": {
+      "message": "新南威尔士"
+   },
+   "RI_State_Or_Province_New_York": {
+      "message": "纽约"
+   },
+   "RI_State_Or_Province_Newfoundland": {
+      "message": "纽芬兰(岛)"
+   },
+   "RI_State_Or_Province_Nidwalden": {
+      "message": "下瓦尔登"
+   },
+   "RI_State_Or_Province_Niigata": {
+      "message": "新滹"
+   },
+   "RI_State_Or_Province_Ningxia": {
+      "message": "宁夏"
+   },
+   "RI_State_Or_Province_Nizhegorodskaya_oblast": {
+      "message": "Nizhegorodskaya oblast"
+   },
+   "RI_State_Or_Province_North_Carolina": {
+      "message": "北卡罗莱纳"
+   },
+   "RI_State_Or_Province_North_Dakota": {
+      "message": "北达科他"
+   },
+   "RI_State_Or_Province_Northern_Mariana_Is": {
+      "message": "北马里亚纳群岛"
+   },
+   "RI_State_Or_Province_Northern_Territory": {
+      "message": "北部领土"
+   },
+   "RI_State_Or_Province_Northwest_Territories": {
+      "message": "西北地区"
+   },
+   "RI_State_Or_Province_Nova_Scotia": {
+      "message": "新斯科舍"
+   },
+   "RI_State_Or_Province_Novgorod_oblast": {
+      "message": "Novgorod oblast"
+   },
+   "RI_State_Or_Province_Novosibirsk_oblast": {
+      "message": "Novosibirsk oblast"
+   },
+   "RI_State_Or_Province_Nunavut": {
+      "message": "努纳维特"
+   },
+   "RI_State_Or_Province_Obwalden": {
+      "message": "上瓦尔登"
+   },
+   "RI_State_Or_Province_Ohio": {
+      "message": "俄亥俄"
+   },
+   "RI_State_Or_Province_Okayama": {
+      "message": "冈山"
+   },
+   "RI_State_Or_Province_Okinawa": {
+      "message": "冲绳"
+   },
+   "RI_State_Or_Province_Oklahoma": {
+      "message": "俄克拉荷马"
+   },
+   "RI_State_Or_Province_Omsk_oblast": {
+      "message": "Omsk oblast"
+   },
+   "RI_State_Or_Province_Ontario": {
+      "message": "安大略"
+   },
+   "RI_State_Or_Province_Ooita": {
+      "message": "大分"
+   },
+   "RI_State_Or_Province_Oost_Vlaanderen": {
+      "message": "东弗拉芒"
+   },
+   "RI_State_Or_Province_Opolskie": {
+      "message": "Opolskie"
+   },
+   "RI_State_Or_Province_Oregon": {
+      "message": "俄勒冈"
+   },
+   "RI_State_Or_Province_Orel_oblast": {
+      "message": "Orel oblast"
+   },
+   "RI_State_Or_Province_Orenburg_oblast": {
+      "message": "Orenburg oblast"
+   },
+   "RI_State_Or_Province_Osaka": {
+      "message": "大阪"
+   },
+   "RI_State_Or_Province_Palau": {
+      "message": "帕劳群岛"
+   },
+   "RI_State_Or_Province_Pennsylvania": {
+      "message": "宾夕法尼亚"
+   },
+   "RI_State_Or_Province_Penza_oblast": {
+      "message": "Penza oblast"
+   },
+   "RI_State_Or_Province_Perm_oblast": {
+      "message": "Perm oblast"
+   },
+   "RI_State_Or_Province_Podkarpackie": {
+      "message": "Podkarpackie"
+   },
+   "RI_State_Or_Province_Podlaskie": {
+      "message": "Podlaskie"
+   },
+   "RI_State_Or_Province_Pomorskie": {
+      "message": "Pomorskie"
+   },
+   "RI_State_Or_Province_Primorskii_krai": {
+      "message": "Primorskii krai"
+   },
+   "RI_State_Or_Province_Prince_Edward_Island": {
+      "message": "爱德华王子岛"
+   },
+   "RI_State_Or_Province_Pskov_oblast": {
+      "message": "Pskov oblast"
+   },
+   "RI_State_Or_Province_Puerto_Rico": {
+      "message": "波多黎各"
+   },
+   "RI_State_Or_Province_Qinghai": {
+      "message": "青海"
+   },
+   "RI_State_Or_Province_Quebec": {
+      "message": "魁北克"
+   },
+   "RI_State_Or_Province_Queensland": {
+      "message": "昆士兰"
+   },
+   "RI_State_Or_Province_Rhode_Island": {
+      "message": "罗得岛州"
+   },
+   "RI_State_Or_Province_Rostov_oblast": {
+      "message": "Rostov oblast"
+   },
+   "RI_State_Or_Province_Ryazan_oblast": {
+      "message": "Ryazan oblast"
+   },
+   "RI_State_Or_Province_Saga": {
+      "message": "佐贺"
+   },
+   "RI_State_Or_Province_Saha_republic": {
+      "message": "Saha (Yakutia)"
+   },
+   "RI_State_Or_Province_Saint_Gall": {
+      "message": "圣加仑"
+   },
+   "RI_State_Or_Province_Saitama": {
+      "message": "埼玉"
+   },
+   "RI_State_Or_Province_Sakhalin_oblast": {
+      "message": "Sahalin oblast"
+   },
+   "RI_State_Or_Province_Samara_oblast": {
+      "message": "Samara oblast"
+   },
+   "RI_State_Or_Province_Saratov_oblast": {
+      "message": "Saratov oblast"
+   },
+   "RI_State_Or_Province_Saskatchewan": {
+      "message": "萨斯喀彻温"
+   },
+   "RI_State_Or_Province_Schaffhausen": {
+      "message": "沙夫豪森"
+   },
+   "RI_State_Or_Province_Schwyz": {
+      "message": "施维茨"
+   },
+   "RI_State_Or_Province_Severnaya_Ossetia_Alaniya_republic": {
+      "message": "Severnaya Ossetia-Alaniya republic"
+   },
+   "RI_State_Or_Province_Shaanxi": {
+      "message": "山西"
+   },
+   "RI_State_Or_Province_Shandong": {
+      "message": "山东"
+   },
+   "RI_State_Or_Province_Shanghai": {
+      "message": "上海"
+   },
+   "RI_State_Or_Province_Shanxi": {
+      "message": "陕西"
+   },
+   "RI_State_Or_Province_Shiga": {
+      "message": "滋贺"
+   },
+   "RI_State_Or_Province_Shimane": {
+      "message": "岛根"
+   },
+   "RI_State_Or_Province_Shizuoka": {
+      "message": "静冈"
+   },
+   "RI_State_Or_Province_Sichuan": {
+      "message": "四川"
+   },
+   "RI_State_Or_Province_Slaskie": {
+      "message": "Slaskie"
+   },
+   "RI_State_Or_Province_Smolensk_oblast": {
+      "message": "Smolensk oblast"
+   },
+   "RI_State_Or_Province_Solothurn": {
+      "message": "索洛图恩"
+   },
+   "RI_State_Or_Province_South_Australia": {
+      "message": "南澳大利亚"
+   },
+   "RI_State_Or_Province_South_Carolina": {
+      "message": "南卡罗莱纳"
+   },
+   "RI_State_Or_Province_South_Dakota": {
+      "message": "南达科他"
+   },
+   "RI_State_Or_Province_St_Petersburg_city": {
+      "message": "St Petersburg city"
+   },
+   "RI_State_Or_Province_Stavropol_krai": {
+      "message": "Stavropol krai"
+   },
+   "RI_State_Or_Province_Sverdlovsk_oblast": {
+      "message": "Sverdlovsk oblast"
+   },
+   "RI_State_Or_Province_Swietokrzyskie": {
+      "message": "Swietokrzyskie"
+   },
+   "RI_State_Or_Province_Taimyr_act_okrug": {
+      "message": "Taimyr act okrug"
+   },
+   "RI_State_Or_Province_Taiwan": {
+      "message": "台湾"
+   },
+   "RI_State_Or_Province_Tambov_oblast": {
+      "message": "Tambov oblast"
+   },
+   "RI_State_Or_Province_Tasmania": {
+      "message": "塔斯马尼亚"
+   },
+   "RI_State_Or_Province_Tatarstan_republic": {
+      "message": "Tatarstan republic"
+   },
+   "RI_State_Or_Province_Tennessee": {
+      "message": "田纳西"
+   },
+   "RI_State_Or_Province_Texas": {
+      "message": "德克萨斯"
+   },
+   "RI_State_Or_Province_Thurgovia": {
+      "message": "图尔高"
+   },
+   "RI_State_Or_Province_Tianjin": {
+      "message": "天津"
+   },
+   "RI_State_Or_Province_Ticino": {
+      "message": "提契诺"
+   },
+   "RI_State_Or_Province_Tochigi": {
+      "message": "栃木"
+   },
+   "RI_State_Or_Province_Tokushima": {
+      "message": "德岛"
+   },
+   "RI_State_Or_Province_Tokyo": {
+      "message": "东京"
+   },
+   "RI_State_Or_Province_Tomsk_oblast": {
+      "message": "Tomsk oblast"
+   },
+   "RI_State_Or_Province_Tottori": {
+      "message": "鸟取"
+   },
+   "RI_State_Or_Province_Toyama": {
+      "message": "富山"
+   },
+   "RI_State_Or_Province_Tula_oblast": {
+      "message": "Tula oblast"
+   },
+   "RI_State_Or_Province_Tver_oblast": {
+      "message": "Tver oblast"
+   },
+   "RI_State_Or_Province_Tyumen_oblast": {
+      "message": "Tyumen oblast"
+   },
+   "RI_State_Or_Province_Tywa_republic": {
+      "message": "Tywa republic"
+   },
+   "RI_State_Or_Province_Udmurtia_republic": {
+      "message": "Udmurtia republic"
+   },
+   "RI_State_Or_Province_Ulianovsk_oblast": {
+      "message": "Ulianovsk oblast"
+   },
+   "RI_State_Or_Province_Uri": {
+      "message": "乌里"
+   },
+   "RI_State_Or_Province_Ust_Ordynsk_Buryat_avt_okrug": {
+      "message": "Ust'-Ordynsk Buryat avt okrug"
+   },
+   "RI_State_Or_Province_Utah": {
+      "message": "犹他州"
+   },
+   "RI_State_Or_Province_Valais": {
+      "message": "瓦莱"
+   },
+   "RI_State_Or_Province_Vaud": {
+      "message": "沃州"
+   },
+   "RI_State_Or_Province_Vermont": {
+      "message": "佛蒙特"
+   },
+   "RI_State_Or_Province_Victoria": {
+      "message": "维多利亚"
+   },
+   "RI_State_Or_Province_Virgin_Island": {
+      "message": "维尔京群岛"
+   },
+   "RI_State_Or_Province_Virginia": {
+      "message": "弗吉尼亚"
+   },
+   "RI_State_Or_Province_Vlaams_Brabant": {
+      "message": "佛兰芒-布拉班特"
+   },
+   "RI_State_Or_Province_Vladimir_oblast": {
+      "message": "Vladimir oblast"
+   },
+   "RI_State_Or_Province_Volgograd_oblast": {
+      "message": "Volgograd oblast"
+   },
+   "RI_State_Or_Province_Vologod_oblast": {
+      "message": "Vologod oblast"
+   },
+   "RI_State_Or_Province_Voronezh_oblast": {
+      "message": "Voronezh oblast"
+   },
+   "RI_State_Or_Province_Wakayama": {
+      "message": "和歌山"
+   },
+   "RI_State_Or_Province_Warminsko_Mazurskie": {
+      "message": "Warminsko-Mazurskie"
+   },
+   "RI_State_Or_Province_Washington": {
+      "message": "华盛顿"
+   },
+   "RI_State_Or_Province_West_Virginia": {
+      "message": "西弗吉尼亚"
+   },
+   "RI_State_Or_Province_West_Vlaanderen": {
+      "message": "西弗拉芒"
+   },
+   "RI_State_Or_Province_Western_Australia": {
+      "message": "西澳大利亚"
+   },
+   "RI_State_Or_Province_Wielkopolskie": {
+      "message": "Wielkopolskie"
+   },
+   "RI_State_Or_Province_Wisconsin": {
+      "message": "威斯康星"
+   },
+   "RI_State_Or_Province_Wyoming": {
+      "message": "怀俄明"
+   },
+   "RI_State_Or_Province_Xianggang": {
+      "message": "香港"
+   },
+   "RI_State_Or_Province_Xinjiang": {
+      "message": "新疆"
+   },
+   "RI_State_Or_Province_Xizang": {
+      "message": "西藏"
+   },
+   "RI_State_Or_Province_Yamagata": {
+      "message": "山形"
+   },
+   "RI_State_Or_Province_Yamaguchi": {
+      "message": "山口"
+   },
+   "RI_State_Or_Province_Yamalo_Nenetsk_avt_okrug": {
+      "message": "Yamalo-Nenetsk avt okrug"
+   },
+   "RI_State_Or_Province_Yamanashi": {
+      "message": "山梨"
+   },
+   "RI_State_Or_Province_Yaroslav_oblast": {
+      "message": "Yaroslav oblast"
+   },
+   "RI_State_Or_Province_Yukon": {
+      "message": "育空地区"
+   },
+   "RI_State_Or_Province_Yunnan": {
+      "message": "云南"
+   },
+   "RI_State_Or_Province_Zachodniopomorskie": {
+      "message": "Zachodniopomorskie"
+   },
+   "RI_State_Or_Province_Zhejiang": {
+      "message": "浙江"
+   },
+   "RI_State_Or_Province_Zug": {
+      "message": "楚格"
+   },
+   "RI_State_Or_Province_Zurich": {
+      "message": "苏黎世"
+   },
+   "RI_State_Zip": {
+      "message": "邮政编码"
+   },
+   "RI_Station": {
+      "message": "站名"
+   },
+   "RI_Stock_Symbol": {
+      "message": "股票代码"
+   },
+   "RI_StreetName": {
+      "message": "街道名称"
+   },
+   "RI_StreetNameC_HouseNumber": {
+      "message": "街道名称，楼宇名称"
+   },
+   "RI_StreetName_HouseNumber": {
+      "message": "街道名称/楼宇名称"
+   },
+   "RI_Suburb": {
+      "message": "郊区"
+   },
+   "RI_Subway_Station": {
+      "message": "地铁站名"
+   },
+   "RI_Suffix": {
+      "message": "后辍"
+   },
+   "RI_Summary___id_account__": {
+      "message": "帐户"
+   },
+   "RI_Summary___id_appname__": {
+      "message": "程序名称"
+   },
+   "RI_Summary___id_bank__": {
+      "message": "银行"
+   },
+   "RI_Summary___id_carmakemodel__": {
+      "message": "生成，模型"
+   },
+   "RI_Summary___id_cell__": {
+      "message": "手机：\t"
+   },
+   "RI_Summary___id_cvv__": {
+      "message": "cvv"
+   },
+   "RI_Summary___id_expiration__": {
+      "message": "有效期"
+   },
+   "RI_Summary___id_fax__": {
+      "message": "传真：\t"
+   },
+   "RI_Summary___id_filename__": {
+      "message": "文件名"
+   },
+   "RI_Summary___id_home__": {
+      "message": "家庭：\t"
+   },
+   "RI_Summary___id_mail__": {
+      "message": "邮箱"
+   },
+   "RI_Summary___id_passportnumber__": {
+      "message": "护照 #"
+   },
+   "RI_Summary___id_password__": {
+      "message": "密码"
+   },
+   "RI_Summary___id_phone__": {
+      "message": "电话：\t"
+   },
+   "RI_Summary___id_platenumber__": {
+      "message": "许可证 #"
+   },
+   "RI_Summary___id_ssn__": {
+      "message": "SSN #"
+   },
+   "RI_Summary___id_userid__": {
+      "message": "用户名"
+   },
+   "RI_Summary___id_work__": {
+      "message": "工作：\t"
+   },
+   "RI_Tax_ID": {
+      "message": "纳税号"
+   },
+   "RI_Title": {
+      "message": "头衔"
+   },
+   "RI_Title_Dr": {
+      "message": "博士"
+   },
+   "RI_Title_Engr": {
+      "message": "工程师"
+   },
+   "RI_Title_Mr": {
+      "message": "先生"
+   },
+   "RI_Title_Mrs": {
+      "message": "女士"
+   },
+   "RI_Title_Ms": {
+      "message": "小姐"
+   },
+   "RI_Title_Prof": {
+      "message": "专家"
+   },
+   "RI_Toll_Free_Phone": {
+      "message": "免费服务电话"
+   },
+   "RI_Type_Of_Business": {
+      "message": "公司类型"
+   },
+   "RI_User_ID": {
+      "message": "收藏的登录名"
+   },
+   "RI_Valid_From": {
+      "message": "生效日期"
+   },
+   "RI_Vehicle_Identification_Number": {
+      "message": "VIN"
+   },
+   "RI_Web_Site": {
+      "message": "网站"
+   },
+   "RI_Work_Phone": {
+      "message": "工作电话"
+   },
+   "RI_Work_Phone_Ext": {
+      "message": "分机"
+   },
+   "RI_Yahoo_ID": {
+      "message": "雅虎(Yahoo)用户名"
+   },
+   "RI_ZipCode": {
+      "message": "区号"
+   },
+   "RI_Zip_Or_PostCode": {
+      "message": "邮政编码"
+   },
+   "RI__End": {
+      "message": ""
+   },
+   "RI__Start": {
+      "message": ""
+   },
+   "RI_dd": {
+      "message": "日期(2位数字)"
+   },
+   "RI_mm": {
+      "message": "月份(2位数字)"
+   },
+   "RI_yyyy": {
+      "message": "年份(4位数字)"
+   },
+   "ReadOnly_Error": {
+      "message": "数据为只读"
+   },
+   "RenameDlg_InstanceRename_Prompt": {
+      "message": "将%3 '%4'中的%1 '%2' 重命名为："
+   },
+   "RenameDlg_Instance_Type_Text": {
+      "message": "示例"
+   },
+   "ReportAnIssue_RFSSTicket_Message": {
+      "message": "尊敬的RoboForm客户支持团队，\n在网页：%1上\n我发现了以下与RoboForm相关的问题：\n%2"
+   },
+   "ReportAnIssue_RFSSTicket_Subject": {
+      "message": "RoboForm网站%1上的问题"
+   },
+   "RfSyncProgress_Analyzed": {
+      "message": "已分析"
+   },
+   "RfSyncProgress_Connecting": {
+      "message": "连接中..."
+   },
+   "RfSyncProgress_Done": {
+      "message": "完成"
+   },
+   "RfSyncProgress_RequestingAccountInfo": {
+      "message": "信息索取中..."
+   },
+   "RfSyncProgress_Synced": {
+      "message": "已同步"
+   },
+   "RfSyncProgress_Syncing": {
+      "message": "同步中..."
+   },
+   "RfSyncProgress_SyncingSharedFiles": {
+      "message": "正在同步共享文件..."
+   },
+   "RfSyncProgress_SyncingSharedFolders": {
+      "message": "正在同步共享文件夹..."
+   },
+   "RfSyncProgress_SyncingUsageInfo": {
+      "message": "正在同步使用情况信息..."
+   },
+   "RoboForm_Error": {
+      "message": "RoboForm 错误"
+   },
+   "RoboForm_Question": {
+      "message": "RoboForm 问题"
+   },
+   "RoboForm_Warning": {
+      "message": "RoboForm 警告"
+   },
+   "RoboformType_Bookmark": {
+      "message": "书签"
+   },
+   "RoboformType_Bookmarks": {
+      "message": "书签"
+   },
+   "RoboformType_Contact": {
+      "message": "联系人"
+   },
+   "RoboformType_Contacts": {
+      "message": "联系人(多个)"
+   },
+   "RoboformType_File": {
+      "message": "文件"
+   },
+   "RoboformType_Files": {
+      "message": "文件(多个)"
+   },
+   "RoboformType_Folder": {
+      "message": "文件夹"
+   },
+   "RoboformType_Folders": {
+      "message": "文件夹(多个)"
+   },
+   "RoboformType_Identities": {
+      "message": "个人信息(多个)"
+   },
+   "RoboformType_Identity": {
+      "message": "个人信息"
+   },
+   "RoboformType_Login": {
+      "message": "登录"
+   },
+   "RoboformType_Logins": {
+      "message": "登录"
+   },
+   "RoboformType_Safenote": {
+      "message": "保密笔记本"
+   },
+   "RoboformType_Safenotes": {
+      "message": "保密笔记本(多个)"
+   },
+   "RoboformType_Searchcard": {
+      "message": "搜索卡"
+   },
+   "RoboformType_Searchcards": {
+      "message": "搜索卡"
+   },
+   "Roboform_Folder": {
+      "message": "文件夹"
+   },
+   "SA_ChangeAccountPwd_Error": {
+      "message": "错误代码%1"
+   },
+   "SA_Edge_Setup_Description_First": {
+      "message": "您已经安装了RoboForm for Edge独立扩展。想要功能齐全的版本，请安装RoboForm for Windows版。"
+   },
+   "SA_LimitedMode_LinkRF_Text": {
+      "message": "安装RoboForm"
+   },
+   "SA_LimitedMode_Text": {
+      "message": "功能受限。针对所有功能"
+   },
+   "SA_Setup_Description_First": {
+      "message": "您已经安装了RoboForm扩展程序。此扩展仅提供有限的功能。要获得完整的功能，您必须在计算机上更新或安装完整版的RoboForm应用程序。"
+   },
+   "SA_Setup_Description_Repair": {
+      "message": "您的计算机已使用过带RoboForm扩展程序的RoboForm软件，但此版本的RoboForm软件过旧或未安装。请单击下面的\"立即安装\"按钮以修复或更新计算机上RoboForm的版本。"
+   },
+   "SA_Setup_InstallNow_Button": {
+      "message": "立即安装"
+   },
+   "SA_Setup_Skip_Button": {
+      "message": "跳过"
+   },
+   "Safenote_ClickToView_Tip": {
+      "message": "点击查看安全记事本"
+   },
+   "SaveDlg_ActionNote_Existing_Bookmark": {
+      "message": "该书签将替换现有的书签：'%1'"
+   },
+   "SaveDlg_ActionNote_Existing_Login": {
+      "message": "这个登录信息会替代以前的信息: '%1"
+   },
+   "SaveDlg_ActionNote_NewAccountLogin": {
+      "message": "新账户信息会保存到新登陆信息 '%1"
+   },
+   "SaveDlg_ActionNote_UpdateLoginPassword": {
+      "message": "新密码会替代之间的密码'%1其他领域不会改变"
+   },
+   "SaveDlg_ActionNote_UpdateLoginUrl_Text": {
+      "message": "登录名'%1'中的网址将被更新"
+   },
+   "SaveDlg_ActionNote_UpdateLogin_Text": {
+      "message": "登录名'%1'将更新新的信息"
+   },
+   "SaveDlg_AskBeforeSaving_Text": {
+      "message": "保存前询问"
+   },
+   "SaveDlg_AutoSavedPassword_LoginTip": {
+      "message": "自动保存自密码更改清单"
+   },
+   "SaveDlg_Folder_Text": {
+      "message": "文件夹："
+   },
+   "SaveDlg_NeverForThisSite_Text": {
+      "message": "不要保存这个网页"
+   },
+   "SaveDlg_NewFolder_Text": {
+      "message": "监理文件夹"
+   },
+   "SaveDlg_Note_AccountCreationData_Text": {
+      "message": "账户创建数据:"
+   },
+   "SaveDlg_Note_PasswordChanged_Text2": {
+      "message": "%1：密码从‘%2改变了"
+   },
+   "SaveDlg_Preview_Group_Title": {
+      "message": "预览"
+   },
+   "SaveDlg_ReplaceExistingItem_Section_Text": {
+      "message": "替换当前项目："
+   },
+   "SaveDlg_ReplaceExistingLogin_Section_Text": {
+      "message": "替换当前的登录名："
+   },
+   "SaveDlg_SaveAs_Bookmark_Text": {
+      "message": "书签"
+   },
+   "SaveDlg_SaveAs_Login_Text": {
+      "message": "登录"
+   },
+   "SaveDlg_SaveNewLogin_Section_Text": {
+      "message": "保存新的登录名："
+   },
+   "SaveDlg_Unblock_Key": {
+      "message": "解锁"
+   },
+   "SaveDlg_UpdateExistingLogin_Section_Text": {
+      "message": "更新当前登录名："
+   },
+   "SaveDlg_UpdateLoginQuestion_Text": {
+      "message": "您想要在RoboForm更新您的登录名吗？"
+   },
+   "SaveDlg_UpdatePasswordQuestion_Text": {
+      "message": "检测到新密码。\n要使用新密码登录'%1' 吗？"
+   },
+   "SaveForms_Disabled": {
+      "message": "保存表单 被安全策略禁止"
+   },
+   "SearchAction_Search_In": {
+      "message": "在 %1 里，搜索 '%%query%%' "
+   },
+   "SearchAction_Search_In_RoboForm_Files": {
+      "message": "在 RoboForm 文件里，搜索 '%%query%%' "
+   },
+   "SearchAction_Search_In_RoboForm_Names": {
+      "message": "在 RoboForm 登录名里，搜索 '%%query%%' "
+   },
+   "SendFilesConfirmation_Title": {
+      "message": "一位RoboForm用户向您发送了一些RoboForm数据。\n请选择接受或拒绝以下已发送的文件："
+   },
+   "SensitiveFields_Text_2": {
+      "message": "RoboForm找到了敏感的字段。请确认是否允许填写这些字段："
+   },
+   "SensitiveFields_Title2": {
+      "message": "发现敏感字段-RoboForm "
+   },
+   "SessionExpireDlg_Text": {
+      "message": "您的会话已超时。请重新登录。"
+   },
+   "SetupPage_AlreadyHaveAnAccount_Question": {
+      "message": "您已经拥有帐号了吗？"
+   },
+   "SetupPage_AlreadyHaveAnAccount_Text": {
+      "message": "您已经拥有RoboForm帐号了吗？"
+   },
+   "SetupPage_CreateAccount_Button_Text": {
+      "message": "创建您的RoboForm帐户"
+   },
+   "SetupPage_CreateAccount_Link_Text": {
+      "message": "创建账户"
+   },
+   "SetupPage_DoNotHaveAnAccount_Text": {
+      "message": "您还没有设立帐户吗？"
+   },
+   "Setup_CreateAccountWithTakenEmail_Error2": {
+      "message": "此邮件的帐户已存在。\n请输入另一封电子邮件。"
+   },
+   "Setup_LoginWithExistingAccount_Prompt": {
+      "message": "* RoboForm扩展需要cookies。确保您的“Cookies”设置设置为'不阻止Cookies'"
+   },
+   "ShareExistingFolder_TooLongName_Error": {
+      "message": "文件夹'%1'的名称过长。共享文件夹和组的最大允许名称长度为%2个字符。"
+   },
+   "SharedFileSettings_CompanyMembersOnlySending_Error": {
+      "message": "文件发送受策略限制。您只能将文件发送给公司员工。"
+   },
+   "SharedFileSettings_CompanyMembersOnlySharing_Error": {
+      "message": "文件共享受策略限制。您只能与公司员工共享文件。"
+   },
+   "SharedFilesConfirmation_Title": {
+      "message": "RoboForm用户希望与您分享一些RoboForm数据。\n请接受或拒绝下面的共享文件："
+   },
+   "SharedFolderSettings_CompanyMembersOnlySharing_Error": {
+      "message": "文件夹共享受政策限制。您只能与公司员工共享文件夹。"
+   },
+   "SharedFolderSettings_Folder": {
+      "message": "共享文件夹"
+   },
+   "SharedFolderSettings_Group": {
+      "message": "组"
+   },
+   "SharedFolderSettings_RejectSharedFolder": {
+      "message": "拒绝"
+   },
+   "SharedFolderSettings_RoleOwner": {
+      "message": "所有者"
+   },
+   "SharedFolder_Revoke_Confirmation": {
+      "message": "您确定要从用户%2撤消共享文件夹'%1'吗？"
+   },
+   "SharedFoldersConfirmation_Title": {
+      "message": "RoboForm用户希望与您分享一些RoboForm数据。\n请接受或拒绝下面的共享文件夹："
+   },
+   "ShowAutoFillUI_Text": {
+      "message": "适当位置显示自动填写UI用户界面"
+   },
+   "ShowContextMenuCommands_Text2": {
+      "message": "在浏览器快捷菜单中显示RoboForm指令"
+   },
+   "ShowContextMenuCommands_Tip": {
+      "message": "RoboForm指令将出现在Windows快捷菜单中"
+   },
+   "ShowLowerToolbarForPopups_Text": {
+      "message": "为弹出窗口显示较低的RoboForm工具栏"
+   },
+   "ShowLowerToolbarForPopups_Tip": {
+      "message": "RoboForm工具栏将自动嵌入到打开的浏览器弹出窗口的底部"
+   },
+   "ShowLowerToolbar_Text2": {
+      "message": "在Web浏览器中显示下方的RoboForm工具栏"
+   },
+   "ShowLowerToolbar_Tip": {
+      "message": "功能齐全的RoboForm工具栏将嵌入到所有安装了RoboForm扩展项的网络浏览器底部"
+   },
+   "StopSharingFolder_DataInFolder_Error": {
+      "message": "您的数据保存在文件夹\"%1\"中。\n错误：%2。"
+   },
+   "StopSharingFolder_DataInFolder_RemoveShared_Error": {
+      "message": "您的数据已保存在文件夹“\"%1\"中。\n您应该删除或拒绝共享文件夹（组）。\n错误：%2。"
+   },
+   "StopSharingFolder_NotFolderOwner_Error": {
+      "message": "只有共享文件夹的所有者才能停止共享文件夹。"
+   },
+   "UseDesktopEditorForViewAndEdit_Text": {
+      "message": "使用桌面编辑器进行查看和编辑"
+   },
+   "UseDesktopEditorForViewAndEdit_Tip": {
+      "message": "从RoboForm扩展项和起始页菜单启动的查看和编辑命令可在桌面编辑器中打开"
+   },
+   "WelcomePage_Page_Title": {
+      "message": "欢迎"
+   },
+   "WrongNameLenght_Error": {
+      "message": "名称长度必须为1-%1个字符"
+   },
+   "Yes": {
+      "message": "是"
+   }
+}

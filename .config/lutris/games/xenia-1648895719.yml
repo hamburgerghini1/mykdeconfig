@@ -1,0 +1,7 @@
+game:
+  exe: /home/tommi/Lataukset/xenia_master/xenia.exe
+system: {}
+wine:
+  esync: false
+  fsr: false
+  fsync: false

@@ -1,0 +1,36 @@
+{
+   "background": {
+      "scripts": [ "0.js", "1.js", "main.js" ]
+   },
+   "browser_action": {
+      "default_icon": "rfdis16.png",
+      "default_popup": "popup.html",
+      "default_title": "RoboForm"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "0.js", "1.js", "inject.js" ],
+      "match_about_blank": true,
+      "matches": [ "http://*/*", "https://*/*", "file:///*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_BEM_Description__",
+   "homepage_url": "http://www.roboform.com",
+   "icons": {
+      "128": "robo128.png",
+      "16": "robo16.png",
+      "32": "robo32.png",
+      "48": "robo48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDAeBFO3sny3mtTlvQWOG2ijdmlg7yLpYWq6FvcoXkn2VMFM/r4I7Ko5gzxMekrF9fjljyuey4EDi68BboBSX8FoJogr6dBSmrJgc7ROZzyxMO0Fr2hZOFkswIslVbj2nQeSWq8EqFUUXO/Rt7NuRQijBk+q4qb/YUAhjbVtzDWmwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_BEM_FullName__",
+   "optional_permissions": [ "\u003Call_urls>", "bookmarks", "topSites" ],
+   "options_page": "options.html",
+   "permissions": [ "storage", "tabs", "privacy", "webRequest", "webRequestBlocking", "webNavigation", "nativeMessaging", "http://*/*", "https://*/*", "chrome://favicon/", "contextMenus" ],
+   "short_name": "RoboForm",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "9.3.2.0",
+   "web_accessible_resources": [ "password-generator.html", "rename-item.html", "save-forms.html" ]
+}

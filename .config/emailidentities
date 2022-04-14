@@ -1,0 +1,12 @@
+[General]
+Default Identity=2043521080
+
+[Identity #0]
+Default Domain=localhost-live.lan
+Disable Fcc=false
+Identity=Tommi
+Image Location=
+Inline Signature=
+Name=Tommi
+Signature Enabled=false
+uoid=2043521080

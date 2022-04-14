@@ -1,0 +1,69 @@
+Launch Command: DXVK_HUD=fps /app/bin/gamemoderun mangohud --dlsym /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch dc07b9ead8214591b8df6d2546d2a0e3 --wine '/home/tommi/.local/share/lutris/runners/wine/lutris-6.14-4-x86_64/bin/wine' --wine-prefix '/home/tommi/Games/Heroic/Prefixes/Aven-Colony'
+        System Info:
+        
+  Heroic Version: 2.2.6 Oden
+  Legendary Version:  0.20.25 Our Benefactors
+  OS: Freedesktop.org KERNEL: 5.16.18-201.fsync.fc35.x86_64 ARCH: x64
+  CPU: Intel Core™ i5-10600K @4.1 GOVERNOR: powersave
+  RAM: Total: 33.5 GB Available: 25.6 GB
+  GRAPHICS: GPU0: TU106 [GeForce RTX 2060 Rev. A]  VRAM: 32MB DRIVER:  
+  PROTOCOL: x11
+  
+        Game Settings: {
+	"autoInstallDxvk": true,
+	"autoInstallVkd3d": true,
+	"maxSharpness": 2,
+	"nvidiaPrime": false,
+	"otherOptions": "",
+	"savesPath": "",
+	"showFps": true,
+	"showMangohud": true,
+	"targetExe": "",
+	"useGameMode": true,
+	"wineCrossoverBottle": "Heroic",
+	"winePrefix": "/home/tommi/Games/Heroic/Prefixes/Aven-Colony",
+	"wineVersion": {
+		"bin": "'/home/tommi/.local/share/lutris/runners/wine/lutris-6.14-4-x86_64/bin/wine'",
+		"name": "Wine - lutris-6.14-4-x86_64",
+		"type": "wine",
+		"wineserver": "'/home/tommi/.local/share/lutris/runners/wine/lutris-6.14-4-x86_64/bin/wineserver'",
+		"wineboot": "'/home/tommi/.local/share/lutris/runners/wine/lutris-6.14-4-x86_64/bin/wineboot'"
+	},
+	"useSteamRuntime": false
+}
+
+        Game Log:
+        gamemodeauto: 
+gamemodeauto: 
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Checking for updates...
+[Core] INFO: Getting authentication token...
+[cli] INFO: Launching dc07b9ead8214591b8df6d2546d2a0e3...
+gamemodeauto: 
+gamemodeauto: 
+gamemodeauto: 
+wineserver: using server-side synchronization.
+002c:fixme:winediag:LdrInitializeThunk Wine TkG (staging) 6.14 is a testing version containing experimental patches.
+002c:fixme:winediag:LdrInitializeThunk Please don't report bugs about it on winehq.org and use https://github.com/Frogging-Family/wine-tkg-git/issues instead.
+002c:err:wineboot:process_run_key Error running cmd L"C:\\windows\\system32\\winemenubuilder.exe -a -r" (126).
+006c:fixme:font:get_name_record_codepage encoding 20 not handled, platform 1.
+0084:fixme:font:get_name_record_codepage encoding 20 not handled, platform 1.
+002c:fixme:font:get_name_record_codepage encoding 20 not handled, platform 1.
+00b4:fixme:font:get_name_record_codepage encoding 20 not handled, platform 1.
+[2022-04-05 15:45:30.137] [MANGOHUD] [info] [config.cpp:114] skipping config: '/home/tommi/.var/app/com.heroicgameslauncher.hgl/config/MangoHud/wine-explorer.conf' [ not found ]
+[2022-04-05 15:45:30.137] [MANGOHUD] [info] [config.cpp:114] skipping config: '/home/tommi/.local/share/lutris/runners/wine/lutris-6.14-4-x86_64/bin/MangoHud.conf' [ not found ]
+[2022-04-05 15:45:30.137] [MANGOHUD] [info] [config.cpp:114] skipping config: '/home/tommi/.var/app/com.heroicgameslauncher.hgl/config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-04-05 15:45:30.137] [MANGOHUD] [info] [config.cpp:114] skipping config: '/home/tommi/.var/app/com.heroicgameslauncher.hgl/config/MangoHud/MangoHud.conf' [ not found ]
+sh: rivi 1: glxinfo: komentoa ei löydy
+0024:fixme:font:get_name_record_codepage encoding 20 not handled, platform 1.
+00f4:fixme:font:get_name_record_codepage encoding 20 not handled, platform 1.
+00fc:err:module:open_builtin_so_file failed to load .so lib "/home/tommi/.local/share/lutris/runners/wine/lutris-6.14-4-x86_64/lib64/wine/x86_64-unix/x3daudio1_7.dll.so"
+00fc:err:module:import_dll Loading library X3DAudio1_7.dll (which is needed by L"Z:\\home\\tommi\\Games\\Heroic\\AvenColony\\AvenColony\\Binaries\\Win64\\AvenColony-Win64-Shipping.exe") failed (error c000007a).
+00fc:err:module:open_builtin_so_file failed to load .so lib "/home/tommi/.local/share/lutris/runners/wine/lutris-6.14-4-x86_64/lib64/wine/x86_64-unix/xapofx1_5.dll.so"
+00fc:err:module:import_dll Loading library XAPOFX1_5.dll (which is needed by L"Z:\\home\\tommi\\Games\\Heroic\\AvenColony\\AvenColony\\Binaries\\Win64\\AvenColony-Win64-Shipping.exe") failed (error c000007a).
+00fc:err:module:LdrInitializeThunk Importing dlls for L"Z:\\home\\tommi\\Games\\Heroic\\AvenColony\\AvenColony\\Binaries\\Win64\\AvenColony-Win64-Shipping.exe" failed, status c0000135
+00f4:fixme:kernelbase:AppPolicyGetProcessTerminationMethod FFFFFFFFFFFFFFFA, 00000000004EFD70
+gamemodeauto: 
+
+        

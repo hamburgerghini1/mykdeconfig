@@ -1,0 +1,10 @@
+[Compositing]
+OpenGLIsUnsafe=false
+
+[Desktops]
+Id_1=846ba465-cce4-46b2-8951-9ce9f5fb813c
+Number=1
+Rows=1
+
+[ModifierOnlyShortcuts]
+Meta=org.kde.lattedock,/Latte,org.kde.LatteDock,activateLauncherMenu

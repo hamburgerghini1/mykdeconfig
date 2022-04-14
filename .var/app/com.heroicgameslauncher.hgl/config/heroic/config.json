@@ -1,0 +1,32 @@
+{
+  "defaultSettings": {
+    "altLegendaryBin": "",
+    "altGogdlBin": "",
+    "addDesktopShortcuts": false,
+    "addStartMenuShortcuts": false,
+    "autoInstallDxvk": false,
+    "autoInstallVkd3d": false,
+    "checkForUpdatesOnStartup": false,
+    "customWinePaths": [],
+    "defaultInstallPath": "/home/tommi/Games/Heroic",
+    "defaultWinePrefix": "/home/tommi/Games/Heroic/Prefixes",
+    "egsLinkedPath": "",
+    "language": "en",
+    "maxRecentGames": 5,
+    "maxWorkers": 0,
+    "minimizeOnLaunch": false,
+    "nvidiaPrime": false,
+    "otherOptions": "",
+    "showFps": false,
+    "showUnrealMarket": false,
+    "useGameMode": false,
+    "wineCrossoverBottle": "Heroic",
+    "winePrefix": "/home/tommi/Games/Heroic/Prefixes/Default",
+    "wineVersion": {
+      "bin": "",
+      "name": "Default Wine - Not Found",
+      "type": "wine"
+    }
+  },
+  "version": "v0"
+}

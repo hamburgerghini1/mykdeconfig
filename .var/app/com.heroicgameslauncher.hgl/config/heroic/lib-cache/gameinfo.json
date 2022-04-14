@@ -1,0 +1,55 @@
+{
+	"6009be9994c2409099588cde6f3a5ed0": {
+		"about": {},
+		"reqs": []
+	},
+	"31bd7140ab344cd59a770e14b2afbcea": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-s2-1200x1600-59ab3118f67c.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": " Mothership Entertainment LLC",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Team17",
+			"description": "Discover Aven Prime - an alien planet of deserts, tundras, and jungles light years from earth. Aven Colony puts you in charge of humanity's first extrasolar settlement, where you build and expand your small colonies into massive, sprawling cities while dealing with the challenges faced when settling on a new world.\n\nBuild your colony's infrastructure, look after the well-being of your citizens, manage your resources, and guide your colony to prosperity against the backdrop of the harsh and often dangerous realities of the exotic world of Aven Prime.\n\n# KEY FEATURES:\n\n**COLONIZE AN ALIEN WORLD:** Build a new home for humanity on a world with a low-oxygen atmosphere, extreme electrical storms, shard storms, dust devils, deadly toxic gas eruptions from geothermal vents, and days so long they have their own seasons. Explore a variety of biomes, from the lush wetlands environment to the much less habitable desert and arctic.\n\n**MEET THE LOCALS:** Encounter a variety of alien life forms, including giant sandworms, deadly plague spores, and a vicious fungal infection known as “The Creep.”\n\n**SUPERVISE YOUR COLONISTS:** Settling a new world can be stressful. As a new Colony Governor, you’ll need to work overtime to help your colonists deal with their new environment. Using the 12 distinct \"overlay\" modes, you can mange your colony's Crops, Citizens, Happiness, Crime, Air, Electricity, Employment, Resources, Commute, Structures, Drones, and Water. Earn the respect of your colonists, and rise in rank from Colony Governor to Expedition President!\n\n**DISCOVER THE PAST:** The world of Aven Prime holds many secrets. Play through a full single-player campaign and participate in a story that reveals some of the many secrets of this brave new world.\n\n**BUILD THE FUTURE:** Use construction drones to build dozens of types of structures to house your colonists, establish trading routes, welcome immigrants and much more! Enhance your existing buildings through several upgrade tiers to push your colony to new heights!\n\n**EXPEDITION SYSTEM:** Deploy your crack team of pioneers to explore alien ruins, recover artifacts, repair crashed vessels and rescue lost explorers. Get ready to take on plague and creep spore nests whilst fending off splinter groups, rebels and Aven Prime's remaining robot guardians which threaten your new civilisation.\n\n**PREPARE FOR WINTER:** A fully functional day/night and seasonal cycle. During the winter Aven Prime freezes over - farms will not grow food and solar panels will generate far less electricity. Take measures to survive this harsh climate!",
+			"shortDescription": "Build a new home for humanity in Aven Colony. Discover Aven Prime - an alien planet of deserts, tundras, and wetlands light years from earth. Build your colonies into massive, sprawling cities whilst dealing with the threats faced when settling on a new world.",
+			"title": "Build a new home for humanity with Aven Colony.",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Windows 7 64-bit",
+				"recommended": "Windows 10 64-bit"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "Intel Core i3-3220 3.3 GHz",
+				"recommended": "Intel Core i5-4670 or AMD A10-7850k"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "4GB RAM",
+				"recommended": "8GB RAM"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "25GB",
+				"recommended": "25GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "GeForce GTX 470 or AMD Radeon HD 7850",
+				"recommended": "GeForce GTX 980 VRAM 4GB or AMD Radeon R9 390X"
+			}
+		]
+	}
+}

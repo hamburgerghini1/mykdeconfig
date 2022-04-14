@@ -1,0 +1,119 @@
+{
+	"games": [
+		{
+			"runner": "gog",
+			"store_url": "https://gog.com",
+			"developer": "",
+			"app_name": "1548764757",
+			"art_logo": null,
+			"art_cover": "https://images-1.gog-statics.com/0a12c6d08925b4e567dd56bd3cd70b3a0667ea484539bada5b8698f4add72dcf.jpg",
+			"art_square": "https://images.gog.com/101df04bd3217057b16f84ba986f3020bc1d5ff2a0952f8a081ccc4f4fa51c76.jpg?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"extra": {
+				"about": {
+					"description": "The upcoming RPG from CD Projekt RED based on the Cyberpunk 2020 tabletop RPG created by Mike Pondsmith. \r\n \r\nIn Cyberpunk 2077 you play as V — a hired gun on the rise — and you just got your first serious contract. In a world of cyberenhanced street warriors, tech-savvy netrunners and corporate lifehackers, today you take your first step towards becoming an urban legend.",
+					"shortDescription": ""
+				},
+				"reqs": []
+			},
+			"folder_name": "",
+			"install": {
+				"version": null,
+				"executable": "",
+				"install_path": "",
+				"install_size": "",
+				"is_dlc": false,
+				"platform": ""
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "cyberpunk_2077_digital_goodies",
+			"save_folder": "",
+			"title": "Cyberpunk 2077 Digital Goodies",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://gog.com/en/game/the_witcher",
+			"developer": "",
+			"app_name": "1207658924",
+			"art_logo": null,
+			"art_cover": "https://images-1.gog-statics.com/37d4a208d1f5bb0e163da540ac894ba46a7d566ede31aaaefc74bbcd46ebd190.jpg",
+			"art_square": "https://images.gog-statics.com/32385c2c39b8715a9ccfb159ed481b55503b96526b00866f75a4af48461615a5.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"extra": {
+				"about": {
+					"shortDescription": ""
+				},
+				"reqs": []
+			},
+			"folder_name": "",
+			"install": {
+				"version": null,
+				"executable": "",
+				"install_path": "",
+				"install_size": "",
+				"is_dlc": false,
+				"platform": ""
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "the_witcher",
+			"save_folder": "",
+			"title": "The Witcher: Enhanced Edition",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"store_url": "https://gog.com/en/game/thea_2_the_shattering",
+			"developer": "MuHa Games",
+			"app_name": "1582025844",
+			"art_logo": null,
+			"art_cover": "https://images-2.gog-statics.com/0aca3039ce638f7f20e64a4b0f74f40a67e1ffeac00ebb1985d401a22022ceb9.jpg",
+			"art_square": "https://images.gog.com/ba662440fa15982a91140b0538398aedc0baa72accec3b6a2b3955e8cca28ea1.jpg?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"extra": {
+				"about": {
+					"description": "In the dark lands inspired by Slavic myth, life is a struggle for survival against ever increasing odds, be it natural or malevolent. Can you lead your flock to prosperity in this innovative blend of 4X strategy, RPG and card game?",
+					"shortDescription": ""
+				},
+				"reqs": []
+			},
+			"folder_name": "Thea 2 The Shattering",
+			"install": {
+				"version": null,
+				"executable": "",
+				"install_path": "",
+				"install_size": "",
+				"is_dlc": false,
+				"platform": ""
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "thea_2_the_shattering",
+			"save_folder": "",
+			"title": "Thea 2: The Shattering",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		}
+	],
+	"totalGames": 3,
+	"totalMovies": 0
+}

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Windows Media Player
+Exec=env WINEPREFIX="/media/pelissd/SteamLibrary/steamapps/compatdata/221040/pfx" wine C:\\\\users\\\\tommi\\\\AppData\\\\Roaming\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\Windows\\ Media\\ Player.lnk
+Type=Application
+StartupNotify=true
+Comment=@C:\windows\inf\unregmp2.exe,-155
+Icon=EF95_wmplayer.0
+StartupWMClass=wmplayer.exe

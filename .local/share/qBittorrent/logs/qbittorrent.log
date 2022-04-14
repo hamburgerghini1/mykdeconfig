@@ -1,0 +1,609 @@
+(I) 2022-03-26T14:45:34 - Suorituskykyvaroitus:Forza.Horizon.4.Ultimate.Edition.MULTi16-El.Amigos: performance warning: max outstanding piece requests reached
+(I) 2022-03-26T14:45:35 - Suorituskykyvaroitus:Forza.Horizon.4.Ultimate.Edition.MULTi16-El.Amigos: performance warning: max outstanding piece requests reached
+(I) 2022-03-26T14:45:36 - Suorituskykyvaroitus:Forza.Horizon.4.Ultimate.Edition.MULTi16-El.Amigos: performance warning: max outstanding piece requests reached
+(I) 2022-03-26T14:45:37 - Suorituskykyvaroitus:Forza.Horizon.4.Ultimate.Edition.MULTi16-El.Amigos: performance warning: max outstanding piece requests reached
+(I) 2022-03-26T14:45:42 - Suorituskykyvaroitus:Forza.Horizon.4.Ultimate.Edition.MULTi16-El.Amigos: performance warning: max outstanding piece requests reached
+(I) 2022-03-26T14:46:33 - Suorituskykyvaroitus:Forza.Horizon.4.Ultimate.Edition.MULTi16-El.Amigos: performance warning: max outstanding piece requests reached
+(I) 2022-03-26T14:46:34 - Suorituskykyvaroitus:Forza.Horizon.4.Ultimate.Edition.MULTi16-El.Amigos: performance warning: max outstanding piece requests reached
+(I) 2022-03-26T14:46:35 - Suorituskykyvaroitus:Forza.Horizon.4.Ultimate.Edition.MULTi16-El.Amigos: performance warning: max outstanding piece requests reached
+(I) 2022-03-26T14:46:36 - Suorituskykyvaroitus:Forza.Horizon.4.Ultimate.Edition.MULTi16-El.Amigos: performance warning: max outstanding piece requests reached
+(I) 2022-03-26T14:46:37 - Suorituskykyvaroitus:Forza.Horizon.4.Ultimate.Edition.MULTi16-El.Amigos: performance warning: max outstanding piece requests reached
+(I) 2022-03-26T14:46:39 - Suorituskykyvaroitus:Forza.Horizon.4.Ultimate.Edition.MULTi16-El.Amigos: performance warning: max outstanding piece requests reached
+(I) 2022-03-26T14:46:40 - Suorituskykyvaroitus:Forza.Horizon.4.Ultimate.Edition.MULTi16-El.Amigos: performance warning: max outstanding piece requests reached
+(I) 2022-03-26T14:46:41 - Suorituskykyvaroitus:Forza.Horizon.4.Ultimate.Edition.MULTi16-El.Amigos: performance warning: max outstanding piece requests reached
+(I) 2022-03-26T14:46:42 - Suorituskykyvaroitus:Forza.Horizon.4.Ultimate.Edition.MULTi16-El.Amigos: performance warning: max outstanding piece requests reached
+(I) 2022-03-26T14:46:43 - Suorituskykyvaroitus:Forza.Horizon.4.Ultimate.Edition.MULTi16-El.Amigos: performance warning: max outstanding piece requests reached
+(I) 2022-03-26T14:46:44 - Suorituskykyvaroitus:Forza.Horizon.4.Ultimate.Edition.MULTi16-El.Amigos: performance warning: max outstanding piece requests reached
+(I) 2022-03-26T14:48:25 - Suorituskykyvaroitus:Forza.Horizon.4.Ultimate.Edition.MULTi16-El.Amigos: performance warning: max outstanding piece requests reached
+(I) 2022-03-26T14:48:26 - Suorituskykyvaroitus:Forza.Horizon.4.Ultimate.Edition.MULTi16-El.Amigos: performance warning: max outstanding piece requests reached
+(I) 2022-03-26T14:48:27 - Suorituskykyvaroitus:Forza.Horizon.4.Ultimate.Edition.MULTi16-El.Amigos: performance warning: max outstanding piece requests reached
+(N) 2022-03-26T15:25:01 - 'Forza.Horizon.4.Ultimate.Edition.MULTi16-El.Amigos' poistettiin siirtolistalta.
+(I) 2022-03-26T15:30:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.88 external port: TCP/49869
+(I) 2022-03-26T15:30:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.88 external port: UDP/49869
+(I) 2022-03-26T15:33:45 - UPnP / NAT-PMP support [OFF]
+(N) 2022-03-31T15:12:13 - qBittorrent v4.4.1 käynnistyi
+(N) 2022-03-31T15:12:13 - Käytetään asetuskansiota: /home/tommi/.config/qBittorrent
+(I) 2022-03-31T15:12:13 - Yritetään kuunnella: 0.0.0.0:49869,[::]:49869
+(N) 2022-03-31T15:12:13 - Vertaisen ID:-qB4410-
+(N) 2022-03-31T15:12:13 - HTTP-käyttäjäagentti on '% 1'
+(I) 2022-03-31T15:12:13 - DHT-tuki [PÄÄLLÄ]
+(I) 2022-03-31T15:12:13 - Paikallisten vertaisten haku (LPD) -tuki [PÄÄLLÄ]
+(I) 2022-03-31T15:12:13 - PeX-tuki [PÄÄLLÄ]
+(I) 2022-03-31T15:12:13 - Anonyymitila [POIS PÄÄLTÄ]
+(I) 2022-03-31T15:12:13 - Salaustuki [PÄÄLLÄ]
+(I) 2022-03-31T15:12:13 - UPnP / NAT-PMP support [ON]
+(I) 2022-03-31T15:12:13 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: ti maalisk. 1 03:17:45 2022.
+(I) 2022-03-31T15:12:14 - Kuunnellaan onnistuneesti IP:ssä: 127.0.0.1, portissa: TCP/49869
+(I) 2022-03-31T15:12:14 - Kuunnellaan onnistuneesti IP:ssä: 127.0.0.1, portissa: UTP/49869
+(I) 2022-03-31T15:12:14 - Kuunnellaan onnistuneesti IP:ssä: 192.168.1.88, portissa: TCP/49869
+(I) 2022-03-31T15:12:14 - Kuunnellaan onnistuneesti IP:ssä: 192.168.1.88, portissa: UTP/49869
+(I) 2022-03-31T15:12:14 - Kuunnellaan onnistuneesti IP:ssä: ::1, portissa: TCP/49869
+(I) 2022-03-31T15:12:14 - Kuunnellaan onnistuneesti IP:ssä: ::1, portissa: UTP/49869
+(I) 2022-03-31T15:12:14 - Kuunnellaan onnistuneesti IP:ssä: fe80::4336:bea0:31f2:27f9%enp7s0, portissa: TCP/49869
+(I) 2022-03-31T15:12:14 - Kuunnellaan onnistuneesti IP:ssä: fe80::4336:bea0:31f2:27f9%enp7s0, portissa: UTP/49869
+(I) 2022-03-31T15:12:14 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.88 external port: TCP/49869
+(I) 2022-03-31T15:12:14 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.88 external port: UDP/49869
+(I) 2022-03-31T15:12:14 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.88 external port: TCP/49869
+(I) 2022-03-31T15:12:14 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.88 external port: UDP/49869
+(N) 2022-03-31T15:12:15 - 'Forza Horizon 4 - 1.474 [MULTi16] [Goldberg] [GNU/Linux Wine] [johncena141]' lisättiin latausluetteloon.
+(I) 2022-03-31T15:20:39 - Kuunnellaan onnistuneesti IP:ssä: 10.8.8.31, portissa: TCP/49869
+(I) 2022-03-31T15:20:39 - Kuunnellaan onnistuneesti IP:ssä: 10.8.8.31, portissa: UTP/49869
+(I) 2022-03-31T15:20:39 - Kuunnellaan onnistuneesti IP:ssä: fe80::2a07:9528:1fc6:eb86%tun0, portissa: TCP/49869
+(I) 2022-03-31T15:20:39 - Kuunnellaan onnistuneesti IP:ssä: fe80::2a07:9528:1fc6:eb86%tun0, portissa: UTP/49869
+(C) 2022-03-31T15:23:15 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[10.8.8.31]: no router found
+(C) 2022-03-31T15:23:15 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[10.8.8.31]: no router found
+(I) 2022-03-31T15:24:23 - Havaittiin ulkoinen IP: 196.244.191.164
+(N) 2022-03-31T15:33:24 - 'Forza Horizon 4 - 1.474 [MULTi16] [Goldberg] [GNU/Linux Wine] [johncena141]' poistettiin siirtolistalta ja kiintolevyltä.
+(I) 2022-03-31T15:42:53 - UPnP / NAT-PMP support [OFF]
+(N) 2022-04-02T13:43:16 - qBittorrent v4.4.2 käynnistyi
+(N) 2022-04-02T13:43:16 - Käytetään asetuskansiota: /home/tommi/.config/qBittorrent
+(I) 2022-04-02T13:43:16 - Trying to listen on: 0.0.0.0:49869,[::]:49869
+(N) 2022-04-02T13:43:16 - Peer ID: -qB4420-
+(N) 2022-04-02T13:43:16 - HTTP User-Agent is 'qBittorrent/4.4.2'
+(I) 2022-04-02T13:43:16 - DHT support [PÄÄLLÄ]
+(I) 2022-04-02T13:43:16 - Local Peer Discovery support [PÄÄLLÄ]
+(I) 2022-04-02T13:43:16 - PeX support [PÄÄLLÄ]
+(I) 2022-04-02T13:43:16 - Anonymous mode [POIS PÄÄLTÄ]
+(I) 2022-04-02T13:43:16 - Encryption support [PÄÄLLÄ]
+(I) 2022-04-02T13:43:16 - UPnP / NAT-PMP support [ON]
+(I) 2022-04-02T13:43:16 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: ti maalisk. 1 03:17:45 2022.
+(I) 2022-04-02T13:43:17 - Successfully listening on IP: 127.0.0.1, port: TCP/49869
+(I) 2022-04-02T13:43:17 - Successfully listening on IP: 127.0.0.1, port: UTP/49869
+(I) 2022-04-02T13:43:17 - Successfully listening on IP: 192.168.1.88, port: TCP/49869
+(I) 2022-04-02T13:43:17 - Successfully listening on IP: 192.168.1.88, port: UTP/49869
+(I) 2022-04-02T13:43:17 - Successfully listening on IP: ::1, port: TCP/49869
+(I) 2022-04-02T13:43:17 - Successfully listening on IP: ::1, port: UTP/49869
+(I) 2022-04-02T13:43:17 - Successfully listening on IP: fe80::4336:bea0:31f2:27f9%enp7s0, port: TCP/49869
+(I) 2022-04-02T13:43:17 - Successfully listening on IP: fe80::4336:bea0:31f2:27f9%enp7s0, port: UTP/49869
+(I) 2022-04-02T13:43:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.88 external port: TCP/49869
+(I) 2022-04-02T13:43:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.88 external port: UDP/49869
+(I) 2022-04-02T13:43:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.88 external port: TCP/49869
+(I) 2022-04-02T13:43:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.88 external port: UDP/49869
+(I) 2022-04-02T13:43:17 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: pe huhtik. 1 03:19:19 2022.
+(I) 2022-04-02T13:43:17 - Successfully updated IP geolocation database.
+(N) 2022-04-02T13:43:19 - 'Forza.Motorsport.4.PAL.XBOX360-COMPLEX-[BTARENA.org]' added to download list.
+(N) 2022-04-02T13:43:37 - 'Forza.Motorsport.4.PAL.XBOX360-COMPLEX-[BTARENA.org]' was removed from the transfer list.
+(N) 2022-04-06T15:39:51 - qBittorrent v4.4.2 käynnistyi
+(N) 2022-04-06T15:39:51 - Käytetään asetuskansiota: /home/tommi/.config/qBittorrent
+(I) 2022-04-06T15:39:51 - Trying to listen on: 0.0.0.0:49869,[::]:49869
+(N) 2022-04-06T15:39:51 - Peer ID: -qB4420-
+(N) 2022-04-06T15:39:51 - HTTP User-Agent is 'qBittorrent/4.4.2'
+(I) 2022-04-06T15:39:51 - DHT support [PÄÄLLÄ]
+(I) 2022-04-06T15:39:51 - Local Peer Discovery support [PÄÄLLÄ]
+(I) 2022-04-06T15:39:51 - PeX support [PÄÄLLÄ]
+(I) 2022-04-06T15:39:51 - Anonymous mode [POIS PÄÄLTÄ]
+(I) 2022-04-06T15:39:51 - Encryption support [PÄÄLLÄ]
+(I) 2022-04-06T15:39:51 - UPnP / NAT-PMP support [ON]
+(I) 2022-04-06T15:39:51 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: pe huhtik. 1 03:19:19 2022.
+(I) 2022-04-06T15:39:51 - Successfully listening on IP: 127.0.0.1, port: TCP/49869
+(I) 2022-04-06T15:39:51 - Successfully listening on IP: 127.0.0.1, port: UTP/49869
+(I) 2022-04-06T15:39:51 - Successfully listening on IP: 192.168.1.88, port: TCP/49869
+(I) 2022-04-06T15:39:51 - Successfully listening on IP: 192.168.1.88, port: UTP/49869
+(I) 2022-04-06T15:39:51 - Successfully listening on IP: 10.8.8.5, port: TCP/49869
+(I) 2022-04-06T15:39:51 - Successfully listening on IP: 10.8.8.5, port: UTP/49869
+(I) 2022-04-06T15:39:51 - Successfully listening on IP: ::1, port: TCP/49869
+(I) 2022-04-06T15:39:51 - Successfully listening on IP: ::1, port: UTP/49869
+(I) 2022-04-06T15:39:51 - Successfully listening on IP: fe80::b419:9ac7:17af:4ed5%enp5s0, port: TCP/49869
+(I) 2022-04-06T15:39:51 - Successfully listening on IP: fe80::b419:9ac7:17af:4ed5%enp5s0, port: UTP/49869
+(I) 2022-04-06T15:39:51 - Successfully listening on IP: fe80::d032:6355:f0c3:f87e%tun0, port: TCP/49869
+(I) 2022-04-06T15:39:51 - Successfully listening on IP: fe80::d032:6355:f0c3:f87e%tun0, port: UTP/49869
+(I) 2022-04-06T15:39:51 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.88 external port: TCP/49869
+(I) 2022-04-06T15:39:51 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.88 external port: UDP/49869
+(I) 2022-04-06T15:39:51 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.88 external port: TCP/49869
+(I) 2022-04-06T15:39:51 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.88 external port: UDP/49869
+(I) 2022-04-06T15:39:52 - Detected external IP: 165.231.163.6
+(N) 2022-04-06T15:40:23 - 'FL_Studio_Producer_Edition_20.8.4.2576' added to download list.
+(C) 2022-04-06T15:42:27 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[10.8.8.5]: no router found
+(C) 2022-04-06T15:42:27 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[10.8.8.5]: no router found
+(N) 2022-04-06T15:44:17 - 'FL_Studio_Producer_Edition_20.8.4.2576' was removed from the transfer list.
+(I) 2022-04-06T15:44:23 - UPnP / NAT-PMP support [OFF]
+(N) 2022-04-08T15:19:34 - qBittorrent v4.4.2 käynnistyi
+(N) 2022-04-08T15:19:34 - Käytetään asetuskansiota: /home/tommi/.config/qBittorrent
+(I) 2022-04-08T15:19:34 - Trying to listen on: 0.0.0.0:49869,[::]:49869
+(N) 2022-04-08T15:19:34 - Peer ID: -qB4420-
+(N) 2022-04-08T15:19:34 - HTTP User-Agent is 'qBittorrent/4.4.2'
+(I) 2022-04-08T15:19:34 - DHT support [PÄÄLLÄ]
+(I) 2022-04-08T15:19:34 - Local Peer Discovery support [PÄÄLLÄ]
+(I) 2022-04-08T15:19:34 - PeX support [PÄÄLLÄ]
+(I) 2022-04-08T15:19:34 - Anonymous mode [POIS PÄÄLTÄ]
+(I) 2022-04-08T15:19:34 - Encryption support [PÄÄLLÄ]
+(I) 2022-04-08T15:19:34 - UPnP / NAT-PMP support [ON]
+(I) 2022-04-08T15:19:34 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: pe huhtik. 1 03:19:19 2022.
+(I) 2022-04-08T15:19:34 - Successfully listening on IP: 127.0.0.1, port: TCP/49869
+(I) 2022-04-08T15:19:34 - Successfully listening on IP: 127.0.0.1, port: UTP/49869
+(I) 2022-04-08T15:19:34 - Successfully listening on IP: 192.168.1.88, port: TCP/49869
+(I) 2022-04-08T15:19:34 - Successfully listening on IP: 192.168.1.88, port: UTP/49869
+(I) 2022-04-08T15:19:34 - Successfully listening on IP: ::1, port: TCP/49869
+(I) 2022-04-08T15:19:34 - Successfully listening on IP: ::1, port: UTP/49869
+(I) 2022-04-08T15:19:34 - Successfully listening on IP: fe80::b419:9ac7:17af:4ed5%enp5s0, port: TCP/49869
+(I) 2022-04-08T15:19:34 - Successfully listening on IP: fe80::b419:9ac7:17af:4ed5%enp5s0, port: UTP/49869
+(I) 2022-04-08T15:19:34 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.88 external port: TCP/49869
+(I) 2022-04-08T15:19:34 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.88 external port: UDP/49869
+(I) 2022-04-08T15:19:34 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.88 external port: TCP/49869
+(I) 2022-04-08T15:19:34 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.88 external port: UDP/49869
+(N) 2022-04-08T15:19:47 - 'archlinux-2022.04.05-x86_64.iso' added to download list.
+(N) 2022-04-08T15:20:41 - 'archlinux-2022.04.05-x86_64.iso' was removed from the transfer list.
+(I) 2022-04-08T15:21:38 - Successfully listening on IP: fe80::fc54:ff:fef6:b201%vnet0, port: TCP/49869
+(I) 2022-04-08T15:21:38 - Successfully listening on IP: fe80::fc54:ff:fef6:b201%vnet0, port: UTP/49869
+(I) 2022-04-08T15:33:57 - Successfully listening on IP: fe80::fc54:ff:fef6:b201%vnet1, port: TCP/49869
+(I) 2022-04-08T15:33:57 - Successfully listening on IP: fe80::fc54:ff:fef6:b201%vnet1, port: UTP/49869
+(I) 2022-04-08T15:39:47 - Successfully listening on IP: fe80::fc54:ff:feee:8ae4%vnet0, port: TCP/49869
+(I) 2022-04-08T15:39:47 - Successfully listening on IP: fe80::fc54:ff:feee:8ae4%vnet0, port: UTP/49869
+(I) 2022-04-08T15:44:38 - Successfully listening on IP: 192.168.122.1, port: TCP/49869
+(I) 2022-04-08T15:44:38 - Successfully listening on IP: 192.168.122.1, port: UTP/49869
+(I) 2022-04-08T15:52:01 - UPnP / NAT-PMP support [OFF]
+(N) 2022-04-09T15:26:55 - qBittorrent v4.4.2 käynnistyi
+(N) 2022-04-09T15:26:55 - Käytetään asetuskansiota: /home/tommi/.config/qBittorrent
+(I) 2022-04-09T15:26:55 - Trying to listen on: 0.0.0.0:49869,[::]:49869
+(N) 2022-04-09T15:26:55 - Peer ID: -qB4420-
+(N) 2022-04-09T15:26:55 - HTTP User-Agent is 'qBittorrent/4.4.2'
+(I) 2022-04-09T15:26:55 - DHT support [PÄÄLLÄ]
+(I) 2022-04-09T15:26:55 - Local Peer Discovery support [PÄÄLLÄ]
+(I) 2022-04-09T15:26:55 - PeX support [PÄÄLLÄ]
+(I) 2022-04-09T15:26:55 - Anonymous mode [POIS PÄÄLTÄ]
+(I) 2022-04-09T15:26:55 - Encryption support [PÄÄLLÄ]
+(I) 2022-04-09T15:26:55 - UPnP / NAT-PMP support [ON]
+(I) 2022-04-09T15:26:55 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: pe huhtik. 1 03:19:19 2022.
+(I) 2022-04-09T15:26:55 - Successfully listening on IP: 127.0.0.1, port: TCP/49869
+(I) 2022-04-09T15:26:55 - Successfully listening on IP: 127.0.0.1, port: UTP/49869
+(I) 2022-04-09T15:26:55 - Successfully listening on IP: 192.168.1.88, port: TCP/49869
+(I) 2022-04-09T15:26:55 - Successfully listening on IP: 192.168.1.88, port: UTP/49869
+(I) 2022-04-09T15:26:55 - Successfully listening on IP: 10.8.8.4, port: TCP/49869
+(I) 2022-04-09T15:26:55 - Successfully listening on IP: 10.8.8.4, port: UTP/49869
+(I) 2022-04-09T15:26:55 - Successfully listening on IP: ::1, port: TCP/49869
+(I) 2022-04-09T15:26:55 - Successfully listening on IP: ::1, port: UTP/49869
+(I) 2022-04-09T15:26:55 - Successfully listening on IP: fe80::4336:bea0:31f2:27f9%enp7s0, port: TCP/49869
+(I) 2022-04-09T15:26:55 - Successfully listening on IP: fe80::4336:bea0:31f2:27f9%enp7s0, port: UTP/49869
+(I) 2022-04-09T15:26:55 - Successfully listening on IP: fe80::3f54:d442:d4be:3142%tun0, port: TCP/49869
+(I) 2022-04-09T15:26:55 - Successfully listening on IP: fe80::3f54:d442:d4be:3142%tun0, port: UTP/49869
+(I) 2022-04-09T15:26:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.88 external port: TCP/49869
+(I) 2022-04-09T15:26:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.88 external port: UDP/49869
+(I) 2022-04-09T15:26:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.88 external port: TCP/49869
+(I) 2022-04-09T15:26:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.88 external port: UDP/49869
+(I) 2022-04-09T15:26:56 - Detected external IP: 185.174.159.54
+(N) 2022-04-09T15:27:19 - 'Forza.Horizon.4.tar.zst' added to download list.
+(C) 2022-04-09T15:29:31 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[10.8.8.4]: no router found
+(C) 2022-04-09T15:29:31 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[10.8.8.4]: no router found
+(N) 2022-04-09T15:29:54 - Valinnat tallennettu.
+(I) 2022-04-09T15:30:03 - UPnP / NAT-PMP support [OFF]
+(N) 2022-04-09T15:30:06 - qBittorrent v4.4.2 started
+(N) 2022-04-09T15:30:06 - Using config directory: /home/tommi/.config/qBittorrent
+(N) 2022-04-09T15:30:21 - qBittorrent v4.4.2 started
+(N) 2022-04-09T15:30:21 - Using config directory: /home/tommi/.config/qBittorrent
+(I) 2022-04-09T15:30:21 - Trying to listen on: 0.0.0.0:49869,[::]:49869
+(N) 2022-04-09T15:30:21 - Peer ID: -qB4420-
+(N) 2022-04-09T15:30:21 - HTTP User-Agent is 'qBittorrent/4.4.2'
+(I) 2022-04-09T15:30:21 - DHT support [ON]
+(I) 2022-04-09T15:30:21 - Local Peer Discovery support [ON]
+(I) 2022-04-09T15:30:21 - PeX support [ON]
+(I) 2022-04-09T15:30:21 - Anonymous mode [OFF]
+(I) 2022-04-09T15:30:21 - Encryption support [ON]
+(I) 2022-04-09T15:30:21 - UPnP / NAT-PMP support [ON]
+(I) 2022-04-09T15:30:21 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: pe huhtik. 1 03:19:19 2022.
+(I) 2022-04-09T15:30:21 - Successfully listening on IP: 127.0.0.1, port: TCP/49869
+(I) 2022-04-09T15:30:21 - Successfully listening on IP: 127.0.0.1, port: UTP/49869
+(I) 2022-04-09T15:30:21 - Successfully listening on IP: 192.168.1.88, port: TCP/49869
+(I) 2022-04-09T15:30:21 - Successfully listening on IP: 192.168.1.88, port: UTP/49869
+(I) 2022-04-09T15:30:21 - Successfully listening on IP: 10.8.8.4, port: TCP/49869
+(I) 2022-04-09T15:30:21 - Successfully listening on IP: 10.8.8.4, port: UTP/49869
+(I) 2022-04-09T15:30:21 - Successfully listening on IP: ::1, port: TCP/49869
+(I) 2022-04-09T15:30:21 - Successfully listening on IP: ::1, port: UTP/49869
+(I) 2022-04-09T15:30:21 - Successfully listening on IP: fe80::4336:bea0:31f2:27f9%enp7s0, port: TCP/49869
+(I) 2022-04-09T15:30:21 - Successfully listening on IP: fe80::4336:bea0:31f2:27f9%enp7s0, port: UTP/49869
+(I) 2022-04-09T15:30:21 - Successfully listening on IP: fe80::3f54:d442:d4be:3142%tun0, port: TCP/49869
+(I) 2022-04-09T15:30:21 - Successfully listening on IP: fe80::3f54:d442:d4be:3142%tun0, port: UTP/49869
+(I) 2022-04-09T15:30:21 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.88 external port: TCP/49869
+(I) 2022-04-09T15:30:21 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.88 external port: UDP/49869
+(I) 2022-04-09T15:30:21 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.88 external port: TCP/49869
+(I) 2022-04-09T15:30:21 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.88 external port: UDP/49869
+(N) 2022-04-09T15:30:21 - 'Forza.Horizon.4.tar.zst' restored.
+(I) 2022-04-09T15:30:22 - Detected external IP: 185.174.159.54
+(N) 2022-04-09T15:30:58 - Options saved.
+(N) 2022-04-09T15:31:08 - 'Forza.Horizon.4.tar.zst' was removed from the transfer list and hard disk.
+(N) 2022-04-09T15:31:35 - 'Forza Horizon 4 - 1.474 [MULTi16] [Goldberg] [GNU/Linux Wine] [johncena141]' added to download list.
+(C) 2022-04-09T15:32:57 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[10.8.8.4]: no router found
+(C) 2022-04-09T15:32:57 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[10.8.8.4]: no router found
+(I) 2022-04-09T15:35:11 - Successfully listening on IP: 10.8.8.3, port: TCP/49869
+(I) 2022-04-09T15:35:11 - Successfully listening on IP: 10.8.8.3, port: UTP/49869
+(I) 2022-04-09T15:35:11 - Successfully listening on IP: fe80::3d25:6429:b9d0:49a%tun0, port: TCP/49869
+(I) 2022-04-09T15:35:11 - Successfully listening on IP: fe80::3d25:6429:b9d0:49a%tun0, port: UTP/49869
+(I) 2022-04-09T15:35:12 - Detected external IP: 165.231.161.214
+(N) 2022-04-09T15:37:01 - 'Forza Horizon 4 - 1.474 [MULTi16] [Goldberg] [GNU/Linux Wine] [johncena141]' was removed from the transfer list and hard disk.
+(N) 2022-04-09T15:37:11 - 'Forza.Horizon.4.zpaq' added to download list.
+(C) 2022-04-09T15:37:47 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[10.8.8.3]: no router found
+(C) 2022-04-09T15:37:47 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[10.8.8.3]: no router found
+(N) 2022-04-09T15:39:47 - 'Forza Horizon 4 - 1.474 [MULTi16] [Goldberg] [GNU/Linux Wine] [johncena141]' added to download list.
+(N) 2022-04-09T15:41:06 - 'Forza.Horizon.4.zpaq' was removed from the transfer list and hard disk.
+(N) 2022-04-09T15:42:10 - 'Forza Horizon 4 - 1.474 [MULTi16] [Goldberg] [GNU/Linux Wine] [johncena141]' added to download list.
+(N) 2022-04-09T15:42:57 - 'Forza Horizon 4 - 1.474 [MULTi16] [Goldberg] [GNU/Linux Wine] [johncena141]' was removed from the transfer list.
+(N) 2022-04-09T15:43:00 - 'Forza Horizon 4 - 1.474 [MULTi16] [Goldberg] [GNU/Linux Wine] [johncena141]' was removed from the transfer list.
+(I) 2022-04-09T16:15:21 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.88 external port: TCP/49869
+(I) 2022-04-09T16:15:21 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.88 external port: UDP/49869
+(I) 2022-04-09T16:23:19 - UPnP / NAT-PMP support [OFF]
+(N) 2022-04-09T16:29:55 - qBittorrent v4.4.2 started
+(N) 2022-04-09T16:29:55 - Using config directory: /home/tommi/.config/qBittorrent
+(I) 2022-04-09T16:29:55 - Trying to listen on: 0.0.0.0:49869,[::]:49869
+(N) 2022-04-09T16:29:55 - Peer ID: -qB4420-
+(N) 2022-04-09T16:29:55 - HTTP User-Agent is 'qBittorrent/4.4.2'
+(I) 2022-04-09T16:29:55 - DHT support [ON]
+(I) 2022-04-09T16:29:55 - Local Peer Discovery support [ON]
+(I) 2022-04-09T16:29:55 - PeX support [ON]
+(I) 2022-04-09T16:29:55 - Anonymous mode [OFF]
+(I) 2022-04-09T16:29:55 - Encryption support [ON]
+(I) 2022-04-09T16:29:55 - UPnP / NAT-PMP support [ON]
+(I) 2022-04-09T16:29:55 - Successfully listening on IP: 127.0.0.1, port: TCP/49869
+(I) 2022-04-09T16:29:55 - Successfully listening on IP: 127.0.0.1, port: UTP/49869
+(I) 2022-04-09T16:29:55 - Successfully listening on IP: 192.168.1.88, port: TCP/49869
+(I) 2022-04-09T16:29:55 - Successfully listening on IP: 192.168.1.88, port: UTP/49869
+(I) 2022-04-09T16:29:55 - Successfully listening on IP: ::1, port: TCP/49869
+(I) 2022-04-09T16:29:55 - Successfully listening on IP: ::1, port: UTP/49869
+(I) 2022-04-09T16:29:55 - Successfully listening on IP: fe80::4336:bea0:31f2:27f9%enp7s0, port: TCP/49869
+(I) 2022-04-09T16:29:55 - Successfully listening on IP: fe80::4336:bea0:31f2:27f9%enp7s0, port: UTP/49869
+(I) 2022-04-09T16:29:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.88 external port: TCP/49869
+(I) 2022-04-09T16:29:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.88 external port: UDP/49869
+(I) 2022-04-09T16:29:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.88 external port: TCP/49869
+(I) 2022-04-09T16:29:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.88 external port: UDP/49869
+(N) 2022-04-09T16:30:00 - 'Forza.Horizon.4.zpaq' added to download list.
+(N) 2022-04-09T16:30:44 - 'Forza.Horizon.4.zpaq' was removed from the transfer list and hard disk.
+(N) 2022-04-09T16:35:44 - qBittorrent v4.4.2 started
+(N) 2022-04-09T16:35:44 - Using config directory: /home/tommi/.config/qBittorrent
+(N) 2022-04-09T16:45:34 - qBittorrent v4.4.2 started
+(N) 2022-04-09T16:45:34 - Using config directory: /home/tommi/.config/qBittorrent
+(N) 2022-04-09T16:45:36 - 'Forza.Horizon.4.zpaq' added to download list.
+(N) 2022-04-09T16:45:43 - qBittorrent v4.4.2 started
+(N) 2022-04-09T16:45:43 - Using config directory: /home/tommi/.config/qBittorrent
+(N) 2022-04-09T16:46:01 - Options saved.
+(N) 2022-04-09T16:46:10 - 'Forza.Horizon.4.zpaq' was removed from the transfer list and hard disk.
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tracker.opentrackr.org:1337/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://tracker.opentrackr.org:1337/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://9.rarbg.com:2810/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tracker.openbittorrent.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://tracker.openbittorrent.com:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://opentracker.i2p.rocks:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'https://opentracker.i2p.rocks:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://opentracker.i2p.rocks:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://www.torrent.eu.org:451/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tracker.torrent.eu.org:451/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://open.stealth.si:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://ipv4.tracker.harry.lu:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://exodus.desync.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tracker.tiny-vps.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://opentor.org:2710/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tracker.dler.org:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://explodie.org:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://tracker4.itzmx.com:2710/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://tracker.dler.org:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tracker.moeking.me:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://vibe.sleepyinternetfun.xyz:1738/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tracker2.dler.org:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tracker1.bt.moack.co.kr:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tracker.zerobytes.xyz:1337/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tracker.theoks.net:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tracker.lelux.fi:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tracker.jordan.im:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tracker.filemail.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tracker.bitsearch.to:1337/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tracker.auctor.tv:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tracker.altrosky.nl:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tracker.0x.tf:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://torrentclub.space:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://open.tracker.ink:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://movies.zsw.ca:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://fe.dealclub.de:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://engplus.ru:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://bubu.mapfactor.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://bt2.archive.org:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://bt1.archive.org:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://bt.oiyo.tk:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://abufinzio.monocul.us:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://6ahddutb1ucc3cp.ru:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'https://tracker.nanoha.org:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'https://tracker.lilithraws.org:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'https://tracker.iriseden.fr:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'https://tr.torland.ga:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://vps02.net.orel.ru:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://tracker1.bt.moack.co.kr:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://tracker.zerobytes.xyz:1337/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://tracker.nucozer-tracker.ml:2710/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://tracker.mywaifu.best:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://tracker.lelux.fi:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://tracker.files.fm:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://tracker.corpscorp.online:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://tracker.bt4g.com:2095/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://torrenttracker.nwc.acsalaska.net:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://t.nyaatracker.com:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://retracker.joxnet.ru:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://open.tracker.ink:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://open.acgtracker.com:1096/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://open.acgnxtracker.com:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://home.yxgz.vip:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://btracker.top:11451/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://bt.okmp3.ru:2710/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://u4.trakx.crim.ist:1337/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tsundere.pw:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tracker.monitorit4.me:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tracker.merded.xyz:8000/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tracker.loligirl.cn:1337/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tracker.loadbt.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tracker.leech.ie:1337/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tracker.fatkhoala.org:13710/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tracker.ddunlimited.net:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tracker.babico.name.tr:8000/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tracker-udp.gbitt.info:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tr.cili001.com:8070/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://tr.bangumi.moe:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://public.tracker.vraphim.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://public.publictracker.xyz:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://mts.tvbit.co:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://leet-tracker.moe:38151/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://leet-tracker.moe:23861/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://inferno.demonoid.is:3391/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://cutiegirl.ru:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://concen.org:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://camera.lei001.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://bclearning.top:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'udp://admin.videoenpoche.info:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'https://tracker.yarr.pt:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'https://tracker.nitrix.me:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'https://tracker.kuroy.me:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'https://tracker.foreverpirates.co:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'https://tracker.babico.name.tr:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'https://tr.highstar.shop:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'https://tr.fuckbitcoin.xyz:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'https://tr.doogh.club:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'https://tr.burnabyhighstar.com:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'https://tr.abirxo.cf:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'https://tr.abir.ga:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'https://tr.abiir.top:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'https://opentracker.cc:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'https://abir0dev.github.io:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'https://1337.abcvg.info:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://tracker2.dler.org:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://tracker.merded.xyz:8000/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://tracker.loadbt.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://tracker.gbitt.info:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://tr.cili001.com:8070/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://t.acg.rip:6699/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://fosstorrents.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - Tracker 'http://1337.abcvg.info:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:46:16 - 'Forza.Horizon.4.zpaq' added to download list.
+(N) 2022-04-09T16:47:29 - Tracker 'http://mediaclub.tv:80/announce.php' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'http://milanesitracker.tekcities.com:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'http://nyaa.tracker.wf:7777/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'http://share.camoe.cn:8080/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'http://t.overflow.biz:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'http://tracker.ipv6tracker.ru:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'https://carbon-bonsai-621.appspot.com:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'https://t.btcland.xyz:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'https://tp.m-team.cc:443/announce.php' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'https://tr.ready4.icu:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'https://tracker.cyber-hub.net:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'https://tracker.imgoingto.icu:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'https://tracker.lilithraws.cf:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'https://tracker.loligirl.cn:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'https://tracker.tamersunion.org:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'https://trackme.theom.nz:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://code2chicken.nl:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://discord.heihachi.pw:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://exodus.desync.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://mail.realliferpg.de:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://open.demonii.com:1337/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://open.stealth.si:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://open.tracker.cl:1337/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://open.xxtor.com:3074/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://p4p.arenabg.com:1337/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://retracker.hotplug.ru:2710/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://retracker.lanta-net.ru:2710/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://retracker.netbynet.ru:2710/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://thetracker.org:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://tracker.beeimg.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://tracker.birkenwald.de:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://tracker.blacksparrowmedia.net:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://tracker.cyberia.is:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://tracker.dix.tf:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://tracker.moeking.eu.org:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://tracker.moeking.me:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://tracker.ololosh.space:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://tracker.opentrackr.org:1337/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://tracker.pomf.se:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://tracker.sylphix.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://tracker.torrent.eu.org:451/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://tracker2.dler.com:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'udp://tracker6.lelux.fi:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:47:29 - Tracker 'wss://tracker.openwebtorrent.com:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:48:06 - Tracker 'udp://tracker.opentrackr.org:1337/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:48:06 - Tracker 'udp://exodus.desync.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:48:06 - Tracker 'http://openbittorrent.com:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:48:06 - Tracker 'udp://retracker.lanta-net.ru:2710/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:48:06 - Tracker 'udp://open.stealth.si:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:48:06 - Tracker 'udp://wassermann.online:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:48:06 - Tracker 'udp://vibe.community:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:48:06 - Tracker 'udp://udp.tracker.coalition.space:1337/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:48:06 - Tracker 'udp://udp-tracker.shittyurl.org:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:48:06 - Tracker 'udp://u.wwwww.wtf:1/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:48:06 - Tracker 'udp://tracker0.ufibox.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:48:06 - Tracker 'udp://tracker.zemoj.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:48:06 - Tracker 'udp://tracker.xn--vzyr4p.top:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://tracker.opentrackr.org:1337/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://tracker.internetwarriors.net:1337/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'http://tracker.internetwarriors.net:1337/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://exodus.desync.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://tracker.cyberia.is:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://3rt.tace.ru:60889/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'http://5rt.tace.ru:60889/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'http://explodie.org:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://47.ip-51-68-199.eu:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://tracker.tiny-vps.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://tracker.ds.is:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://retracker.lanta-net.ru:2710/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://tracker.torrent.eu.org:451/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://open.stealth.si:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://tracker.moeking.me:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://ipv4.tracker.harry.lu:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'http://rt.tace.ru:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://valakas.rollo.dnsabr.com:2710/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://cdn-2.gamecoast.org:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://cdn-1.gamecoast.org:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'https://trakx.herokuapp.com:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'http://h4.trakx.nibba.trade:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://t3.leech.ie:1337/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://t2.leech.ie:1337/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://t1.leech.ie:1337/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://tracker.v6speed.org:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://tracker.uw0.xyz:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://tracker.shkinev.me:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://tracker.army:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://storage.groupees.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://nagios.tks.sumy.ua:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://ln.mtahost.co:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://line-net.ru:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://edu.uifr.ru:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://daveking.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://blokas.io:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://aruacfilmes.com.br:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://us-tracker.publictracker.xyz:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://tracker4.itzmx.com:2710/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://tracker.fortu.io:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://torrentclub.online:54123/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://bt2.3kb.xyz:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://bt.okmp3.ru:2710/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'http://tracker-cdn.moeking.me:2095/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'http://torrentclub.online:54123/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://zephir.monocul.us:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://www.loushao.net:8080/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://tracker.skyts.net:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://tracker.sigterm.xyz:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://tr2.ysagin.top:2710/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://retracker.sevstar.net:2710/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://public-tracker.zooki.xyz:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://johnrosen1.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://free-tracker.zooki.xyz:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://drumkitx.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://bioquantum.co.za:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'https://w.wwwww.wtf:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'https://tracker.sloppyta.co:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'https://tracker.renfei.net:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'http://tracker.vraphim.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'http://tracker.sloppyta.co:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'http://tracker.skyts.net:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'http://tracker.noobsubs.net:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'https://tracker.lelux.fi:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'https://tracker.hama3.net:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'https://tracker.coalition.space:443/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'http://www.loushao.net:8080/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'http://vpn.flying-datacenter.de:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'http://retracker.sevstar.net:2710/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'http://pow7.com:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'http://ns3107607.ip-54-36-126.eu:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'http://mail2.zelenaya.net:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'http://bt.100.pet:2710/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'http://bobbialbano.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://tracker.kali.org:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://open.lolicon.eu:7777/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://ns389251.ovh.net:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://ns-1.x-fins.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://bt2.54new.com:8080/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://bt.firebit.org:2710/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:49:00 - Tracker 'udp://anidex.moe:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://wambo.club:1337/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://tracker.dutchtracking.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://tc.animereactor.ru:8082/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://tracker.kamigami.org:2710/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'http://novaopcj.icu:10325/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://aaa.army:8866/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://api.bitumconference.ru:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://tracker.vulnix.sh:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://kanal-4.de:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://adminion.n-blade.ru:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://benouworldtrip.fr:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://sd-161673.dedibox.fr:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://forever-tracker.zooki.xyz:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://tracker.publictracker.xyz:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://tracker.skynetcloud.site:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'http://tracker.sakurato.xyz:23333/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://open.stealth.si:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'http://tracker2.itzmx.com:6961/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'http://tracker3.itzmx.com:6961/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://tracker.dyne.org:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://torrent.tdjs.tech:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://bms-hosxp.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://teamspeak.value-wolf.org:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://koli.services:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://ipv4.tracker.harry.lu:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://tracker.cyberia.is:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://retracker.akado-ural.ru:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://chanchan.uchuu.co.uk:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://publictracker.xyz:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://tracker.zum.bi:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://dpiui.reedlan.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://ultra.zt.ua:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://61626c.net:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://tracker.tiny-vps.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://retracker.lanta-net.ru:2710/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://rutorrent.frontline-mod.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://tracker.torrent.eu.org:451/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://adm.category5.tv:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'http://bt.3kb.xyz:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'http://publictracker.ch:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://www.midea123.z-media.com.cn:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:50:14 - Tracker 'udp://git.vulnix.sh:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:51:02 - Tracker 'udp://tracker.opentrackr.org:1337/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:51:02 - Tracker 'udp://tracker.zer0day.to:1337/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:51:02 - Tracker 'udp://eddie4.nl:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:51:02 - Tracker 'udp://46.148.18.250:2710' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:51:02 - Tracker 'udp://opentor.org:2710' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:51:02 - Tracker 'udp://9.rarbg.me:2730/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:51:02 - Tracker 'udp://9.rarbg.to:2770/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:51:02 - Tracker 'udp://tracker.pirateparty.gr:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:51:02 - Tracker 'http://retracker.local/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:51:02 - Tracker 'http://retracker.ip.ncnet.ru/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:51:02 - Tracker 'udp://exodus.desync.com:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:51:02 - Tracker 'udp://ipv4.tracker.harry.lu:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:51:02 - Tracker 'udp://open.stealth.si:80/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-09T16:51:02 - Tracker 'udp://coppersurfer.tk:6969/announce' was added to torrent 'Forza.Horizon.4.zpaq'
+(N) 2022-04-10T08:49:40 - qBittorrent v4.4.2 started
+(N) 2022-04-10T08:49:40 - Using config directory: /home/tommi/.config/qBittorrent
+(I) 2022-04-10T08:49:40 - Trying to listen on: 0.0.0.0:49869,[::]:49869
+(N) 2022-04-10T08:49:40 - Peer ID: -qB4420-
+(N) 2022-04-10T08:49:40 - HTTP User-Agent is 'qBittorrent/4.4.2'
+(I) 2022-04-10T08:49:40 - DHT support [ON]
+(I) 2022-04-10T08:49:40 - Local Peer Discovery support [ON]
+(I) 2022-04-10T08:49:40 - PeX support [ON]
+(I) 2022-04-10T08:49:40 - Anonymous mode [OFF]
+(I) 2022-04-10T08:49:40 - Encryption support [ON]
+(I) 2022-04-10T08:49:40 - UPnP / NAT-PMP support [ON]
+(I) 2022-04-10T08:49:40 - Successfully listening on IP: 127.0.0.1, port: TCP/49869
+(I) 2022-04-10T08:49:40 - Successfully listening on IP: 127.0.0.1, port: UTP/49869
+(I) 2022-04-10T08:49:40 - Successfully listening on IP: 192.168.1.88, port: TCP/49869
+(I) 2022-04-10T08:49:40 - Successfully listening on IP: 192.168.1.88, port: UTP/49869
+(I) 2022-04-10T08:49:40 - Successfully listening on IP: ::1, port: TCP/49869
+(I) 2022-04-10T08:49:40 - Successfully listening on IP: ::1, port: UTP/49869
+(I) 2022-04-10T08:49:40 - Successfully listening on IP: fe80::4336:bea0:31f2:27f9%enp7s0, port: TCP/49869
+(I) 2022-04-10T08:49:40 - Successfully listening on IP: fe80::4336:bea0:31f2:27f9%enp7s0, port: UTP/49869
+(I) 2022-04-10T08:49:40 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.88 external port: TCP/49869
+(I) 2022-04-10T08:49:40 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.88 external port: UDP/49869
+(I) 2022-04-10T08:49:40 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.88 external port: TCP/49869
+(I) 2022-04-10T08:49:40 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.88 external port: UDP/49869
+(N) 2022-04-10T08:49:40 - 'Forza.Horizon.4.zpaq' restored.
+(N) 2022-04-10T08:49:46 - 'Forza.Horizon.4.zpaq' was removed from the transfer list and hard disk.
+(I) 2022-04-10T08:54:24 - UPnP / NAT-PMP support [OFF]

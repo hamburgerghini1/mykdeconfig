@@ -1,0 +1,6 @@
+2022/04/14-15:05:09.090 c1d53 Reusing MANIFEST /home/tommi/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/04/14-15:05:09.090 c1d53 Recovering log #468
+2022/04/14-15:05:09.090 c1d53 Reusing old log /home/tommi/.config/discord/Local Storage/leveldb/000468.log 
+2022/04/14-15:07:36.019 c1f89 Level-0 table #473: started
+2022/04/14-15:07:36.023 c1f89 Level-0 table #473: 385798 bytes OK
+2022/04/14-15:07:36.024 c1f89 Delete type=0 #468

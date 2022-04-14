@@ -1,0 +1,28 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "/images/icon.png",
+         "16": "/images/icon.png",
+         "32": "/images/icon.png",
+         "48": "/images/icon.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "author": "Sagar Chauhan",
+   "background": {
+      "service_worker": "background.js"
+   },
+   "description": "Bypass Paywall is a browser extension that allows you to read content that is behind a paywall on websites or blogs etc",
+   "icons": {
+      "128": "/images/icon.png",
+      "16": "/images/icon.png",
+      "32": "/images/icon.png",
+      "48": "/images/icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmrbmaT23RgKO6s7pZL1ofW7VLsmSrk6h70Tpl5cNXMja5villGW1mzQ7STkNhQ2mDiW7/j2S7aNXdMgDj+RLlj4jLVeUJSOm93i2IapKjTfGgPatNqUF0Aqovtbs7RbbJOlH3cRsrZX2tgXOEKrdX9bMtgv7Fzc0iIo6MmWV3ZY0owzZ1QAos9emxnGSIPz08efUprQnAJhPgkj3k+CYRP4jtX/NK15dPyc71YDqB1ggV8W5fvb1elp/dELAZPvxNLXZJIPPBrK2ilkSdEdULwF6WT8B0kmK1U6A+Wn2fDJXbaTnH2ScmdCZj5ccCApiDI4EPczZtGEVhVX3EHtAawIDAQAB",
+   "manifest_version": 3,
+   "name": "Bypass Paywall",
+   "permissions": [ "activeTab", "scripting" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.3"
+}

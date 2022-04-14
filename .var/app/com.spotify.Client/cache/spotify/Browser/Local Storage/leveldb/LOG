@@ -1,0 +1,5 @@
+2022/04/14-16:50:35.305 29 Reusing MANIFEST /home/tommi/.var/app/com.spotify.Client/cache/spotify/Browser/Local Storage/leveldb/MANIFEST-000001
+2022/04/14-16:50:35.306 29 Recovering log #3
+2022/04/14-16:50:35.306 29 Level-0 table #3: started
+2022/04/14-16:50:35.308 29 Level-0 table #3: 20239 bytes OK
+2022/04/14-16:50:35.311 29 Delete type=0 #3

@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Xbox Cloud Gaming
+Exec=/usr/lib64/ungoogled-chromium/ungoogled-chromium.sh --profile-directory=Default --app-id=ihjcjhbmodcppdpiggdepgoheaimnkkn
+Icon=chrome-ihjcjhbmodcppdpiggdepgoheaimnkkn-Default
+StartupWMClass=crx_ihjcjhbmodcppdpiggdepgoheaimnkkn

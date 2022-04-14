@@ -1,0 +1,19 @@
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Preparing download for "Cities Skylines" (bcbc03d8812a44c18f41cf7d5f849265)...
+[Core] INFO: Parsing game manifest...
+[Core] INFO: Install path: /home/tommi/Games/Heroic/CitiesSkylines
+[Core] INFO: Selected CDN: fastly-download.epicgames.com (https)
+[DLM] INFO: Found previously interrupted download. Download will be resumed if possible.
+[DLM] INFO: Skipping 142 files based on resume data.
+[cli] INFO: Install size: 13763.00 MiB
+[cli] INFO: Download size: 7321.63 MiB (Compression savings: 43.0%)
+[cli] INFO: Reusable size: 0.00 MiB (chunks) / 903.61 MiB (unchanged / skipped)
+[cli] INFO: Downloads are resumable, you can interrupt the download with CTRL-C and resume it using the same command later on.
+[DLManager] INFO: Download Manager running with process-id: 622
+[DLManager] INFO: Starting download workers...
+[DLManager] INFO: Starting file writing worker...
+[DLManager] INFO: = Progress: 0.00% (0/14600), Running for 00:00:00, ETA: 00:00:00
+[DLManager] INFO:  - Downloaded: 0.00 MiB, Written: 0.00 MiB
+[DLManager] INFO:  - Cache usage: 32.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 0.00 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 0.00 MiB/s (write) / 0.00 MiB/s (read)

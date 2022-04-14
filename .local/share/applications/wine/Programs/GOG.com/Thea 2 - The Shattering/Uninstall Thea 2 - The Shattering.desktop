@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Uninstall Thea 2 - The Shattering
+Exec=env WINEPREFIX="/media/pelissd/GOG/Thea 2 The Shattering/prefix" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\GOG.com\\\\Thea\\ 2\\ -\\ The\\ Shattering\\\\Uninstall\\ Thea\\ 2\\ -\\ The\\ Shattering.lnk
+Type=Application
+StartupNotify=true
+Path=/home/tommi/.cache/minigalaxy/extract/1582025844
+Icon=BE0C_unins000.0
+StartupWMClass=unins000.exe

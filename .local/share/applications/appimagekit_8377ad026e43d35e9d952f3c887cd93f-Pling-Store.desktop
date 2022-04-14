@@ -1,0 +1,52 @@
+[Desktop Entry]
+Name=Pling-Store (5.0.2)
+Exec=/home/tommi/Applications/pling-store-5.0.2-1-x86_64_0b2bddddb0a6f59009d49671d1d9392d.AppImage
+Icon=appimagekit_8377ad026e43d35e9d952f3c887cd93f_pling-store
+Type=Application
+Terminal=false
+NoDisplay=false
+Categories=Network;Settings;
+X-AppImage-Version=5.0.2
+
+TryExec=/home/tommi/Applications/pling-store-5.0.2-1-x86_64_0b2bddddb0a6f59009d49671d1d9392d.AppImage
+X-AppImage-Old-Icon=pling-store
+X-AppImage-Old-Name=Pling-Store
+X-AppImage-Identifier=8377ad026e43d35e9d952f3c887cd93f
+Actions=Remove;Update;
+X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2020-09-29 21:36:22 UTC
+
+[Desktop Action Remove]
+Name=Remove AppImage from system
+Icon=AppImageLauncher
+Exec=/usr/lib/x86_64-linux-gnu/appimagelauncher/remove "/home/tommi/Applications/pling-store-5.0.2-1-x86_64_0b2bddddb0a6f59009d49671d1d9392d.AppImage"
+Name[ast]=Desaniciar AppImage del sistema
+Name[cs]=Odebrat AppImage ze systému
+Name[de]=AppImage vom System entfernen
+Name[en]=Remove AppImage from system
+Name[es]=Eliminar Appimage del Sistema
+Name[fr]=Supprimer l'AppImage du système
+Name[it]=Rimuovi AppImage dal sistema
+Name[nl]=AppImage deïnstalleren
+Name[pl]=Usuń AppImage z systemu
+Name[pt]=Remover AppImage do sistema
+Name[pt_PT]=Remover AppImage do sistema
+Name[ru]=Удалить AppImage из системы
+Name[zh_Hans]=从系统中移除 AppImage
+
+[Desktop Action Update]
+Name=Update AppImage
+Icon=AppImageLauncher
+Exec=/usr/lib/x86_64-linux-gnu/appimagelauncher/update "/home/tommi/Applications/pling-store-5.0.2-1-x86_64_0b2bddddb0a6f59009d49671d1d9392d.AppImage"
+Name[ast]=Anovar AppImage
+Name[cs]=Aktualizovat AppImage
+Name[de]=AppImage aktualisieren
+Name[en]=Update AppImage
+Name[es]=Actualizar Appimage
+Name[fr]=Mettre à jour l'AppImage
+Name[it]=Aggiorna AppImage
+Name[nl]=AppImage bijwerken
+Name[pl]=Uaktualnij AppImage
+Name[pt]=Actualizar AppImage
+Name[pt_PT]=Atualizar AppImage
+Name[ru]=Обновить AppImage
+Name[zh_Hans]=更新 AppImage

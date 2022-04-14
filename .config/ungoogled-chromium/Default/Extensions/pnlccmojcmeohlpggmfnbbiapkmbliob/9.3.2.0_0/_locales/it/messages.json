@@ -1,0 +1,4058 @@
+{
+   "AboutPage_Title": {
+      "message": "Info"
+   },
+   "About_Sync2": {
+      "message": "Account:"
+   },
+   "About_Version2": {
+      "message": "Versione:"
+   },
+   "AccountLicenseStatus_Business": {
+      "message": "Licenza Business"
+   },
+   "AccountLicenseStatus_LicenseExpired": {
+      "message": "La licenza è scaduta %1 giorno(i) fa"
+   },
+   "AccountLicenseStatus_LicenseExpiresIn": {
+      "message": "La licenza scade tra %1 giorno(i)"
+   },
+   "AccountLicenseStatus_LicenseExpiresToday": {
+      "message": "La licenza scade oggi"
+   },
+   "AccountLicenseStatus_LicenseIsActive": {
+      "message": "La licenza è attiva"
+   },
+   "AccountLicenseStatus_NoLicense": {
+      "message": "Nessuna licenza"
+   },
+   "AccountLicenseStatus_TrialExpired": {
+      "message": "Il periodo di prova è scaduto %1 giorno(i) fa"
+   },
+   "AccountLicenseStatus_TrialExpiresIn": {
+      "message": "Il periodo di prova scade tra %1 giorno(i)"
+   },
+   "AccountLicenseStatus_TrialExpiresToday": {
+      "message": "Il periodo di prova scade oggi"
+   },
+   "AlreadyExists_Error2": {
+      "message": "%1 chiamato '%2' esiste già"
+   },
+   "Android_matching_dialog_title": {
+      "message": "Login corrispondenti"
+   },
+   "AskConsentToCollectData_Accept_Button": {
+      "message": "Accetta"
+   },
+   "AskConsentToCollectData_ActionsAndFilledInformation_Text": {
+      "message": "Azioni (click del mouse e tasti premuti sulla tastiera) e informazioni inserite sui siti, raccolte per salvare e compilare le credenziali sui siti"
+   },
+   "AskConsentToCollectData_ContinueButton_Text": {
+      "message": "Continua"
+   },
+   "AskConsentToCollectData_DeclineWarning_Text": {
+      "message": "Se rifiuti, non sarai in grado di utilizzare l'estensione RoboForm."
+   },
+   "AskConsentToCollectData_Decline_Button": {
+      "message": "Rifiuta"
+   },
+   "AskConsentToCollectData_Details_Text": {
+      "message": "Dettagli completi sui dati raccolti e come li utilizziamo indicati in "
+   },
+   "AskConsentToCollectData_NoSwitcher_Text": {
+      "message": "No"
+   },
+   "AskConsentToCollectData_PersonalDataSection_Text": {
+      "message": "dati che ti identificano personalmente"
+   },
+   "AskConsentToCollectData_PersonalRejectionImpact_Text": {
+      "message": "Se non consenti la raccolta di dati personali RoboForm non funzionerà"
+   },
+   "AskConsentToCollectData_PrivacyPolicy_Link_Text": {
+      "message": "Politica sulla riservatezza"
+   },
+   "AskConsentToCollectData_RemoveExtensionButton_Text": {
+      "message": "Rimuovi RoboForm"
+   },
+   "AskConsentToCollectData_RevisitConsentsButton_Text": {
+      "message": "Rivaluta consenso per raccolta di dati"
+   },
+   "AskConsentToCollectData_RoboFormCannotWorkWithoutPermissions_Text": {
+      "message": "Sfortunatamente, senza la raccolta di URL visitati, termini di ricerca, azioni e informazioni inserite sui siti, RoboForm non funzionerà perché necessita di tali dati per salvare e compilare le credenziali sui siti. A meno che non abbia intenzione di cambiare idea sul consenso per la raccolta di dati di RoboForm consigliamo di rimuovere RoboForm."
+   },
+   "AskConsentToCollectData_SectionTitleStart_Text": {
+      "message": "Potremmo raccogliere quanto segue "
+   },
+   "AskConsentToCollectData_TechnicalDataSection_Text": {
+      "message": "dati anonimi sull'uso da parte tua di RoboForm"
+   },
+   "AskConsentToCollectData_TechnicalRejectionImpact_Text": {
+      "message": "Se non consenti la raccolta di dati anonimi RoboForm non funzionerà"
+   },
+   "AskConsentToCollectData_Text": {
+      "message": "Affinché RoboForm funzioni correttamente, dobbiamo avere l'autorizzazione per accedere e raccogliere indirizzi web (URL). Senza autorizzazione, RoboForm non può compilare o salvare le credenziali sui tuoi siti. Ulteriori informazioni sui dati raccolti da RoboForm nella nostra"
+   },
+   "AskConsentToCollectData_Title": {
+      "message": "Privacy"
+   },
+   "AskConsentToCollectData_UrlsAndSearchTerms_Text": {
+      "message": "URL visitati e termini di ricerca, raccolti per salvare e compilare le credenziali sui siti"
+   },
+   "AskConsentToCollectData_YesSwitcher_Text": {
+      "message": "Sì"
+   },
+   "AutoFill_AddIdentityGroup": {
+      "message": "Aggiungi %1"
+   },
+   "AutoFill_Ago_Text": {
+      "message": "%1 fa"
+   },
+   "AutoFill_ConfirmPasswordChange_Text": {
+      "message": "Conferma modifica password %1"
+   },
+   "AutoFill_Delete": {
+      "message": "Elimina"
+   },
+   "AutoFill_DontShowOnThisDomain": {
+      "message": "Non mostrare su questo dominio"
+   },
+   "AutoFill_Edit": {
+      "message": "Modifica"
+   },
+   "AutoFill_Fill": {
+      "message": "Compila"
+   },
+   "AutoFill_FillSubmit": {
+      "message": "Compila & invia"
+   },
+   "AutoFill_Generate": {
+      "message": "Genera"
+   },
+   "AutoFill_IdentitiesWithMatchingValuesList_Header_Text": {
+      "message": "Identità corrispondenti:"
+   },
+   "AutoFill_KeepOldPasswordConfirm_Text": {
+      "message": "Vuoi rimuovere la nuova password in attesa di conferma per %1 ?"
+   },
+   "AutoFill_Login": {
+      "message": "%1 Accedi"
+   },
+   "AutoFill_NewPassword": {
+      "message": "Nuova password"
+   },
+   "AutoFill_OtherIdentitiesList_Header_Text": {
+      "message": "Altre Identità (A-Z):"
+   },
+   "AutoFill_PasswordAge_Text": {
+      "message": "%1 fa"
+   },
+   "AutoFill_PasswordGenerator_Settings": {
+      "message": "Impostazioni..."
+   },
+   "AutoFill_PreviousPassword_Text": {
+      "message": "Tieni password precedente %1"
+   },
+   "AutoFill_RecentlyUsedIdentitiesList_Header_Text": {
+      "message": "Identità recenti:"
+   },
+   "AutoFill_Rename": {
+      "message": "Rinomina"
+   },
+   "AutoFill_ReportAnIssue_Command_Text": {
+      "message": "Segnala un problema di AutoCompilazione"
+   },
+   "AutoFill_ReportAnIssue_Command_Tooltip": {
+      "message": "Segnala un problema di AutoCompilazione su questa pagina"
+   },
+   "AutoFill_RoboFormLogin_Text": {
+      "message": "Clicca il pulsante RoboForm dalla barra del browser per eseguire l'operazione di accesso."
+   },
+   "AutoFill_ShowOnThisDomain": {
+      "message": "Mostra su questo dominio"
+   },
+   "AutoSave_LoginRequiredNotification_LogInToRoboForm_ButtonText": {
+      "message": "Accedi a RoboForm"
+   },
+   "AutoSave_LoginRequiredNotification_LogInToRoboForm_Text": {
+      "message": "Accedi a RoboForm e salva le credenziali per %1."
+   },
+   "AutoSave_Notification_DataSaved_Text": {
+      "message": "I dati sono stati salvati!"
+   },
+   "AutoSave_Notification_DataUpdated_Text": {
+      "message": "I dati sono stati aggiornati!"
+   },
+   "AutoSave_Notification_IdentityCreated_ActionDescription_Text": {
+      "message": "L'Identità è stata creata:"
+   },
+   "AutoSave_Notification_IdentityDeleted_ActionDescription_Text": {
+      "message": "L'Identità è stata eliminata:"
+   },
+   "AutoSave_Notification_IdentityUpdated_ActionDescription_Text": {
+      "message": "L'Identità è stata aggiornata:"
+   },
+   "AutoSave_Notification_LoginCreated_ActionDescription_Text": {
+      "message": "Il Login è stato salvato:"
+   },
+   "AutoSave_Notification_LoginDeleted_ActionDescription_Text": {
+      "message": "Il Login è stato eliminato:"
+   },
+   "AutoSave_Notification_LoginSaved_Text": {
+      "message": "Il Login è stato salvato!"
+   },
+   "AutoSave_Notification_LoginUpdated_ActionDescription_Text": {
+      "message": "Il Login è stato aggiornato:"
+   },
+   "AutoSave_Notification_LoginUpdated_Text": {
+      "message": "Il Login è stato aggiornato!"
+   },
+   "AutoSave_Notification_LoginUrlUpdated_Text": {
+      "message": "L'url nel Login è stato aggiornato!"
+   },
+   "AutoSave_Notification_PasswordOnlyLoginSaved_Note_Text": {
+      "message": "RoboForm è stato in grado di raccogliere solo password e non ID utente. Questo Login verrà aggiornato al secondo accesso a questo sito."
+   },
+   "AutoSave_Notification_PasswordOnlyLoginSaved_Text": {
+      "message": "La password è stata salvata!"
+   },
+   "AutoSave_Notification_PasswordUpdated_ActionDescription_Text": {
+      "message": "La password nel Login è stata aggiornata:"
+   },
+   "AutoSave_Notification_PasswordUpdated_Text": {
+      "message": "La password nel Login è stata aggiornata!"
+   },
+   "AutoSave_Notification_Undo_ButtonText": {
+      "message": "Annulla"
+   },
+   "AutoSave_ReportAnIssue_Command_Text": {
+      "message": "Segnala un problema"
+   },
+   "AutoSave_ReportAnIssue_Command_Tooltip": {
+      "message": "Segnala un problema di AutoSalvataggio su questa pagina"
+   },
+   "BEM_Description": {
+      "message": "RoboForm, il Password Manager #1 che semplifica la tua vita ricordando password e accedendo ai tuoi siti web automaticamente"
+   },
+   "BEM_FullName": {
+      "message": "RoboForm Password Manager"
+   },
+   "BEM_FullNameBeta": {
+      "message": "RoboForm Password Manager (Beta)"
+   },
+   "Bookmark_ClickToOpen_Tip": {
+      "message": "Clicca per aprire"
+   },
+   "Btn_No": {
+      "message": "No"
+   },
+   "Btn_Yes": {
+      "message": "Sì"
+   },
+   "ChangeMasterPasswordPage_Title": {
+      "message": "Modifica Master Password"
+   },
+   "ChangePwdDlg_Changing_Text": {
+      "message": "Cambiamento della password"
+   },
+   "ChangePwdDlg_OperationNotSupported": {
+      "message": "L'operazione non è supportata. Aggiorna RoboForm alla ver. 8"
+   },
+   "Change_Account_Password_Login_First": {
+      "message": "È necessario effettuare il login prima di poter cambiare la password dell'account"
+   },
+   "CheckedRunMB_CheckButton": {
+      "message": "Non mostrare più questo messaggio"
+   },
+   "Cmd_About_Key": {
+      "message": "Informazioni..."
+   },
+   "Cmd_Accept_Key": {
+      "message": "Accetta"
+   },
+   "Cmd_AddToPinned_Flat": {
+      "message": "Blocca"
+   },
+   "Cmd_Cancel_Flat": {
+      "message": "Annulla"
+   },
+   "Cmd_ClearList_Key": {
+      "message": "(Pulisci Lista)"
+   },
+   "Cmd_Close_Flat": {
+      "message": "Chiudi"
+   },
+   "Cmd_ConvertFolderToGroup_Key": {
+      "message": "Converti a Gruppo"
+   },
+   "Cmd_Copy_Password_Flat": {
+      "message": "Copia password"
+   },
+   "Cmd_Copy_URL_Flat": {
+      "message": "Copia URL"
+   },
+   "Cmd_Copy_Username_Flat": {
+      "message": "Copia nome utente"
+   },
+   "Cmd_DeleteFolder_Confirm": {
+      "message": "Sei sicuro di voler eliminare i tuoi dati RoboForm situati in %1?\n%2\n\nUna volta eliminati, questi file personali andranno persi."
+   },
+   "Cmd_DeleteFolder_OtherFiles": {
+      "message": "altri file"
+   },
+   "Cmd_Delete_Confirm": {
+      "message": "Vuoi eliminare %1 '%2'?"
+   },
+   "Cmd_Delete_Flat": {
+      "message": "Elimina"
+   },
+   "Cmd_Done_Flat": {
+      "message": "Fatto"
+   },
+   "Cmd_Edit_Flat": {
+      "message": "Modifica"
+   },
+   "Cmd_EmergencyAccess_Key": {
+      "message": "Accesso di Emergenza"
+   },
+   "Cmd_FillEmptyOnly_Key": {
+      "message": "Riempi Solo Campi Vuoti"
+   },
+   "Cmd_FillForms_Flat": {
+      "message": "Compila Moduli"
+   },
+   "Cmd_FillGenPassword_Flat": {
+      "message": "Genera"
+   },
+   "Cmd_GoFill_Flat": {
+      "message": "Vai e Compila"
+   },
+   "Cmd_GotoNewTab_Flat": {
+      "message": "Vai A in una nuova scheda"
+   },
+   "Cmd_GotoSameTab_Flat": {
+      "message": "Vai A nella stessa scheda"
+   },
+   "Cmd_Goto_Flat": {
+      "message": "Vai A"
+   },
+   "Cmd_GroupSettingsFlat": {
+      "message": "Impostazioni gruppo"
+   },
+   "Cmd_Help_ContactSupport_Key": {
+      "message": "Contatta il supporto"
+   },
+   "Cmd_Help_FaqAll_Key": {
+      "message": "Tutte le FAQ"
+   },
+   "Cmd_Help_Flat": {
+      "message": "Aiuto"
+   },
+   "Cmd_Help_ForgotPassword_Key": {
+      "message": "Password dimenticata?"
+   },
+   "Cmd_Help_HomePage_Key": {
+      "message": "Home Page"
+   },
+   "Cmd_Help_Manual_Key": {
+      "message": "Manuale"
+   },
+   "Cmd_Help_ProblemStepsRecorder_Key": {
+      "message": "Problema Registratore di passi"
+   },
+   "Cmd_Later_Flat": {
+      "message": "Più tardi"
+   },
+   "Cmd_LoginNewTab_Flat": {
+      "message": "Login in una nuova scheda"
+   },
+   "Cmd_LoginSameTab_Flat": {
+      "message": "Login nella stessa scheda"
+   },
+   "Cmd_Login_Flat": {
+      "message": "Login"
+   },
+   "Cmd_Logins_Flat": {
+      "message": "Login"
+   },
+   "Cmd_Logoff_Flat": {
+      "message": "Disconnetti"
+   },
+   "Cmd_NewFolder_Error": {
+      "message": "Errore nella creazione della cartella: %1"
+   },
+   "Cmd_NewFolder_Exist_Error": {
+      "message": "La cartella '%1' esiste già"
+   },
+   "Cmd_NewFolder_Title": {
+      "message": "Nuova Cartella"
+   },
+   "Cmd_Ok_Flat": {
+      "message": "OK"
+   },
+   "Cmd_Options_Flat": {
+      "message": "Opzioni"
+   },
+   "Cmd_PasswordAuditRun_Key": {
+      "message": "Centro Sicurezza"
+   },
+   "Cmd_Password_Generator_Flat": {
+      "message": "Generatore di Password"
+   },
+   "Cmd_RejectAll_Flat": {
+      "message": "Rifiuta Tutto"
+   },
+   "Cmd_Reject_Key": {
+      "message": "Rifiuta"
+   },
+   "Cmd_Rename_Error": {
+      "message": "Errore durante la ridenominazione di %1 '%2':\n%3"
+   },
+   "Cmd_Rename_Flat": {
+      "message": "Rinomina"
+   },
+   "Cmd_Rename_Name_Prompt": {
+      "message": "Rinomina in:"
+   },
+   "Cmd_RenewalRewards_Flat": {
+      "message": "Ricompense Rinnovo"
+   },
+   "Cmd_Retry_Flat": {
+      "message": "Riprova"
+   },
+   "Cmd_RoboForm_Flat": {
+      "message": "RoboForm"
+   },
+   "Cmd_RunEditor_Flat": {
+      "message": "Editor"
+   },
+   "Cmd_Safenote_CopyClipboard_Flat": {
+      "message": "Copia Testo"
+   },
+   "Cmd_SaveForms_Flat": {
+      "message": "Salva"
+   },
+   "Cmd_SaveForms_Key": {
+      "message": "Salva Moduli"
+   },
+   "Cmd_SendFile_Key": {
+      "message": "Invia..."
+   },
+   "Cmd_Settings_Flat": {
+      "message": "Impostazioni"
+   },
+   "Cmd_ShareExistingFolder_Key": {
+      "message": "Condividi cartella"
+   },
+   "Cmd_SharedFileSettings_Key": {
+      "message": "Condivisione..."
+   },
+   "Cmd_SharedFolderSettings_Key": {
+      "message": "Condivisione..."
+   },
+   "Cmd_SharingCenter_Flat": {
+      "message": "Centro di condivisione"
+   },
+   "Cmd_Skip_Flat": {
+      "message": "Salta"
+   },
+   "Cmd_StartPage_Tip": {
+      "message": "Apri Pagina Iniziale di RoboForm Start"
+   },
+   "Cmd_Sync_RoboFormAccount_Key": {
+      "message": "Gestisci Account RoboForm"
+   },
+   "Cmd_ToolBarSync": {
+      "message": "Sincronizza"
+   },
+   "Cmd_Unpin_Flat": {
+      "message": "Sblocca"
+   },
+   "Cmd_Update_Flat": {
+      "message": "Aggiorna"
+   },
+   "Cmd_View_Flat": {
+      "message": "Visualizza"
+   },
+   "CompanyInvitationConfirmationMultiple_Title": {
+      "message": "Sei invitato in più aziende. Si noti che è possibile aderire ad una sola azienda in totale.\nSi prega di accettare o rifiutare gli inviti qui sotto:"
+   },
+   "CompanyInvitationConfirmation_Title": {
+      "message": "Sei invitato in un'azienda.\nSi prega di accettare o rifiutare l'invito qui sotto:"
+   },
+   "CompanyInvitationConfirmation_Title2": {
+      "message": "invitato a iscrivere il tuo account RoboForm Everywhere al loro account aziendale RoboForm for Business."
+   },
+   "CompanyInvitationToConfirm_WithSender_Info": {
+      "message": "'%1' azienda"
+   },
+   "CompromisedItemButton_Tooltip": {
+      "message": "La password di questo Login potrebbe essere compromessa! Clicca per vedere i dettagli"
+   },
+   "ConfirmMasterPassword_Incorrect_Text": {
+      "message": "La password non è la stessa"
+   },
+   "ContextMenuAndShortcuts_ClearFields_Acc": {
+      "message": "0"
+   },
+   "ContextMenuAndShortcuts_ClearFields_Text": {
+      "message": "Pulisci Campi"
+   },
+   "ContextMenuAndShortcuts_FillForms_Acc": {
+      "message": "]"
+   },
+   "ContextMenuAndShortcuts_FillForms_Text": {
+      "message": "Compila Moduli"
+   },
+   "ContextMenuAndShortcuts_FillSubmit_Acc3": {
+      "message": "Z"
+   },
+   "ContextMenuAndShortcuts_FillSubmit_Text": {
+      "message": "Compila e Invia"
+   },
+   "ContextMenuAndShortcuts_IdentitiesEditor_Acc": {
+      "message": ","
+   },
+   "ContextMenuAndShortcuts_IdentitiesEditor_Text": {
+      "message": "Identità"
+   },
+   "ContextMenuAndShortcuts_Identities_Acc2": {
+      "message": "N"
+   },
+   "ContextMenuAndShortcuts_Identities_Text": {
+      "message": "Identità"
+   },
+   "ContextMenuAndShortcuts_Logins_Acc2": {
+      "message": "X"
+   },
+   "ContextMenuAndShortcuts_Logins_Text": {
+      "message": "Login"
+   },
+   "ContextMenuAndShortcuts_Logoff_Acc": {
+      "message": "L"
+   },
+   "ContextMenuAndShortcuts_Logoff_Text": {
+      "message": "Logout"
+   },
+   "ContextMenuAndShortcuts_MatchingPasscard_Acc": {
+      "message": "M"
+   },
+   "ContextMenuAndShortcuts_MatchingPasscard_Text": {
+      "message": "Schede compatibili"
+   },
+   "ContextMenuAndShortcuts_MyIdentity_Acc": {
+      "message": "19"
+   },
+   "ContextMenuAndShortcuts_MyIdentity_Text": {
+      "message": "Mia Identità"
+   },
+   "ContextMenuAndShortcuts_Options_Acc": {
+      "message": "O"
+   },
+   "ContextMenuAndShortcuts_Options_Text": {
+      "message": "Opzioni di RoboForm"
+   },
+   "ContextMenuAndShortcuts_PasscardsEditor_Acc": {
+      "message": "."
+   },
+   "ContextMenuAndShortcuts_PasscardsEditor_Text": {
+      "message": "Schede"
+   },
+   "ContextMenuAndShortcuts_ResetFields_Acc": {
+      "message": "-"
+   },
+   "ContextMenuAndShortcuts_ResetFields_Text": {
+      "message": "Azzera Campi"
+   },
+   "ContextMenuAndShortcuts_RoboFormMenu_Acc2": {
+      "message": "U"
+   },
+   "ContextMenuAndShortcuts_RoboFormMenu_Text": {
+      "message": "Menu RoboForm"
+   },
+   "ContextMenuAndShortcuts_RoboFormToolbar_Acc3": {
+      "message": "R"
+   },
+   "ContextMenuAndShortcuts_RoboFormToolbar_Text": {
+      "message": "Mostra Barra Strumenti"
+   },
+   "ContextMenuAndShortcuts_RunPassGen_Acc": {
+      "message": "P"
+   },
+   "ContextMenuAndShortcuts_RunPassGen_Text": {
+      "message": "Generatore di Password"
+   },
+   "ContextMenuAndShortcuts_RunTaskbar_Acc": {
+      "message": "I"
+   },
+   "ContextMenuAndShortcuts_RunTaskbar_Text": {
+      "message": "Icona sulla Barra Applicazioni"
+   },
+   "ContextMenuAndShortcuts_SafenotesEditor_Acc": {
+      "message": "/"
+   },
+   "ContextMenuAndShortcuts_SafenotesEditor_Text": {
+      "message": "NoteSicure"
+   },
+   "ContextMenuAndShortcuts_Safenotes_Acc": {
+      "message": "C"
+   },
+   "ContextMenuAndShortcuts_Safenotes_Text": {
+      "message": "NoteSicure"
+   },
+   "ContextMenuAndShortcuts_SaveForms_Acc": {
+      "message": "["
+   },
+   "ContextMenuAndShortcuts_SaveForms_Text": {
+      "message": "Salva Moduli"
+   },
+   "ContextMenuAndShortcuts_SearchBox_Acc": {
+      "message": "S"
+   },
+   "ContextMenuAndShortcuts_SearchBox_Text": {
+      "message": "Casella di ricerca"
+   },
+   "ContextMenuAndShortcuts_SetFields_Acc": {
+      "message": "="
+   },
+   "ContextMenuAndShortcuts_SetFields_Text": {
+      "message": "Imposta Campi"
+   },
+   "Copyright": {
+      "message": ""
+   },
+   "CreateAccountConfirmPage_ForgetInfo_Text": {
+      "message": "La Master Password RoboForm è la chiave che sblocca i tuoi dati. Se la dimentichi, i tuoi dati non possono essere decrittati (nemmeno da noi) e dovrai ricominciare da zero."
+   },
+   "CreateAccountConfirmPage_ForgetTitle_Text": {
+      "message": "Ricordati la Master Password"
+   },
+   "CreateBlockingPass__WebExt_Confirm": {
+      "message": "Vuoi che RoboForm impedisca che AutoSalvataggio \ncompaia su tutte le pagine di questo sito web?\nPer sbloccare questo sito più tardi, clicca 'Salva',\npoi clicca Sblocca."
+   },
+   "DeleteBlockingPass__WebExt_Confirm": {
+      "message": "Vuoi che RoboForm consenta ad AutoSalvataggio di \napparire nuovamente su tutte le pagine di questo sito web?"
+   },
+   "DeleteItemPage_Confirmation_Text": {
+      "message": "Vuoi eliminare '%1'?"
+   },
+   "DeleteSharedFolder_Permissions_Error": {
+      "message": "Autorizzazioni insufficienti per l'eliminazione di '%1'."
+   },
+   "DomainNotInLogin_Text": {
+      "message": "Il dominio del sito non corrisponde al Match URL del Login."
+   },
+   "DomainNotInLogin_Text2": {
+      "message": "Vuoi ancora che RoboForm compili il modulo?"
+   },
+   "DomainNotInLogin_Title": {
+      "message": "Avviso RoboForm"
+   },
+   "DuplicateFields_Text1_2": {
+      "message": "RoboForm ha trovato campi che appaiono più di una volta nel form. Si prega di confermare di consentire la compilazione di questi campi:"
+   },
+   "DuplicateFields_Text2_2": {
+      "message": "\n\nSe vuoi riempire solo una parte del modulo da una Identità quindi evidenziare (selezionare) una parte del modulo, fare clic su Compila moduli e solo la parte evidenziata verrà riempita."
+   },
+   "DuplicateFields_Title": {
+      "message": "Compilazione Campi Duplicati - RoboForm"
+   },
+   "DuplicatesDialog_ApplyChanges_Button": {
+      "message": "Applica"
+   },
+   "DuplicatesDialog_CancelDelete_Button": {
+      "message": "Non eliminare"
+   },
+   "DuplicatesDialog_CancelRename_Button": {
+      "message": "Non rinominare"
+   },
+   "DuplicatesDialog_Cancel_Button": {
+      "message": "Non applicare"
+   },
+   "DuplicatesDialog_DeleteMessageText": {
+      "message": "Hai eliminato \"%1.\" Vuoi eliminare i file identici elencati qui sotto?"
+   },
+   "DuplicatesDialog_Delete_Button": {
+      "message": "Elimina"
+   },
+   "DuplicatesDialog_Delete_Text": {
+      "message": "Elimina"
+   },
+   "DuplicatesDialog_MessageText": {
+      "message": "Hai aggiornato \"%1.\" Vuoi applicare queste modifiche ai file identici elencati di seguito? Puoi anche eliminare le copie non necessarie."
+   },
+   "DuplicatesDialog_RenameMessageText": {
+      "message": "Hai rinominato \"%1\" a \"%2.\" Vuoi rinominare i file identici elencati qui sotto con questo nome? Puoi anche eliminare le copie non necessarie."
+   },
+   "DuplicatesDialog_Rename_Button": {
+      "message": "Rinomina"
+   },
+   "DuplicatesDialog_Undo_Text": {
+      "message": "Conserva"
+   },
+   "DuplicatesDialog_WindowTitle": {
+      "message": "File identici RoboForm rilevati"
+   },
+   "Editor_Cmd_Selector_All_Flat": {
+      "message": "Tutto"
+   },
+   "Editor_Indicator_Show_AllIdentities": {
+      "message": "Mostra tutte le identità (%1)"
+   },
+   "Editor_Indicator_Show_NMatch": {
+      "message": "Mostra tutti i login corrispondenti (%1)"
+   },
+   "Editor_SharedFolderOrGroupExists_Error": {
+      "message": "La cartella condivisa o il gruppo denominato '%1' esiste già"
+   },
+   "Editor_SharedFolderTooLongName_Error": {
+      "message": "Il nome è troppo lungo, la lunghezza massima consentita per le cartelle e i gruppi condivisi è di %1 simboli"
+   },
+   "EmailEmpty_Error": {
+      "message": "L'e-mail deve essere lunga almeno %1 caratteri"
+   },
+   "EmailIncorrect_Error": {
+      "message": "L'e-mail non è corretta"
+   },
+   "EmailMaxLength_Error": {
+      "message": "L'e-mail non deve essere lunga più di %1 caratteri"
+   },
+   "EmergencyAccessContactConfirmationDescription_Text": {
+      "message": "Un altro utente RoboForm ti ha invitato ad essere il suo contatto di accesso di emergenza. Accetta o rifiuta l'invito:"
+   },
+   "EmergencyAccessDataAccessConfirmationDescription_Text": {
+      "message": "I tuoi contatti di emergenza hanno richiesto l'accesso di emergenza ai dati del tuo account RoboForm.\nSe non si dà seguito a queste richieste entro i termini stabiliti, l'accesso sarà concesso automaticamente."
+   },
+   "EmergencyAccess_Accept_Invitation_Question": {
+      "message": "Sei sicuro di voler accettare di essere il contatto di emergenza per \"%1\"?"
+   },
+   "EmergencyAccess_AccessRequestedDaysHours_Status": {
+      "message": "Richiesta. I dati saranno disponibili tra %1 giorno(i) %2 ore"
+   },
+   "EmergencyAccess_AccessRequestedDays_Status": {
+      "message": "Richiesta. I dati saranno disponibili tra %1 giorno(i)"
+   },
+   "EmergencyAccess_AccessRequestedHours_Status": {
+      "message": "Richiesta. I dati saranno disponibili tra %1 ora(e)"
+   },
+   "EmergencyAccess_CreationDate_Title": {
+      "message": "Data di creazione"
+   },
+   "EmergencyAccess_DenyAccess_Button_Text": {
+      "message": "Nega"
+   },
+   "EmergencyAccess_DenyAccess_Text": {
+      "message": "Nega l'accesso"
+   },
+   "EmergencyAccess_EditContact_Title": {
+      "message": "Modifica contatto \"%1\""
+   },
+   "EmergencyAccess_Email_Is_Empty": {
+      "message": "L'e-mail è vuota"
+   },
+   "EmergencyAccess_GetData_Help_Text": {
+      "message": "Questi sono elementi a cui %1 ti ha concesso l'accesso di emergenza. Puoi visualizzarli o aggiungerli al tuo account RoboForm. Se aggiunti, gli elementi si troveranno nella cartella Accesso di emergenza."
+   },
+   "EmergencyAccess_GetData_Request_Question": {
+      "message": "Sei sicuro di voler ottenere i dati da \"%1\"? Gli elementi si troveranno nella cartella Accesso di emergenza."
+   },
+   "EmergencyAccess_GrantAccess_Text": {
+      "message": "Concedi"
+   },
+   "EmergencyAccess_GrantAccess_Title": {
+      "message": "Concedi l'accesso"
+   },
+   "EmergencyAccess_InviteAgain_Question": {
+      "message": "Sei sicuro di voler invitare l'utente \"%1\" nuovamente?"
+   },
+   "EmergencyAccess_InviteContact_Text": {
+      "message": "Invita"
+   },
+   "EmergencyAccess_Loading_Title": {
+      "message": "Caricamento in corso..."
+   },
+   "EmergencyAccess_NoAccess_Status": {
+      "message": "Nessun accesso"
+   },
+   "EmergencyAccess_RejectAccess_Text": {
+      "message": "Rifiuta"
+   },
+   "EmergencyAccess_Reject_Invitation_Question": {
+      "message": "Sei sicuro di voler rifiutare l'accesso a \"%1\"?"
+   },
+   "EmergencyAccess_Reject_Invitation_Text": {
+      "message": "Rifiuta l'accesso"
+   },
+   "EmergencyAccess_Reject_Title": {
+      "message": "Rifiuta contatto di emergenza"
+   },
+   "EmergencyAccess_RevokeAccess_Button_Text": {
+      "message": "Revocare l'accesso"
+   },
+   "EmergencyAccess_Revoke_Question": {
+      "message": "Stai revocando \"%1\" dai tuoi contatti di emergenza."
+   },
+   "EmergencyAccess_Revoke_Tip": {
+      "message": "Revoca il contatto di emergenza"
+   },
+   "EmergencyAccess_Title": {
+      "message": "Accesso_di_Emergenza"
+   },
+   "EmergencyAccess_invitationUserNotFound_Question": {
+      "message": "Invieremo un'email a \"%1\" con l'invito a essere il tuo contatto di emergenza"
+   },
+   "FillDlg_FindFill_Title": {
+      "message": "Compila Moduli - RoboForm"
+   },
+   "Filler_FillEmptyOnlyOnMessage": {
+      "message": "Non vi sono campi vuoti (non compilati) su questa pagina Web ed è stato attivato 'Compila solo i campi vuoti'"
+   },
+   "Filler_FillTheSameValues": {
+      "message": "Nessun modulo su questa pagina Web (o nella selezione) può essere compilato con questa Scheda o Identità (stessi valori)"
+   },
+   "Filler_NoFormsFound": {
+      "message": "Nessun modulo da compilare su questa pagina Web"
+   },
+   "Filler_NoMatchingFields": {
+      "message": "Nessun modulo su questa pagina Web (o nella selezione) può essere compilato con questa Scheda o Identità (nessuna corrispondenza)"
+   },
+   "FolderTree_NewItem": {
+      "message": "Nuova Cartella"
+   },
+   "GenericConfirmDialog_Cancel": {
+      "message": "Annulla"
+   },
+   "GenericConfirmDialog_Ok": {
+      "message": "OK"
+   },
+   "GenericConfirmDialog_Title": {
+      "message": "Conferma"
+   },
+   "HomeFolder": {
+      "message": "Home"
+   },
+   "Identities_Cmd_Instance_AlreadyExists_Error": {
+      "message": "Istanza già esistente nel gruppo"
+   },
+   "Identities_Cmd_Instance_NotExists_Error": {
+      "message": "Non esiste questa istanza nel gruppo"
+   },
+   "Identities_ConfirmDeleteInstance": {
+      "message": "Vuoi cancellare '%1' di '%2'?"
+   },
+   "Identities_CustomFieldOverrideHeader": {
+      "message": "I Campi Personalizzati impediscono la corretta compilazione di alcuni campi standard di RoboForm.\nRimuovere questi Campi Personalizzati dall'Identità per consentire la corretta compilazione dei campi standard"
+   },
+   "Identities_CustomFieldOverride_1": {
+      "message": "'%1' sovrascrive %2"
+   },
+   "Identities_InstanceNameInvalidCharacter": {
+      "message": "Il nome può contenere solo lettere, cifre, e i caratteri '_' e '-'"
+   },
+   "Identities_Instance_Main": {
+      "message": "Principale"
+   },
+   "Identity_ClickToView_Tip": {
+      "message": "Clicca per vedere Identità"
+   },
+   "Import_AdditionalInformation_Note": {
+      "message": "Informazioni aggiuntive:\n"
+   },
+   "Import_Chrome_Browser_Text": {
+      "message": "Google Chrome"
+   },
+   "Import_CustomFields_Note": {
+      "message": "Campi personalizzati:"
+   },
+   "Import_Edge_Browser_Text": {
+      "message": "Microsoft Edge"
+   },
+   "Import_Firefox_Browser_Text": {
+      "message": "Mozilla Firefox"
+   },
+   "Import_From1Password_Note": {
+      "message": "Importato da 1Password."
+   },
+   "Import_FromBitwarden_Note": {
+      "message": "Importato da Bitwarden."
+   },
+   "Import_FromCSVFile_Note": {
+      "message": "Importato da file CSV."
+   },
+   "Import_FromDashlane_Note": {
+      "message": "Importato da Dashlane."
+   },
+   "Import_FromKeeper_Note": {
+      "message": "Importato da Keeper."
+   },
+   "Import_FromLastPass_Note": {
+      "message": "Importato da LastPass."
+   },
+   "Import_ImportFromFileButton_Text": {
+      "message": "Importa da file"
+   },
+   "Import_Opera_Browser_Text": {
+      "message": "Opera"
+   },
+   "Import_ReportAddedGeneric_Text": {
+      "message": "%1 %2 aggiunto\n"
+   },
+   "Import_ReportError_Text": {
+      "message": "Si è verificato un errore"
+   },
+   "Import_ReportExistingGeneric_Text": {
+      "message": "%1 %2 erano già in RoboForm\n"
+   },
+   "Import_SelectedFolderIsReadOnly_Error": {
+      "message": "Non può essere importato in una cartella di sola lettura."
+   },
+   "Import_Succeeded_Title": {
+      "message": "L'importazione è stata completata con successo"
+   },
+   "Install_AccountCreated_Text": {
+      "message": "Il tuo RoboForm è stato creato con successo"
+   },
+   "Install_ConfirmRoboFormMasterPassword2": {
+      "message": "Conferma Password:"
+   },
+   "Install_Email": {
+      "message": "Email:"
+   },
+   "Install_HidePassword_Tip": {
+      "message": "Nascondi password"
+   },
+   "Install_MemorizePassword_Prompt2": {
+      "message": "Non dimenticare la tua Master Password. Contiene la chiave che sblocca i tuoi dati. Se la dimentichi, non hai accesso ai tuoi dati (neanche con il nostro aiuto) e dovrai ricominciare da zero."
+   },
+   "Install_Next": {
+      "message": "Avanti"
+   },
+   "Install_No": {
+      "message": "No"
+   },
+   "Install_PasswordTooShort": {
+      "message": "La Password deve essere lunga almeno 6 caratteri."
+   },
+   "Install_RoboFormMasterPassword": {
+      "message": "Master Password:"
+   },
+   "Install_ShowPassword_Tip": {
+      "message": "Mostra password come testo"
+   },
+   "Install_WarningSheet_Title": {
+      "message": "Avviso di configurazione di RoboForm"
+   },
+   "Install_Yes": {
+      "message": "Si"
+   },
+   "InterfaceLanguage_Warning": {
+      "message": "Vuoi cambiare la lingua dell'interfaccia utente da '%1' a '%2'?\nSe non conosci la lingua selezionata, potrebbe essere difficile tornare indietro.\nPotresti anche essere costretto a riavviare i Browsers perché il cambio di lingua sia completamente efficace"
+   },
+   "Item_ClickToFill_Tip": {
+      "message": "Clicca per compilare"
+   },
+   "Item_ClickToLogin_Tip": {
+      "message": "Clicca per accedere"
+   },
+   "ItemsListPage_More_Button_Text": {
+      "message": "Altro..."
+   },
+   "ItemsListPage_RecentlyUsed_Title": {
+      "message": "Usati di recente"
+   },
+   "ItemsListPage_SearchIdentities_Placeholder": {
+      "message": "Ricerca Identità"
+   },
+   "ItemsListPage_SearchMatchingLogins_Placeholder": {
+      "message": "Ricerca Login corrispondenti"
+   },
+   "LicenseExceededWarning_EnterpriseExceeded_Title": {
+      "message": "L'abbonamento a RoboForm for Business è stato superato"
+   },
+   "Loading_Status_Text": {
+      "message": "Caricamento in corso..."
+   },
+   "MainPage_AddNewLogin_Text": {
+      "message": "Aggiungi nuovo Login"
+   },
+   "MainPage_AllItems_Header_Text": {
+      "message": "A-Z"
+   },
+   "MainPage_CreateFirstBookmarkInstructions_Text": {
+      "message": "Clicca il pulsante %1 sotto per creare il primo Segnalibro."
+   },
+   "MainPage_CreateFirstSafenoteInstructions_Text": {
+      "message": "Clicca il pulsante %1 sotto per creare Nota sicura e aggiungere testo confidenziale come pin, codici e altre istruzioni di accesso segrete."
+   },
+   "MainPage_CreateLoginInstruction_LearnMore_Link": {
+      "message": "Scopri di più sulla creazione di Login qui"
+   },
+   "MainPage_CreateLoginInstruction_Option1_Text": {
+      "message": "Accedendo agli account online, RoboForm chiederà di salvare le password."
+   },
+   "MainPage_CreateLoginInstruction_Option2_Text": {
+      "message": "Clicca il pulsante %1, scegli il sito e digita le credenziali."
+   },
+   "MainPage_CreateLoginInstruction_Top_Text": {
+      "message": "Sono disponibili due modi per creare Login:"
+   },
+   "MainPage_CreateNew_Text": {
+      "message": "Crea nuovo"
+   },
+   "MainPage_CreatePinItemInstruction_Text": {
+      "message": "Crea lista di elementi bloccati selezionando \"Aggiungi a bloccati\" sull'elemento RoboForm. Gli elementi bloccati mantengono la loro posizione."
+   },
+   "MainPage_Create_Identity_Text": {
+      "message": "Crea Identità"
+   },
+   "MainPage_Create_Identity_Tip": {
+      "message": "Crea la tua prima Identità"
+   },
+   "MainPage_EnableAutoSaveOnDomain_Text": {
+      "message": "Abilita AutoSalvataggio su questo dominio"
+   },
+   "MainPage_EnableInpageIconsOnDomain_Text": {
+      "message": "Abilita icone su pagina per questo dominio"
+   },
+   "MainPage_EnjoyUsing": {
+      "message": "Ti piace usare %1 ?"
+   },
+   "MainPage_FillIdentitiesTabAll_Search_Placeholder": {
+      "message": "Cerca tutte le Identità"
+   },
+   "MainPage_FillIdentitiesTabMatch_Search_Placeholder": {
+      "message": "Cerca Identità corrispondenti"
+   },
+   "MainPage_FillIdentitiesTab_AllIdentities_Button_Text": {
+      "message": "Tutto"
+   },
+   "MainPage_FillIdentitiesTab_CreateFirst_Text": {
+      "message": "Clicca il pulsante %1 per aggiungere dati personali come nome, indirizzo e informazioni di pagamento a Identità. RoboForm offrirà di compilare questi dati al momento di conferme di pagamento o compilazione di moduli di registrazione con un click."
+   },
+   "MainPage_FillIdentitiesTab_EmptyMatch_Text": {
+      "message": "Non sono presenti dati nelle Identità per compilare i campi nella pagina corrente. Aggiorna l'Identità con valori corrispondenti o creane una nuova."
+   },
+   "MainPage_FillIdentitiesTab_IdentityView_CopyDrag_Tip": {
+      "message": "Clicca per copiare o trascina e rilascia"
+   },
+   "MainPage_FillIdentitiesTab_IdentityView_Copy_Tip": {
+      "message": "Clicca per copiare"
+   },
+   "MainPage_FillIdentitiesTab_IdentityView_FillBtn_Tip": {
+      "message": "Compila da Identità '%1'"
+   },
+   "MainPage_FillIdentitiesTab_IdentityView_Limited_Top_Text": {
+      "message": "Compila da questa Identità"
+   },
+   "MainPage_FillIdentitiesTab_IdentityView_Top_Text": {
+      "message": "Compila da Identità, trascina e rilascia o copia/incolla"
+   },
+   "MainPage_FillIdentitiesTab_MatchingIdentities_Button_Text": {
+      "message": "Corrispondente"
+   },
+   "MainPage_FillIdentities_Button_Text": {
+      "message": "Compila ID"
+   },
+   "MainPage_FillLoginsTabAll_Search_Placeholder": {
+      "message": "Cerca tutti i Login"
+   },
+   "MainPage_FillLoginsTabDomain_Search_Placeholder": {
+      "message": "Cerca Login dominio"
+   },
+   "MainPage_FillLoginsTab_AllLogins_Button_Text": {
+      "message": "Tutto"
+   },
+   "MainPage_FillLoginsTab_MatchingLogins_Button_Text": {
+      "message": "Login corrispondenti"
+   },
+   "MainPage_FillLoginsTab_NoLoginsForDomain_Text": {
+      "message": "Non sono presenti Login salvati per la pagina corrente"
+   },
+   "MainPage_FillLoginsTab_NoLoginsForPage_Text": {
+      "message": "Questa pagina non ha campi corrispondenti da compilare. Naviga sulla pagina di accesso del sito e passa a categorie Login corrispondenti \"Stesso dominio\"."
+   },
+   "MainPage_FillLoginsTab_SameDomain_Button_Text": {
+      "message": "Stesso dominio"
+   },
+   "MainPage_FillLoginsTab_Search_GeneralResults": {
+      "message": "Risultati di ricerca generali:"
+   },
+   "MainPage_FillLoginsTab_Search_NoMatchingLogins": {
+      "message": "Nessun risultato di ricerca in Login corrispondenti."
+   },
+   "MainPage_FillLoginsTab_Search_NoSameDomainLogins": {
+      "message": "Nessun risultato di ricerca in Login stesso dominio."
+   },
+   "MainPage_FillLoginsTab_Search_Placeholder": {
+      "message": "Cerca Login corrispondenti"
+   },
+   "MainPage_FillLogins_Button_Text": {
+      "message": "Compila Login"
+   },
+   "MainPage_FillLogins_Button_Tip": {
+      "message": "Lista di Login corrispondenti"
+   },
+   "MainPage_Items_Button_All_Tip": {
+      "message": "Elementi RoboForm"
+   },
+   "MainPage_Items_Button_Bookmarks_Tip": {
+      "message": "Segnalibri RoboForm"
+   },
+   "MainPage_Items_Button_Identities_Tip": {
+      "message": "Identità RoboForm"
+   },
+   "MainPage_Items_Button_Logins_Tip": {
+      "message": "Login RoboForm"
+   },
+   "MainPage_Items_Button_Pinned_Tip": {
+      "message": "Elementi bloccati"
+   },
+   "MainPage_Items_Button_Safenotes_Tip": {
+      "message": "Note sicure RoboForm"
+   },
+   "MainPage_LoginsTab_Search_Placeholder": {
+      "message": "Cerca RoboForm"
+   },
+   "MainPage_MatchingLogins_Header_Text": {
+      "message": "Login corrispondenti"
+   },
+   "MainPage_OtherLogins_Header_Text": {
+      "message": "Altri Login"
+   },
+   "MainPage_Pinned_Header_Text": {
+      "message": "Fissato"
+   },
+   "MainPage_PleaseRateUs": {
+      "message": "Valutaci"
+   },
+   "MainPage_Popular_Header_Text": {
+      "message": "Popolare"
+   },
+   "MainPage_RateUs_Btn_Text": {
+      "message": "Valuta %1"
+   },
+   "MainPage_Recent_Header_Text": {
+      "message": "Recente"
+   },
+   "MainPage_RemindMeLater_Btn_Text": {
+      "message": "Ricordami più tardi"
+   },
+   "MainPage_SaveButton_SaveBookmark_Tip": {
+      "message": "Salva pagina corrente come Segnalibro"
+   },
+   "MainPage_SaveButton_SaveForms_Tip": {
+      "message": "Salva moduli da pagina corrente"
+   },
+   "MainPage_Settings_Button_Tip": {
+      "message": "Strumenti e impostazioni RoboForm"
+   },
+   "MainPage_ShowAll_Bookmarks_Text": {
+      "message": "Tutti i Segnalibri"
+   },
+   "MainPage_ShowAll_Header_Text": {
+      "message": "Tutto"
+   },
+   "MainPage_ShowAll_Identities_Text": {
+      "message": "Tutte le Identità"
+   },
+   "MainPage_ShowAll_Logins_Text": {
+      "message": "Tutti i Login"
+   },
+   "MainPage_ShowAll_NativeMenu_Tip": {
+      "message": "Clicca per vedere menu desktop %1"
+   },
+   "MainPage_ShowAll_Safenotes_Text": {
+      "message": "Tutte le Note sicure"
+   },
+   "MainPage_Start_Button_Text": {
+      "message": "Inizia"
+   },
+   "MainPage_ViewAllIdentities_Tip": {
+      "message": "Vedi tutte le identità"
+   },
+   "MainPage_WouldYouLikeReportAnIssue": {
+      "message": "Vuoi segnalare un problema?"
+   },
+   "MasterPass_DoNotMatch_Status": {
+      "message": "La password non corrisponde"
+   },
+   "MasterPass_Expired": {
+      "message": "È ora di cambiare la Master Password di RoboForm"
+   },
+   "MasterPass_New_BlanksOnly_Error": {
+      "message": "Una Master Password non può essere composta solo da spazi vuoti"
+   },
+   "MasterPass_New_DigitChars_Error": {
+      "message": "Il minimo numero di cifre nella password deve essere %1"
+   },
+   "MasterPass_New_Length_Error": {
+      "message": "La lunghezza della Master Password dev'essere fra %1 e %2 caratteri"
+   },
+   "MasterPass_New_LowerCaseChars_Error": {
+      "message": "Il minimo numero di caratteri minuscoli nella password deve essere %1"
+   },
+   "MasterPass_New_NonNumChars_Error": {
+      "message": "Il numero minimo di caratteri non numerici nella password deve essere %1"
+   },
+   "MasterPass_New_TheSameAsPrevious_Error": {
+      "message": "Una nuova Master Password deve essere diversa da quella attuale."
+   },
+   "MasterPass_New_UpperCaseChars_Error": {
+      "message": "Il minimo numero di caratteri maiuscoli nella password deve essere %1"
+   },
+   "MasterPass_Prompt_TypeNew": {
+      "message": "Nuova Master Password:"
+   },
+   "MasterPass_Prompt_TypeOld": {
+      "message": "Vecchia Master Password:"
+   },
+   "MasterPassword_Error2": {
+      "message": "Hai inserito una Master Password errata"
+   },
+   "MasterPwdEnterDlg_CacheUntilLogoff": {
+      "message": "Utilizza questa password fino alla disconnessione"
+   },
+   "MasterPwdEnterDlg_CreatePwd_Text": {
+      "message": "Per proteggere con password i tuoi dati devi impostare la master password"
+   },
+   "MasterPwdEnterDlg_Limit_Text": {
+      "message": "La password deve contenere da 8 a 79 simboli"
+   },
+   "MasterPwdEnterDlg_Text3": {
+      "message": "Questo oggetto è protetto da password.\nInserisci la tua Master Password \nper usarlo."
+   },
+   "NameInvalidCharacter_Error2": {
+      "message": "Il Nome non può essere vuoto e non può contenere i caratteri \\ / : * ? \" \u003C > |"
+   },
+   "NewGroup_NoPermissions_Error": {
+      "message": "Non hai il permesso di creare un gruppo. Solo l'admin dell'azienda può creare gruppi."
+   },
+   "NewSharedFolder_Title": {
+      "message": "Nome:"
+   },
+   "No": {
+      "message": "No"
+   },
+   "Notification_Copied_ToClipboard_Text": {
+      "message": "Copiato sugli appunti"
+   },
+   "Notification_File_Deleted_Text": {
+      "message": "File eliminato: %1"
+   },
+   "Notification_Folder_Deleted_Text": {
+      "message": "Cartella eliminata: %1"
+   },
+   "Notification_ItemType_Pinned_Text": {
+      "message": "%1 aggiunto a bloccati"
+   },
+   "Notification_ItemType_UnPinned_Text": {
+      "message": "%1 rimosso da bloccati"
+   },
+   "Notification_Item_Created_Text": {
+      "message": "%1 creato"
+   },
+   "Notification_Item_Renamed_Text": {
+      "message": "%1 rinominato in %2"
+   },
+   "Notification_Password_Copied_Text": {
+      "message": "Password copiata sugli appunti"
+   },
+   "Notification_Password_Filled_Text": {
+      "message": "Nuova password compilata"
+   },
+   "Notification_URL_Copied_Text": {
+      "message": "URL copiato sugli appunti"
+   },
+   "Notification_Username_Copied_Text": {
+      "message": "Nome utente copiato sugli appunti"
+   },
+   "OTPPage_EnrollCheck_Text": {
+      "message": "Ricorda questo dispositivo"
+   },
+   "OTPPage_Input_Placeholder": {
+      "message": "Digita qui la tua One Time Password"
+   },
+   "OpenStartpageOnEmptyTabs_Text2": {
+      "message": "Cliccare il pulsante di estensione apre la pagina iniziale su pagine vuote"
+   },
+   "OpenStartpageOnEmptyTabs_Tip": {
+      "message": "La pagina iniziale di RoboForm viene aperta se un utente clicca sul pulsante di estensione browser di RoboForm su una pagina vuota"
+   },
+   "Options_Account_Title": {
+      "message": "Account"
+   },
+   "Options_Adapter_Chrome_Text": {
+      "message": "Google Chrome"
+   },
+   "Options_Adapter_ChromiumBased_Text": {
+      "message": "Browser basati su Chrome"
+   },
+   "Options_Adapter_Edge_Text": {
+      "message": "Estensione Microsoft Edge"
+   },
+   "Options_Adapter_FirefoxBased_Text": {
+      "message": "Browser basati su Firefox"
+   },
+   "Options_Adapter_Firefox_Text2": {
+      "message": "Estensione Mozilla Firefox"
+   },
+   "Options_Adapter_Install_Text": {
+      "message": "Installa"
+   },
+   "Options_Adapter_Opera_Text": {
+      "message": "Opera"
+   },
+   "Options_Advanced_Title": {
+      "message": "Avanzate"
+   },
+   "Options_AuthMethod_EnterMasterPassword_Prompt": {
+      "message": "Inserire la Master Password per confermare la modifica del metodo di autenticazione a %1"
+   },
+   "Options_AuthMethod_Fingerprint": {
+      "message": "Impronta digitale (WBF)"
+   },
+   "Options_AuthMethod_Fingerprint_Tip": {
+      "message": "Utilizzare l'impronta digitale sul dispositivo WBF per effettuare il login al posto della Master Password. Si noti che la Master Password potrebbe essere ancora necessaria per effettuare il Log In, quindi è necessario conoscerla."
+   },
+   "Options_AuthMethod_MasterPasswordOnly": {
+      "message": "Chiedi sempre la Master Password"
+   },
+   "Options_AuthMethod_MasterPasswordOnly_Tip": {
+      "message": "È possibile effettuare il login solo digitando la Master Password."
+   },
+   "Options_AuthMethod_Title": {
+      "message": "Metodo di autenticazione"
+   },
+   "Options_AuthMethod_WindowsHello": {
+      "message": "Windows Hello"
+   },
+   "Options_AuthMethod_WindowsHello_Tip": {
+      "message": "Usa Windows Hello per fare il Log In al posto della tua Master Password. Si noti che la Master Password potrebbe essere ancora necessaria per effettuare il login, quindi è necessario conoscerla."
+   },
+   "Options_AutoFillBoth_Text2": {
+      "message": "Mostrare Login e Identità"
+   },
+   "Options_AutoFillBoth_Tip2": {
+      "message": "Offerta per compilare automaticamente i moduli sia dai Login che dalle Identità"
+   },
+   "Options_AutoFillIdentities_Text": {
+      "message": "Mostra solo le Identità"
+   },
+   "Options_AutoFillIdentities_Tip": {
+      "message": "Offerta per compilare automaticamente i moduli solo dalle Identità e non dai Login"
+   },
+   "Options_AutoFillIfPass_Text2": {
+      "message": "Compilazione automatica dai Login solo nelle pagine con Password"
+   },
+   "Options_AutoFillIfPass_Tip2": {
+      "message": "Se spuntato: Offerta per compilare automaticamente dai Login corrispondenti solo sulle pagine web che contengono campi password. Se non spuntato: Offerta per la compilazione automatica dai login corrispondenti sulle pagine web, anche se non contengono campi password"
+   },
+   "Options_AutoFillLogins_Text": {
+      "message": "Mostra solo i Login"
+   },
+   "Options_AutoFillLogins_Tip": {
+      "message": "Offerta per compilare automaticamente i moduli solo dai Login e non dalle Identità"
+   },
+   "Options_AutoFillThreshold_Text2": {
+      "message": "Campi di pagina necessari per attivare il prompt di Compilazione automatica per le Identità"
+   },
+   "Options_AutoFillThreshold_Tip": {
+      "message": "Numero minimo di campi riempibili su una pagina Web richiesti per l'AutoCompilazione da Identità"
+   },
+   "Options_AutoFill_DontOffer_Text": {
+      "message": "Non offrire AutoCompilazione"
+   },
+   "Options_AutoFill_FromContacts_Text": {
+      "message": "Offri AutoCompilazione da Contatti"
+   },
+   "Options_AutoFill_FromContacts_Tip2": {
+      "message": "AutoCompilazione chiederà di compilare solo da Identità di default. Questa impostazione consente di richiedere anche compilazione da Contatti."
+   },
+   "Options_AutoFill_OfferInOldBrowsers_Text": {
+      "message": "Offri AutoCompilazione in Internet Explorer"
+   },
+   "Options_AutoFill_OfferInOldBrowsers_Tip2": {
+      "message": "La casella di AutoCompilazione che chiede di compilare da Login e Identità corrispondenti verrà mostrata su Internet Explorer"
+   },
+   "Options_AutoFill_Offer_Text": {
+      "message": "Offri AutoCompilazione"
+   },
+   "Options_AutoFill_Offer_Tip": {
+      "message": "Quando RoboForm incontra un modulo Web (HTML) che può essere compilato da un Login corrispondente o da un'Identità, mostra AutoCompilazione che offre accessi e Identità corrispondenti"
+   },
+   "Options_AutoFill_Text": {
+      "message": "AutoCompilazione"
+   },
+   "Options_AutoFill_Tip": {
+      "message": "Seleziona come RoboForm deve compilare i moduli online da Login e Identità già salvate"
+   },
+   "Options_AutoFill_Title": {
+      "message": "AutoCompilazione"
+   },
+   "Options_AutoFill_WithoutAsking_Text1": {
+      "message": "AutoCompilazione senza richiesta"
+   },
+   "Options_AutoFill_WithoutAsking_Text2": {
+      "message": "(solo se una opzione)"
+   },
+   "Options_AutoFill_WithoutAsking_Tip": {
+      "message": "Compila i moduli sulla pagina web da un Login o Identità che corrisponde meglio alla pagina, senza mostrare AutoCompilazione. Tuttavia, se più Login corrispondono a una pagina web, allora mostra la Compilazione automatica"
+   },
+   "Options_AutoForgetTime_Text": {
+      "message": "Disconnessione automatica dopo minuti"
+   },
+   "Options_AutoForgetTime_Tip2": {
+      "message": "RoboForm eseguirà la disconnessione automatica dalla sessione corrente dopo il periodo di inattività indicato"
+   },
+   "Options_AutoRenewStatus_BillingAmount_Text": {
+      "message": "Importo: %1"
+   },
+   "Options_AutoRenewStatus_BillingDate_Text": {
+      "message": "Data di fatturazione: %1"
+   },
+   "Options_AutoRenewStatus_Failed_Text": {
+      "message": "FALLITO"
+   },
+   "Options_AutoRenewStatus_Off_Text": {
+      "message": "OFF"
+   },
+   "Options_AutoRenewStatus_On_Text": {
+      "message": "ON"
+   },
+   "Options_AutoRenew_Text": {
+      "message": "Stato di auto rinnovo"
+   },
+   "Options_AutoRenew_TurnOff_Button_Text": {
+      "message": "Auto rinnovo OFF"
+   },
+   "Options_AutoRenew_TurnOn_Button_Text": {
+      "message": "Auto rinnovo ON"
+   },
+   "Options_AutoSave_AltClickEnable_Text2": {
+      "message": "Abilita scorciatoia di tastiera: ALT+click su pulsante di accesso forza AutoSalvataggio"
+   },
+   "Options_AutoSave_ShiftEnterEnable_Text2": {
+      "message": "Abilita scorciatoia di tastiera: SHIFT+ENTER nel campo di testo forza AutoSalvataggio"
+   },
+   "Options_AutoSave_Text": {
+      "message": "AutoSalvataggio"
+   },
+   "Options_AutoSave_Tip": {
+      "message": "Seleziona come RoboForm deve salvare nuove credenziali rilevate"
+   },
+   "Options_AutoSave_Title": {
+      "message": "AutoSalvataggio"
+   },
+   "Options_AutoSave_WebForms_No_Text": {
+      "message": "Non offrire AutoSalvataggio"
+   },
+   "Options_AutoSave_WebForms_No_Tip": {
+      "message": "Quando si invia il modulo di login web (HTML) compilato, RoboForm non lo salva"
+   },
+   "Options_AutoSave_WebForms_WithConfirmation_Text1": {
+      "message": "Chiedi di AutoSalvare"
+   },
+   "Options_AutoSave_WebForms_WithConfirmation_Text2": {
+      "message": "(richiede conferma utente)"
+   },
+   "Options_AutoSave_WebForms_WithConfirmation_Tip": {
+      "message": "Quando invii il modulo di login web (HTML), RoboForm lo salverà"
+   },
+   "Options_AutoSave_WebForms_WitoutAsking_Text": {
+      "message": "AutoSalvataggio senza chiedere"
+   },
+   "Options_AutoSave_WebForms_WitoutAsking_Tip": {
+      "message": "Quando invii il modulo di login web (HTML), RoboForm lo salverà automaticamente"
+   },
+   "Options_BackupRestoreFrame_Text": {
+      "message": "Backup e Ripristino"
+   },
+   "Options_Billing_Title": {
+      "message": "Fatturazione"
+   },
+   "Options_Browsers_Title": {
+      "message": "Browser"
+   },
+   "Options_DisableShortcuts_Text": {
+      "message": "Disabilita Collegamenti di RoboForm nel Browser"
+   },
+   "Options_DisableShortcuts_Tip": {
+      "message": "Disabilita i collegamenti di RoboForm nel Browser.\nCollegamenti di RoboForm:\nALT+R - Barra strumenti di RoboForm\nALT+S - Metti a fuoco la Casella di ricerca di RoboForm\nALT+0 - Reimposta i Campi\nALT+G - mostra Generatore di Password\nALT+n - mostra mini-dialogo per Identità n\nALT+P - mini-dialogo elencante tutte le schede che si possono abbinare a questo sito"
+   },
+   "Options_Domains_Equivalences_BadDomains_Error": {
+      "message": "Qui si possono definire solo i domini. I domini possono contenere solo lettere, cifre, trattini ('-') e punti ('.'). I domini devono iniziare e finire con una lettera o una cifra. Dominio(i) sbagliato(i):\n'%1'"
+   },
+   "Options_Domains_Equivalences_Custom_Tip": {
+      "message": "Lista delle equivalenze tra Domini impostate dall'utente. Ogni linea definisce domini equivalenti separati da'='. Aggiungere i dominii senza 'http' e 'www'.\nLe equivalenze tra Dominii sono transitive, per esempio:\naaa.com=bbb.com=ccc.com\nddd.com=bbb.com\nddd.com=eee\nin fa sì che questi dominii sono equivalenti."
+   },
+   "Options_Domains_Equivalences_Frame": {
+      "message": "Equivalenza Domini"
+   },
+   "Options_Domains_FillingFromLoginChecksDomain_Text2": {
+      "message": "Avvisami prima di compilare dati di Login su un dominio non corrispondente"
+   },
+   "Options_Domains_FillingFromLoginChecksDomain_Tip": {
+      "message": "RoboForm avvisa prima di compilare dati di Login su un dominio diverso da quello associato a tale Login"
+   },
+   "Options_Domains_Title": {
+      "message": "Domini"
+   },
+   "Options_EnableNativeIntegration_Text": {
+      "message": "Abilita integrazione con applicazione RoboForm installata"
+   },
+   "Options_Extended_ActiveServer_Text": {
+      "message": "Server attivo con cui lavorare: "
+   },
+   "Options_General_Title": {
+      "message": "Generale"
+   },
+   "Options_Import_FolderSuffix_Text": {
+      "message": "Importato"
+   },
+   "Options_ImportsButton_Text2": {
+      "message": "Importa"
+   },
+   "Options_IncorrectValue_AuxKey": {
+      "message": "Almeno una chiave di estensione deve essere selezionata"
+   },
+   "Options_Keyboard_Title": {
+      "message": "Tastiera"
+   },
+   "Options_Language_Tip": {
+      "message": "Seleziona la lingua dell'interfaccia di RoboForm"
+   },
+   "Options_Language_Title": {
+      "message": "Lingua"
+   },
+   "Options_LicenseStatus_ActiveSubscription_Text": {
+      "message": "Abbonamento attivo"
+   },
+   "Options_LicenseStatus_ExpirationDate_Text": {
+      "message": "Data di scadenza: %1"
+   },
+   "Options_LicenseStatus_ExpiredSubscription_Text": {
+      "message": "Abbonamento scaduto"
+   },
+   "Options_LicenseStatus_ExpiredTrial_Text": {
+      "message": "Prova scaduta"
+   },
+   "Options_LicenseStatus_FreeAccount_Text": {
+      "message": "Account gratis"
+   },
+   "Options_LicenseStatus_FreeTrial_Text": {
+      "message": "Prova gratis"
+   },
+   "Options_LicenseStatus_NoLicense_Text": {
+      "message": "Nessuna licenza"
+   },
+   "Options_LicenseStatus_PurchaseLicense_Button_Text": {
+      "message": "Acquista una licenza"
+   },
+   "Options_LicenseStatus_RenewNow_Button_Text": {
+      "message": "Rinnova ora"
+   },
+   "Options_LicenseStatus_Text": {
+      "message": "Stato licenza"
+   },
+   "Options_LicenseType_Business_Text": {
+      "message": "Business"
+   },
+   "Options_LicenseType_Everywhere_Text": {
+      "message": "Ovunque"
+   },
+   "Options_LicenseType_Family_Text": {
+      "message": "Family"
+   },
+   "Options_LicenseType_Text": {
+      "message": "Tipo di licenza"
+   },
+   "Options_LoginToViewMoreOptions_Text": {
+      "message": "Alcune opzioni non sono disponibili prima di accedere all'account RoboForm. Clicca sul pulsante RoboForm sulla barra del browser per accedere."
+   },
+   "Options_ManagedByPolicy_Text": {
+      "message": "Gestito da politica società"
+   },
+   "Options_NativeIntegrationChange_Warning": {
+      "message": "Vuoi modificare l'opzione di integrazione nativa?\nL'estensione verrà ricaricata."
+   },
+   "Options_No": {
+      "message": "No"
+   },
+   "Options_NotPrimaryBuyer_Text": {
+      "message": "L'account RoboForm non detiene licenza primaria (contatto di fatturazione).\nContatta il titolare dell'account principale per il rinnovo,\noppure puoi rinnovare l'abbonamento per questo account da solo (verranno richieste nuove informazioni di fatturazione)."
+   },
+   "Options_OfferAutoFill_BasicAuthDialogs_Text": {
+      "message": "Caselle di Autenticazione Base AutoCompilazione su browser"
+   },
+   "Options_OfferAutoFill_BasicAuthDialogs_Tip": {
+      "message": "Chiedi di compilare caselle di Autenticazione Base da Login corrispondenti"
+   },
+   "Options_OfferAutoFill_WinDialogs_Text2": {
+      "message": "AutoCompilazione Finestre di Autenticazione Base di Windows nei browser"
+   },
+   "Options_OfferAutoFill_WinDialogs_Tip2": {
+      "message": "Chiedi di compilare casella Windows (autenticazione base) da Login corrispondenti"
+   },
+   "Options_OfferAutoSave_BasicAuthDialogs_Text": {
+      "message": "AutoSalvataggio da caselle di Autenticazione Base su browser"
+   },
+   "Options_OfferAutoSave_BasicAuthDialogs_Tip": {
+      "message": "AutoSalvataggio viene attivato da invio di un modulo in casella di Autenticazione Base su browser"
+   },
+   "Options_OfferAutoSave_WinDialogs_Text": {
+      "message": "AutoSalvataggio da casella Windows (autenticazione base) su browser"
+   },
+   "Options_OfferAutoSave_WinDialogs_Tip2": {
+      "message": "AutoSalvataggio viene attivato da invio di un modulo in casella Windows (autenticazione base) su browser"
+   },
+   "Options_OpenSPOnLoginFromExtension_Title": {
+      "message": "Apri pagina iniziale dopo accesso a RoboForm"
+   },
+   "Options_PaymentInfo_Text": {
+      "message": "Info pagamento"
+   },
+   "Options_PaymentInfo_UpdateBillingInfo_Text": {
+      "message": "Aggiorna info fatturazione"
+   },
+   "Options_RightAltForShortcuts_Text": {
+      "message": "Usa anche il Tasto ALT di destra per i collegamenti"
+   },
+   "Options_RightAltForShortcuts_Tip": {
+      "message": "Se spuntato, schiacciando il tasto ALT a destra + Tasto compare il collegamento della tastiera di RoboForm in aggiunta al tasto ALT di sinistra + Tasto. Se non spuntato, allora soltanto il tasto ALT di sinistra + Tasto fa comparire il collegamento di RoboForm"
+   },
+   "Options_RoboFormOpensWith_AllPopularItems_Text": {
+      "message": "Tutti gli elementi popolari"
+   },
+   "Options_RoboFormOpensWith_AllRecentlyUsedItems_Text": {
+      "message": "Tutti gli elementi usati di recente"
+   },
+   "Options_RoboFormOpensWith_LastSelected_Text": {
+      "message": "Ordinamento per ultimi selezionati"
+   },
+   "Options_RoboFormOpensWith_PinnedItems_Text": {
+      "message": "Elementi fissati"
+   },
+   "Options_RoboFormOpensWith_PopularLogins_Text": {
+      "message": "Login popolari"
+   },
+   "Options_RoboFormOpensWith_RecentlyUsedLogins_Text": {
+      "message": "Login usati di recente"
+   },
+   "Options_Security_AutoLogoffDisabled_Text": {
+      "message": "*Questa opzione è stata impostata e può essere modificata solo sul sito web di RoboForm Online,\nnella scheda Policy Editor"
+   },
+   "Options_Security_Title": {
+      "message": "Sicurezza"
+   },
+   "Options_Security_TurnOffBuiltInPwdMgr_Text": {
+      "message": "Disattivare il gestore di password integrato nel browser"
+   },
+   "Options_SetPasswordButton_Text4": {
+      "message": "Cambia la Master Password"
+   },
+   "Options_SetPasswordLink_Text": {
+      "message": "Modifica"
+   },
+   "Options_Settings_Title": {
+      "message": "Impostazioni"
+   },
+   "Options_Shortcut_Alt_Text": {
+      "message": "Alt"
+   },
+   "Options_Shortcut_Ctrl_Text": {
+      "message": "Ctrl"
+   },
+   "Options_Shortcut_Shift_Text": {
+      "message": "Shift"
+   },
+   "Options_ShortcutsList_Text": {
+      "message": "Lista dei collegamenti"
+   },
+   "Options_ShortcutsList_Tip": {
+      "message": "Lista dei collegamenti di RoboForm nel Browser. Puoi inserire/disinserire ognuno di loro separatamente"
+   },
+   "Options_ShowBookmarksAndLoginsTogether_Text": {
+      "message": "Mostra contemporaneamente Segnalibri e Login"
+   },
+   "Options_ShowBookmarksAndLoginsTogether_Tip2": {
+      "message": "I segnalibri vengono inseriti sotto Login in tutte le interfacce RoboForm"
+   },
+   "Options_ShowCompromisedPasswordsIndicator": {
+      "message": "Mostra indicatore di password compromesse"
+   },
+   "Options_ShowCompromisedPasswordsIndicator_Tip": {
+      "message": "L'icona di esclamazione rossa appare accanto ai Login che contengono password compromesse"
+   },
+   "Options_StoreMPInSystemProtectedStorage_Text2": {
+      "message": "Non chiedere la Master Password"
+   },
+   "Options_StoreMPInSystemProtectedStorage_Tip2": {
+      "message": "Dopo aver inserito la Master Password, sarà memorizzata in un archivio protetto dal sistema, in modo da non doverla inserire di nuovo.\nPer richiedere nuovamente la Master Password di RoboForm, fare clic sul pulsante Log Out che elimina la Master Password dall'archivio protetto dal sistema. RoboForm non si disconnette automaticamente a causa del timeout."
+   },
+   "Options_TimeZone_Title": {
+      "message": "Impostazioni fuso orario"
+   },
+   "Options_UpgradeToFamilyPlan_Button_Text": {
+      "message": "Passa a piano Family"
+   },
+   "Options_UseNativeMenus_Text": {
+      "message": "Abilita menu desktop RoboForm"
+   },
+   "Options_UseNativeMenus_Tip": {
+      "message": "Il menu Desktop di RoboForm viene incluso su estensione browser"
+   },
+   "Options_WarnAboutFillingSensitiveInfo_Text2": {
+      "message": "Avvissami prima di compilare dati di conto bancario o carta di credito"
+   },
+   "Options_WarnAboutFillingSensitiveInfo_Tip": {
+      "message": "RoboForm chiede una conferma aggiuntiva prima di compilare ogni informazione di pagamento archiviata nelle identità"
+   },
+   "Options_WebExt_AutoLogoffAfterIdle_Text": {
+      "message": "Disconnessione automatica dopo inattività (minuti 0-99999)*"
+   },
+   "Options_WebExt_HighlightFields_Text": {
+      "message": "Evidenzia i campi compilati"
+   },
+   "Options_WebExt_LogoffTakeEffectNextSession": {
+      "message": "*Entrerà in vigore dalla prossima sessione di RoboForm"
+   },
+   "Options_Yes": {
+      "message": "Sì"
+   },
+   "Page_ListItem_MoreActions_Tip": {
+      "message": "Altre azioni"
+   },
+   "PassAud_PwdStrengthGood": {
+      "message": "Buono"
+   },
+   "PassAud_PwdStrengthMedium": {
+      "message": "Media"
+   },
+   "PassAud_PwdStrengthStrong": {
+      "message": "Forte"
+   },
+   "PassAud_PwdStrengthWeak": {
+      "message": "Debole"
+   },
+   "PassCards_LoginTip_EditTipText": {
+      "message": "Modifica suggerimento Login"
+   },
+   "PassCards_LoginTip_HideMonospaceText": {
+      "message": "Non utilizzare caratteri a spaziatura fissa"
+   },
+   "PassCards_LoginTip_ShowMonospaceText": {
+      "message": "Utilizza caratteri a spaziatura fissa"
+   },
+   "PassCards_LoginTip_Title": {
+      "message": "Suggerimento login"
+   },
+   "PassCards_Note": {
+      "message": "Nota"
+   },
+   "PassCards_Password": {
+      "message": "Password"
+   },
+   "PassCards_UserId": {
+      "message": "ID utente"
+   },
+   "PassGen_BitStrength": {
+      "message": "Bit di Sicurezza = "
+   },
+   "PassGen_CharNumber_Text": {
+      "message": "Numero di caratteri"
+   },
+   "PassGen_CharNumber_Tip": {
+      "message": "Numero di caratteri nella password generata"
+   },
+   "PassGen_Copy": {
+      "message": "Copia"
+   },
+   "PassGen_Copy_Tip": {
+      "message": "Copia la password generata negli appunti"
+   },
+   "PassGen_ExcludeSimilar_Text": {
+      "message": "Escludi simili"
+   },
+   "PassGen_ExcludeSimilar_Tip": {
+      "message": "Escludi caratteri simili dalla password generata"
+   },
+   "PassGen_Fill": {
+      "message": "Compila"
+   },
+   "PassGen_Fill_Tip": {
+      "message": "Inserisci la password generata nel campo password nella pagina nel browser"
+   },
+   "PassGen_Generate": {
+      "message": "Genera"
+   },
+   "PassGen_Generate_Tip": {
+      "message": "Genera nuova password"
+   },
+   "PassGen_Generated_Tip": {
+      "message": "Password generata"
+   },
+   "PassGen_Lower_Tip": {
+      "message": "Usa i caratteri a-z nella password generata"
+   },
+   "PassGen_Numb_Tip": {
+      "message": "Usa i caratteri 0-9 nella password generata"
+   },
+   "PassGen_RestoreDefaults_Text": {
+      "message": "Ripristina le impostazioni predifinite"
+   },
+   "PassGen_ShowAdvanced": {
+      "message": "Caratteristiche avanzate"
+   },
+   "PassGen_Title": {
+      "message": "Generatore di Password - RoboForm"
+   },
+   "PassGen_Upper_Tip": {
+      "message": "Usa i caratteri A-Z nella password generata"
+   },
+   "PassGen_UseHexChars": {
+      "message": "Esadecimali 0-9, A-F"
+   },
+   "PassGen_UseHexChars_Tip": {
+      "message": "Usa solo caratteri esadecimali: 0-9, A-F"
+   },
+   "PassGen_UseSpecial_Tip": {
+      "message": "Usa caratteri speciali nella password generata"
+   },
+   "PassGen_WrongChars_Errtext": {
+      "message": "Numero errato di caratteri (1-512)"
+   },
+   "PassGen_WrongNums_Errtext": {
+      "message": "Numero errato di cifre"
+   },
+   "PassGen_helptext1": {
+      "message": "È stata generata una nuova password. Clicca Compila per compilare"
+   },
+   "PassGen_helptext2": {
+      "message": "il campo password del browser. Clicca Copia per copiarlo"
+   },
+   "PassGen_helptext3": {
+      "message": "negli appunti. Clicca Genera per generarne una nuova."
+   },
+   "PassType_Blocking_Suffix": {
+      "message": " -Bloccata-"
+   },
+   "PassportExpirationDate_DisplayText": {
+      "message": "exp. %1"
+   },
+   "Passw_Account_Title": {
+      "message": "per Account RoboForm:"
+   },
+   "Passw_ChangeAccount": {
+      "message": "Cambia Account"
+   },
+   "Passw_DontRememberButton_Text": {
+      "message": "Non mi ricordo la mia Master Password"
+   },
+   "Passw_EnterNotifySet_Text2": {
+      "message": "Per motivi di sicurezza, ti chiederemo di inserire la tua Master Password ogni %1 giorni."
+   },
+   "Passw_EnterNotify_Text2": {
+      "message": "Per motivi di sicurezza, ti chiediamo di inserire la tua Master Password ogni %1 giorni."
+   },
+   "Passw_EnterNowButton_Text": {
+      "message": "Inserisci ora"
+   },
+   "Passw_Generic_Header": {
+      "message": "Inserisci la Master Password"
+   },
+   "Passw_Login": {
+      "message": "Login"
+   },
+   "Passw_SubmitButton_Text": {
+      "message": "Invia"
+   },
+   "Password_Successfully_Changed": {
+      "message": "Password cambiata con successo"
+   },
+   "PhishingWarning_FillingIntoDomainNotInLogin": {
+      "message": "Il dominio del sito non corrisponde al Match URL del Login.\n\nMatch URL: %1\nSite URL: %2\n\n Vuoi ancora che RoboForm compili il modulo?"
+   },
+   "PhishingWarning_FillingIntoFrameDomainNotInLogin": {
+      "message": "Il dominio del frame non corrisponde al Match URL del Login.\n\nDominio Match URL: %1\nDominio Frame URL: %2\n\nVuoi consentire a RoboForm di compilare il modulo?"
+   },
+   "PhishingWarning_FrameDomainNotInLogin": {
+      "message": "Avvertimento Phishing: il dominio del frame non corrisponde al Match URL del Login.\n\nMatch URL: %1\nFrame URL: %2\n URL principale:  %3\n\n Vuole ancora che RoboForm compili il modulo?"
+   },
+   "Policy_CommandDisabled_Message": {
+      "message": "Il comando è proibito dalle impostazioni"
+   },
+   "Policy_DisableNonGroupData_Message": {
+      "message": "Il comando è proibito dalla policy. È possibile creare dati solo all'interno di gruppi"
+   },
+   "Policy_FileCreationProhibited_Text": {
+      "message": "Errore: la creazione di %1 è vietata dalla policy."
+   },
+   "Policy_FillingIntoDomainNotInLogin": {
+      "message": "La compilazione del modulo è stata interrotta perché il dominio del sito non corrisponde al Match URL del Login.\n\nMatch URL: %1\nURL del sito: %2"
+   },
+   "Policy_FillingIntoFrameDomainNotInLogin": {
+      "message": "La compilazione del modulo è stata annullata perché il dominio del frame non corrisponde al Match URL Form del Login.\n\nDominio Match URL: %1\nDominio Frame URL: %2"
+   },
+   "Policy_MasterPasswordChangeDisabled": {
+      "message": "Il cambio e la creazione della Master Password sono proibiti dalle impostazioni"
+   },
+   "Policy_ProhibitedFolder_NonGroupData_Message": {
+      "message": "La cartella selezionata per il salvataggio è vietata dalla policy. È possibile creare dati solo all'interno di gruppi"
+   },
+   "Popup_ReportAnIssue_Command_Text": {
+      "message": "Segnala un problema su questa pagina"
+   },
+   "ProAd_UpgradeNow_Button": {
+      "message": "Aggiorna ora"
+   },
+   "RFOError_WrongUserIDOrPassword": {
+      "message": "ID Utente o Password errati per RoboForm Everywhere"
+   },
+   "RFOSetup_CreateNewAccount_Button": {
+      "message": "Crea un nuovo account"
+   },
+   "RFOSetup_EnterPasswordForAccount": {
+      "message": "Inserire la password per l'account RoboForm:"
+   },
+   "RFOSync_ForceMasterPasswordChange_Text": {
+      "message": "Master Password scaduta. È necessario modificare la Master Password."
+   },
+   "RFO_CreateAccountCannotSendEmail_Error": {
+      "message": "L'account non è stato creato. Non è stato possibile inviare un'e-mail di verifica della creazione dell'account all'indirizzo e-mail fornito dall'utente.\nInserire un indirizzo e-mail valido e riprovare."
+   },
+   "RFO_OTP_Memorize_Device": {
+      "message": "Registra questo browser, in modo tale che non venga richiesta una password unica al tuo prossimo accesso."
+   },
+   "RFO_TwoFactorCaption_Text": {
+      "message": "Password unica"
+   },
+   "RFO_TwoFactorIsOn_TextShort": {
+      "message": "L'impostazione della password unica (OTP) è attiva per il tuo account."
+   },
+   "RFO_TwoFactor_ByEmail_Text2": {
+      "message": "L'OTP è stato inviato al tuo indirizzo e-mail verificato."
+   },
+   "RFO_TwoFactor_ByGA_Text3": {
+      "message": "Insersci il codice della tua applicazione di autenticazione per continuare."
+   },
+   "RFO_TwoFactor_BySMS_Text2": {
+      "message": "L'OTP è stato inviato al tuo numero di telefono verificato via SMS."
+   },
+   "RFO_TwoFactor_EnrollBrowserGA_Text": {
+      "message": "Registra questo browser in modo che il codice autenticatore non venga richiesto al tuo prossimo accesso."
+   },
+   "RFO_TwoFactor_EnrollBrowserGeneric_Text": {
+      "message": "Registra questo browser in modo che l'autenticazione a due fattori non venga utilizzata al tuo prossimo accesso."
+   },
+   "RFO_TwoFactor_PromptGeneric_Text": {
+      "message": "L'autenticazione a due fattori è attiva per il tuo account. È necessario il codice aggiuntivo per accedere al tuo account."
+   },
+   "RFO_TwoFactor_Send_Button": {
+      "message": "Invia OTP"
+   },
+   "RFO_TwoFactor_WrongOTP_Text": {
+      "message": "Password unica sbagliata"
+   },
+   "RI_AOL_Screen_Name": {
+      "message": "Utente AOL"
+   },
+   "RI_Abbr": {
+      "message": "Ab."
+   },
+   "RI_Address": {
+      "message": "Indirizzo"
+   },
+   "RI_Address_Line_1": {
+      "message": "Indirizzo 1"
+   },
+   "RI_Address_Line_2": {
+      "message": "Indirizzo 2"
+   },
+   "RI_Age": {
+      "message": "Età "
+   },
+   "RI_Alphabet": {
+      "message": "Alfabeto"
+   },
+   "RI_Alphabet_Name": {
+      "message": "Alfabeto"
+   },
+   "RI_Apartment_Number": {
+      "message": "Numero appartamento"
+   },
+   "RI_Bank_Account_Number": {
+      "message": "Numero Conto"
+   },
+   "RI_Bank_Account_Owner": {
+      "message": "Titolare Conto"
+   },
+   "RI_Bank_Account_Type": {
+      "message": "Tipo di Conto"
+   },
+   "RI_Bank_Account_Type_Checking": {
+      "message": "Checking"
+   },
+   "RI_Bank_Account_Type_Current": {
+      "message": "Corrente"
+   },
+   "RI_Bank_Account_Type_Money_Manager": {
+      "message": "Responsabile Finanziario"
+   },
+   "RI_Bank_Account_Type_Savings": {
+      "message": "Risparmio"
+   },
+   "RI_Bank_Address": {
+      "message": "Indirizzo della banca"
+   },
+   "RI_Bank_Branch_Name": {
+      "message": "Filiale Banca"
+   },
+   "RI_Bank_Branch_Type": {
+      "message": "Tipo Filiale"
+   },
+   "RI_Bank_Corr_Account": {
+      "message": "Conto Corr."
+   },
+   "RI_Bank_Interest_Rate": {
+      "message": "Tasso d'Interesse"
+   },
+   "RI_Bank_Name": {
+      "message": "Banca"
+   },
+   "RI_Bank_PIN_Code": {
+      "message": "Codice PIN Banca"
+   },
+   "RI_Bank_Phone": {
+      "message": "Numero di telefono"
+   },
+   "RI_Bank_Routing_Number": {
+      "message": "Codici"
+   },
+   "RI_Bank_Swift_Code": {
+      "message": "SWIFT"
+   },
+   "RI_Bank_Type": {
+      "message": "Tipo Banca"
+   },
+   "RI_Birth_Date": {
+      "message": "Data di nascita"
+   },
+   "RI_Birth_Day": {
+      "message": "Giorno"
+   },
+   "RI_Birth_Month": {
+      "message": "Mese"
+   },
+   "RI_Birth_Place": {
+      "message": "Nato a"
+   },
+   "RI_Birth_Year": {
+      "message": "Anno"
+   },
+   "RI_Bundesland": {
+      "message": "Bundesland"
+   },
+   "RI_Canton": {
+      "message": "Canton"
+   },
+   "RI_Car_Make": {
+      "message": "Marca"
+   },
+   "RI_Car_Model": {
+      "message": "Modello"
+   },
+   "RI_Car_Plate": {
+      "message": "Targa"
+   },
+   "RI_Car_Plate_Number": {
+      "message": "Numero di targa"
+   },
+   "RI_Car_Year": {
+      "message": "Anno"
+   },
+   "RI_Card_Credit_Limit": {
+      "message": "Limite di Credito"
+   },
+   "RI_Card_Customer_Service_Phone": {
+      "message": "Telefono Servizio Utenti "
+   },
+   "RI_Card_Expires": {
+      "message": "Valida fino al"
+   },
+   "RI_Card_Interest_Rate": {
+      "message": "Tasso d'Interesse"
+   },
+   "RI_Card_Issuing_Bank": {
+      "message": "Banca"
+   },
+   "RI_Card_Number": {
+      "message": "Numero Carta"
+   },
+   "RI_Card_PIN_Number": {
+      "message": "PIN"
+   },
+   "RI_Card_Password": {
+      "message": "Password della Carta"
+   },
+   "RI_Card_Type": {
+      "message": "Tipo di Carta"
+   },
+   "RI_Card_User_Name": {
+      "message": "Nome sulla Carta"
+   },
+   "RI_Card_Validation_Code": {
+      "message": "Codice di Validazione"
+   },
+   "RI_Cell_Phone": {
+      "message": "Cellulare"
+   },
+   "RI_City": {
+      "message": "Città"
+   },
+   "RI_Code_OKPO": {
+      "message": "OKPO"
+   },
+   "RI_Code_OKVED": {
+      "message": "OKVED"
+   },
+   "RI_Colony": {
+      "message": "Colonia"
+   },
+   "RI_Company": {
+      "message": "Nome Azienda"
+   },
+   "RI_Company_Department": {
+      "message": "Divisione"
+   },
+   "RI_Company_Registration_Number": {
+      "message": "Numero Registrazione Aziendale"
+   },
+   "RI_Company_Registration_Place": {
+      "message": "Località Registrazione Aziendale"
+   },
+   "RI_Company_Tax_ID": {
+      "message": "ID Contrib. Aziendale"
+   },
+   "RI_Company_VAT_Number": {
+      "message": "Partita IVA"
+   },
+   "RI_Contact": {
+      "message": "Contatto"
+   },
+   "RI_Country": {
+      "message": "Paese"
+   },
+   "RI_CountryAlt_United_States": {
+      "message": "Stati Uniti d'America;USA;US"
+   },
+   "RI_CountryCode": {
+      "message": "Codice nazione"
+   },
+   "RI_Country_Afghanistan": {
+      "message": "Afghanistan"
+   },
+   "RI_Country_Andorra": {
+      "message": "Andorra"
+   },
+   "RI_Country_Argentina": {
+      "message": "Argentina"
+   },
+   "RI_Country_Armenia": {
+      "message": "Armenia"
+   },
+   "RI_Country_Australia": {
+      "message": "Australia"
+   },
+   "RI_Country_Austria": {
+      "message": "Austria"
+   },
+   "RI_Country_Belarus": {
+      "message": "Bielorussia"
+   },
+   "RI_Country_Belgium": {
+      "message": "Belgio"
+   },
+   "RI_Country_Bolivia": {
+      "message": "Bolivia"
+   },
+   "RI_Country_Bosnia_And_Herzegovina": {
+      "message": "Bosnia Erzegovina"
+   },
+   "RI_Country_Brazil": {
+      "message": "Brasile"
+   },
+   "RI_Country_Bulgaria": {
+      "message": "Bulgaria"
+   },
+   "RI_Country_Canada": {
+      "message": "Canada"
+   },
+   "RI_Country_Chile": {
+      "message": "Cile"
+   },
+   "RI_Country_China": {
+      "message": "Cina"
+   },
+   "RI_Country_Colombia": {
+      "message": "Colombia"
+   },
+   "RI_Country_Costa_Rica": {
+      "message": "Costa Rica"
+   },
+   "RI_Country_Croatia": {
+      "message": "Croazia"
+   },
+   "RI_Country_Cyprus": {
+      "message": "Cipro"
+   },
+   "RI_Country_Czech_Republic": {
+      "message": "Repubblica Ceca"
+   },
+   "RI_Country_Denmark": {
+      "message": "Danimarca"
+   },
+   "RI_Country_Egypt": {
+      "message": "Egitto"
+   },
+   "RI_Country_Estonia": {
+      "message": "Estonia"
+   },
+   "RI_Country_Finland": {
+      "message": "Finlandia"
+   },
+   "RI_Country_France": {
+      "message": "Francia"
+   },
+   "RI_Country_Gabon": {
+      "message": "Gabon"
+   },
+   "RI_Country_Germany": {
+      "message": "Germania"
+   },
+   "RI_Country_Gibraltar": {
+      "message": "Gibilterra"
+   },
+   "RI_Country_Greece": {
+      "message": "Grecia"
+   },
+   "RI_Country_Greenland": {
+      "message": "Groenlandia"
+   },
+   "RI_Country_Haiti": {
+      "message": "Haiti"
+   },
+   "RI_Country_Hong_Kong": {
+      "message": "Hong Kong"
+   },
+   "RI_Country_Hungary": {
+      "message": "Ungheria"
+   },
+   "RI_Country_Iceland": {
+      "message": "Islanda"
+   },
+   "RI_Country_India": {
+      "message": "India"
+   },
+   "RI_Country_Indonesia": {
+      "message": "Indonesia"
+   },
+   "RI_Country_Iran": {
+      "message": "Iran"
+   },
+   "RI_Country_Iraq": {
+      "message": "Iraq"
+   },
+   "RI_Country_Ireland": {
+      "message": "Irlanda"
+   },
+   "RI_Country_Israel": {
+      "message": "Israele"
+   },
+   "RI_Country_Italy": {
+      "message": "Italia"
+   },
+   "RI_Country_Jamaica": {
+      "message": "Giamaica"
+   },
+   "RI_Country_Japan": {
+      "message": "Giappone"
+   },
+   "RI_Country_Kazakhstan": {
+      "message": "Kazakhistan"
+   },
+   "RI_Country_Korea": {
+      "message": "Corea"
+   },
+   "RI_Country_Latvia": {
+      "message": "Lettonia"
+   },
+   "RI_Country_Liechtenstein": {
+      "message": "Liechtenstein"
+   },
+   "RI_Country_Lithuania": {
+      "message": "Lituania"
+   },
+   "RI_Country_Luxembourg": {
+      "message": "Lussemburgo"
+   },
+   "RI_Country_Macedonia": {
+      "message": "Macedonia"
+   },
+   "RI_Country_Malaysia": {
+      "message": "Malesia"
+   },
+   "RI_Country_Malta": {
+      "message": "Malta"
+   },
+   "RI_Country_Mexico": {
+      "message": "Messico"
+   },
+   "RI_Country_Moldova": {
+      "message": "Moldovia"
+   },
+   "RI_Country_Monaco": {
+      "message": "Monaco"
+   },
+   "RI_Country_Montenegro": {
+      "message": "Montenegro"
+   },
+   "RI_Country_Morocco": {
+      "message": "Marocco"
+   },
+   "RI_Country_Namibia": {
+      "message": "Namibia"
+   },
+   "RI_Country_Netherlands": {
+      "message": "Olanda"
+   },
+   "RI_Country_New_Zealand": {
+      "message": "Nuova Zelanda"
+   },
+   "RI_Country_Nigeria": {
+      "message": "Nigeria"
+   },
+   "RI_Country_Norway": {
+      "message": "Norvegia"
+   },
+   "RI_Country_Other": {
+      "message": "Altro"
+   },
+   "RI_Country_Pakistan": {
+      "message": "Pakistan"
+   },
+   "RI_Country_Panama": {
+      "message": "Panama"
+   },
+   "RI_Country_Paraguay": {
+      "message": "Paraguay"
+   },
+   "RI_Country_Peru": {
+      "message": "Peru"
+   },
+   "RI_Country_Philippines": {
+      "message": "Filippine"
+   },
+   "RI_Country_Poland": {
+      "message": "Polonia"
+   },
+   "RI_Country_Portugal": {
+      "message": "Portogallo"
+   },
+   "RI_Country_Qatar": {
+      "message": "Qatar"
+   },
+   "RI_Country_Romania": {
+      "message": "Romania"
+   },
+   "RI_Country_Russia": {
+      "message": "Russia"
+   },
+   "RI_Country_San_Marino": {
+      "message": "San Marino"
+   },
+   "RI_Country_Saudi_Arabia": {
+      "message": "Arabia Saudita"
+   },
+   "RI_Country_Serbia": {
+      "message": "Serbia"
+   },
+   "RI_Country_Singapore": {
+      "message": "Singapore"
+   },
+   "RI_Country_Slovakia": {
+      "message": "Slovacchia"
+   },
+   "RI_Country_Slovenia": {
+      "message": "Slovenia"
+   },
+   "RI_Country_South_Africa": {
+      "message": "Sud Africa"
+   },
+   "RI_Country_Spain": {
+      "message": "Spagna"
+   },
+   "RI_Country_Sweden": {
+      "message": "Svezia"
+   },
+   "RI_Country_Switzerland": {
+      "message": "Svizzera"
+   },
+   "RI_Country_Taiwan": {
+      "message": "Taiwan"
+   },
+   "RI_Country_Thailand": {
+      "message": "Tailandia"
+   },
+   "RI_Country_Turkey": {
+      "message": "Turchia"
+   },
+   "RI_Country_Ukraine": {
+      "message": "Ucraina"
+   },
+   "RI_Country_United_Kingdom": {
+      "message": "Regno Unito"
+   },
+   "RI_Country_United_States": {
+      "message": "Stati Uniti"
+   },
+   "RI_Country_Venezuela": {
+      "message": "Venezuela"
+   },
+   "RI_Country_Vietnam": {
+      "message": "Vietnam"
+   },
+   "RI_County": {
+      "message": "Contea"
+   },
+   "RI_Department": {
+      "message": "Dipartimento"
+   },
+   "RI_Dispatching_Agency": {
+      "message": "Agenzia"
+   },
+   "RI_District": {
+      "message": "Distretto"
+   },
+   "RI_Driver_License": {
+      "message": "Patente di guida"
+   },
+   "RI_Driver_License_Number": {
+      "message": "Patente"
+   },
+   "RI_Email": {
+      "message": "E-mail"
+   },
+   "RI_Employer_Identitification_Number": {
+      "message": "Num. identif. impiegato"
+   },
+   "RI_Expires": {
+      "message": "Scadenza"
+   },
+   "RI_Fax_Phone": {
+      "message": "Fax"
+   },
+   "RI_First": {
+      "message": "Primo"
+   },
+   "RI_Fiscal_Code": {
+      "message": "Codice Fiscale"
+   },
+   "RI_General_Register": {
+      "message": "RG"
+   },
+   "RI_Group_Bank_Account": {
+      "message": "Conto Bancario"
+   },
+   "RI_Group_Business": {
+      "message": "Attività"
+   },
+   "RI_Group_Car": {
+      "message": "Auto"
+   },
+   "RI_Group_Credit_Card": {
+      "message": "Carta di Credito"
+   },
+   "RI_Group_Custom": {
+      "message": "Personalizzato"
+   },
+   "RI_Group_Default_Password": {
+      "message": "Password standard"
+   },
+   "RI_Group_Location": {
+      "message": "Località"
+   },
+   "RI_Group_Passport": {
+      "message": "Passaporto"
+   },
+   "RI_Group_Person": {
+      "message": "Persona"
+   },
+   "RI_Group_Service": {
+      "message": "Servizio"
+   },
+   "RI_Group_Service2": {
+      "message": "Comune"
+   },
+   "RI_Group_Summary": {
+      "message": "Riepilogo"
+   },
+   "RI_Home_Phone": {
+      "message": "Telefono casa"
+   },
+   "RI_HouseNumber": {
+      "message": "Numero Civico"
+   },
+   "RI_HouseNumber_StreetName": {
+      "message": "Numero Via"
+   },
+   "RI_HouseNumber_or_Name": {
+      "message": "Numero Civico o Via"
+   },
+   "RI_ICQ_Number": {
+      "message": "Numero ICQ"
+   },
+   "RI_ID_Card_Number": {
+      "message": "ID Numero Carta"
+   },
+   "RI_ID_Card_Type": {
+      "message": "ID Tipo di Carta"
+   },
+   "RI_Income": {
+      "message": "Reddito"
+   },
+   "RI_Inset": {
+      "message": "Inset"
+   },
+   "RI_Int_Bank_Account_Number": {
+      "message": "IBAN"
+   },
+   "RI_International_Card_Customer_Service_Phone": {
+      "message": "Intl Svc Phone "
+   },
+   "RI_Job": {
+      "message": "Professione"
+   },
+   "RI_Last": {
+      "message": "Cognome"
+   },
+   "RI_Last2": {
+      "message": "Cognome2"
+   },
+   "RI_Legal_Business_Name": {
+      "message": "Denominazione Legale"
+   },
+   "RI_MSN_ID": {
+      "message": "MSN ID"
+   },
+   "RI_Middle": {
+      "message": "Secondo"
+   },
+   "RI_Mobile_Email": {
+      "message": "Email mobile"
+   },
+   "RI_Municipality": {
+      "message": "Municipalità"
+   },
+   "RI_Name": {
+      "message": "Nome"
+   },
+   "RI_Name_Suffix_Jr": {
+      "message": "Jr."
+   },
+   "RI_Name_Suffix_Sr": {
+      "message": "Sr."
+   },
+   "RI_NationalPrefix": {
+      "message": "Prefisso nazionale"
+   },
+   "RI_National_Health_Service_Number": {
+      "message": "Codice fiscale"
+   },
+   "RI_National_Insurance_Number": {
+      "message": "Numero Assicurazione"
+   },
+   "RI_Number": {
+      "message": "Numero"
+   },
+   "RI_Pager_Phone": {
+      "message": "Cercapersone"
+   },
+   "RI_Passport": {
+      "message": "Passaporto"
+   },
+   "RI_Passport_Expiration_Date": {
+      "message": "Data di scadenza del Passaporto"
+   },
+   "RI_Passport_Issue_Date": {
+      "message": "Data di emissione del Passaporto"
+   },
+   "RI_Passport_Issue_Place": {
+      "message": "Luogo di emissione del Passaporto"
+   },
+   "RI_Passport_Number": {
+      "message": "Numero Passaporto"
+   },
+   "RI_Passport_Series": {
+      "message": "Serie del Passaporto"
+   },
+   "RI_Passport_Type": {
+      "message": "Tipo di Passaporto"
+   },
+   "RI_Passport_Type_International": {
+      "message": "Internazionale"
+   },
+   "RI_Passport_Type_National": {
+      "message": "Nazionale"
+   },
+   "RI_Password": {
+      "message": "Password"
+   },
+   "RI_Password_Answer": {
+      "message": "Risposta"
+   },
+   "RI_Password_Question": {
+      "message": "Domanda per controllo Password"
+   },
+   "RI_Pension_Insurance_Number": {
+      "message": "Numero assicurazione pensione"
+   },
+   "RI_Person_Cadastre": {
+      "message": "Partita Catastale"
+   },
+   "RI_Personal_ID": {
+      "message": "ID personale"
+   },
+   "RI_Phone": {
+      "message": "Telefono"
+   },
+   "RI_Position": {
+      "message": "Qualifica"
+   },
+   "RI_PostCode": {
+      "message": "Cod. Postale"
+   },
+   "RI_PostCode_City": {
+      "message": "Codice Città"
+   },
+   "RI_Prefecture": {
+      "message": "Prefettura"
+   },
+   "RI_Province": {
+      "message": "Provincia"
+   },
+   "RI_Region": {
+      "message": "Regione"
+   },
+   "RI_Roman_Name": {
+      "message": "Roman"
+   },
+   "RI_Series": {
+      "message": "Serie"
+   },
+   "RI_Sex": {
+      "message": "Sesso"
+   },
+   "RI_Sex_Female": {
+      "message": "Femmina"
+   },
+   "RI_Sex_Male": {
+      "message": "Maschio"
+   },
+   "RI_Skype_ID": {
+      "message": "Nome Skype"
+   },
+   "RI_Social_Security_Number": {
+      "message": "Cod. Fis."
+   },
+   "RI_State": {
+      "message": "Stato"
+   },
+   "RI_State_Or_Province": {
+      "message": "Stato O Provincia"
+   },
+   "RI_State_Or_Province_AA": {
+      "message": "AA"
+   },
+   "RI_State_Or_Province_AE": {
+      "message": "AE"
+   },
+   "RI_State_Or_Province_AP": {
+      "message": "AP"
+   },
+   "RI_State_Or_Province_Adygeya_republic": {
+      "message": "Adygeya republic"
+   },
+   "RI_State_Or_Province_Agin_Buryat_avt_okrug": {
+      "message": "Agin Buryat avt okrug"
+   },
+   "RI_State_Or_Province_Aichi": {
+      "message": "Aichi"
+   },
+   "RI_State_Or_Province_Akita": {
+      "message": "Akita"
+   },
+   "RI_State_Or_Province_Alabama": {
+      "message": "AL"
+   },
+   "RI_State_Or_Province_Alaska": {
+      "message": "AK"
+   },
+   "RI_State_Or_Province_Alberta": {
+      "message": "Alberta"
+   },
+   "RI_State_Or_Province_Altai_republic": {
+      "message": "Altai republic"
+   },
+   "RI_State_Or_Province_Altaiskiy_krai": {
+      "message": "Altaiskiy krai"
+   },
+   "RI_State_Or_Province_American_Samoa": {
+      "message": "AS"
+   },
+   "RI_State_Or_Province_Amur_oblast": {
+      "message": "Amur oblast"
+   },
+   "RI_State_Or_Province_Anhui": {
+      "message": "Anhui"
+   },
+   "RI_State_Or_Province_Antwerpen": {
+      "message": "Antwerpen"
+   },
+   "RI_State_Or_Province_Aomen": {
+      "message": "Aomen"
+   },
+   "RI_State_Or_Province_Aomori": {
+      "message": "Aomori"
+   },
+   "RI_State_Or_Province_Appenzell_Inner_Rhodes": {
+      "message": "Appenzell Inner-Rhodes"
+   },
+   "RI_State_Or_Province_Appenzell_Outer_Rhodes": {
+      "message": "Appenzell Outer Rhodes"
+   },
+   "RI_State_Or_Province_Argovia": {
+      "message": "Argovia"
+   },
+   "RI_State_Or_Province_Arizona": {
+      "message": "AZ"
+   },
+   "RI_State_Or_Province_Arkansas": {
+      "message": "AR"
+   },
+   "RI_State_Or_Province_Arkhangelsk_oblast": {
+      "message": "Arkhangelsk oblast"
+   },
+   "RI_State_Or_Province_Astrakhan_oblast": {
+      "message": "Astrakhan oblast"
+   },
+   "RI_State_Or_Province_Australian_Capital_Terr": {
+      "message": "ACT"
+   },
+   "RI_State_Or_Province_Bashkir_republic": {
+      "message": "Bashkir republic"
+   },
+   "RI_State_Or_Province_Basle_Country": {
+      "message": "Basle-Country"
+   },
+   "RI_State_Or_Province_Basle_Town": {
+      "message": "Basle-Town"
+   },
+   "RI_State_Or_Province_Beijing": {
+      "message": "Beijing"
+   },
+   "RI_State_Or_Province_Belgorod_oblast": {
+      "message": "Belgorod oblast"
+   },
+   "RI_State_Or_Province_Berne": {
+      "message": "Berna"
+   },
+   "RI_State_Or_Province_Brabant_Wallon": {
+      "message": "Brabant Wallon"
+   },
+   "RI_State_Or_Province_British_Columbia": {
+      "message": "British Columbia"
+   },
+   "RI_State_Or_Province_Brussels_Region": {
+      "message": "Brussels Region"
+   },
+   "RI_State_Or_Province_Bryansk_oblast": {
+      "message": "Bryansk oblast"
+   },
+   "RI_State_Or_Province_Buruyat_republic": {
+      "message": "Buruyat republic"
+   },
+   "RI_State_Or_Province_California": {
+      "message": "CA"
+   },
+   "RI_State_Or_Province_Chechen_republic": {
+      "message": "Chechen republic"
+   },
+   "RI_State_Or_Province_Chelyabinsk_oblast": {
+      "message": "Chelyabinsk oblast"
+   },
+   "RI_State_Or_Province_Chiba": {
+      "message": "Chiba"
+   },
+   "RI_State_Or_Province_Chita_oblast": {
+      "message": "Chita oblast"
+   },
+   "RI_State_Or_Province_Chongqing": {
+      "message": "Chongqing"
+   },
+   "RI_State_Or_Province_Chukotka_avt_okrug": {
+      "message": "Chukotka avt okrug"
+   },
+   "RI_State_Or_Province_Chuvash_republic": {
+      "message": "Chuvash republic"
+   },
+   "RI_State_Or_Province_Colorado": {
+      "message": "CO"
+   },
+   "RI_State_Or_Province_Connecticut": {
+      "message": "CT"
+   },
+   "RI_State_Or_Province_Dagestan_republic": {
+      "message": "Dagestan republic"
+   },
+   "RI_State_Or_Province_Delaware": {
+      "message": "DE"
+   },
+   "RI_State_Or_Province_District_of_Columbia": {
+      "message": "DC"
+   },
+   "RI_State_Or_Province_Dolnoslaskie": {
+      "message": "Dolnoslaskie"
+   },
+   "RI_State_Or_Province_Ehime": {
+      "message": "Ehime"
+   },
+   "RI_State_Or_Province_Evenk_avt_okrug": {
+      "message": "Evenk avt okrug"
+   },
+   "RI_State_Or_Province_Evreyskaya_avt_oblast": {
+      "message": "Evreyskaya avt oblast"
+   },
+   "RI_State_Or_Province_Florida": {
+      "message": "FL"
+   },
+   "RI_State_Or_Province_Fribourg": {
+      "message": "Friburgo"
+   },
+   "RI_State_Or_Province_Fujian": {
+      "message": "Fujian"
+   },
+   "RI_State_Or_Province_Fukui": {
+      "message": "Fukui"
+   },
+   "RI_State_Or_Province_Fukuoka": {
+      "message": "Fukuoka"
+   },
+   "RI_State_Or_Province_Fukushima": {
+      "message": "Fukushima"
+   },
+   "RI_State_Or_Province_Gansu": {
+      "message": "Gansu"
+   },
+   "RI_State_Or_Province_Geneva": {
+      "message": "Ginevra"
+   },
+   "RI_State_Or_Province_Georgia": {
+      "message": "GA"
+   },
+   "RI_State_Or_Province_Gifu": {
+      "message": "Gifu"
+   },
+   "RI_State_Or_Province_Glarus": {
+      "message": "Glarus"
+   },
+   "RI_State_Or_Province_Grisons": {
+      "message": "Grigioni"
+   },
+   "RI_State_Or_Province_Guam": {
+      "message": "GU"
+   },
+   "RI_State_Or_Province_Guangdong": {
+      "message": "Guangdong"
+   },
+   "RI_State_Or_Province_Guangxi": {
+      "message": "Guangxi"
+   },
+   "RI_State_Or_Province_Guizhou": {
+      "message": "Guizhou"
+   },
+   "RI_State_Or_Province_Gunma": {
+      "message": "Gunma"
+   },
+   "RI_State_Or_Province_Hainan": {
+      "message": "Hainan"
+   },
+   "RI_State_Or_Province_Hainaut": {
+      "message": "Hainaut"
+   },
+   "RI_State_Or_Province_Hanty_Mansy_avt_okrug": {
+      "message": "Hanty-Mansy avt okrug"
+   },
+   "RI_State_Or_Province_Hawaii": {
+      "message": "HI"
+   },
+   "RI_State_Or_Province_Hebei": {
+      "message": "Hebei"
+   },
+   "RI_State_Or_Province_Heilongjiang": {
+      "message": "Heilongjiang"
+   },
+   "RI_State_Or_Province_Henan": {
+      "message": "Henan"
+   },
+   "RI_State_Or_Province_Hiroshima": {
+      "message": "Hiroshima"
+   },
+   "RI_State_Or_Province_Hokkaido": {
+      "message": "Hokkaido"
+   },
+   "RI_State_Or_Province_Hubei": {
+      "message": "Hubei"
+   },
+   "RI_State_Or_Province_Hunan": {
+      "message": "Hunan"
+   },
+   "RI_State_Or_Province_Hyougo": {
+      "message": "Hyougo"
+   },
+   "RI_State_Or_Province_Ibaraki": {
+      "message": "Ibaraki"
+   },
+   "RI_State_Or_Province_Idaho": {
+      "message": "ID"
+   },
+   "RI_State_Or_Province_Illinois": {
+      "message": "IL"
+   },
+   "RI_State_Or_Province_Indiana": {
+      "message": "IN"
+   },
+   "RI_State_Or_Province_Ingush_republic": {
+      "message": "Ingush republic"
+   },
+   "RI_State_Or_Province_Iowa": {
+      "message": "IA"
+   },
+   "RI_State_Or_Province_Irkutsk_oblast": {
+      "message": "Irkutsk oblast"
+   },
+   "RI_State_Or_Province_Ishikawa": {
+      "message": "Ishikawa"
+   },
+   "RI_State_Or_Province_Ivanovskaya_oblast": {
+      "message": "Ivanovskaya oblast"
+   },
+   "RI_State_Or_Province_Iwate": {
+      "message": "Iwate"
+   },
+   "RI_State_Or_Province_Jiangsu": {
+      "message": "Jiangsu"
+   },
+   "RI_State_Or_Province_Jiangxi": {
+      "message": "Jiangxi"
+   },
+   "RI_State_Or_Province_Jilin": {
+      "message": "Jilin"
+   },
+   "RI_State_Or_Province_Jura": {
+      "message": "Jura"
+   },
+   "RI_State_Or_Province_Kabardino_Balkar_republic": {
+      "message": "Kabardino-Balkar republic"
+   },
+   "RI_State_Or_Province_Kagawa": {
+      "message": "Kagawa"
+   },
+   "RI_State_Or_Province_Kagoshima": {
+      "message": "Kagoshima"
+   },
+   "RI_State_Or_Province_Kalinigrad_oblast": {
+      "message": "Kalinigrad oblast"
+   },
+   "RI_State_Or_Province_Kalmykiya_republic": {
+      "message": "Kalmykiya republic"
+   },
+   "RI_State_Or_Province_Kaluga_oblast": {
+      "message": "Kaluga oblast"
+   },
+   "RI_State_Or_Province_Kamchatka_oblast": {
+      "message": "Kamchatka oblast"
+   },
+   "RI_State_Or_Province_Kanagawa": {
+      "message": "Kanagawa"
+   },
+   "RI_State_Or_Province_Kansas": {
+      "message": "KS"
+   },
+   "RI_State_Or_Province_Karachaevo_Cherkessia_republic": {
+      "message": "Karachaevo-Cherkessia republic"
+   },
+   "RI_State_Or_Province_Karelia_republic": {
+      "message": "Karelia republic"
+   },
+   "RI_State_Or_Province_Kemerovo_oblast": {
+      "message": "Kemerovo oblast"
+   },
+   "RI_State_Or_Province_Kentucky": {
+      "message": "KY"
+   },
+   "RI_State_Or_Province_Khabarovsk_krai": {
+      "message": "Khabarovsk krai"
+   },
+   "RI_State_Or_Province_Khakassia_republic": {
+      "message": "Khakassia republic"
+   },
+   "RI_State_Or_Province_Kirov_oblast": {
+      "message": "Kirov oblast"
+   },
+   "RI_State_Or_Province_Komi_Permyak_avt_okrug": {
+      "message": "Komi-Permyak avt okrug"
+   },
+   "RI_State_Or_Province_Komi_republic": {
+      "message": "Komi republic"
+   },
+   "RI_State_Or_Province_Koryak_avt_okrug": {
+      "message": "Koryak avt okrug"
+   },
+   "RI_State_Or_Province_Kostroma_oblast": {
+      "message": "Kostroma oblast"
+   },
+   "RI_State_Or_Province_Kouchi": {
+      "message": "Kouchi"
+   },
+   "RI_State_Or_Province_Krasnodar_krai": {
+      "message": "Krasnodar krai"
+   },
+   "RI_State_Or_Province_Krasnoyarsk_krai": {
+      "message": "Krasnoyarsk krai"
+   },
+   "RI_State_Or_Province_Kujawsko_Pomorskie": {
+      "message": "Kujawsko-Pomorskie"
+   },
+   "RI_State_Or_Province_Kumamoto": {
+      "message": "Kumamoto"
+   },
+   "RI_State_Or_Province_Kurgan_oblast": {
+      "message": "Kurgan oblast"
+   },
+   "RI_State_Or_Province_Kursk_oblast": {
+      "message": "Kursk oblast"
+   },
+   "RI_State_Or_Province_Kyoto": {
+      "message": "Kyoto"
+   },
+   "RI_State_Or_Province_Leningrad_oblast": {
+      "message": "Leningrad oblast"
+   },
+   "RI_State_Or_Province_Liaoning": {
+      "message": "Liaoning"
+   },
+   "RI_State_Or_Province_Liege": {
+      "message": "Liege"
+   },
+   "RI_State_Or_Province_Limburg": {
+      "message": "Limburg"
+   },
+   "RI_State_Or_Province_Lipetsk_oblast": {
+      "message": "Lipetsk oblast"
+   },
+   "RI_State_Or_Province_Lodzkie": {
+      "message": "Lodzkie"
+   },
+   "RI_State_Or_Province_Louisiana": {
+      "message": "LA"
+   },
+   "RI_State_Or_Province_Lubelskie": {
+      "message": "Lubelskie"
+   },
+   "RI_State_Or_Province_Lubuskie": {
+      "message": "Lubuskie"
+   },
+   "RI_State_Or_Province_Lucerne": {
+      "message": "Lucerna"
+   },
+   "RI_State_Or_Province_Luxembourg": {
+      "message": "Lussemburgo"
+   },
+   "RI_State_Or_Province_Magadan_oblast": {
+      "message": "Magadan oblast"
+   },
+   "RI_State_Or_Province_Maine": {
+      "message": "ME"
+   },
+   "RI_State_Or_Province_Malopolskie": {
+      "message": "Malopolskie"
+   },
+   "RI_State_Or_Province_Manitoba": {
+      "message": "Manitoba"
+   },
+   "RI_State_Or_Province_Marii_El_republic": {
+      "message": "Marii El republic"
+   },
+   "RI_State_Or_Province_Maryland": {
+      "message": "MD"
+   },
+   "RI_State_Or_Province_Massachusetts": {
+      "message": "MA"
+   },
+   "RI_State_Or_Province_Mazowieckie": {
+      "message": "Mazowieckie"
+   },
+   "RI_State_Or_Province_Michigan": {
+      "message": "MI"
+   },
+   "RI_State_Or_Province_Mie": {
+      "message": "Mie"
+   },
+   "RI_State_Or_Province_Minnesota": {
+      "message": "MN"
+   },
+   "RI_State_Or_Province_Mississippi": {
+      "message": "MS"
+   },
+   "RI_State_Or_Province_Missouri": {
+      "message": "MO"
+   },
+   "RI_State_Or_Province_Miyagi": {
+      "message": "Miyagi"
+   },
+   "RI_State_Or_Province_Miyazaki": {
+      "message": "Miyazaki"
+   },
+   "RI_State_Or_Province_Montana": {
+      "message": "MT"
+   },
+   "RI_State_Or_Province_Mordovia_republic": {
+      "message": "Mordovia republic"
+   },
+   "RI_State_Or_Province_Moscow_city": {
+      "message": "Moscow city"
+   },
+   "RI_State_Or_Province_Moscow_oblast": {
+      "message": "Moscow oblast"
+   },
+   "RI_State_Or_Province_Murmansk_oblast": {
+      "message": "Murmansk oblast"
+   },
+   "RI_State_Or_Province_Nagano": {
+      "message": "Nagano"
+   },
+   "RI_State_Or_Province_Nagasaki": {
+      "message": "Nagasaki"
+   },
+   "RI_State_Or_Province_Namur": {
+      "message": "Namur"
+   },
+   "RI_State_Or_Province_Nara": {
+      "message": "Nara"
+   },
+   "RI_State_Or_Province_Nebraska": {
+      "message": "NE"
+   },
+   "RI_State_Or_Province_Nei_Mongol": {
+      "message": "Nei Mongol"
+   },
+   "RI_State_Or_Province_Nenetsk_avt_okrug": {
+      "message": "Nenetsk avt okrug"
+   },
+   "RI_State_Or_Province_Neuchatel": {
+      "message": "Neuchatel"
+   },
+   "RI_State_Or_Province_Nevada": {
+      "message": "NV"
+   },
+   "RI_State_Or_Province_New_Brunswick": {
+      "message": "New Brunswick"
+   },
+   "RI_State_Or_Province_New_Hampshire": {
+      "message": "NH"
+   },
+   "RI_State_Or_Province_New_Jersey": {
+      "message": "NJ"
+   },
+   "RI_State_Or_Province_New_Mexico": {
+      "message": "NM"
+   },
+   "RI_State_Or_Province_New_South_Wales": {
+      "message": "NSW"
+   },
+   "RI_State_Or_Province_New_York": {
+      "message": "NY"
+   },
+   "RI_State_Or_Province_Newfoundland": {
+      "message": "Newfoundland"
+   },
+   "RI_State_Or_Province_Nidwalden": {
+      "message": "Nidwalden"
+   },
+   "RI_State_Or_Province_Niigata": {
+      "message": "Niigata"
+   },
+   "RI_State_Or_Province_Ningxia": {
+      "message": "Ningxia"
+   },
+   "RI_State_Or_Province_Nizhegorodskaya_oblast": {
+      "message": "Nizhegorodskaya oblast"
+   },
+   "RI_State_Or_Province_North_Carolina": {
+      "message": "NC"
+   },
+   "RI_State_Or_Province_North_Dakota": {
+      "message": "ND"
+   },
+   "RI_State_Or_Province_Northern_Mariana_Is": {
+      "message": "MP"
+   },
+   "RI_State_Or_Province_Northern_Territory": {
+      "message": "NT"
+   },
+   "RI_State_Or_Province_Northwest_Territories": {
+      "message": "Northwest Territories"
+   },
+   "RI_State_Or_Province_Nova_Scotia": {
+      "message": "Nova Scotia"
+   },
+   "RI_State_Or_Province_Novgorod_oblast": {
+      "message": "Novgorod oblast"
+   },
+   "RI_State_Or_Province_Novosibirsk_oblast": {
+      "message": "Novosibirsk oblast"
+   },
+   "RI_State_Or_Province_Nunavut": {
+      "message": "Nunavut"
+   },
+   "RI_State_Or_Province_Obwalden": {
+      "message": "Obwalden"
+   },
+   "RI_State_Or_Province_Ohio": {
+      "message": "OH"
+   },
+   "RI_State_Or_Province_Okayama": {
+      "message": "Okayama"
+   },
+   "RI_State_Or_Province_Okinawa": {
+      "message": "Okinawa"
+   },
+   "RI_State_Or_Province_Oklahoma": {
+      "message": "OK"
+   },
+   "RI_State_Or_Province_Omsk_oblast": {
+      "message": "Omsk oblast"
+   },
+   "RI_State_Or_Province_Ontario": {
+      "message": "Ontario"
+   },
+   "RI_State_Or_Province_Ooita": {
+      "message": "Ooita"
+   },
+   "RI_State_Or_Province_Oost_Vlaanderen": {
+      "message": "Oost Vlaanderen"
+   },
+   "RI_State_Or_Province_Opolskie": {
+      "message": "Opolskie"
+   },
+   "RI_State_Or_Province_Oregon": {
+      "message": "OR"
+   },
+   "RI_State_Or_Province_Orel_oblast": {
+      "message": "Orel oblast"
+   },
+   "RI_State_Or_Province_Orenburg_oblast": {
+      "message": "Orenburg oblast"
+   },
+   "RI_State_Or_Province_Osaka": {
+      "message": "Osaka"
+   },
+   "RI_State_Or_Province_Palau": {
+      "message": "PW"
+   },
+   "RI_State_Or_Province_Pennsylvania": {
+      "message": "PA"
+   },
+   "RI_State_Or_Province_Penza_oblast": {
+      "message": "Penza oblast"
+   },
+   "RI_State_Or_Province_Perm_oblast": {
+      "message": "Perm oblast"
+   },
+   "RI_State_Or_Province_Podkarpackie": {
+      "message": "Podkarpackie"
+   },
+   "RI_State_Or_Province_Podlaskie": {
+      "message": "Podlaskie"
+   },
+   "RI_State_Or_Province_Pomorskie": {
+      "message": "Pomorskie"
+   },
+   "RI_State_Or_Province_Primorskii_krai": {
+      "message": "Primorskii krai"
+   },
+   "RI_State_Or_Province_Prince_Edward_Island": {
+      "message": "Prince Edward Island"
+   },
+   "RI_State_Or_Province_Pskov_oblast": {
+      "message": "Pskov oblast"
+   },
+   "RI_State_Or_Province_Puerto_Rico": {
+      "message": "PR"
+   },
+   "RI_State_Or_Province_Qinghai": {
+      "message": "Qinghai"
+   },
+   "RI_State_Or_Province_Quebec": {
+      "message": "Quebec"
+   },
+   "RI_State_Or_Province_Queensland": {
+      "message": "QLD"
+   },
+   "RI_State_Or_Province_Rhode_Island": {
+      "message": "RI"
+   },
+   "RI_State_Or_Province_Rostov_oblast": {
+      "message": "Rostov oblast"
+   },
+   "RI_State_Or_Province_Ryazan_oblast": {
+      "message": "Ryazan oblast"
+   },
+   "RI_State_Or_Province_Saga": {
+      "message": "Saga"
+   },
+   "RI_State_Or_Province_Saha_republic": {
+      "message": "Saha (Yakutia)"
+   },
+   "RI_State_Or_Province_Saint_Gall": {
+      "message": "St. Gall"
+   },
+   "RI_State_Or_Province_Saitama": {
+      "message": "Saitama"
+   },
+   "RI_State_Or_Province_Sakhalin_oblast": {
+      "message": "Sahalin oblast"
+   },
+   "RI_State_Or_Province_Samara_oblast": {
+      "message": "Samara oblast"
+   },
+   "RI_State_Or_Province_Saratov_oblast": {
+      "message": "Saratov oblast"
+   },
+   "RI_State_Or_Province_Saskatchewan": {
+      "message": "Saskatchewan"
+   },
+   "RI_State_Or_Province_Schaffhausen": {
+      "message": "Schaffhausen"
+   },
+   "RI_State_Or_Province_Schwyz": {
+      "message": "Schwyz"
+   },
+   "RI_State_Or_Province_Severnaya_Ossetia_Alaniya_republic": {
+      "message": "Severnaya Ossetia-Alaniya republic"
+   },
+   "RI_State_Or_Province_Shaanxi": {
+      "message": "Shaanxi"
+   },
+   "RI_State_Or_Province_Shandong": {
+      "message": "Shandong"
+   },
+   "RI_State_Or_Province_Shanghai": {
+      "message": "Shanghai"
+   },
+   "RI_State_Or_Province_Shanxi": {
+      "message": "Shanxi"
+   },
+   "RI_State_Or_Province_Shiga": {
+      "message": "Shiga"
+   },
+   "RI_State_Or_Province_Shimane": {
+      "message": "Shimane"
+   },
+   "RI_State_Or_Province_Shizuoka": {
+      "message": "Shizuoka"
+   },
+   "RI_State_Or_Province_Sichuan": {
+      "message": "Sichuan"
+   },
+   "RI_State_Or_Province_Slaskie": {
+      "message": "Slaskie"
+   },
+   "RI_State_Or_Province_Smolensk_oblast": {
+      "message": "Smolensk oblast"
+   },
+   "RI_State_Or_Province_Solothurn": {
+      "message": "Solothurn"
+   },
+   "RI_State_Or_Province_South_Australia": {
+      "message": "SA"
+   },
+   "RI_State_Or_Province_South_Carolina": {
+      "message": "SC"
+   },
+   "RI_State_Or_Province_South_Dakota": {
+      "message": "SD"
+   },
+   "RI_State_Or_Province_St_Petersburg_city": {
+      "message": "St Petersburg city"
+   },
+   "RI_State_Or_Province_Stavropol_krai": {
+      "message": "Stavropol krai"
+   },
+   "RI_State_Or_Province_Sverdlovsk_oblast": {
+      "message": "Sverdlovsk oblast"
+   },
+   "RI_State_Or_Province_Swietokrzyskie": {
+      "message": "Swietokrzyskie"
+   },
+   "RI_State_Or_Province_Taimyr_act_okrug": {
+      "message": "Taimyr act okrug"
+   },
+   "RI_State_Or_Province_Taiwan": {
+      "message": "Taiwan"
+   },
+   "RI_State_Or_Province_Tambov_oblast": {
+      "message": "Tambov oblast"
+   },
+   "RI_State_Or_Province_Tasmania": {
+      "message": "TAS"
+   },
+   "RI_State_Or_Province_Tatarstan_republic": {
+      "message": "Tatarstan republic"
+   },
+   "RI_State_Or_Province_Tennessee": {
+      "message": "TN"
+   },
+   "RI_State_Or_Province_Texas": {
+      "message": "TX"
+   },
+   "RI_State_Or_Province_Thurgovia": {
+      "message": "Thurgovia"
+   },
+   "RI_State_Or_Province_Tianjin": {
+      "message": "Tianjin"
+   },
+   "RI_State_Or_Province_Ticino": {
+      "message": "Ticino"
+   },
+   "RI_State_Or_Province_Tochigi": {
+      "message": "Tochigi"
+   },
+   "RI_State_Or_Province_Tokushima": {
+      "message": "Tokushima"
+   },
+   "RI_State_Or_Province_Tokyo": {
+      "message": "Tokyo"
+   },
+   "RI_State_Or_Province_Tomsk_oblast": {
+      "message": "Tomsk oblast"
+   },
+   "RI_State_Or_Province_Tottori": {
+      "message": "Tottori"
+   },
+   "RI_State_Or_Province_Toyama": {
+      "message": "Toyama"
+   },
+   "RI_State_Or_Province_Tula_oblast": {
+      "message": "Tula oblast"
+   },
+   "RI_State_Or_Province_Tver_oblast": {
+      "message": "Tver oblast"
+   },
+   "RI_State_Or_Province_Tyumen_oblast": {
+      "message": "Tyumen oblast"
+   },
+   "RI_State_Or_Province_Tywa_republic": {
+      "message": "Tywa republic"
+   },
+   "RI_State_Or_Province_Udmurtia_republic": {
+      "message": "Udmurtia republic"
+   },
+   "RI_State_Or_Province_Ulianovsk_oblast": {
+      "message": "Ulianovsk oblast"
+   },
+   "RI_State_Or_Province_Uri": {
+      "message": "Uri"
+   },
+   "RI_State_Or_Province_Ust_Ordynsk_Buryat_avt_okrug": {
+      "message": "Ust'-Ordynsk Buryat avt okrug"
+   },
+   "RI_State_Or_Province_Utah": {
+      "message": "UT"
+   },
+   "RI_State_Or_Province_Valais": {
+      "message": "Valais"
+   },
+   "RI_State_Or_Province_Vaud": {
+      "message": "Vaud"
+   },
+   "RI_State_Or_Province_Vermont": {
+      "message": "VT"
+   },
+   "RI_State_Or_Province_Victoria": {
+      "message": "VIC"
+   },
+   "RI_State_Or_Province_Virgin_Island": {
+      "message": "VI"
+   },
+   "RI_State_Or_Province_Virginia": {
+      "message": "VA"
+   },
+   "RI_State_Or_Province_Vlaams_Brabant": {
+      "message": "Vlaams Brabant"
+   },
+   "RI_State_Or_Province_Vladimir_oblast": {
+      "message": "Vladimir oblast"
+   },
+   "RI_State_Or_Province_Volgograd_oblast": {
+      "message": "Volgograd oblast"
+   },
+   "RI_State_Or_Province_Vologod_oblast": {
+      "message": "Vologod oblast"
+   },
+   "RI_State_Or_Province_Voronezh_oblast": {
+      "message": "Voronezh oblast"
+   },
+   "RI_State_Or_Province_Wakayama": {
+      "message": "Wakayama"
+   },
+   "RI_State_Or_Province_Warminsko_Mazurskie": {
+      "message": "Warminsko-Mazurskie"
+   },
+   "RI_State_Or_Province_Washington": {
+      "message": "WA"
+   },
+   "RI_State_Or_Province_West_Virginia": {
+      "message": "WV"
+   },
+   "RI_State_Or_Province_West_Vlaanderen": {
+      "message": "West Vlaanderen"
+   },
+   "RI_State_Or_Province_Western_Australia": {
+      "message": "WA"
+   },
+   "RI_State_Or_Province_Wielkopolskie": {
+      "message": "Wielkopolskie"
+   },
+   "RI_State_Or_Province_Wisconsin": {
+      "message": "WI"
+   },
+   "RI_State_Or_Province_Wyoming": {
+      "message": "WY"
+   },
+   "RI_State_Or_Province_Xianggang": {
+      "message": "Xianggang"
+   },
+   "RI_State_Or_Province_Xinjiang": {
+      "message": "Xinjiang"
+   },
+   "RI_State_Or_Province_Xizang": {
+      "message": "Xizang"
+   },
+   "RI_State_Or_Province_Yamagata": {
+      "message": "Yamagata"
+   },
+   "RI_State_Or_Province_Yamaguchi": {
+      "message": "Yamaguchi"
+   },
+   "RI_State_Or_Province_Yamalo_Nenetsk_avt_okrug": {
+      "message": "Yamalo-Nenetsk avt okrug"
+   },
+   "RI_State_Or_Province_Yamanashi": {
+      "message": "Yamanashi"
+   },
+   "RI_State_Or_Province_Yaroslav_oblast": {
+      "message": "Yaroslav oblast"
+   },
+   "RI_State_Or_Province_Yukon": {
+      "message": "Yukon"
+   },
+   "RI_State_Or_Province_Yunnan": {
+      "message": "Yunnan"
+   },
+   "RI_State_Or_Province_Zachodniopomorskie": {
+      "message": "Zachodniopomorskie"
+   },
+   "RI_State_Or_Province_Zhejiang": {
+      "message": "Zhejiang"
+   },
+   "RI_State_Or_Province_Zug": {
+      "message": "Zug"
+   },
+   "RI_State_Or_Province_Zurich": {
+      "message": "Zurigo"
+   },
+   "RI_State_Zip": {
+      "message": "CAP"
+   },
+   "RI_Station": {
+      "message": "Stazione"
+   },
+   "RI_Stock_Symbol": {
+      "message": "Simbolo Borsa"
+   },
+   "RI_StreetName": {
+      "message": "Via"
+   },
+   "RI_StreetNameC_HouseNumber": {
+      "message": "Via, numero"
+   },
+   "RI_StreetName_HouseNumber": {
+      "message": "Via numero"
+   },
+   "RI_Suburb": {
+      "message": "Frazione"
+   },
+   "RI_Subway_Station": {
+      "message": "Fermata"
+   },
+   "RI_Suffix": {
+      "message": "Suffisso"
+   },
+   "RI_Summary___id_account__": {
+      "message": "conto"
+   },
+   "RI_Summary___id_appname__": {
+      "message": "nome dell'applicazione"
+   },
+   "RI_Summary___id_bank__": {
+      "message": "banca"
+   },
+   "RI_Summary___id_carmakemodel__": {
+      "message": "marca, modello"
+   },
+   "RI_Summary___id_cell__": {
+      "message": "cellulare:\t"
+   },
+   "RI_Summary___id_cvv__": {
+      "message": "cvv"
+   },
+   "RI_Summary___id_expiration__": {
+      "message": "scadenza"
+   },
+   "RI_Summary___id_fax__": {
+      "message": "fax:\t"
+   },
+   "RI_Summary___id_filename__": {
+      "message": "nome del file"
+   },
+   "RI_Summary___id_home__": {
+      "message": "casa:\t"
+   },
+   "RI_Summary___id_mail__": {
+      "message": "indirizzo postale"
+   },
+   "RI_Summary___id_passportnumber__": {
+      "message": "numero di passaporto"
+   },
+   "RI_Summary___id_password__": {
+      "message": "password"
+   },
+   "RI_Summary___id_phone__": {
+      "message": "telefono:\t"
+   },
+   "RI_Summary___id_platenumber__": {
+      "message": "numero di targa"
+   },
+   "RI_Summary___id_ssn__": {
+      "message": "SSN #"
+   },
+   "RI_Summary___id_userid__": {
+      "message": "nome utente"
+   },
+   "RI_Summary___id_work__": {
+      "message": "lavoro:\t"
+   },
+   "RI_Tax_ID": {
+      "message": "ID Tass."
+   },
+   "RI_Title": {
+      "message": "Titolo"
+   },
+   "RI_Title_Dr": {
+      "message": "Dr."
+   },
+   "RI_Title_Engr": {
+      "message": "Ing."
+   },
+   "RI_Title_Mr": {
+      "message": "Sig."
+   },
+   "RI_Title_Mrs": {
+      "message": "Sig.ra"
+   },
+   "RI_Title_Ms": {
+      "message": "Signorina"
+   },
+   "RI_Title_Prof": {
+      "message": "Prof."
+   },
+   "RI_Toll_Free_Phone": {
+      "message": "Numero Verde"
+   },
+   "RI_Type_Of_Business": {
+      "message": "Area Attività"
+   },
+   "RI_User_ID": {
+      "message": "ID Utente"
+   },
+   "RI_Valid_From": {
+      "message": "Valida dal"
+   },
+   "RI_Vehicle_Identification_Number": {
+      "message": "Telaio (VIN)"
+   },
+   "RI_Web_Site": {
+      "message": "Sito Web"
+   },
+   "RI_Work_Phone": {
+      "message": "Telefono ufficio"
+   },
+   "RI_Work_Phone_Ext": {
+      "message": "Ext"
+   },
+   "RI_Yahoo_ID": {
+      "message": "Yahoo ID"
+   },
+   "RI_ZipCode": {
+      "message": "CAP"
+   },
+   "RI_Zip_Or_PostCode": {
+      "message": "CAP / Codice postale"
+   },
+   "RI__End": {
+      "message": ""
+   },
+   "RI__Start": {
+      "message": ""
+   },
+   "RI_dd": {
+      "message": "gg"
+   },
+   "RI_mm": {
+      "message": "mm"
+   },
+   "RI_yyyy": {
+      "message": "aaaa"
+   },
+   "ReadOnly_Error": {
+      "message": "I dati sono di sola lettura"
+   },
+   "RenameDlg_InstanceRename_Prompt": {
+      "message": "Rinomina %1 '%2' di %3 '%4' a:"
+   },
+   "RenameDlg_Instance_Type_Text": {
+      "message": "Istanza"
+   },
+   "ReportAnIssue_RFSSTicket_Message": {
+      "message": "Gentile supporto di RoboForm, \nSulla pagina: %1 \nho rilevato i seguenti problemi correlati a RoboForm: \n%2"
+   },
+   "ReportAnIssue_RFSSTicket_Subject": {
+      "message": "Problema RoboForm su %1"
+   },
+   "RfSyncProgress_Analyzed": {
+      "message": "Analizzato"
+   },
+   "RfSyncProgress_Connecting": {
+      "message": "Connessione..."
+   },
+   "RfSyncProgress_Done": {
+      "message": "Fatto"
+   },
+   "RfSyncProgress_RequestingAccountInfo": {
+      "message": "Richiesta informazioni..."
+   },
+   "RfSyncProgress_Synced": {
+      "message": "Sincronizzato"
+   },
+   "RfSyncProgress_Syncing": {
+      "message": "Sincronizzazione ..."
+   },
+   "RfSyncProgress_SyncingSharedFiles": {
+      "message": "Sincronizzazione file condivisi..."
+   },
+   "RfSyncProgress_SyncingSharedFolders": {
+      "message": "Sincronizzazione cartelle condivise..."
+   },
+   "RfSyncProgress_SyncingUsageInfo": {
+      "message": "Sincronizzazione informazioni d'uso..."
+   },
+   "RoboForm_Error": {
+      "message": "Errore RoboForm"
+   },
+   "RoboForm_Question": {
+      "message": "Richiesta RoboForm"
+   },
+   "RoboForm_Warning": {
+      "message": "Avviso RoboForm"
+   },
+   "RoboformType_Bookmark": {
+      "message": "Segnalibro"
+   },
+   "RoboformType_Bookmarks": {
+      "message": "Segnalibri"
+   },
+   "RoboformType_Contact": {
+      "message": "Contatto"
+   },
+   "RoboformType_Contacts": {
+      "message": "Contatti"
+   },
+   "RoboformType_File": {
+      "message": "File"
+   },
+   "RoboformType_Files": {
+      "message": "File"
+   },
+   "RoboformType_Folder": {
+      "message": "Cartella"
+   },
+   "RoboformType_Folders": {
+      "message": "Cartelle"
+   },
+   "RoboformType_Identities": {
+      "message": "Identità"
+   },
+   "RoboformType_Identity": {
+      "message": "Identità"
+   },
+   "RoboformType_Login": {
+      "message": "Login"
+   },
+   "RoboformType_Logins": {
+      "message": "Login"
+   },
+   "RoboformType_Safenote": {
+      "message": "NotaSicura"
+   },
+   "RoboformType_Safenotes": {
+      "message": "NoteSicure"
+   },
+   "RoboformType_Searchcard": {
+      "message": "Ricerca"
+   },
+   "RoboformType_Searchcards": {
+      "message": "Ricerche"
+   },
+   "Roboform_Folder": {
+      "message": "Cartella"
+   },
+   "SA_ChangeAccountPwd_Error": {
+      "message": "Codice di errore %1"
+   },
+   "SA_Edge_Setup_Description_First": {
+      "message": "Hai installato RoboForm solo per l'estensione Edge. Per la versione completa, installa RoboForm per Windows."
+   },
+   "SA_LimitedMode_LinkRF_Text": {
+      "message": "Installa RoboForm"
+   },
+   "SA_LimitedMode_Text": {
+      "message": "Funzionalità limitata. Per tutte le caratteristiche"
+   },
+   "SA_Setup_Description_First": {
+      "message": "Hai installato l'estensione RoboForm. Questa estensione offre solo funzionalità limitate. Per avere tutte le funzionalità è necessario aggiornare o installare l'applicazione RoboForm completa sul proprio computer."
+   },
+   "SA_Setup_Description_Repair": {
+      "message": "In precedenza hai utilizzato l'estensione RoboForm con il software RoboForm sul tuo computer, ma ora il software RoboForm è vecchio o non installato. Clicca il pulsante sottostante \"Installa ora\" per sistemare o aggiornare la versione di RoboForm sul tuo computer."
+   },
+   "SA_Setup_InstallNow_Button": {
+      "message": "Installa ora"
+   },
+   "SA_Setup_Skip_Button": {
+      "message": "Salta"
+   },
+   "Safenote_ClickToView_Tip": {
+      "message": "Clicca per vedere Nota sicura"
+   },
+   "SaveDlg_ActionNote_Existing_Bookmark": {
+      "message": "Questo segnalibro sostituirà un segnalibro esistente: '%1'"
+   },
+   "SaveDlg_ActionNote_Existing_Login": {
+      "message": "Questa informazione di Login sostituirà un login esistente: %1'"
+   },
+   "SaveDlg_ActionNote_NewAccountLogin": {
+      "message": "Le informazioni del nuovo account saranno salvate per nuovo Login '%1'"
+   },
+   "SaveDlg_ActionNote_UpdateLoginPassword": {
+      "message": "La nuova password sostituirà la vecchia password nel login esistente: '%1', gli altri campi non cambieranno"
+   },
+   "SaveDlg_ActionNote_UpdateLoginUrl_Text": {
+      "message": "L'url nel Login '%1'verrà aggiornato"
+   },
+   "SaveDlg_ActionNote_UpdateLogin_Text": {
+      "message": "Il Login '%1' verrà aggiornato con nuove info"
+   },
+   "SaveDlg_AskBeforeSaving_Text": {
+      "message": "Chiedi prima di salvare"
+   },
+   "SaveDlg_AutoSavedPassword_LoginTip": {
+      "message": "AutoSalvataggio da modifica password"
+   },
+   "SaveDlg_Folder_Text": {
+      "message": "Cartella:"
+   },
+   "SaveDlg_NeverForThisSite_Text": {
+      "message": "Mai per questo sito"
+   },
+   "SaveDlg_NewFolder_Text": {
+      "message": "Crea Cartella..."
+   },
+   "SaveDlg_Note_AccountCreationData_Text": {
+      "message": "Data Creazione Account:"
+   },
+   "SaveDlg_Note_PasswordChanged_Text2": {
+      "message": "%1: password modificata da '%2'"
+   },
+   "SaveDlg_Preview_Group_Title": {
+      "message": "Anteprima"
+   },
+   "SaveDlg_ReplaceExistingItem_Section_Text": {
+      "message": "Sostituisci elemento esistente:"
+   },
+   "SaveDlg_ReplaceExistingLogin_Section_Text": {
+      "message": "Sostituisci Login esistente:"
+   },
+   "SaveDlg_SaveAs_Bookmark_Text": {
+      "message": "Segnalibro"
+   },
+   "SaveDlg_SaveAs_Login_Text": {
+      "message": "Login"
+   },
+   "SaveDlg_SaveNewLogin_Section_Text": {
+      "message": "Salva nuovo Login:"
+   },
+   "SaveDlg_Unblock_Key": {
+      "message": "Sblocca"
+   },
+   "SaveDlg_UpdateExistingLogin_Section_Text": {
+      "message": "Aggiorna Login esistente:"
+   },
+   "SaveDlg_UpdateLoginQuestion_Text": {
+      "message": "Vuoi che RoboForm aggiorni il tuo Login?"
+   },
+   "SaveDlg_UpdatePasswordQuestion_Text": {
+      "message": "Nuova password rilevata.\nAggiornare Login '%1' con nuova password?"
+   },
+   "SaveForms_Disabled": {
+      "message": "Il salvataggio dei moduli è disabilitato per motivi di sicurezza"
+   },
+   "SearchAction_Search_In": {
+      "message": "Cerca '%%query%%' in %1"
+   },
+   "SearchAction_Search_In_RoboForm_Files": {
+      "message": "Cerca '%%query%%' nei file RoboForm"
+   },
+   "SearchAction_Search_In_RoboForm_Names": {
+      "message": "Cerca '%%query%%' nei nomi RoboForm"
+   },
+   "SendFilesConfirmation_Title": {
+      "message": "Un utente RoboForm ti ha inviato alcuni dati RoboForm.\n Accetti o rifiuti il/i file/i inviato/i sotto:"
+   },
+   "SensitiveFields_Text_2": {
+      "message": "RoboForm ha trovato i campi sensibili. Conferma di consentire la compilazione di questi campi:"
+   },
+   "SensitiveFields_Title2": {
+      "message": "Campi sensibili trovati - RoboForm"
+   },
+   "SessionExpireDlg_Text": {
+      "message": "La tua sessione è scaduta. Accedi di nuovo."
+   },
+   "SetupPage_AlreadyHaveAnAccount_Question": {
+      "message": "Hai già un account?"
+   },
+   "SetupPage_AlreadyHaveAnAccount_Text": {
+      "message": "Hai già un account RoboForm?"
+   },
+   "SetupPage_CreateAccount_Button_Text": {
+      "message": "Crea il tuo account RoboForm"
+   },
+   "SetupPage_CreateAccount_Link_Text": {
+      "message": "Crea Account"
+   },
+   "SetupPage_DoNotHaveAnAccount_Text": {
+      "message": "Non hai un account?"
+   },
+   "Setup_CreateAccountWithTakenEmail_Error2": {
+      "message": "L'account con questa e-mail esiste già.\nInserisci un'altra e-mail."
+   },
+   "Setup_LoginWithExistingAccount_Prompt": {
+      "message": "* L'estensione RoboForm richiede i cookie. Assicurarsi che l'impostazione 'Cookie' sia impostata su 'Non bloccare i cookie'"
+   },
+   "ShareExistingFolder_TooLongName_Error": {
+      "message": "Il nome della cartella '%1' è troppo lungo. La lunghezza massima consentita del nome per le cartelle e i gruppi condivisi è di %2 simboli."
+   },
+   "SharedFileSettings_CompanyMembersOnlySending_Error": {
+      "message": "L'invio di file è limitato dalla politica. È possibile inviare file solo ai membri della tua azienda."
+   },
+   "SharedFileSettings_CompanyMembersOnlySharing_Error": {
+      "message": "La condivisione dei file è limitata dalla politica. È possibile condividere i file solo con i membri della propria azienda."
+   },
+   "SharedFilesConfirmation_Title": {
+      "message": "Un utente RoboForm desidera condividere alcuni dati RoboForm con te.\nAccetta o rifiuta i file condivisi di seguito:"
+   },
+   "SharedFolderSettings_CompanyMembersOnlySharing_Error": {
+      "message": "La condivisione delle cartelle è limitata dalla politica. È possibile condividere le cartelle solo con i membri della propria azienda."
+   },
+   "SharedFolderSettings_Folder": {
+      "message": "Cartella condivisa"
+   },
+   "SharedFolderSettings_Group": {
+      "message": "Gruppo"
+   },
+   "SharedFolderSettings_RejectSharedFolder": {
+      "message": "Rifiuta"
+   },
+   "SharedFolderSettings_RoleOwner": {
+      "message": "Proprietario"
+   },
+   "SharedFolder_Revoke_Confirmation": {
+      "message": "Sei sicuro di voler revocare la cartella condivisa '%1' dall'utente %2?"
+   },
+   "SharedFoldersConfirmation_Title": {
+      "message": "Un utente RoboForm desidera condividere alcuni dati RoboForm con te.\nAccetta o rifiuta le cartelle condivise di seguito:"
+   },
+   "ShowAutoFillUI_Text": {
+      "message": "Mostra in loco Compilazione automatica UI"
+   },
+   "ShowContextMenuCommands_Text2": {
+      "message": "Mostra i comandi di RoboForm sul menu del browser"
+   },
+   "ShowContextMenuCommands_Tip": {
+      "message": "I comandi di RoboForm vengono mostrati sul menu di Windows"
+   },
+   "ShowLowerToolbarForPopups_Text": {
+      "message": "Mostra la barra degli strumenti RoboForm inferiore per le finestre popup"
+   },
+   "ShowLowerToolbarForPopups_Tip": {
+      "message": "La barra di RoboForm verrà mostrata sul fondo delle caselle di popup del browser aperte"
+   },
+   "ShowLowerToolbar_Text2": {
+      "message": "Mostra barra RoboForm inferiore su browser"
+   },
+   "ShowLowerToolbar_Tip": {
+      "message": "La barra con tutte le funzioni di RoboForm verrà mostrata sulla parte inferiore dei browser dove è installata l'estensione RoboForm"
+   },
+   "StopSharingFolder_DataInFolder_Error": {
+      "message": "I tuoi dati sono salvati nella cartella \"%1.\"\nErrore: %2."
+   },
+   "StopSharingFolder_DataInFolder_RemoveShared_Error": {
+      "message": "i tuoi dati sono salvati nella cartella\"%1.\"\nElimina o rifiuta cartella condivisa (gruppo).\nErrore: %2."
+   },
+   "StopSharingFolder_NotFolderOwner_Error": {
+      "message": "Solo il proprietario della cartella condivisa può interrompere la condivisione della cartella."
+   },
+   "UseDesktopEditorForViewAndEdit_Text": {
+      "message": "Usa editor desktop per visualizzare e modificare"
+   },
+   "UseDesktopEditorForViewAndEdit_Tip": {
+      "message": "Vedi e modifica i comandi dell'estensione RoboForm e apertura pagina iniziale su Desktop Editor"
+   },
+   "WelcomePage_Page_Title": {
+      "message": "Benvenuto"
+   },
+   "WrongNameLenght_Error": {
+      "message": "La lunghezza del nome deve contenere 1-%1 simboli"
+   },
+   "Yes": {
+      "message": "Sì"
+   }
+}

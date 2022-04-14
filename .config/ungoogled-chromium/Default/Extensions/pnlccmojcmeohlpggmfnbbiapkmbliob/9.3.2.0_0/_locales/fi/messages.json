@@ -1,0 +1,1325 @@
+{
+   "BEM_Description": {
+      "message": "RoboForm, the #1 ranked Password Manager makes your life easier by remembering passwords and logging you into websites automatically"
+   },
+   "BEM_FullName": {
+      "message": "RoboForm Password Manager"
+   },
+   "BEM_FullNameBeta": {
+      "message": "RoboForm Password Manager (Beta)"
+   },
+   "CheckedRunMB_CheckButton": {
+      "message": "Älä näytä tätä minulle uudelleen"
+   },
+   "Cmd_About_Key": {
+      "message": "Ohjelmasta..."
+   },
+   "Cmd_Cancel_Flat": {
+      "message": "Lopeta"
+   },
+   "Cmd_Close_Flat": {
+      "message": "Sulje"
+   },
+   "Cmd_Delete_Confirm": {
+      "message": "Oletko varma että haluat poistaa %1 '%2'?"
+   },
+   "Cmd_Edit_Flat": {
+      "message": "Muokkaa"
+   },
+   "Cmd_FillForms_Flat": {
+      "message": "Täytä lomakkeet"
+   },
+   "Cmd_FillGenPassword_Flat": {
+      "message": "Keksi"
+   },
+   "Cmd_GoFill_Flat": {
+      "message": "Mene täyttämään"
+   },
+   "Cmd_Goto_Flat": {
+      "message": "Mene"
+   },
+   "Cmd_Help_FaqAll_Key": {
+      "message": "Koko UKK"
+   },
+   "Cmd_Login_Flat": {
+      "message": "Kirjaudu sisään"
+   },
+   "Cmd_Logins_Flat": {
+      "message": "Sisäänkirjautumiset"
+   },
+   "Cmd_Logoff_Flat": {
+      "message": "Kirjaudu ulos"
+   },
+   "Cmd_NewFolder_Error": {
+      "message": "Virhe luotaessa uutta hakemistoa: %1"
+   },
+   "Cmd_NewFolder_Exist_Error": {
+      "message": "Hakemisto '%1' on jo olemassa"
+   },
+   "Cmd_NewFolder_Title": {
+      "message": "Uusi hakemisto"
+   },
+   "Cmd_Options_Flat": {
+      "message": "Asetukset"
+   },
+   "Cmd_RoboForm_Flat": {
+      "message": "RoboForm"
+   },
+   "Cmd_SaveForms_Flat": {
+      "message": "Tallenna"
+   },
+   "Cmd_SaveForms_Key": {
+      "message": "Tallenna lomakkeet"
+   },
+   "Cmd_Skip_Flat": {
+      "message": "Ohita"
+   },
+   "ContextMenuAndShortcuts_ClearFields_Text": {
+      "message": "Tyhjennä kentät"
+   },
+   "ContextMenuAndShortcuts_FillForms_Text": {
+      "message": "Täytä lomakkeet"
+   },
+   "ContextMenuAndShortcuts_FillSubmit_Text": {
+      "message": "Täytä & Lähetä"
+   },
+   "ContextMenuAndShortcuts_IdentitiesEditor_Text": {
+      "message": "Identiteetit"
+   },
+   "ContextMenuAndShortcuts_Logoff_Acc": {
+      "message": "K"
+   },
+   "ContextMenuAndShortcuts_Logoff_Text": {
+      "message": "Kirjaudu ulos"
+   },
+   "ContextMenuAndShortcuts_MyIdentity_Acc": {
+      "message": "19"
+   },
+   "ContextMenuAndShortcuts_Options_Text": {
+      "message": "Rf Asetukset"
+   },
+   "ContextMenuAndShortcuts_PasscardsEditor_Text": {
+      "message": "Kirjautumislomakkeet"
+   },
+   "ContextMenuAndShortcuts_ResetFields_Text": {
+      "message": "Aseta kentät uudelleen"
+   },
+   "ContextMenuAndShortcuts_RoboFormToolbar_Acc3": {
+      "message": "R"
+   },
+   "ContextMenuAndShortcuts_RoboFormToolbar_Text": {
+      "message": "RF Työkalupalkki"
+   },
+   "ContextMenuAndShortcuts_RunPassGen_Acc": {
+      "message": "G"
+   },
+   "ContextMenuAndShortcuts_RunPassGen_Text": {
+      "message": "Salasanan keksijä"
+   },
+   "ContextMenuAndShortcuts_RunTaskbar_Text": {
+      "message": "RoboForm työkalurivin kuvake"
+   },
+   "ContextMenuAndShortcuts_SafenotesEditor_Text": {
+      "message": "Turvamuistiinpanot"
+   },
+   "ContextMenuAndShortcuts_SaveForms_Text": {
+      "message": "Tallenna lomakkeet"
+   },
+   "ContextMenuAndShortcuts_SetFields_Text": {
+      "message": "Listaa kentät"
+   },
+   "DuplicateFields_Title": {
+      "message": "Tuplatut kentät täytetty - RoboForm"
+   },
+   "FillDlg_FindFill_Title": {
+      "message": "Täytä lomakkeet - RoboForm"
+   },
+   "Filler_FillTheSameValues": {
+      "message": "Ei lomake kenttiä tällä Web-sivulla (tai valitulla osalla) joita voidaan täyttää tästä Identiteetistä tai Kirjautumislomakkeesta (samat arvot)"
+   },
+   "Filler_NoFormsFound": {
+      "message": "Ei voi täyttää lomakkeita tällä Web-sivulla"
+   },
+   "Filler_NoMatchingFields": {
+      "message": "Ei lomake kenttiä tällä Web-sivulla (tai valitulla osalla) joita voidaan täyttää tästä Identiteetistä tai Kirjautumislomakkeesta (ei osumia)"
+   },
+   "HomeFolder": {
+      "message": "Koti"
+   },
+   "Identities_ConfirmDeleteInstance": {
+      "message": "Haluatko poistaa '%1'  '%2'?"
+   },
+   "Identities_InstanceNameInvalidCharacter": {
+      "message": "Instanssi voi sisältää ainoastaan kirjaimia, numeroita, merkkejä '_' ja '-'"
+   },
+   "Identities_Instance_Main": {
+      "message": "Pää"
+   },
+   "MasterPass_New_Length_Error": {
+      "message": "Pääsalasanan pituuden pitää olla %1 ja %2 merkin välissä"
+   },
+   "MasterPass_Prompt_TypeNew": {
+      "message": "Uusi pääsalasana:"
+   },
+   "MasterPass_Prompt_TypeOld": {
+      "message": "Vanha pääsalasana:"
+   },
+   "Options_AutoFillThreshold_Tip": {
+      "message": "Minimi määrä täytettäviä kenttiä Web-sivulla jotka tarvitaan tarjoamaan AutoTäyttöä Identiteeteistä"
+   },
+   "Options_AutoFill_Title": {
+      "message": "AutoTäyttö"
+   },
+   "Options_AutoForgetTime_Text": {
+      "message": "minuutin kuluttua automaattinen uloskirjaus"
+   },
+   "Options_General_Title": {
+      "message": "Yleinen"
+   },
+   "PassGen_BitStrength": {
+      "message": "Bittilujuus = "
+   },
+   "PassGen_CharNumber_Text": {
+      "message": "Merkkien määrä"
+   },
+   "PassGen_CharNumber_Tip": {
+      "message": "Merkkien lukumäärä generoidussa salasanassa"
+   },
+   "PassGen_Copy": {
+      "message": "Kopioi"
+   },
+   "PassGen_Copy_Tip": {
+      "message": "Kopioi generoitu salasana leikepöydälle"
+   },
+   "PassGen_ExcludeSimilar_Tip": {
+      "message": "Jätä pois samantyyppiset merkit generoidusta salasanasta"
+   },
+   "PassGen_Fill": {
+      "message": "Täytä"
+   },
+   "PassGen_Fill_Tip": {
+      "message": "Täytä generoitu salasana kaikkiin salasanakenttiin selaimen sivulla"
+   },
+   "PassGen_Generate": {
+      "message": "Generoi"
+   },
+   "PassGen_Generate_Tip": {
+      "message": "Generoi uusi salasana"
+   },
+   "PassGen_Generated_Tip": {
+      "message": "Generoitu salasana"
+   },
+   "PassGen_Lower_Tip": {
+      "message": "Käytä a-z merkkejä generoidussa salasanassa"
+   },
+   "PassGen_Numb_Tip": {
+      "message": "Käytä 0-9 merkkejä generoidussa salasanassa"
+   },
+   "PassGen_Title": {
+      "message": "Salasanageneraattori - RoboForm"
+   },
+   "PassGen_Upper_Tip": {
+      "message": "Käytä A-Z merkkejä generoidussa salasanassa"
+   },
+   "PassGen_UseHexChars": {
+      "message": "Heksadesimaali 0-9, A-F"
+   },
+   "PassGen_UseHexChars_Tip": {
+      "message": "Käytä ainoastaan heksadesimaalimerkkejä: 0-9, A-F"
+   },
+   "PassGen_UseSpecial_Tip": {
+      "message": "Käytä erikoismerkkejä generoidussa salasanassa"
+   },
+   "PassType_Blocking_Suffix": {
+      "message": " -Estetty-"
+   },
+   "RI_AOL_Screen_Name": {
+      "message": "AOL näytön numero"
+   },
+   "RI_Abbr": {
+      "message": "Ab."
+   },
+   "RI_Address": {
+      "message": "Osoite"
+   },
+   "RI_Address_Line_1": {
+      "message": "Osoite 1"
+   },
+   "RI_Address_Line_2": {
+      "message": "Osoite 2"
+   },
+   "RI_Age": {
+      "message": "Ikä"
+   },
+   "RI_Alphabet": {
+      "message": "Aakkosto"
+   },
+   "RI_Alphabet_Name": {
+      "message": "Aakkosto"
+   },
+   "RI_Bank_Account_Number": {
+      "message": "Tili numero"
+   },
+   "RI_Bank_Account_Owner": {
+      "message": "Tilin omistaja"
+   },
+   "RI_Bank_Account_Type": {
+      "message": "Tilin tyyppi"
+   },
+   "RI_Bank_Account_Type_Checking": {
+      "message": "Tarkistus"
+   },
+   "RI_Bank_Account_Type_Current": {
+      "message": "Mykyinen"
+   },
+   "RI_Bank_Account_Type_Money_Manager": {
+      "message": "Salkunhoitaja"
+   },
+   "RI_Bank_Account_Type_Savings": {
+      "message": "Talletukset"
+   },
+   "RI_Bank_Branch_Name": {
+      "message": "Pankin haarakonttori"
+   },
+   "RI_Bank_Branch_Type": {
+      "message": "Haarakonttorin tyyppi"
+   },
+   "RI_Bank_Corr_Account": {
+      "message": "Pankin korjaustili"
+   },
+   "RI_Bank_Interest_Rate": {
+      "message": "Korkotaso"
+   },
+   "RI_Bank_Name": {
+      "message": "Pankin nimi"
+   },
+   "RI_Bank_Routing_Number": {
+      "message": "Reititysnumero"
+   },
+   "RI_Bank_Swift_Code": {
+      "message": "BIC"
+   },
+   "RI_Bank_Type": {
+      "message": "Pankin tyyppi"
+   },
+   "RI_Birth_Date": {
+      "message": "Syntymäaika"
+   },
+   "RI_Birth_Day": {
+      "message": "Syntymäpäivä"
+   },
+   "RI_Birth_Month": {
+      "message": "Syntymäkuukausi"
+   },
+   "RI_Birth_Place": {
+      "message": "Syntymäpaikkakunta"
+   },
+   "RI_Birth_Year": {
+      "message": "Syntymävuosi"
+   },
+   "RI_Bundesland": {
+      "message": "Osavaltio"
+   },
+   "RI_Canton": {
+      "message": "Kantoni"
+   },
+   "RI_Card_Credit_Limit": {
+      "message": "Luottoraja"
+   },
+   "RI_Card_Customer_Service_Phone": {
+      "message": "Asiakaspalvelun puh."
+   },
+   "RI_Card_Expires": {
+      "message": "Kortti vanhenee"
+   },
+   "RI_Card_Interest_Rate": {
+      "message": "Korkotaso"
+   },
+   "RI_Card_Issuing_Bank": {
+      "message": "Myöntäjäjapankki"
+   },
+   "RI_Card_Number": {
+      "message": "Kortin Numero"
+   },
+   "RI_Card_PIN_Number": {
+      "message": "PIN numero"
+   },
+   "RI_Card_Password": {
+      "message": "Kortin salasana"
+   },
+   "RI_Card_Type": {
+      "message": "Kortin Tyyppi"
+   },
+   "RI_Card_User_Name": {
+      "message": "Kortin käyttäjätunnus"
+   },
+   "RI_Card_Validation_Code": {
+      "message": "Varmenne"
+   },
+   "RI_Cell_Phone": {
+      "message": "Matkapuhelin"
+   },
+   "RI_City": {
+      "message": "Kaupunki"
+   },
+   "RI_Colony": {
+      "message": "Siirtomaa"
+   },
+   "RI_Company": {
+      "message": "Yhtiön nimi"
+   },
+   "RI_Company_Department": {
+      "message": "Osasto"
+   },
+   "RI_Company_Registration_Number": {
+      "message": "Yrityksen Y-tunnus"
+   },
+   "RI_Company_Registration_Place": {
+      "message": "Yrityksen kotipaikka"
+   },
+   "RI_Company_Tax_ID": {
+      "message": "Yrityksen veroID"
+   },
+   "RI_Company_VAT_Number": {
+      "message": "ALV numero"
+   },
+   "RI_Contact": {
+      "message": "Kontakti"
+   },
+   "RI_Country": {
+      "message": "Maa"
+   },
+   "RI_CountryCode": {
+      "message": "Maakoodi"
+   },
+   "RI_Country_Andorra": {
+      "message": "Andorra"
+   },
+   "RI_Country_Argentina": {
+      "message": "Argentina"
+   },
+   "RI_Country_Australia": {
+      "message": "Australia"
+   },
+   "RI_Country_Austria": {
+      "message": "Itävalta"
+   },
+   "RI_Country_Belarus": {
+      "message": "Valko-Venäjä"
+   },
+   "RI_Country_Belgium": {
+      "message": "Belgia"
+   },
+   "RI_Country_Brazil": {
+      "message": "Brasilia"
+   },
+   "RI_Country_Bulgaria": {
+      "message": "Bulgaria"
+   },
+   "RI_Country_Canada": {
+      "message": "Kanada"
+   },
+   "RI_Country_China": {
+      "message": "Kiina"
+   },
+   "RI_Country_Czech_Republic": {
+      "message": "Tshekki"
+   },
+   "RI_Country_Denmark": {
+      "message": "Tanska"
+   },
+   "RI_Country_Estonia": {
+      "message": "Viro"
+   },
+   "RI_Country_Finland": {
+      "message": "Suomi"
+   },
+   "RI_Country_France": {
+      "message": "Ranska"
+   },
+   "RI_Country_Germany": {
+      "message": "Saksa"
+   },
+   "RI_Country_Greece": {
+      "message": "Kreikka"
+   },
+   "RI_Country_Hong_Kong": {
+      "message": "Hong Kong"
+   },
+   "RI_Country_Hungary": {
+      "message": "Unkari"
+   },
+   "RI_Country_India": {
+      "message": "Intia"
+   },
+   "RI_Country_Indonesia": {
+      "message": "Indonesia"
+   },
+   "RI_Country_Ireland": {
+      "message": "Irlanti"
+   },
+   "RI_Country_Israel": {
+      "message": "Israel"
+   },
+   "RI_Country_Italy": {
+      "message": "Italia"
+   },
+   "RI_Country_Japan": {
+      "message": "Japani"
+   },
+   "RI_Country_Kazakhstan": {
+      "message": "Kazakhstan"
+   },
+   "RI_Country_Korea": {
+      "message": "Korea"
+   },
+   "RI_Country_Latvia": {
+      "message": "Latvia"
+   },
+   "RI_Country_Liechtenstein": {
+      "message": "Liechtenstein"
+   },
+   "RI_Country_Lithuania": {
+      "message": "Liettua"
+   },
+   "RI_Country_Luxembourg": {
+      "message": "Luxembourg"
+   },
+   "RI_Country_Malaysia": {
+      "message": "Malesia"
+   },
+   "RI_Country_Mexico": {
+      "message": "Mexico"
+   },
+   "RI_Country_Monaco": {
+      "message": "Monaco"
+   },
+   "RI_Country_Netherlands": {
+      "message": "Alankomaat"
+   },
+   "RI_Country_New_Zealand": {
+      "message": "Uusi-Seelanti"
+   },
+   "RI_Country_Norway": {
+      "message": "Norja"
+   },
+   "RI_Country_Other": {
+      "message": "Muu"
+   },
+   "RI_Country_Poland": {
+      "message": "Puola"
+   },
+   "RI_Country_Portugal": {
+      "message": "Portugali"
+   },
+   "RI_Country_Romania": {
+      "message": "Romania"
+   },
+   "RI_Country_Russia": {
+      "message": "Venäjä"
+   },
+   "RI_Country_San_Marino": {
+      "message": "San Marino"
+   },
+   "RI_Country_Singapore": {
+      "message": "Singapore"
+   },
+   "RI_Country_Slovakia": {
+      "message": "Slovakia"
+   },
+   "RI_Country_South_Africa": {
+      "message": "Etelä-Afrikka"
+   },
+   "RI_Country_Spain": {
+      "message": "Espanja"
+   },
+   "RI_Country_Sweden": {
+      "message": "Ruotsi"
+   },
+   "RI_Country_Switzerland": {
+      "message": "Sveitsi"
+   },
+   "RI_Country_Taiwan": {
+      "message": "Taiwan"
+   },
+   "RI_Country_Thailand": {
+      "message": "Thaimaa"
+   },
+   "RI_Country_Turkey": {
+      "message": "Turkki"
+   },
+   "RI_Country_Ukraine": {
+      "message": "Ukraina"
+   },
+   "RI_Country_United_Kingdom": {
+      "message": "Britannia"
+   },
+   "RI_Country_United_States": {
+      "message": "USA"
+   },
+   "RI_County": {
+      "message": "Maa"
+   },
+   "RI_Department": {
+      "message": "Osasto"
+   },
+   "RI_Dispatching_Agency": {
+      "message": "Postitustoimisto"
+   },
+   "RI_District": {
+      "message": "Alue"
+   },
+   "RI_Driver_License_Number": {
+      "message": "Ajokortti"
+   },
+   "RI_Email": {
+      "message": "Sähköposti"
+   },
+   "RI_Employer_Identitification_Number": {
+      "message": "Työntekijä numero"
+   },
+   "RI_Fax_Phone": {
+      "message": "Faksi"
+   },
+   "RI_First": {
+      "message": "Etu"
+   },
+   "RI_Fiscal_Code": {
+      "message": "Talouskoodi"
+   },
+   "RI_General_Register": {
+      "message": "GR"
+   },
+   "RI_Group_Bank_Account": {
+      "message": "Pankkitili"
+   },
+   "RI_Group_Business": {
+      "message": "Liiketoiminta"
+   },
+   "RI_Group_Credit_Card": {
+      "message": "Luottokortti"
+   },
+   "RI_Group_Custom": {
+      "message": "Muuta"
+   },
+   "RI_Group_Default_Password": {
+      "message": "Oletus-salasana"
+   },
+   "RI_Group_Location": {
+      "message": "Osoite"
+   },
+   "RI_Group_Person": {
+      "message": "Henkilö"
+   },
+   "RI_Group_Summary": {
+      "message": "Yhteenveto"
+   },
+   "RI_Home_Phone": {
+      "message": "Kotipuhelin"
+   },
+   "RI_HouseNumber": {
+      "message": "Talon numero"
+   },
+   "RI_HouseNumber_StreetName": {
+      "message": "Talon numero Kadun nimi"
+   },
+   "RI_HouseNumber_or_Name": {
+      "message": "Talon numero tai nimi"
+   },
+   "RI_ICQ_Number": {
+      "message": "ICQ numero"
+   },
+   "RI_ID_Card_Number": {
+      "message": "Henkilökortin numero"
+   },
+   "RI_ID_Card_Type": {
+      "message": "Henkilökortin tyyppi"
+   },
+   "RI_Income": {
+      "message": "Tulot"
+   },
+   "RI_Int_Bank_Account_Number": {
+      "message": "IBAN"
+   },
+   "RI_International_Card_Customer_Service_Phone": {
+      "message": "Kans. Svc puhelin "
+   },
+   "RI_Job": {
+      "message": "Työpaikka"
+   },
+   "RI_Last": {
+      "message": "Suku"
+   },
+   "RI_Last2": {
+      "message": "Suku2"
+   },
+   "RI_Legal_Business_Name": {
+      "message": "Laillinen nimi"
+   },
+   "RI_MSN_ID": {
+      "message": "MSN ID"
+   },
+   "RI_Middle": {
+      "message": "Toinen"
+   },
+   "RI_Mobile_Email": {
+      "message": "Matkapuhelinsähköposti"
+   },
+   "RI_Municipality": {
+      "message": "Kunta"
+   },
+   "RI_Name": {
+      "message": "Nimi"
+   },
+   "RI_NationalPrefix": {
+      "message": "Kansallinen etumerkki"
+   },
+   "RI_National_Insurance_Number": {
+      "message": "NI numero"
+   },
+   "RI_Pager_Phone": {
+      "message": "Hakulaite"
+   },
+   "RI_Passport_Number": {
+      "message": "Passin numero"
+   },
+   "RI_Password": {
+      "message": "Salasana"
+   },
+   "RI_Password_Answer": {
+      "message": "Salasana Vastaus"
+   },
+   "RI_Password_Question": {
+      "message": "Salasana kysymys"
+   },
+   "RI_Person_Cadastre": {
+      "message": "Person Cadastre"
+   },
+   "RI_Phone": {
+      "message": "Puhelin"
+   },
+   "RI_Position": {
+      "message": "Titteli"
+   },
+   "RI_PostCode": {
+      "message": "Postinumero"
+   },
+   "RI_PostCode_City": {
+      "message": "Postitoimipaikka"
+   },
+   "RI_Prefecture": {
+      "message": "Prefektuuri"
+   },
+   "RI_Province": {
+      "message": "Provinssi"
+   },
+   "RI_Region": {
+      "message": "Alue"
+   },
+   "RI_Roman_Name": {
+      "message": "Roomalainen"
+   },
+   "RI_Sex": {
+      "message": "Sukupuoli"
+   },
+   "RI_Sex_Female": {
+      "message": "Nainen"
+   },
+   "RI_Sex_Male": {
+      "message": "Mies"
+   },
+   "RI_Social_Security_Number": {
+      "message": "Sosiaaliturvatunnus"
+   },
+   "RI_State": {
+      "message": "Osavaltio"
+   },
+   "RI_State_Or_Province": {
+      "message": "Osavaltio tai provinssi"
+   },
+   "RI_State_Or_Province_AA": {
+      "message": "AA"
+   },
+   "RI_State_Or_Province_AE": {
+      "message": "AE"
+   },
+   "RI_State_Or_Province_AP": {
+      "message": "AP"
+   },
+   "RI_State_Or_Province_Aichi": {
+      "message": "Aichi"
+   },
+   "RI_State_Or_Province_Akita": {
+      "message": "Akita"
+   },
+   "RI_State_Or_Province_Alabama": {
+      "message": "AL"
+   },
+   "RI_State_Or_Province_Alaska": {
+      "message": "AK"
+   },
+   "RI_State_Or_Province_Alberta": {
+      "message": "Alberta"
+   },
+   "RI_State_Or_Province_American_Samoa": {
+      "message": "AS"
+   },
+   "RI_State_Or_Province_Antwerpen": {
+      "message": "Antwerpen"
+   },
+   "RI_State_Or_Province_Aomori": {
+      "message": "Aomori"
+   },
+   "RI_State_Or_Province_Appenzell_Inner_Rhodes": {
+      "message": "Appenzell Inner-Rhodes"
+   },
+   "RI_State_Or_Province_Appenzell_Outer_Rhodes": {
+      "message": "Appenzell Outer Rhodes"
+   },
+   "RI_State_Or_Province_Argovia": {
+      "message": "Argovia"
+   },
+   "RI_State_Or_Province_Arizona": {
+      "message": "AZ"
+   },
+   "RI_State_Or_Province_Arkansas": {
+      "message": "AR"
+   },
+   "RI_State_Or_Province_Basle_Country": {
+      "message": "Basle-Country"
+   },
+   "RI_State_Or_Province_Basle_Town": {
+      "message": "Basle-Town"
+   },
+   "RI_State_Or_Province_Berne": {
+      "message": "Berne"
+   },
+   "RI_State_Or_Province_Brabant_Wallon": {
+      "message": "Brabant Wallon"
+   },
+   "RI_State_Or_Province_British_Columbia": {
+      "message": "British Columbia"
+   },
+   "RI_State_Or_Province_Brussels_Region": {
+      "message": "Brussels Region"
+   },
+   "RI_State_Or_Province_California": {
+      "message": "CA"
+   },
+   "RI_State_Or_Province_Chiba": {
+      "message": "Chiba"
+   },
+   "RI_State_Or_Province_Colorado": {
+      "message": "CO"
+   },
+   "RI_State_Or_Province_Connecticut": {
+      "message": "CT"
+   },
+   "RI_State_Or_Province_Delaware": {
+      "message": "DE"
+   },
+   "RI_State_Or_Province_District_of_Columbia": {
+      "message": "DC"
+   },
+   "RI_State_Or_Province_Ehime": {
+      "message": "Ehime"
+   },
+   "RI_State_Or_Province_Florida": {
+      "message": "FL"
+   },
+   "RI_State_Or_Province_Fribourg": {
+      "message": "Fribourg"
+   },
+   "RI_State_Or_Province_Fukui": {
+      "message": "Fukui"
+   },
+   "RI_State_Or_Province_Fukuoka": {
+      "message": "Fukuoka"
+   },
+   "RI_State_Or_Province_Fukushima": {
+      "message": "Fukushima"
+   },
+   "RI_State_Or_Province_Geneva": {
+      "message": "Geneva"
+   },
+   "RI_State_Or_Province_Georgia": {
+      "message": "GA"
+   },
+   "RI_State_Or_Province_Gifu": {
+      "message": "Gifu"
+   },
+   "RI_State_Or_Province_Glarus": {
+      "message": "Glarus"
+   },
+   "RI_State_Or_Province_Grisons": {
+      "message": "Grisons"
+   },
+   "RI_State_Or_Province_Guam": {
+      "message": "GU"
+   },
+   "RI_State_Or_Province_Gunma": {
+      "message": "Gunma"
+   },
+   "RI_State_Or_Province_Hainaut": {
+      "message": "Hainaut"
+   },
+   "RI_State_Or_Province_Hawaii": {
+      "message": "HI"
+   },
+   "RI_State_Or_Province_Hiroshima": {
+      "message": "Hiroshima"
+   },
+   "RI_State_Or_Province_Hokkaido": {
+      "message": "Hokkaido"
+   },
+   "RI_State_Or_Province_Hyougo": {
+      "message": "Hyougo"
+   },
+   "RI_State_Or_Province_Ibaraki": {
+      "message": "Ibaraki"
+   },
+   "RI_State_Or_Province_Idaho": {
+      "message": "ID"
+   },
+   "RI_State_Or_Province_Illinois": {
+      "message": "IL"
+   },
+   "RI_State_Or_Province_Indiana": {
+      "message": "IN"
+   },
+   "RI_State_Or_Province_Iowa": {
+      "message": "IA"
+   },
+   "RI_State_Or_Province_Ishikawa": {
+      "message": "Ishikawa"
+   },
+   "RI_State_Or_Province_Iwate": {
+      "message": "Iwate"
+   },
+   "RI_State_Or_Province_Jura": {
+      "message": "Jura"
+   },
+   "RI_State_Or_Province_Kagawa": {
+      "message": "Kagawa"
+   },
+   "RI_State_Or_Province_Kagoshima": {
+      "message": "Kagoshima"
+   },
+   "RI_State_Or_Province_Kanagawa": {
+      "message": "Kanagawa"
+   },
+   "RI_State_Or_Province_Kansas": {
+      "message": "KS"
+   },
+   "RI_State_Or_Province_Kentucky": {
+      "message": "KY"
+   },
+   "RI_State_Or_Province_Kouchi": {
+      "message": "Kouchi"
+   },
+   "RI_State_Or_Province_Kumamoto": {
+      "message": "Kumamoto"
+   },
+   "RI_State_Or_Province_Kyoto": {
+      "message": "Kyoto"
+   },
+   "RI_State_Or_Province_Liege": {
+      "message": "Liege"
+   },
+   "RI_State_Or_Province_Limburg": {
+      "message": "Limburg"
+   },
+   "RI_State_Or_Province_Louisiana": {
+      "message": "LA"
+   },
+   "RI_State_Or_Province_Lucerne": {
+      "message": "Lucerne"
+   },
+   "RI_State_Or_Province_Luxembourg": {
+      "message": "Luxembourg"
+   },
+   "RI_State_Or_Province_Maine": {
+      "message": "ME"
+   },
+   "RI_State_Or_Province_Manitoba": {
+      "message": "Manitoba"
+   },
+   "RI_State_Or_Province_Maryland": {
+      "message": "MD"
+   },
+   "RI_State_Or_Province_Massachusetts": {
+      "message": "MA"
+   },
+   "RI_State_Or_Province_Michigan": {
+      "message": "MI"
+   },
+   "RI_State_Or_Province_Mie": {
+      "message": "Mie"
+   },
+   "RI_State_Or_Province_Minnesota": {
+      "message": "MN"
+   },
+   "RI_State_Or_Province_Mississippi": {
+      "message": "MS"
+   },
+   "RI_State_Or_Province_Missouri": {
+      "message": "MO"
+   },
+   "RI_State_Or_Province_Miyagi": {
+      "message": "Miyagi"
+   },
+   "RI_State_Or_Province_Miyazaki": {
+      "message": "Miyazaki"
+   },
+   "RI_State_Or_Province_Montana": {
+      "message": "MT"
+   },
+   "RI_State_Or_Province_Nagano": {
+      "message": "Nagano"
+   },
+   "RI_State_Or_Province_Nagasaki": {
+      "message": "Nagasaki"
+   },
+   "RI_State_Or_Province_Namur": {
+      "message": "Namur"
+   },
+   "RI_State_Or_Province_Nara": {
+      "message": "Nara"
+   },
+   "RI_State_Or_Province_Nebraska": {
+      "message": "NE"
+   },
+   "RI_State_Or_Province_Neuchatel": {
+      "message": "Neuchatel"
+   },
+   "RI_State_Or_Province_Nevada": {
+      "message": "NV"
+   },
+   "RI_State_Or_Province_New_Brunswick": {
+      "message": "New Brunswick"
+   },
+   "RI_State_Or_Province_New_Hampshire": {
+      "message": "NH"
+   },
+   "RI_State_Or_Province_New_Jersey": {
+      "message": "NJ"
+   },
+   "RI_State_Or_Province_New_Mexico": {
+      "message": "NM"
+   },
+   "RI_State_Or_Province_New_York": {
+      "message": "NY"
+   },
+   "RI_State_Or_Province_Newfoundland": {
+      "message": "Newfoundland"
+   },
+   "RI_State_Or_Province_Nidwalden": {
+      "message": "Nidwalden"
+   },
+   "RI_State_Or_Province_Niigata": {
+      "message": "Niigata"
+   },
+   "RI_State_Or_Province_North_Carolina": {
+      "message": "NC"
+   },
+   "RI_State_Or_Province_North_Dakota": {
+      "message": "ND"
+   },
+   "RI_State_Or_Province_Northern_Mariana_Is": {
+      "message": "MP"
+   },
+   "RI_State_Or_Province_Northwest_Territories": {
+      "message": "Northwest Territories"
+   },
+   "RI_State_Or_Province_Nova_Scotia": {
+      "message": "Nova Scotia"
+   },
+   "RI_State_Or_Province_Nunavut": {
+      "message": "Nunavut"
+   },
+   "RI_State_Or_Province_Obwalden": {
+      "message": "Obwalden"
+   },
+   "RI_State_Or_Province_Ohio": {
+      "message": "OH"
+   },
+   "RI_State_Or_Province_Okayama": {
+      "message": "Okayama"
+   },
+   "RI_State_Or_Province_Okinawa": {
+      "message": "Okinawa"
+   },
+   "RI_State_Or_Province_Oklahoma": {
+      "message": "OK"
+   },
+   "RI_State_Or_Province_Ontario": {
+      "message": "Ontario"
+   },
+   "RI_State_Or_Province_Ooita": {
+      "message": "Ooita"
+   },
+   "RI_State_Or_Province_Oost_Vlaanderen": {
+      "message": "Oost Vlaanderen"
+   },
+   "RI_State_Or_Province_Oregon": {
+      "message": "OR"
+   },
+   "RI_State_Or_Province_Osaka": {
+      "message": "Osaka"
+   },
+   "RI_State_Or_Province_Palau": {
+      "message": "PW"
+   },
+   "RI_State_Or_Province_Pennsylvania": {
+      "message": "PA"
+   },
+   "RI_State_Or_Province_Prince_Edward_Island": {
+      "message": "Prince Edward Island"
+   },
+   "RI_State_Or_Province_Puerto_Rico": {
+      "message": "PR"
+   },
+   "RI_State_Or_Province_Quebec": {
+      "message": "Quebec"
+   },
+   "RI_State_Or_Province_Rhode_Island": {
+      "message": "RI"
+   },
+   "RI_State_Or_Province_Saga": {
+      "message": "Saga"
+   },
+   "RI_State_Or_Province_Saint_Gall": {
+      "message": "St. Gall"
+   },
+   "RI_State_Or_Province_Saitama": {
+      "message": "Saitama"
+   },
+   "RI_State_Or_Province_Saskatchewan": {
+      "message": "Saskatchewan"
+   },
+   "RI_State_Or_Province_Schaffhausen": {
+      "message": "Schaffhausen"
+   },
+   "RI_State_Or_Province_Schwyz": {
+      "message": "Schwyz"
+   },
+   "RI_State_Or_Province_Shiga": {
+      "message": "Shiga"
+   },
+   "RI_State_Or_Province_Shimane": {
+      "message": "Shimane"
+   },
+   "RI_State_Or_Province_Shizuoka": {
+      "message": "Shizuoka"
+   },
+   "RI_State_Or_Province_Solothurn": {
+      "message": "Solothurn"
+   },
+   "RI_State_Or_Province_South_Carolina": {
+      "message": "SC"
+   },
+   "RI_State_Or_Province_South_Dakota": {
+      "message": "SD"
+   },
+   "RI_State_Or_Province_Tennessee": {
+      "message": "TN"
+   },
+   "RI_State_Or_Province_Texas": {
+      "message": "TX"
+   },
+   "RI_State_Or_Province_Thurgovia": {
+      "message": "Thurgovia"
+   },
+   "RI_State_Or_Province_Ticino": {
+      "message": "Ticino"
+   },
+   "RI_State_Or_Province_Tochigi": {
+      "message": "Tochigi"
+   },
+   "RI_State_Or_Province_Tokushima": {
+      "message": "Tokushima"
+   },
+   "RI_State_Or_Province_Tokyo": {
+      "message": "Tokyo"
+   },
+   "RI_State_Or_Province_Tottori": {
+      "message": "Tottori"
+   },
+   "RI_State_Or_Province_Toyama": {
+      "message": "Toyama"
+   },
+   "RI_State_Or_Province_Uri": {
+      "message": "Uri"
+   },
+   "RI_State_Or_Province_Utah": {
+      "message": "UT"
+   },
+   "RI_State_Or_Province_Valais": {
+      "message": "Valais"
+   },
+   "RI_State_Or_Province_Vaud": {
+      "message": "Vaud"
+   },
+   "RI_State_Or_Province_Vermont": {
+      "message": "VT"
+   },
+   "RI_State_Or_Province_Virgin_Island": {
+      "message": "VI"
+   },
+   "RI_State_Or_Province_Virginia": {
+      "message": "VA"
+   },
+   "RI_State_Or_Province_Vlaams_Brabant": {
+      "message": "Vlaams Brabant"
+   },
+   "RI_State_Or_Province_Wakayama": {
+      "message": "Wakayama"
+   },
+   "RI_State_Or_Province_Washington": {
+      "message": "WA"
+   },
+   "RI_State_Or_Province_West_Virginia": {
+      "message": "WV"
+   },
+   "RI_State_Or_Province_West_Vlaanderen": {
+      "message": "West Vlaanderen"
+   },
+   "RI_State_Or_Province_Wisconsin": {
+      "message": "WI"
+   },
+   "RI_State_Or_Province_Wyoming": {
+      "message": "WY"
+   },
+   "RI_State_Or_Province_Yamagata": {
+      "message": "Yamagata"
+   },
+   "RI_State_Or_Province_Yamaguchi": {
+      "message": "Yamaguchi"
+   },
+   "RI_State_Or_Province_Yamanashi": {
+      "message": "Yamanashi"
+   },
+   "RI_State_Or_Province_Yukon": {
+      "message": "Yukon"
+   },
+   "RI_State_Or_Province_Zug": {
+      "message": "Zug"
+   },
+   "RI_State_Or_Province_Zurich": {
+      "message": "Zurich"
+   },
+   "RI_State_Zip": {
+      "message": "Osavaltion postinumero"
+   },
+   "RI_Station": {
+      "message": "Asema"
+   },
+   "RI_Stock_Symbol": {
+      "message": "Pörssisymboli"
+   },
+   "RI_StreetName": {
+      "message": "Kadun nimi"
+   },
+   "RI_StreetNameC_HouseNumber": {
+      "message": "Kadun nimi, talon numero"
+   },
+   "RI_StreetName_HouseNumber": {
+      "message": "Kadun nimi talon numero"
+   },
+   "RI_Subway_Station": {
+      "message": "Metro asema"
+   },
+   "RI_Tax_ID": {
+      "message": "VeroID"
+   },
+   "RI_Title": {
+      "message": "Titteli"
+   },
+   "RI_Title_Dr": {
+      "message": "Toh"
+   },
+   "RI_Title_Engr": {
+      "message": "Engr"
+   },
+   "RI_Title_Mr": {
+      "message": "Hr"
+   },
+   "RI_Title_Mrs": {
+      "message": "Rv"
+   },
+   "RI_Title_Ms": {
+      "message": "Ne"
+   },
+   "RI_Title_Prof": {
+      "message": "Prof."
+   },
+   "RI_Toll_Free_Phone": {
+      "message": "Tullivapaa puhelin"
+   },
+   "RI_Type_Of_Business": {
+      "message": "Liiketoiminnan tyyppi"
+   },
+   "RI_User_ID": {
+      "message": "Käyttäjätunnus"
+   },
+   "RI_Valid_From": {
+      "message": "Voimassa"
+   },
+   "RI_Web_Site": {
+      "message": "Web-sivu"
+   },
+   "RI_Work_Phone": {
+      "message": "Työpuhelin"
+   },
+   "RI_Work_Phone_Ext": {
+      "message": "Alanumero"
+   },
+   "RI_Yahoo_ID": {
+      "message": "Yahoo ID"
+   },
+   "RI_ZipCode": {
+      "message": "Postinumero"
+   },
+   "RI_Zip_Or_PostCode": {
+      "message": "Postinumero"
+   },
+   "RI__End": {
+      "message": ""
+   },
+   "RI__Start": {
+      "message": ""
+   },
+   "RI_dd": {
+      "message": "pp"
+   },
+   "RI_mm": {
+      "message": "kk"
+   },
+   "RI_yyyy": {
+      "message": "vvvv"
+   },
+   "RoboForm_Error": {
+      "message": "RoboFormin virhe"
+   },
+   "RoboForm_Question": {
+      "message": "RoboFormin kysymys"
+   },
+   "RoboForm_Warning": {
+      "message": "RoboFormin varoitus"
+   },
+   "RoboformType_Identities": {
+      "message": "Identiteetit"
+   },
+   "RoboformType_Identity": {
+      "message": "Identiteetti"
+   },
+   "RoboformType_Safenote": {
+      "message": "Turvamuistiinpano"
+   },
+   "RoboformType_Safenotes": {
+      "message": "Turvamuistiinpanoja"
+   },
+   "Roboform_Folder": {
+      "message": "Hakemisto"
+   }
+}

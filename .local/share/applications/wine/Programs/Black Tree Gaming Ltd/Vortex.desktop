@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Vortex
+Exec=env WINEPREFIX="/home/tommi/.wine" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\Black\\ Tree\\ Gaming\\ Ltd\\\\Vortex.lnk
+Type=Application
+StartupNotify=true
+Comment=Vortex
+Path=/home/tommi/.wine/dosdevices/c:/Program Files/Black Tree Gaming Ltd/Vortex
+Icon=CFE6_Vortex.0
+StartupWMClass=vortex.exe

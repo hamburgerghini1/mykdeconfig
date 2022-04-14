@@ -1,0 +1,6 @@
+2022/04/10-13:13:45.940 7d Reusing MANIFEST /home/tommi/.var/app/im.riot.Riot/config/Element/IndexedDB/vector_vector_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/10-13:13:45.941 7d Recovering log #17
+2022/04/10-13:13:45.960 7d Reusing old log /home/tommi/.var/app/im.riot.Riot/config/Element/IndexedDB/vector_vector_0.indexeddb.leveldb/000017.log 
+2022/04/10-13:44:18.408 7d Level-0 table #24: started
+2022/04/10-13:44:18.419 7d Level-0 table #24: 2230255 bytes OK
+2022/04/10-13:44:18.421 7d Delete type=0 #17

@@ -1,0 +1,1811 @@
+{
+   "AboutPage_Title": {
+      "message": "Névjegy"
+   },
+   "About_Sync2": {
+      "message": "Fiók:"
+   },
+   "About_Version2": {
+      "message": "Verzió:"
+   },
+   "AccountLicenseStatus_Business": {
+      "message": "Business licensz"
+   },
+   "BEM_Description": {
+      "message": "RoboForm, the #1 ranked Password Manager makes your life easier by remembering passwords and logging you into websites automatically"
+   },
+   "BEM_FullName": {
+      "message": "RoboForm Password Manager"
+   },
+   "BEM_FullNameBeta": {
+      "message": "RoboForm Password Manager (Beta)"
+   },
+   "Btn_No": {
+      "message": "Nem"
+   },
+   "Btn_Yes": {
+      "message": "Igen"
+   },
+   "CheckedRunMB_CheckButton": {
+      "message": "Ez az üzenet ne jelenjen meg ismét"
+   },
+   "Cmd_About_Key": {
+      "message": "Névjegy..."
+   },
+   "Cmd_Accept_Key": {
+      "message": "Elfogadás"
+   },
+   "Cmd_Cancel_Flat": {
+      "message": "Mégsem"
+   },
+   "Cmd_ClearList_Key": {
+      "message": "(Lista kiürítése)"
+   },
+   "Cmd_Close_Flat": {
+      "message": "Bezárás"
+   },
+   "Cmd_ConvertFolderToGroup_Key": {
+      "message": "Konvertálás csoporttá"
+   },
+   "Cmd_DeleteFolder_Confirm": {
+      "message": "Biztosan törlésre kerüljenek a RoboForm adatok: %1?\n%2\n\nA törléskor ezek a személyes fájlok elvesznek."
+   },
+   "Cmd_DeleteFolder_OtherFiles": {
+      "message": "egyéb fájlok"
+   },
+   "Cmd_Delete_Confirm": {
+      "message": "Törlésre kerüljön %1 '%2'?"
+   },
+   "Cmd_Delete_Flat": {
+      "message": "Törlés"
+   },
+   "Cmd_Done_Flat": {
+      "message": "Kész."
+   },
+   "Cmd_Edit_Flat": {
+      "message": "Szerkesztés"
+   },
+   "Cmd_EmergencyAccess_Key": {
+      "message": "Vészhelyzeti hozzáférés"
+   },
+   "Cmd_FillEmptyOnly_Key": {
+      "message": "Csak az üres mezők kitöltése"
+   },
+   "Cmd_FillForms_Flat": {
+      "message": "Űrlapok kitöltése"
+   },
+   "Cmd_FillGenPassword_Flat": {
+      "message": "Generálás"
+   },
+   "Cmd_GoFill_Flat": {
+      "message": "Kitöltés"
+   },
+   "Cmd_Goto_Flat": {
+      "message": "Ugrás"
+   },
+   "Cmd_Help_ContactSupport_Key": {
+      "message": "Kapcsolat támogatás"
+   },
+   "Cmd_Help_FaqAll_Key": {
+      "message": "GYK"
+   },
+   "Cmd_Help_Flat": {
+      "message": "Súgó"
+   },
+   "Cmd_Help_HomePage_Key": {
+      "message": "Kezdőoldal"
+   },
+   "Cmd_Help_Manual_Key": {
+      "message": "Kézikönyv"
+   },
+   "Cmd_Help_ProblemStepsRecorder_Key": {
+      "message": "Probléma lépések rögzítő"
+   },
+   "Cmd_Later_Flat": {
+      "message": "Később"
+   },
+   "Cmd_Login_Flat": {
+      "message": "Bejelentkezés"
+   },
+   "Cmd_Logins_Flat": {
+      "message": "Bejelentkezések"
+   },
+   "Cmd_Logoff_Flat": {
+      "message": "Kijelentkezés"
+   },
+   "Cmd_NewFolder_Error": {
+      "message": "Hiba történt az új mappa létrehozásakor: %1"
+   },
+   "Cmd_NewFolder_Exist_Error": {
+      "message": "'%1' mappa már létezik."
+   },
+   "Cmd_NewFolder_Title": {
+      "message": "Új mappa"
+   },
+   "Cmd_Options_Flat": {
+      "message": "Opciók"
+   },
+   "Cmd_PasswordAuditRun_Key": {
+      "message": "Biztonsági központ"
+   },
+   "Cmd_Password_Generator_Flat": {
+      "message": "Jelszó generátor"
+   },
+   "Cmd_RejectAll_Flat": {
+      "message": "Összes elutasítása"
+   },
+   "Cmd_Reject_Key": {
+      "message": "Elutasítás"
+   },
+   "Cmd_Rename_Error": {
+      "message": "Hiba történt az átnevezéskor: %1 '%2':\n%3"
+   },
+   "Cmd_Rename_Flat": {
+      "message": "Átnevezés"
+   },
+   "Cmd_Rename_Name_Prompt": {
+      "message": "Átnevezés erre:"
+   },
+   "Cmd_RenewalRewards_Flat": {
+      "message": "Díjak megújítása"
+   },
+   "Cmd_Retry_Flat": {
+      "message": "Ismét"
+   },
+   "Cmd_RoboForm_Flat": {
+      "message": "RoboForm"
+   },
+   "Cmd_RunEditor_Flat": {
+      "message": "Szerkesztő"
+   },
+   "Cmd_Safenote_CopyClipboard_Flat": {
+      "message": "Szöveg másolása"
+   },
+   "Cmd_SaveForms_Flat": {
+      "message": "Mentés"
+   },
+   "Cmd_SaveForms_Key": {
+      "message": "Űrlap mentése"
+   },
+   "Cmd_SendFile_Key": {
+      "message": "Küldés..."
+   },
+   "Cmd_Settings_Flat": {
+      "message": "Beállítások"
+   },
+   "Cmd_ShareExistingFolder_Key": {
+      "message": "Mappa megosztása"
+   },
+   "Cmd_SharedFileSettings_Key": {
+      "message": "Megosztás..."
+   },
+   "Cmd_SharedFolderSettings_Key": {
+      "message": "Megosztás..."
+   },
+   "Cmd_Skip_Flat": {
+      "message": "Átlépés"
+   },
+   "Cmd_StartPage_Tip": {
+      "message": "RoboForm kezdőoldal megnyitása"
+   },
+   "Cmd_Sync_RoboFormAccount_Key": {
+      "message": "RoboForm fiók kezelése"
+   },
+   "Cmd_ToolBarSync": {
+      "message": "Szinkronizálás"
+   },
+   "Cmd_Unpin_Flat": {
+      "message": "Feloldás"
+   },
+   "ContextMenuAndShortcuts_ClearFields_Acc": {
+      "message": "0"
+   },
+   "ContextMenuAndShortcuts_ClearFields_Text": {
+      "message": "Mezők kiürítése"
+   },
+   "ContextMenuAndShortcuts_FillForms_Acc": {
+      "message": "]"
+   },
+   "ContextMenuAndShortcuts_FillForms_Text": {
+      "message": "Űrlapok kitöltése"
+   },
+   "ContextMenuAndShortcuts_FillSubmit_Acc3": {
+      "message": "Z"
+   },
+   "ContextMenuAndShortcuts_FillSubmit_Text": {
+      "message": "Kitöltés és beküldés"
+   },
+   "ContextMenuAndShortcuts_IdentitiesEditor_Acc": {
+      "message": ","
+   },
+   "ContextMenuAndShortcuts_IdentitiesEditor_Text": {
+      "message": "Azonosítások szerkesztő"
+   },
+   "ContextMenuAndShortcuts_Identities_Acc2": {
+      "message": "N"
+   },
+   "ContextMenuAndShortcuts_Identities_Text": {
+      "message": "Azonosítások"
+   },
+   "ContextMenuAndShortcuts_Logins_Acc2": {
+      "message": "X"
+   },
+   "ContextMenuAndShortcuts_Logins_Text": {
+      "message": "Bejelentkezések"
+   },
+   "ContextMenuAndShortcuts_Logoff_Acc": {
+      "message": "L"
+   },
+   "ContextMenuAndShortcuts_Logoff_Text": {
+      "message": "Kijelentkezés"
+   },
+   "ContextMenuAndShortcuts_MatchingPasscard_Acc": {
+      "message": "M"
+   },
+   "ContextMenuAndShortcuts_MatchingPasscard_Text": {
+      "message": "Egyező jelszavak"
+   },
+   "ContextMenuAndShortcuts_MyIdentity_Acc": {
+      "message": "19"
+   },
+   "ContextMenuAndShortcuts_MyIdentity_Text": {
+      "message": "Saját azonosítás"
+   },
+   "ContextMenuAndShortcuts_Options_Acc": {
+      "message": "O"
+   },
+   "ContextMenuAndShortcuts_PasscardsEditor_Acc": {
+      "message": "."
+   },
+   "ContextMenuAndShortcuts_PasscardsEditor_Text": {
+      "message": "Beléptetők szerkesztő"
+   },
+   "ContextMenuAndShortcuts_ResetFields_Acc": {
+      "message": "-"
+   },
+   "ContextMenuAndShortcuts_ResetFields_Text": {
+      "message": "Mezők alaphelyzetbe"
+   },
+   "ContextMenuAndShortcuts_RoboFormMenu_Acc2": {
+      "message": "U"
+   },
+   "ContextMenuAndShortcuts_RoboFormMenu_Text": {
+      "message": "RoboForm menü"
+   },
+   "ContextMenuAndShortcuts_RoboFormToolbar_Acc3": {
+      "message": "R"
+   },
+   "ContextMenuAndShortcuts_RunPassGen_Acc": {
+      "message": "P"
+   },
+   "ContextMenuAndShortcuts_RunPassGen_Text": {
+      "message": "Jelszó generátor"
+   },
+   "ContextMenuAndShortcuts_RunTaskbar_Acc": {
+      "message": "I"
+   },
+   "ContextMenuAndShortcuts_SafenotesEditor_Acc": {
+      "message": "/"
+   },
+   "ContextMenuAndShortcuts_SafenotesEditor_Text": {
+      "message": "Védett feljegyzés szerkesztő"
+   },
+   "ContextMenuAndShortcuts_Safenotes_Acc": {
+      "message": "C"
+   },
+   "ContextMenuAndShortcuts_Safenotes_Text": {
+      "message": "Védett jegyzetek"
+   },
+   "ContextMenuAndShortcuts_SaveForms_Acc": {
+      "message": "["
+   },
+   "ContextMenuAndShortcuts_SaveForms_Text": {
+      "message": "Űrlapok mentése"
+   },
+   "ContextMenuAndShortcuts_SearchBox_Acc": {
+      "message": "S"
+   },
+   "ContextMenuAndShortcuts_SearchBox_Text": {
+      "message": "Keresődoboz"
+   },
+   "ContextMenuAndShortcuts_SetFields_Acc": {
+      "message": "="
+   },
+   "ContextMenuAndShortcuts_SetFields_Text": {
+      "message": "Mezők beállítása"
+   },
+   "DuplicateFields_Title": {
+      "message": "Kitöltött mezők duplikálása - RoboForm"
+   },
+   "DuplicatesDialog_ApplyChanges_Button": {
+      "message": "Alkalmazás"
+   },
+   "DuplicatesDialog_CancelDelete_Button": {
+      "message": "Nincs törlés"
+   },
+   "DuplicatesDialog_CancelRename_Button": {
+      "message": "Nincs átnevezés"
+   },
+   "DuplicatesDialog_Cancel_Button": {
+      "message": "Ne alkalmazza"
+   },
+   "DuplicatesDialog_Delete_Button": {
+      "message": "Törlés"
+   },
+   "DuplicatesDialog_Delete_Text": {
+      "message": "Törlés"
+   },
+   "DuplicatesDialog_Rename_Button": {
+      "message": "Átnevezés"
+   },
+   "DuplicatesDialog_Undo_Text": {
+      "message": "Megtartás"
+   },
+   "Editor_Cmd_Selector_All_Flat": {
+      "message": "Összes"
+   },
+   "EmergencyAccess_DenyAccess_Text": {
+      "message": "Hozzáférés megtagadás"
+   },
+   "EmergencyAccess_GrantAccess_Title": {
+      "message": "Hozzáférés kiosztás"
+   },
+   "EmergencyAccess_Title": {
+      "message": "Vészhelyzeti hozzáférés"
+   },
+   "FillDlg_FindFill_Title": {
+      "message": "Űrlapok kitöltése - RoboForm"
+   },
+   "Filler_FillTheSameValues": {
+      "message": "Nincsenek a Felhasználóban és Beléptetőben olyan mezők megadva, melyekkel az űrlapot ki lehetne tölteni (ugyanazok az értékek)."
+   },
+   "Filler_NoFormsFound": {
+      "message": "Nem találom a kitöltendő űrlapot a honlapon."
+   },
+   "Filler_NoMatchingFields": {
+      "message": "Nincsenek a Felhasználóban és Beléptetőben olyan mezők megadva, melyekkel az űrlapot ki lehetne tölteni (nincs egyezés)."
+   },
+   "FolderTree_NewItem": {
+      "message": "Új mappa"
+   },
+   "HomeFolder": {
+      "message": "Kezdőoldal"
+   },
+   "Identities_ConfirmDeleteInstance": {
+      "message": "Törlésre kerüljön '%2' '%1' példánya?"
+   },
+   "Identities_CustomFieldOverride_1": {
+      "message": "'%1' felülbírálja: %2"
+   },
+   "Identities_InstanceNameInvalidCharacter": {
+      "message": "A példány csak betűket, számjegyeket és '_' és '-' karaktereket tartalmazhat."
+   },
+   "Identities_Instance_Main": {
+      "message": "Fő"
+   },
+   "Import_ReportAddedGeneric_Text": {
+      "message": "%1 %2 hozzáadásra került.\n"
+   },
+   "Install_Email": {
+      "message": "Email cím:"
+   },
+   "Loading_Status_Text": {
+      "message": "A betöltés folyamatban van..."
+   },
+   "MainPage_CreateNew_Text": {
+      "message": "Új létrehozása"
+   },
+   "MainPage_Pinned_Header_Text": {
+      "message": "Rögzített"
+   },
+   "MainPage_Popular_Header_Text": {
+      "message": "Népszerű"
+   },
+   "MainPage_Recent_Header_Text": {
+      "message": "Nem régi"
+   },
+   "MainPage_ShowAll_Identities_Text": {
+      "message": "Összes azonosítás"
+   },
+   "MainPage_ShowAll_Logins_Text": {
+      "message": "Összes bejelentkezés"
+   },
+   "MainPage_Start_Button_Text": {
+      "message": "Indítás"
+   },
+   "MasterPass_Prompt_TypeNew": {
+      "message": "Új mesterjelszó:"
+   },
+   "MasterPass_Prompt_TypeOld": {
+      "message": "Régi mesterjelszó:"
+   },
+   "NewSharedFolder_Title": {
+      "message": "Név:"
+   },
+   "OTPPage_Input_Placeholder": {
+      "message": "Egyszeri jelszó begépelése ide"
+   },
+   "Options_Adapter_ChromiumBased_Text": {
+      "message": "Chromium-alapú böngészők"
+   },
+   "Options_Adapter_Edge_Text": {
+      "message": "Microsoft Edge kiterjesztés"
+   },
+   "Options_Adapter_FirefoxBased_Text": {
+      "message": "Firefox-alapú böngészők"
+   },
+   "Options_AutoFillThreshold_Tip": {
+      "message": "Minimálisan kitölthető mezők száma olyan weboldalakon, ahol szükséges az automatikus kitöltés azonosításból."
+   },
+   "Options_AutoFill_Title": {
+      "message": "Automatikus kitöltés"
+   },
+   "Options_AutoForgetTime_Text": {
+      "message": "-Önműködő felhasználó-kiléptetés (percben)"
+   },
+   "Options_AutoSave_Title": {
+      "message": "Automatikus mentés"
+   },
+   "Options_Browsers_Title": {
+      "message": "Böngészők"
+   },
+   "Options_Domains_Title": {
+      "message": "Domainek"
+   },
+   "Options_General_Title": {
+      "message": "Általános"
+   },
+   "Options_ImportsButton_Text2": {
+      "message": "Importálás"
+   },
+   "Options_Keyboard_Title": {
+      "message": "Billentyűzet"
+   },
+   "Options_Language_Title": {
+      "message": "Nyelv"
+   },
+   "Options_Security_Title": {
+      "message": "Biztonság"
+   },
+   "Options_Shortcut_Ctrl_Text": {
+      "message": "Ctrl"
+   },
+   "PassAud_PwdStrengthGood": {
+      "message": "Jó"
+   },
+   "PassAud_PwdStrengthMedium": {
+      "message": "Közepes"
+   },
+   "PassAud_PwdStrengthStrong": {
+      "message": "Erős"
+   },
+   "PassAud_PwdStrengthWeak": {
+      "message": "Gyenge"
+   },
+   "PassCards_Note": {
+      "message": "Megjegyzés"
+   },
+   "PassCards_Password": {
+      "message": "Jelszó"
+   },
+   "PassCards_UserId": {
+      "message": "Felhasználó AZ"
+   },
+   "PassGen_BitStrength": {
+      "message": "Biterősség ="
+   },
+   "PassGen_CharNumber_Text": {
+      "message": "Karakterek száma"
+   },
+   "PassGen_Copy": {
+      "message": "Másolás"
+   },
+   "PassGen_Generate": {
+      "message": "Új generálása"
+   },
+   "PassGen_ShowAdvanced": {
+      "message": "Bővített beállítások"
+   },
+   "PassGen_Title": {
+      "message": "Jelszó generátor - RoboForm"
+   },
+   "PassGen_UseHexChars": {
+      "message": "Hexadecimális 0-9, A-F"
+   },
+   "PassType_Blocking_Suffix": {
+      "message": "-Blokkolva-"
+   },
+   "Passw_Account_Title": {
+      "message": "RoboForm fiókhoz:"
+   },
+   "Passw_ChangeAccount": {
+      "message": "Fiókváltás"
+   },
+   "Passw_Generic_Header": {
+      "message": "Mesterjelszó megadása"
+   },
+   "Passw_Login": {
+      "message": "Bejelentkezés"
+   },
+   "Passw_SubmitButton_Text": {
+      "message": "Beküldés"
+   },
+   "ProAd_UpgradeNow_Button": {
+      "message": "Felminősítés most"
+   },
+   "RFOSetup_CreateNewAccount_Button": {
+      "message": "Új fiók létrehozása"
+   },
+   "RFO_TwoFactorCaption_Text": {
+      "message": "Egyszeri jelszó"
+   },
+   "RFO_TwoFactor_WrongOTP_Text": {
+      "message": "Az egyszeri jelszó hibás."
+   },
+   "RI_AOL_Screen_Name": {
+      "message": "AOL név"
+   },
+   "RI_Address": {
+      "message": "Postai cím"
+   },
+   "RI_Address_Line_1": {
+      "message": "Cím1"
+   },
+   "RI_Address_Line_2": {
+      "message": "Cím2"
+   },
+   "RI_Age": {
+      "message": "Kor"
+   },
+   "RI_Alphabet": {
+      "message": "Alfabetikus"
+   },
+   "RI_Alphabet_Name": {
+      "message": "Alfabetikus"
+   },
+   "RI_Apartment_Number": {
+      "message": "Ajtószám"
+   },
+   "RI_Bank_Account_Number": {
+      "message": "Számlaszám"
+   },
+   "RI_Bank_Account_Owner": {
+      "message": "Számla tulajdonos"
+   },
+   "RI_Bank_Account_Type": {
+      "message": "Számlatípus"
+   },
+   "RI_Bank_Name": {
+      "message": "Bank neve"
+   },
+   "RI_Bank_Routing_Number": {
+      "message": "Elosztói szám"
+   },
+   "RI_Birth_Date": {
+      "message": "Születési dátum"
+   },
+   "RI_Birth_Day": {
+      "message": "Születési nap"
+   },
+   "RI_Birth_Month": {
+      "message": "Születési hónap"
+   },
+   "RI_Birth_Place": {
+      "message": "Születési hely"
+   },
+   "RI_Birth_Year": {
+      "message": "Születési év"
+   },
+   "RI_Bundesland": {
+      "message": "Szövetségi állam"
+   },
+   "RI_Canton": {
+      "message": "Kanton"
+   },
+   "RI_Car_Make": {
+      "message": "Gyártmány"
+   },
+   "RI_Car_Model": {
+      "message": "Modell"
+   },
+   "RI_Car_Plate": {
+      "message": "Rendszám"
+   },
+   "RI_Car_Plate_Number": {
+      "message": "Rendszám #"
+   },
+   "RI_Car_Year": {
+      "message": "Évjárat"
+   },
+   "RI_Card_Customer_Service_Phone": {
+      "message": "Ügyél telefonszáma"
+   },
+   "RI_Card_Expires": {
+      "message": "Kártya lejárat"
+   },
+   "RI_Card_Issuing_Bank": {
+      "message": "Kibocsátó bank"
+   },
+   "RI_Card_Number": {
+      "message": "Kártyaszám"
+   },
+   "RI_Card_Password": {
+      "message": "Kártyajelszó"
+   },
+   "RI_Card_Type": {
+      "message": "Kártyatípus"
+   },
+   "RI_Card_User_Name": {
+      "message": "Kártya használó név"
+   },
+   "RI_Card_Validation_Code": {
+      "message": "Ellenőrző kód"
+   },
+   "RI_Cell_Phone": {
+      "message": "Mobiltelefon"
+   },
+   "RI_City": {
+      "message": "Település"
+   },
+   "RI_Company": {
+      "message": "Cégnév"
+   },
+   "RI_Contact": {
+      "message": "Kapcsolat"
+   },
+   "RI_Country": {
+      "message": "Ország"
+   },
+   "RI_CountryCode": {
+      "message": "Országkód"
+   },
+   "RI_Country_Australia": {
+      "message": "Ausztrália"
+   },
+   "RI_Country_Austria": {
+      "message": "Ausztria"
+   },
+   "RI_Country_Belgium": {
+      "message": "Belgium"
+   },
+   "RI_Country_Canada": {
+      "message": "Kanada"
+   },
+   "RI_Country_China": {
+      "message": "Kína"
+   },
+   "RI_Country_France": {
+      "message": "Franciaország"
+   },
+   "RI_Country_Germany": {
+      "message": "Németország"
+   },
+   "RI_Country_Hungary": {
+      "message": "Magyarország"
+   },
+   "RI_Country_Italy": {
+      "message": "Olaszország"
+   },
+   "RI_Country_Netherlands": {
+      "message": "Hollandia"
+   },
+   "RI_Country_New_Zealand": {
+      "message": "Új-Zéland"
+   },
+   "RI_Country_Other": {
+      "message": "Egyéb"
+   },
+   "RI_Country_Philippines": {
+      "message": "Fülöp-szigetek"
+   },
+   "RI_Country_Russia": {
+      "message": "Oroszország"
+   },
+   "RI_Country_Spain": {
+      "message": "Spanyolország"
+   },
+   "RI_Country_Sweden": {
+      "message": "Svédország"
+   },
+   "RI_Country_Switzerland": {
+      "message": "Svájc"
+   },
+   "RI_Country_United_Kingdom": {
+      "message": "Egyesült Királyság"
+   },
+   "RI_Country_United_States": {
+      "message": "Egyesült Államok"
+   },
+   "RI_County": {
+      "message": "Ország"
+   },
+   "RI_Department": {
+      "message": "Kerület"
+   },
+   "RI_District": {
+      "message": "Körzet"
+   },
+   "RI_Driver_License": {
+      "message": "Jogosítvány"
+   },
+   "RI_Driver_License_Number": {
+      "message": "Jogosítvány"
+   },
+   "RI_Email": {
+      "message": "Email"
+   },
+   "RI_Employer_Identitification_Number": {
+      "message": "Munkáltató AZ"
+   },
+   "RI_Expires": {
+      "message": "Lejárat"
+   },
+   "RI_Fax_Phone": {
+      "message": "Fax"
+   },
+   "RI_First": {
+      "message": "Személynév"
+   },
+   "RI_Group_Bank_Account": {
+      "message": "Bankfiók"
+   },
+   "RI_Group_Car": {
+      "message": "Gépjármű"
+   },
+   "RI_Group_Credit_Card": {
+      "message": "Hitelkártya"
+   },
+   "RI_Group_Custom": {
+      "message": "Egyedi"
+   },
+   "RI_Group_Default_Password": {
+      "message": "Hitelesítés"
+   },
+   "RI_Group_Location": {
+      "message": "Postai cím"
+   },
+   "RI_Group_Passport": {
+      "message": "Útlevél"
+   },
+   "RI_Group_Person": {
+      "message": "Személyes"
+   },
+   "RI_Group_Service": {
+      "message": "Szolgáltaás"
+   },
+   "RI_Group_Service2": {
+      "message": "Általános"
+   },
+   "RI_Group_Summary": {
+      "message": "Összegzés"
+   },
+   "RI_Home_Phone": {
+      "message": "Otthoni telefon"
+   },
+   "RI_HouseNumber": {
+      "message": "Házszám"
+   },
+   "RI_HouseNumber_StreetName": {
+      "message": "Házszám Utcanév"
+   },
+   "RI_HouseNumber_or_Name": {
+      "message": "Házszám vagy név"
+   },
+   "RI_ICQ_Number": {
+      "message": "ICQ szám"
+   },
+   "RI_ID_Card_Number": {
+      "message": "Személyi igazolvány szám"
+   },
+   "RI_ID_Card_Type": {
+      "message": "Személyi igazolvány típus"
+   },
+   "RI_Income": {
+      "message": "Jövedelem"
+   },
+   "RI_Int_Bank_Account_Number": {
+      "message": "IBAN"
+   },
+   "RI_Job": {
+      "message": "Foglalkozás"
+   },
+   "RI_Last": {
+      "message": "Családnév"
+   },
+   "RI_Last2": {
+      "message": "Családnév2"
+   },
+   "RI_Legal_Business_Name": {
+      "message": "Vállalkozásnév"
+   },
+   "RI_MSN_ID": {
+      "message": "MSN AZ"
+   },
+   "RI_Middle": {
+      "message": "Középső név"
+   },
+   "RI_Mobile_Email": {
+      "message": "Mobil email cím"
+   },
+   "RI_Municipality": {
+      "message": "Önkormányzat"
+   },
+   "RI_Name": {
+      "message": "Név"
+   },
+   "RI_Name_Suffix_Jr": {
+      "message": "ifj."
+   },
+   "RI_Name_Suffix_Sr": {
+      "message": "id."
+   },
+   "RI_NationalPrefix": {
+      "message": "Honi előtag"
+   },
+   "RI_National_Health_Service_Number": {
+      "message": "Egészségügyi azonosítószám"
+   },
+   "RI_National_Insurance_Number": {
+      "message": "TAJ szám"
+   },
+   "RI_Number": {
+      "message": "Szám"
+   },
+   "RI_Pager_Phone": {
+      "message": "Lapozó"
+   },
+   "RI_Passport": {
+      "message": "Útlevél"
+   },
+   "RI_Passport_Expiration_Date": {
+      "message": "Útlevél lejárati dátum"
+   },
+   "RI_Passport_Issue_Date": {
+      "message": "Útlevél kiadási dátum"
+   },
+   "RI_Passport_Issue_Place": {
+      "message": "Útlevél kiadási hely"
+   },
+   "RI_Passport_Number": {
+      "message": "Útlevél szám"
+   },
+   "RI_Passport_Series": {
+      "message": "Útlevél sorozat"
+   },
+   "RI_Passport_Type": {
+      "message": "Útlevéltípus"
+   },
+   "RI_Passport_Type_International": {
+      "message": "Nemzetközi"
+   },
+   "RI_Passport_Type_National": {
+      "message": "Nemzeti"
+   },
+   "RI_Password": {
+      "message": "Kedvenc jelszó"
+   },
+   "RI_Password_Answer": {
+      "message": "Jelszó válasz"
+   },
+   "RI_Password_Question": {
+      "message": "Jelszó kérdés"
+   },
+   "RI_Pension_Insurance_Number": {
+      "message": "Nyugdíjas azonosítószám"
+   },
+   "RI_Personal_ID": {
+      "message": "Személyiszám"
+   },
+   "RI_Phone": {
+      "message": "Telefon"
+   },
+   "RI_Position": {
+      "message": "Beosztás"
+   },
+   "RI_PostCode": {
+      "message": "Irányítószám"
+   },
+   "RI_PostCode_City": {
+      "message": "Irányítószám Település"
+   },
+   "RI_Prefecture": {
+      "message": "Prefektúra"
+   },
+   "RI_Province": {
+      "message": "Megye"
+   },
+   "RI_Region": {
+      "message": "Térség"
+   },
+   "RI_Roman_Name": {
+      "message": "Római"
+   },
+   "RI_Series": {
+      "message": "Sorozatok"
+   },
+   "RI_Sex": {
+      "message": "Nem"
+   },
+   "RI_Sex_Female": {
+      "message": "Nő"
+   },
+   "RI_Sex_Male": {
+      "message": "Férfi"
+   },
+   "RI_Skype_ID": {
+      "message": "Skype AZ"
+   },
+   "RI_Social_Security_Number": {
+      "message": "TB szám"
+   },
+   "RI_State": {
+      "message": "Állam"
+   },
+   "RI_State_Or_Province": {
+      "message": "Állam vagy megye"
+   },
+   "RI_State_Or_Province_AA": {
+      "message": "AA"
+   },
+   "RI_State_Or_Province_AE": {
+      "message": "AE"
+   },
+   "RI_State_Or_Province_AP": {
+      "message": "AP"
+   },
+   "RI_State_Or_Province_Adygeya_republic": {
+      "message": "Adygeya republic"
+   },
+   "RI_State_Or_Province_Agin_Buryat_avt_okrug": {
+      "message": "Agin Buryat avt okrug"
+   },
+   "RI_State_Or_Province_Aichi": {
+      "message": "Aichi"
+   },
+   "RI_State_Or_Province_Akita": {
+      "message": "Akita"
+   },
+   "RI_State_Or_Province_Alabama": {
+      "message": "AL"
+   },
+   "RI_State_Or_Province_Alaska": {
+      "message": "AK"
+   },
+   "RI_State_Or_Province_Alberta": {
+      "message": "Alberta"
+   },
+   "RI_State_Or_Province_Altai_republic": {
+      "message": "Altai republic"
+   },
+   "RI_State_Or_Province_Altaiskiy_krai": {
+      "message": "Altaiskiy krai"
+   },
+   "RI_State_Or_Province_American_Samoa": {
+      "message": "AS"
+   },
+   "RI_State_Or_Province_Amur_oblast": {
+      "message": "Amur oblast"
+   },
+   "RI_State_Or_Province_Anhui": {
+      "message": "Anhui"
+   },
+   "RI_State_Or_Province_Antwerpen": {
+      "message": "Antwerpen"
+   },
+   "RI_State_Or_Province_Aomen": {
+      "message": "Aomen"
+   },
+   "RI_State_Or_Province_Aomori": {
+      "message": "Aomori"
+   },
+   "RI_State_Or_Province_Appenzell_Inner_Rhodes": {
+      "message": "Appenzell Inner-Rhodes"
+   },
+   "RI_State_Or_Province_Appenzell_Outer_Rhodes": {
+      "message": "Appenzell Outer Rhodes"
+   },
+   "RI_State_Or_Province_Argovia": {
+      "message": "Argovia"
+   },
+   "RI_State_Or_Province_Arizona": {
+      "message": "AZ"
+   },
+   "RI_State_Or_Province_Arkansas": {
+      "message": "AR"
+   },
+   "RI_State_Or_Province_Arkhangelsk_oblast": {
+      "message": "Arkhangelsk oblast"
+   },
+   "RI_State_Or_Province_Astrakhan_oblast": {
+      "message": "Astrakhan oblast"
+   },
+   "RI_State_Or_Province_Australian_Capital_Terr": {
+      "message": "ACT"
+   },
+   "RI_State_Or_Province_Bashkir_republic": {
+      "message": "Bashkir republic"
+   },
+   "RI_State_Or_Province_Basle_Country": {
+      "message": "Basle-Country"
+   },
+   "RI_State_Or_Province_Basle_Town": {
+      "message": "Basle-Town"
+   },
+   "RI_State_Or_Province_Beijing": {
+      "message": "Beijing"
+   },
+   "RI_State_Or_Province_Belgorod_oblast": {
+      "message": "Belgorod oblast"
+   },
+   "RI_State_Or_Province_Berne": {
+      "message": "Berne"
+   },
+   "RI_State_Or_Province_Brabant_Wallon": {
+      "message": "Brabant Wallon"
+   },
+   "RI_State_Or_Province_British_Columbia": {
+      "message": "British Columbia"
+   },
+   "RI_State_Or_Province_Brussels_Region": {
+      "message": "Brussels Region"
+   },
+   "RI_State_Or_Province_Bryansk_oblast": {
+      "message": "Bryansk oblast"
+   },
+   "RI_State_Or_Province_Buruyat_republic": {
+      "message": "Buruyat republic"
+   },
+   "RI_State_Or_Province_California": {
+      "message": "CA"
+   },
+   "RI_State_Or_Province_Chiba": {
+      "message": "Chiba"
+   },
+   "RI_State_Or_Province_Chongqing": {
+      "message": "Chongqing"
+   },
+   "RI_State_Or_Province_Colorado": {
+      "message": "CO"
+   },
+   "RI_State_Or_Province_Connecticut": {
+      "message": "CT"
+   },
+   "RI_State_Or_Province_Delaware": {
+      "message": "DE"
+   },
+   "RI_State_Or_Province_District_of_Columbia": {
+      "message": "DC"
+   },
+   "RI_State_Or_Province_Ehime": {
+      "message": "Ehime"
+   },
+   "RI_State_Or_Province_Florida": {
+      "message": "FL"
+   },
+   "RI_State_Or_Province_Fribourg": {
+      "message": "Fribourg"
+   },
+   "RI_State_Or_Province_Fujian": {
+      "message": "Fujian"
+   },
+   "RI_State_Or_Province_Fukui": {
+      "message": "Fukui"
+   },
+   "RI_State_Or_Province_Fukuoka": {
+      "message": "Fukuoka"
+   },
+   "RI_State_Or_Province_Fukushima": {
+      "message": "Fukushima"
+   },
+   "RI_State_Or_Province_Gansu": {
+      "message": "Gansu"
+   },
+   "RI_State_Or_Province_Geneva": {
+      "message": "Geneva"
+   },
+   "RI_State_Or_Province_Georgia": {
+      "message": "GA"
+   },
+   "RI_State_Or_Province_Gifu": {
+      "message": "Gifu"
+   },
+   "RI_State_Or_Province_Glarus": {
+      "message": "Glarus"
+   },
+   "RI_State_Or_Province_Grisons": {
+      "message": "Grisons"
+   },
+   "RI_State_Or_Province_Guam": {
+      "message": "GU"
+   },
+   "RI_State_Or_Province_Guangdong": {
+      "message": "Guangdong"
+   },
+   "RI_State_Or_Province_Guangxi": {
+      "message": "Guangxi"
+   },
+   "RI_State_Or_Province_Guizhou": {
+      "message": "Guizhou"
+   },
+   "RI_State_Or_Province_Gunma": {
+      "message": "Gunma"
+   },
+   "RI_State_Or_Province_Hainan": {
+      "message": "Hainan"
+   },
+   "RI_State_Or_Province_Hainaut": {
+      "message": "Hainaut"
+   },
+   "RI_State_Or_Province_Hawaii": {
+      "message": "HI"
+   },
+   "RI_State_Or_Province_Hebei": {
+      "message": "Hebei"
+   },
+   "RI_State_Or_Province_Heilongjiang": {
+      "message": "Heilongjiang"
+   },
+   "RI_State_Or_Province_Henan": {
+      "message": "Henan"
+   },
+   "RI_State_Or_Province_Hiroshima": {
+      "message": "Hiroshima"
+   },
+   "RI_State_Or_Province_Hokkaido": {
+      "message": "Hokkaido"
+   },
+   "RI_State_Or_Province_Hubei": {
+      "message": "Hubei"
+   },
+   "RI_State_Or_Province_Hunan": {
+      "message": "Hunan"
+   },
+   "RI_State_Or_Province_Hyougo": {
+      "message": "Hyougo"
+   },
+   "RI_State_Or_Province_Ibaraki": {
+      "message": "Ibaraki"
+   },
+   "RI_State_Or_Province_Idaho": {
+      "message": "ID"
+   },
+   "RI_State_Or_Province_Illinois": {
+      "message": "IL"
+   },
+   "RI_State_Or_Province_Indiana": {
+      "message": "IN"
+   },
+   "RI_State_Or_Province_Iowa": {
+      "message": "IA"
+   },
+   "RI_State_Or_Province_Ishikawa": {
+      "message": "Ishikawa"
+   },
+   "RI_State_Or_Province_Iwate": {
+      "message": "Iwate"
+   },
+   "RI_State_Or_Province_Jiangsu": {
+      "message": "Jiangsu"
+   },
+   "RI_State_Or_Province_Jiangxi": {
+      "message": "Jiangxi"
+   },
+   "RI_State_Or_Province_Jilin": {
+      "message": "Jilin"
+   },
+   "RI_State_Or_Province_Jura": {
+      "message": "Jura"
+   },
+   "RI_State_Or_Province_Kagawa": {
+      "message": "Kagawa"
+   },
+   "RI_State_Or_Province_Kagoshima": {
+      "message": "Kagoshima"
+   },
+   "RI_State_Or_Province_Kanagawa": {
+      "message": "Kanagawa"
+   },
+   "RI_State_Or_Province_Kansas": {
+      "message": "KS"
+   },
+   "RI_State_Or_Province_Kentucky": {
+      "message": "KY"
+   },
+   "RI_State_Or_Province_Kouchi": {
+      "message": "Kouchi"
+   },
+   "RI_State_Or_Province_Kumamoto": {
+      "message": "Kumamoto"
+   },
+   "RI_State_Or_Province_Kyoto": {
+      "message": "Kyoto"
+   },
+   "RI_State_Or_Province_Liaoning": {
+      "message": "Liaoning"
+   },
+   "RI_State_Or_Province_Liege": {
+      "message": "Liege"
+   },
+   "RI_State_Or_Province_Limburg": {
+      "message": "Limburg"
+   },
+   "RI_State_Or_Province_Louisiana": {
+      "message": "LA"
+   },
+   "RI_State_Or_Province_Lucerne": {
+      "message": "Lucerne"
+   },
+   "RI_State_Or_Province_Luxembourg": {
+      "message": "Luxembourg"
+   },
+   "RI_State_Or_Province_Maine": {
+      "message": "ME"
+   },
+   "RI_State_Or_Province_Manitoba": {
+      "message": "Manitoba"
+   },
+   "RI_State_Or_Province_Maryland": {
+      "message": "MD"
+   },
+   "RI_State_Or_Province_Massachusetts": {
+      "message": "MA"
+   },
+   "RI_State_Or_Province_Michigan": {
+      "message": "MI"
+   },
+   "RI_State_Or_Province_Mie": {
+      "message": "Mie"
+   },
+   "RI_State_Or_Province_Minnesota": {
+      "message": "MN"
+   },
+   "RI_State_Or_Province_Mississippi": {
+      "message": "MS"
+   },
+   "RI_State_Or_Province_Missouri": {
+      "message": "MO"
+   },
+   "RI_State_Or_Province_Miyagi": {
+      "message": "Miyagi"
+   },
+   "RI_State_Or_Province_Miyazaki": {
+      "message": "Miyazaki"
+   },
+   "RI_State_Or_Province_Montana": {
+      "message": "MT"
+   },
+   "RI_State_Or_Province_Nagano": {
+      "message": "Nagano"
+   },
+   "RI_State_Or_Province_Nagasaki": {
+      "message": "Nagasaki"
+   },
+   "RI_State_Or_Province_Namur": {
+      "message": "Namur"
+   },
+   "RI_State_Or_Province_Nara": {
+      "message": "Nara"
+   },
+   "RI_State_Or_Province_Nebraska": {
+      "message": "NE"
+   },
+   "RI_State_Or_Province_Nei_Mongol": {
+      "message": "Nei Mongol"
+   },
+   "RI_State_Or_Province_Neuchatel": {
+      "message": "Neuchatel"
+   },
+   "RI_State_Or_Province_Nevada": {
+      "message": "NV"
+   },
+   "RI_State_Or_Province_New_Brunswick": {
+      "message": "New Brunswick"
+   },
+   "RI_State_Or_Province_New_Hampshire": {
+      "message": "NH"
+   },
+   "RI_State_Or_Province_New_Jersey": {
+      "message": "NJ"
+   },
+   "RI_State_Or_Province_New_Mexico": {
+      "message": "NM"
+   },
+   "RI_State_Or_Province_New_South_Wales": {
+      "message": "NSW"
+   },
+   "RI_State_Or_Province_New_York": {
+      "message": "NY"
+   },
+   "RI_State_Or_Province_Newfoundland": {
+      "message": "Newfoundland"
+   },
+   "RI_State_Or_Province_Nidwalden": {
+      "message": "Nidwalden"
+   },
+   "RI_State_Or_Province_Niigata": {
+      "message": "Niigata"
+   },
+   "RI_State_Or_Province_Ningxia": {
+      "message": "Ningxia"
+   },
+   "RI_State_Or_Province_North_Carolina": {
+      "message": "NC"
+   },
+   "RI_State_Or_Province_North_Dakota": {
+      "message": "ND"
+   },
+   "RI_State_Or_Province_Northern_Mariana_Is": {
+      "message": "MP"
+   },
+   "RI_State_Or_Province_Northern_Territory": {
+      "message": "NT"
+   },
+   "RI_State_Or_Province_Northwest_Territories": {
+      "message": "Northwest Territories"
+   },
+   "RI_State_Or_Province_Nova_Scotia": {
+      "message": "Nova Scotia"
+   },
+   "RI_State_Or_Province_Nunavut": {
+      "message": "Nunavut"
+   },
+   "RI_State_Or_Province_Obwalden": {
+      "message": "Obwalden"
+   },
+   "RI_State_Or_Province_Ohio": {
+      "message": "OH"
+   },
+   "RI_State_Or_Province_Okayama": {
+      "message": "Okayama"
+   },
+   "RI_State_Or_Province_Okinawa": {
+      "message": "Okinawa"
+   },
+   "RI_State_Or_Province_Oklahoma": {
+      "message": "OK"
+   },
+   "RI_State_Or_Province_Ontario": {
+      "message": "Ontario"
+   },
+   "RI_State_Or_Province_Ooita": {
+      "message": "Ooita"
+   },
+   "RI_State_Or_Province_Oost_Vlaanderen": {
+      "message": "Oost Vlaanderen"
+   },
+   "RI_State_Or_Province_Oregon": {
+      "message": "OR"
+   },
+   "RI_State_Or_Province_Osaka": {
+      "message": "Osaka"
+   },
+   "RI_State_Or_Province_Palau": {
+      "message": "PW"
+   },
+   "RI_State_Or_Province_Pennsylvania": {
+      "message": "PA"
+   },
+   "RI_State_Or_Province_Prince_Edward_Island": {
+      "message": "Prince Edward Island"
+   },
+   "RI_State_Or_Province_Puerto_Rico": {
+      "message": "PR"
+   },
+   "RI_State_Or_Province_Qinghai": {
+      "message": "Qinghai"
+   },
+   "RI_State_Or_Province_Quebec": {
+      "message": "Quebec"
+   },
+   "RI_State_Or_Province_Queensland": {
+      "message": "QLD"
+   },
+   "RI_State_Or_Province_Rhode_Island": {
+      "message": "RI"
+   },
+   "RI_State_Or_Province_Saga": {
+      "message": "Saga"
+   },
+   "RI_State_Or_Province_Saint_Gall": {
+      "message": "St. Gall"
+   },
+   "RI_State_Or_Province_Saitama": {
+      "message": "Saitama"
+   },
+   "RI_State_Or_Province_Saskatchewan": {
+      "message": "Saskatchewan"
+   },
+   "RI_State_Or_Province_Schaffhausen": {
+      "message": "Schaffhausen"
+   },
+   "RI_State_Or_Province_Schwyz": {
+      "message": "Schwyz"
+   },
+   "RI_State_Or_Province_Shaanxi": {
+      "message": "Shaanxi"
+   },
+   "RI_State_Or_Province_Shandong": {
+      "message": "Shandong"
+   },
+   "RI_State_Or_Province_Shanghai": {
+      "message": "Shanghai"
+   },
+   "RI_State_Or_Province_Shanxi": {
+      "message": "Shanxi"
+   },
+   "RI_State_Or_Province_Shiga": {
+      "message": "Shiga"
+   },
+   "RI_State_Or_Province_Shimane": {
+      "message": "Shimane"
+   },
+   "RI_State_Or_Province_Shizuoka": {
+      "message": "Shizuoka"
+   },
+   "RI_State_Or_Province_Sichuan": {
+      "message": "Sichuan"
+   },
+   "RI_State_Or_Province_Solothurn": {
+      "message": "Solothurn"
+   },
+   "RI_State_Or_Province_South_Australia": {
+      "message": "SA"
+   },
+   "RI_State_Or_Province_South_Carolina": {
+      "message": "SC"
+   },
+   "RI_State_Or_Province_South_Dakota": {
+      "message": "SD"
+   },
+   "RI_State_Or_Province_Taiwan": {
+      "message": "Taiwan"
+   },
+   "RI_State_Or_Province_Tasmania": {
+      "message": "TAS"
+   },
+   "RI_State_Or_Province_Tennessee": {
+      "message": "TN"
+   },
+   "RI_State_Or_Province_Texas": {
+      "message": "TX"
+   },
+   "RI_State_Or_Province_Thurgovia": {
+      "message": "Thurgovia"
+   },
+   "RI_State_Or_Province_Tianjin": {
+      "message": "Tianjin"
+   },
+   "RI_State_Or_Province_Ticino": {
+      "message": "Ticino"
+   },
+   "RI_State_Or_Province_Tochigi": {
+      "message": "Tochigi"
+   },
+   "RI_State_Or_Province_Tokushima": {
+      "message": "Tokushima"
+   },
+   "RI_State_Or_Province_Tokyo": {
+      "message": "Tokyo"
+   },
+   "RI_State_Or_Province_Tottori": {
+      "message": "Tottori"
+   },
+   "RI_State_Or_Province_Toyama": {
+      "message": "Toyama"
+   },
+   "RI_State_Or_Province_Uri": {
+      "message": "Uri"
+   },
+   "RI_State_Or_Province_Utah": {
+      "message": "UT"
+   },
+   "RI_State_Or_Province_Valais": {
+      "message": "Valais"
+   },
+   "RI_State_Or_Province_Vaud": {
+      "message": "Vaud"
+   },
+   "RI_State_Or_Province_Vermont": {
+      "message": "VT"
+   },
+   "RI_State_Or_Province_Victoria": {
+      "message": "VIC"
+   },
+   "RI_State_Or_Province_Virgin_Island": {
+      "message": "VI"
+   },
+   "RI_State_Or_Province_Virginia": {
+      "message": "VA"
+   },
+   "RI_State_Or_Province_Vlaams_Brabant": {
+      "message": "Vlaams Brabant"
+   },
+   "RI_State_Or_Province_Vladimir_oblast": {
+      "message": "Vladimir oblast"
+   },
+   "RI_State_Or_Province_Volgograd_oblast": {
+      "message": "Volgograd oblast"
+   },
+   "RI_State_Or_Province_Vologod_oblast": {
+      "message": "Vologod oblast"
+   },
+   "RI_State_Or_Province_Wakayama": {
+      "message": "Wakayama"
+   },
+   "RI_State_Or_Province_Washington": {
+      "message": "WA"
+   },
+   "RI_State_Or_Province_West_Virginia": {
+      "message": "WV"
+   },
+   "RI_State_Or_Province_West_Vlaanderen": {
+      "message": "West Vlaanderen"
+   },
+   "RI_State_Or_Province_Western_Australia": {
+      "message": "WA"
+   },
+   "RI_State_Or_Province_Wisconsin": {
+      "message": "WI"
+   },
+   "RI_State_Or_Province_Wyoming": {
+      "message": "WY"
+   },
+   "RI_State_Or_Province_Xianggang": {
+      "message": "Xianggang"
+   },
+   "RI_State_Or_Province_Xinjiang": {
+      "message": "Xinjiang"
+   },
+   "RI_State_Or_Province_Xizang": {
+      "message": "Xizang"
+   },
+   "RI_State_Or_Province_Yamagata": {
+      "message": "Yamagata"
+   },
+   "RI_State_Or_Province_Yamaguchi": {
+      "message": "Yamaguchi"
+   },
+   "RI_State_Or_Province_Yamanashi": {
+      "message": "Yamanashi"
+   },
+   "RI_State_Or_Province_Yukon": {
+      "message": "Yukon"
+   },
+   "RI_State_Or_Province_Yunnan": {
+      "message": "Yunnan"
+   },
+   "RI_State_Or_Province_Zhejiang": {
+      "message": "Zhejiang"
+   },
+   "RI_State_Or_Province_Zug": {
+      "message": "Zug"
+   },
+   "RI_State_Or_Province_Zurich": {
+      "message": "Zurich"
+   },
+   "RI_State_Zip": {
+      "message": "Irányítószám"
+   },
+   "RI_Station": {
+      "message": "Állomás"
+   },
+   "RI_StreetName": {
+      "message": "Közterületnév"
+   },
+   "RI_StreetNameC_HouseNumber": {
+      "message": "Közterületnév, házszám"
+   },
+   "RI_StreetName_HouseNumber": {
+      "message": "Közterületnév házszám"
+   },
+   "RI_Suburb": {
+      "message": "Városrész"
+   },
+   "RI_Subway_Station": {
+      "message": "Metrómegálló"
+   },
+   "RI_Suffix": {
+      "message": "Utótag"
+   },
+   "RI_Summary___id_account__": {
+      "message": "fiók"
+   },
+   "RI_Summary___id_appname__": {
+      "message": "alkalmazásnév"
+   },
+   "RI_Summary___id_bank__": {
+      "message": "bank"
+   },
+   "RI_Summary___id_carmakemodel__": {
+      "message": "Gyártmány, modell"
+   },
+   "RI_Summary___id_cell__": {
+      "message": "mobil:\t"
+   },
+   "RI_Summary___id_cvv__": {
+      "message": "cvv"
+   },
+   "RI_Summary___id_fax__": {
+      "message": "fax:\t"
+   },
+   "RI_Summary___id_filename__": {
+      "message": "fájlnév"
+   },
+   "RI_Summary___id_home__": {
+      "message": "otthoni:\t"
+   },
+   "RI_Summary___id_mail__": {
+      "message": "email cím"
+   },
+   "RI_Summary___id_passportnumber__": {
+      "message": "útlevél #"
+   },
+   "RI_Summary___id_password__": {
+      "message": "jelszó"
+   },
+   "RI_Summary___id_phone__": {
+      "message": "telefon:\t"
+   },
+   "RI_Summary___id_platenumber__": {
+      "message": "Rendszám #"
+   },
+   "RI_Summary___id_userid__": {
+      "message": "felhasználó azonosító"
+   },
+   "RI_Summary___id_work__": {
+      "message": "munkahelyi:\t"
+   },
+   "RI_Tax_ID": {
+      "message": "Adó AZ"
+   },
+   "RI_Title": {
+      "message": "Megszólítás"
+   },
+   "RI_Title_Dr": {
+      "message": "Dr."
+   },
+   "RI_Title_Engr": {
+      "message": "Mérnök"
+   },
+   "RI_Title_Mr": {
+      "message": "Úr"
+   },
+   "RI_Title_Mrs": {
+      "message": "Asszony"
+   },
+   "RI_Title_Ms": {
+      "message": "Kisasszony"
+   },
+   "RI_Title_Prof": {
+      "message": "Prof."
+   },
+   "RI_Type_Of_Business": {
+      "message": "Vállalkozás típus"
+   },
+   "RI_User_ID": {
+      "message": "Kedvenc felhasználó AZ"
+   },
+   "RI_Web_Site": {
+      "message": "Webhely"
+   },
+   "RI_Work_Phone": {
+      "message": "Munkahelyi telefon"
+   },
+   "RI_Work_Phone_Ext": {
+      "message": "Mellék"
+   },
+   "RI_Yahoo_ID": {
+      "message": "Yahoo AZ"
+   },
+   "RI_ZipCode": {
+      "message": "Irányítószám"
+   },
+   "RI_Zip_Or_PostCode": {
+      "message": "Irányítószám"
+   },
+   "RI_dd": {
+      "message": "nn"
+   },
+   "RI_mm": {
+      "message": "hh"
+   },
+   "RI_yyyy": {
+      "message": "éééé"
+   },
+   "ReadOnly_Error": {
+      "message": "Az adatok csak olvashatóak."
+   },
+   "RfSyncProgress_Connecting": {
+      "message": "A kapcsolódás folyamatban van..."
+   },
+   "RfSyncProgress_RequestingAccountInfo": {
+      "message": "Az információ lekérése folyamatban van..."
+   },
+   "RfSyncProgress_Syncing": {
+      "message": "A szinkronizálás folyamatban van..."
+   },
+   "RoboformType_Bookmark": {
+      "message": "Könyvjelző"
+   },
+   "RoboformType_Bookmarks": {
+      "message": "Könyvjelzők"
+   },
+   "RoboformType_Contact": {
+      "message": "Kapcsolat"
+   },
+   "RoboformType_Contacts": {
+      "message": "Kapcsolatok"
+   },
+   "RoboformType_File": {
+      "message": "Fájl"
+   },
+   "RoboformType_Files": {
+      "message": "Fájlok"
+   },
+   "RoboformType_Folder": {
+      "message": "Mappa"
+   },
+   "RoboformType_Folders": {
+      "message": "Mappák"
+   },
+   "RoboformType_Identities": {
+      "message": "Azonosítások"
+   },
+   "RoboformType_Identity": {
+      "message": "Azonosítás"
+   },
+   "RoboformType_Login": {
+      "message": "Bejelentkezés"
+   },
+   "RoboformType_Logins": {
+      "message": "Bejelentkezések"
+   },
+   "RoboformType_Safenote": {
+      "message": "Védett feljegyzés"
+   },
+   "RoboformType_Safenotes": {
+      "message": "Védett jegyzetek"
+   },
+   "RoboformType_Searchcard": {
+      "message": "Keresőkártya"
+   },
+   "RoboformType_Searchcards": {
+      "message": "Keresőkártyák"
+   },
+   "Roboform_Folder": {
+      "message": "Mappa"
+   },
+   "SaveDlg_Folder_Text": {
+      "message": "Mappa:"
+   },
+   "SaveDlg_NeverForThisSite_Text": {
+      "message": "Ezen a webhelyen soha"
+   },
+   "SaveDlg_NewFolder_Text": {
+      "message": "Mappa létrehozása"
+   },
+   "SaveDlg_Note_AccountCreationData_Text": {
+      "message": "Fiók létrehozási adatok:"
+   },
+   "SaveDlg_SaveAs_Bookmark_Text": {
+      "message": "Könyvjelző"
+   },
+   "SaveDlg_SaveAs_Login_Text": {
+      "message": "Bejelentkezés"
+   },
+   "SaveDlg_Unblock_Key": {
+      "message": "Feloldás"
+   },
+   "SharedFolderSettings_Folder": {
+      "message": "Megosztott mappa"
+   },
+   "SharedFolderSettings_Group": {
+      "message": "Csoport"
+   },
+   "SharedFolderSettings_RejectSharedFolder": {
+      "message": "Elutasítás"
+   },
+   "WelcomePage_Page_Title": {
+      "message": "Üdvözlet"
+   }
+}

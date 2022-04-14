@@ -1,0 +1,80 @@
+{
+	"bcbc03d8812a44c18f41cf7d5f849265": {
+		"game": {
+			"app_name": "bcbc03d8812a44c18f41cf7d5f849265",
+			"cloud_save_folder": "{AppData}/Colossal Order/Cities_Skylines/Saves/",
+			"cloud_save_folder_mac": null,
+			"cloud_saves_supported": true,
+			"external_activation": null,
+			"is_dlc": false,
+			"launch_options": [],
+			"owned_dlc": [],
+			"platform_versions": {
+				"Windows": "1.14.1-f2"
+			},
+			"title": "Cities Skylines",
+			"version": "1.14.1-f2"
+		},
+		"install": null,
+		"manifest": {
+			"app_name": "d728adb8932047fda27b115dfd5a54b7",
+			"build_id": "k_x7WBsy6zqxR9MwnbmyWso5X0Q",
+			"build_version": "1.14.1-f2",
+			"disk_size": 14431549489,
+			"download_size": 7949222951,
+			"feature_level": 17,
+			"install_tags": [
+				""
+			],
+			"launch_command": "",
+			"launch_exe": "dowser.exe",
+			"num_chunks": 13744,
+			"num_files": 1580,
+			"prerequisites": null,
+			"size": 971658,
+			"tag_disk_size": [],
+			"tag_download_size": [],
+			"type": "binary",
+			"version": 17
+		}
+	},
+	"dc07b9ead8214591b8df6d2546d2a0e3": {
+		"game": {
+			"app_name": "dc07b9ead8214591b8df6d2546d2a0e3",
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"cloud_saves_supported": false,
+			"external_activation": null,
+			"is_dlc": false,
+			"launch_options": [],
+			"owned_dlc": [],
+			"platform_versions": {
+				"Windows": "15"
+			},
+			"title": "Aven Colony",
+			"version": "15"
+		},
+		"install": null,
+		"manifest": {
+			"app_name": "d252a511f49d4627b71fe3abdd23d3fb",
+			"build_id": "PlGpYXFD2e6CdN99olOqtYLbqiw",
+			"build_version": "15",
+			"disk_size": 17803099545,
+			"download_size": 13135850230,
+			"feature_level": 13,
+			"install_tags": [
+				""
+			],
+			"launch_command": "",
+			"launch_exe": "AvenColony.exe",
+			"num_chunks": 16967,
+			"num_files": 478,
+			"prerequisites": null,
+			"size": 5831160,
+			"tag_disk_size": [],
+			"tag_download_size": [],
+			"type": "json",
+			"version": 13
+		}
+	}
+}

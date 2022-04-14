@@ -1,0 +1,4247 @@
+{
+   "AboutPage_Title": {
+      "message": "Hakkında"
+   },
+   "About_Sync2": {
+      "message": "Hesap:"
+   },
+   "About_Version2": {
+      "message": "Sürüm:"
+   },
+   "AccountLicenseStatus_Business": {
+      "message": "Business lisansı"
+   },
+   "AccountLicenseStatus_LicenseExpired": {
+      "message": "Lisansın süresi %1 gün önce doldu"
+   },
+   "AccountLicenseStatus_LicenseExpiresIn": {
+      "message": "Lisans süresi %1 gün içinde doluyor"
+   },
+   "AccountLicenseStatus_LicenseExpiresToday": {
+      "message": "Lisans bugün sonlanıyor"
+   },
+   "AccountLicenseStatus_LicenseIsActive": {
+      "message": "Lisans aktif"
+   },
+   "AccountLicenseStatus_NoLicense": {
+      "message": "Izin yok"
+   },
+   "AccountLicenseStatus_TrialExpired": {
+      "message": "Deneme süresi %1 gün önce doldu"
+   },
+   "AccountLicenseStatus_TrialExpiresIn": {
+      "message": "Lisans %1 gün içinde sona eriyor"
+   },
+   "AccountLicenseStatus_TrialExpiresToday": {
+      "message": "Deneme bugün sonlanıyor"
+   },
+   "AccountSetup_PasswordQualityIndicatorHint_Item_MinDigitChars": {
+      "message": "%1 karakter rakam olmalıdır"
+   },
+   "AccountSetup_PasswordQualityIndicatorHint_Item_MinLength": {
+      "message": "minimum %1 karakter"
+   },
+   "AccountSetup_PasswordQualityIndicatorHint_Item_MinLowerCaseChars": {
+      "message": "%1 karakter küçük harf olmalıdır"
+   },
+   "AccountSetup_PasswordQualityIndicatorHint_Item_MinNonNumChars": {
+      "message": "%1 karakter sayısal olmamalıdır"
+   },
+   "AccountSetup_PasswordQualityIndicatorHint_Item_MinUpperCaseChars": {
+      "message": "%1 karakter büyük harf olmalıdır"
+   },
+   "AccountSetup_PasswordQualityIndicatorHint_Title": {
+      "message": "Şifre şunları içermelidir:"
+   },
+   "AlreadyExists_Error2": {
+      "message": "'%2' adlı %1 zaten mevcut"
+   },
+   "Android_matching_dialog_title": {
+      "message": "Eşleşen Girişler"
+   },
+   "AskConsentToCollectData_Accept_Button": {
+      "message": "Kabul et"
+   },
+   "AskConsentToCollectData_ActionsAndFilledInformation_Text": {
+      "message": "Web sitelerinde kimlik bilgilerinizi kaydetmek ve doldurmak için topladığımız, eylemleriniz (fare tıklamaları ve klavye basışları) ve web sitelerine girdiğiniz bilgiler"
+   },
+   "AskConsentToCollectData_ContinueButton_Text": {
+      "message": "Devam et"
+   },
+   "AskConsentToCollectData_DeclineWarning_Text": {
+      "message": "Reddedilmesi halinde, RoboForm eklentisini kullanamazsınız."
+   },
+   "AskConsentToCollectData_Decline_Button": {
+      "message": "Reddet"
+   },
+   "AskConsentToCollectData_Details_Text": {
+      "message": "Topladığımız veriler ve bunlarla ne yaptığımızla ilgili tüm ayrıntılar"
+   },
+   "AskConsentToCollectData_NoSwitcher_Text": {
+      "message": "Hayır"
+   },
+   "AskConsentToCollectData_PersonalDataSection_Text": {
+      "message": "sizi kişisel olarak tanımlayan veriler"
+   },
+   "AskConsentToCollectData_PersonalRejectionImpact_Text": {
+      "message": "Kişisel verilerinizi toplamamıza izin vermemeyi seçerseniz, RoboForm çalışmayacaktır."
+   },
+   "AskConsentToCollectData_PrivacyPolicy_Link_Text": {
+      "message": "Gizlilik Politikamız"
+   },
+   "AskConsentToCollectData_RemoveExtensionButton_Text": {
+      "message": "RoboForm'u Kaldır"
+   },
+   "AskConsentToCollectData_RevisitConsentsButton_Text": {
+      "message": "Veri toplama izinlerini yeniden ziyaret et"
+   },
+   "AskConsentToCollectData_RoboFormCannotWorkWithoutPermissions_Text": {
+      "message": "Ne yazık ki, ziyaret edilen URL'leri, arama terimlerini, eylemlerinizi ve web sitelerine girdiğiniz bilgileri toplamadan, web sitelerinde kimlik bilgilerinizi kaydetmeniz ve doldurmanız gerektiğinden RoboForm çalışmayacaktır. RoboForm'un toplamasına izin verdiğiniz verileri yeniden gözden geçirmek istemiyorsanız, RoboForm'u kaldırmanızı öneririz."
+   },
+   "AskConsentToCollectData_SectionTitleStart_Text": {
+      "message": "Aşağıdakileri toplayabilir miyiz?"
+   },
+   "AskConsentToCollectData_TechnicalDataSection_Text": {
+      "message": "RoboForm kullanımınızla ilgili anonim veriler"
+   },
+   "AskConsentToCollectData_TechnicalRejectionImpact_Text": {
+      "message": "Anonim verileri toplamamıza izin vermemeyi seçerseniz, RoboForm çalışmayacaktır."
+   },
+   "AskConsentToCollectData_Text": {
+      "message": "RoboForm'un olması gerektiği gibi çalışabilmesi için web adreslerine (URL'ler) erişim ve bunları toplama izinleri gerekiyor. İzin olmadığı sürece RoboForm ziyaret ettiğiniz sitelerde form dolduramaz veya kullanıcı bilgilerini kaydedemez. RoboForm'un topladığı veriler hakkında daha fazlası için bkz. "
+   },
+   "AskConsentToCollectData_Title": {
+      "message": "Gizlilik"
+   },
+   "AskConsentToCollectData_UrlsAndSearchTerms_Text": {
+      "message": "Kimlik bilgilerinizi web sitelerinde kaydetmek ve doldurmak için topladığımız ziyaret edilmiş URL'ler ve arama terimleri"
+   },
+   "AskConsentToCollectData_YesSwitcher_Text": {
+      "message": "Evet"
+   },
+   "AutoFill_AddIdentityGroup": {
+      "message": "%1 Ekle"
+   },
+   "AutoFill_Ago_Text": {
+      "message": "%1 önce"
+   },
+   "AutoFill_ConfirmPasswordChange_Text": {
+      "message": "Şifre değişikliğini onayla %1"
+   },
+   "AutoFill_Delete": {
+      "message": "Sil"
+   },
+   "AutoFill_DontShowOnThisDomain": {
+      "message": "Bu alan adında gösterme"
+   },
+   "AutoFill_Edit": {
+      "message": "Düzenle"
+   },
+   "AutoFill_Fill": {
+      "message": "Doldur"
+   },
+   "AutoFill_FillSubmit": {
+      "message": "Doldur ve Gönder"
+   },
+   "AutoFill_Generate": {
+      "message": "Oluştur"
+   },
+   "AutoFill_IdentitiesWithMatchingValuesList_Header_Text": {
+      "message": "Eşleşen Kimlikler:"
+   },
+   "AutoFill_KeepOldPasswordConfirm_Text": {
+      "message": "%1 için bekleyen yeni şifre onayını silmek istiyor musunuz?"
+   },
+   "AutoFill_Login": {
+      "message": "%1 Giriş"
+   },
+   "AutoFill_NewPassword": {
+      "message": "Yeni Şifre"
+   },
+   "AutoFill_OpenStartPage": {
+      "message": "Başlangıç Sayfasını Aç"
+   },
+   "AutoFill_OpenStartPage_Tip": {
+      "message": "RoboForm Başlangıç Sayfasını Aç"
+   },
+   "AutoFill_OtherIdentitiesList_Header_Text": {
+      "message": "Diğer Kimlikler (A-Z):"
+   },
+   "AutoFill_PasswordAge_Text": {
+      "message": "%1 yaşında"
+   },
+   "AutoFill_PasswordGenerator_Settings": {
+      "message": "Ayarlar..."
+   },
+   "AutoFill_PreviousPassword_Text": {
+      "message": "Eski şifreyi tut %1"
+   },
+   "AutoFill_RecentlyUsedIdentitiesList_Header_Text": {
+      "message": "Son Kimlikler:"
+   },
+   "AutoFill_Rename": {
+      "message": "Yeniden Adlandır"
+   },
+   "AutoFill_ReportAnIssue_Command_Text": {
+      "message": "Bir Oto.Doldur sorunu bildir"
+   },
+   "AutoFill_ReportAnIssue_Command_Tooltip": {
+      "message": "Bu sayfada bir Oto.Doldur sorunu bildir"
+   },
+   "AutoFill_RoboFormLogin_Text": {
+      "message": "Giriş işlemini gerçekleştirmek için lütfen tarayıcının araç çubuğundaki RoboForm düğmesine tıklayın."
+   },
+   "AutoFill_ShowOnThisDomain": {
+      "message": "Bu alan adında göster"
+   },
+   "AutoSave_LoginRequiredNotification_LogInToRoboForm_ButtonText": {
+      "message": "RoboForm’a giriş yap"
+   },
+   "AutoSave_LoginRequiredNotification_LogInToRoboForm_Text": {
+      "message": "RoboForm’a giriş yapın ve %1 için girilen kullanıcı bilgilerini kaydedin."
+   },
+   "AutoSave_LoginRequiredNotification_Title": {
+      "message": "RoboForm'da Oturum Açılsın mı?"
+   },
+   "AutoSave_Notification_DataSaved_Text": {
+      "message": "Verileriniz kaydedildi!"
+   },
+   "AutoSave_Notification_DataUpdated_Text": {
+      "message": "Verileriniz güncellendi!"
+   },
+   "AutoSave_Notification_IdentityCreated_ActionDescription_Text": {
+      "message": "Kimlik oluşturuldu:"
+   },
+   "AutoSave_Notification_IdentityDeleted_ActionDescription_Text": {
+      "message": "Kimlik silindi:"
+   },
+   "AutoSave_Notification_IdentityUpdated_ActionDescription_Text": {
+      "message": "Kimlik güncellendi:"
+   },
+   "AutoSave_Notification_LoginCreated_ActionDescription_Text": {
+      "message": "Giriş kaydedildi:"
+   },
+   "AutoSave_Notification_LoginDeleted_ActionDescription_Text": {
+      "message": "Giriş silindi:"
+   },
+   "AutoSave_Notification_LoginSaved_Text": {
+      "message": "Girişiniz kaydedildi!"
+   },
+   "AutoSave_Notification_LoginUpdated_ActionDescription_Text": {
+      "message": "Giriş güncellendi:"
+   },
+   "AutoSave_Notification_LoginUpdated_Text": {
+      "message": "Girişiniz güncellendi!"
+   },
+   "AutoSave_Notification_LoginUrlUpdated_Text": {
+      "message": "Girişinizde bulunan Url güncellendi!"
+   },
+   "AutoSave_Notification_PasswordOnlyLoginSaved_Note_Text": {
+      "message": "RoboForm sadece şifreyi kaydedebildi, Kullanıcı Adını değil. Bu Giriş, bu siteye yeniden girdiğiniz zaman güncellenecektir."
+   },
+   "AutoSave_Notification_PasswordOnlyLoginSaved_Text": {
+      "message": "Şifreniz kaydedildi!"
+   },
+   "AutoSave_Notification_PasswordUpdated_ActionDescription_Text": {
+      "message": "Girişin şifresi güncellendi:"
+   },
+   "AutoSave_Notification_PasswordUpdated_Text": {
+      "message": "Girişinizde bulunan Şifre güncellendi!"
+   },
+   "AutoSave_Notification_Undo_ButtonText": {
+      "message": "Geri Al"
+   },
+   "AutoSave_ReportAnIssue_Command_Text": {
+      "message": "Bir sorun bildir"
+   },
+   "AutoSave_ReportAnIssue_Command_Tooltip": {
+      "message": "Bu sayfada bir Oto.Kaydet sorunu bildir"
+   },
+   "AutoSave_SaveToRoboFormQuestion_Text": {
+      "message": "RoboForm'a kaydedilsin mi?"
+   },
+   "BEM_Description": {
+      "message": "1 numaralı Şifre Yöneticisi RoboForm, şifreleri hatırlayarak ve web sitelerine otomatik olarak giriş yaparak hayatınızı kolaylaştırır"
+   },
+   "BEM_FullName": {
+      "message": "RoboForm Şifre Yöneticisi"
+   },
+   "BEM_FullNameBeta": {
+      "message": "RoboForm Şifre Yöneticisi (Beta)"
+   },
+   "Bookmark_ClickToOpen_Tip": {
+      "message": "Açmak için tıkla"
+   },
+   "Btn_No": {
+      "message": "Hayır"
+   },
+   "Btn_Yes": {
+      "message": "Evet"
+   },
+   "ChangeMasterPasswordPage_Title": {
+      "message": "Ana Şifreyi Değiştir"
+   },
+   "ChangePwdDlg_Changing_Text": {
+      "message": "Şifre Değiştirme"
+   },
+   "ChangePwdDlg_OperationNotSupported": {
+      "message": "İşlem desteklenmiyor. Lütfen RoboForm'u sürüm 8'e yükseltin"
+   },
+   "Change_Account_Password_Login_First": {
+      "message": "Hesap şifresini değiştirebilmek için önce oturum açmalısınız"
+   },
+   "CheckedRunMB_CheckButton": {
+      "message": "Bu mesajı bir daha gösterme"
+   },
+   "Cmd_About_Key": {
+      "message": "Hakkında..."
+   },
+   "Cmd_Accept_Key": {
+      "message": "Kabul Et"
+   },
+   "Cmd_AddToPinned_Flat": {
+      "message": "Pinlenenlere Ekle"
+   },
+   "Cmd_Cancel_Flat": {
+      "message": "İptal"
+   },
+   "Cmd_ClearList_Key": {
+      "message": "(Listeyi Temizle)"
+   },
+   "Cmd_Close_Flat": {
+      "message": "Kapat"
+   },
+   "Cmd_ConvertFolderToGroup_Key": {
+      "message": "Gruba Dönüştür"
+   },
+   "Cmd_Copy_Password_Flat": {
+      "message": "Şifreyi Kopyala"
+   },
+   "Cmd_Copy_URL_Flat": {
+      "message": "URL Kopyala"
+   },
+   "Cmd_Copy_Username_Flat": {
+      "message": "Kullanıcı Adını Kopyala"
+   },
+   "Cmd_DeleteFolder_Confirm": {
+      "message": "%1 'de bulunan RoboForm verilerinizi silmek istediğinize emin misiniz?\n%2\n\nBu kişisel dosyalar bir kez silindikten sonra geri alınamaz."
+   },
+   "Cmd_DeleteFolder_OtherFiles": {
+      "message": "diğer dosyalar"
+   },
+   "Cmd_Delete_Confirm": {
+      "message": "%1 '%2' dosyasını silmek istiyor musunuz?"
+   },
+   "Cmd_Delete_Flat": {
+      "message": "Sil"
+   },
+   "Cmd_Done_Flat": {
+      "message": "Bitti"
+   },
+   "Cmd_Edit_Flat": {
+      "message": "Düzenle"
+   },
+   "Cmd_EmergencyAccess_Key": {
+      "message": "Acil Durum Erişimi"
+   },
+   "Cmd_FillEmptyOnly_Key": {
+      "message": "Sadece Boş Alanları Doldur"
+   },
+   "Cmd_FillForms_Flat": {
+      "message": "Formları Doldur"
+   },
+   "Cmd_FillGenPassword_Flat": {
+      "message": "Oluştur"
+   },
+   "Cmd_GoFill_Flat": {
+      "message": "Doldurmaya Git"
+   },
+   "Cmd_GotoNewTab_Flat": {
+      "message": "Yeni sekmede Git"
+   },
+   "Cmd_GotoSameTab_Flat": {
+      "message": "Aynı sekmede Git"
+   },
+   "Cmd_Goto_Flat": {
+      "message": "Git"
+   },
+   "Cmd_GroupSettingsFlat": {
+      "message": "Grup Ayarları"
+   },
+   "Cmd_Help_ContactSupport_Key": {
+      "message": "Destek iletişim"
+   },
+   "Cmd_Help_FaqAll_Key": {
+      "message": "SSS"
+   },
+   "Cmd_Help_Flat": {
+      "message": "Yardım"
+   },
+   "Cmd_Help_ForgotPassword_Key": {
+      "message": "Şifrenizi mi Unuttunuz?"
+   },
+   "Cmd_Help_HomePage_Key": {
+      "message": "Ana Sayfa"
+   },
+   "Cmd_Help_Manual_Key": {
+      "message": "Kılavuz"
+   },
+   "Cmd_Help_ProblemStepsRecorder_Key": {
+      "message": "Sorun Adımları Kaydedici"
+   },
+   "Cmd_Later_Flat": {
+      "message": "Daha Sonra"
+   },
+   "Cmd_LoginNewTab_Flat": {
+      "message": "Yeni sekmede Oturum Aç"
+   },
+   "Cmd_LoginSameTab_Flat": {
+      "message": "Aynı sekmede Oturum Aç"
+   },
+   "Cmd_Login_Flat": {
+      "message": "Giriş"
+   },
+   "Cmd_Logins_Flat": {
+      "message": "Girişler"
+   },
+   "Cmd_Logoff_Flat": {
+      "message": "Çıkış yap"
+   },
+   "Cmd_NewFolder_Error": {
+      "message": "Yeni klasör oluşturulurken hata oluştu: %1"
+   },
+   "Cmd_NewFolder_Exist_Error": {
+      "message": "'%1' adında bir klasör zaten var"
+   },
+   "Cmd_NewFolder_Title": {
+      "message": "Yeni Klasör"
+   },
+   "Cmd_NotNow_Flat": {
+      "message": "Şimdi değil"
+   },
+   "Cmd_Ok_Flat": {
+      "message": "Tamam"
+   },
+   "Cmd_OpenDesktopEditor": {
+      "message": "Masaüstü Düzenleyiciyi Aç"
+   },
+   "Cmd_Options_Flat": {
+      "message": "Ayarlar"
+   },
+   "Cmd_PasswordAuditRun_Key": {
+      "message": "Güvenlik Merkezi"
+   },
+   "Cmd_Password_Generator_Flat": {
+      "message": "Şifre Oluşturucu"
+   },
+   "Cmd_RejectAll_Flat": {
+      "message": "Tümünü Reddet"
+   },
+   "Cmd_Reject_Key": {
+      "message": "Reddet"
+   },
+   "Cmd_Rename_Error": {
+      "message": "%1 '%2' yeniden adlandırma hatası:\n%3"
+   },
+   "Cmd_Rename_Flat": {
+      "message": "Yeniden Adlandır"
+   },
+   "Cmd_Rename_Name_Prompt": {
+      "message": "Yeniden adlandır:"
+   },
+   "Cmd_RenewalRewards_Flat": {
+      "message": "Yenileme Ödülleri"
+   },
+   "Cmd_Retry_Flat": {
+      "message": "Yeniden Dene"
+   },
+   "Cmd_RoboForm_Flat": {
+      "message": "RoboForm"
+   },
+   "Cmd_RunEditor_Flat": {
+      "message": "Düzenleyici"
+   },
+   "Cmd_RunImport_Flat": {
+      "message": "İçe aktar"
+   },
+   "Cmd_Safenote_CopyClipboard_Flat": {
+      "message": "Metni Kopyala"
+   },
+   "Cmd_SaveForms_Flat": {
+      "message": "Kaydet"
+   },
+   "Cmd_SaveForms_Key": {
+      "message": "Formları Kaydet..."
+   },
+   "Cmd_SendFile_Key": {
+      "message": "Gönderiliyor..."
+   },
+   "Cmd_Settings_Flat": {
+      "message": "Ayarlar"
+   },
+   "Cmd_ShareExistingFolder_Key": {
+      "message": "Klasör paylaş"
+   },
+   "Cmd_SharedFileSettings_Key": {
+      "message": "Paylaşılıyor..."
+   },
+   "Cmd_SharedFolderSettings_Key": {
+      "message": "Paylaşılıyor..."
+   },
+   "Cmd_SharingCenter_Flat": {
+      "message": "Paylaşım Merkezi"
+   },
+   "Cmd_Skip_Flat": {
+      "message": "Geç"
+   },
+   "Cmd_StartPage_Tip": {
+      "message": "RoboForm Ana Sayfasını Aç"
+   },
+   "Cmd_Sync_RoboFormAccount_Key": {
+      "message": "RoboForm Hesabını Yönet"
+   },
+   "Cmd_ToolBarSync": {
+      "message": "Senkronize Et"
+   },
+   "Cmd_Unpin_Flat": {
+      "message": "Pini Kaldır"
+   },
+   "Cmd_Update_Flat": {
+      "message": "Güncelle"
+   },
+   "Cmd_View_Flat": {
+      "message": "Görüntüle"
+   },
+   "CompanyInvitationConfirmationMultiple_Title": {
+      "message": "Birden fazla şirkete davet edildiniz. Toplamda sadece bir şirkete katılabileceğinizi unutmayın.\nLütfen davetleri aşağıda kabul edin veya reddedin:"
+   },
+   "CompanyInvitationConfirmation_Title": {
+      "message": "Bir şirkete davet edildiniz.\nLütfen daveti aşağıda kabul edin veya reddedin:"
+   },
+   "CompanyInvitationConfirmation_Title2": {
+      "message": "RoboForm Everywhere hesabınızı onların RoboForm for Business şirket hesabına dahil olmaya davet etti."
+   },
+   "CompanyInvitationToConfirm_WithSender_Info": {
+      "message": "'%1' şirketi "
+   },
+   "CompromisedItemButton_Tooltip": {
+      "message": "Bu Girişin şifresinin gizliliği tehlike altında olabilir! Daha fazlasını görüntülemek için tıklayın"
+   },
+   "ConfirmMasterPassword_Incorrect_Text": {
+      "message": "Şifre aynı değil"
+   },
+   "ContextMenuAndShortcuts_ClearFields_Acc": {
+      "message": "0"
+   },
+   "ContextMenuAndShortcuts_ClearFields_Text": {
+      "message": "Alanları Temizle"
+   },
+   "ContextMenuAndShortcuts_FillForms_Acc": {
+      "message": "]"
+   },
+   "ContextMenuAndShortcuts_FillForms_Text": {
+      "message": "Formları Doldur"
+   },
+   "ContextMenuAndShortcuts_FillSubmit_Acc3": {
+      "message": "Z"
+   },
+   "ContextMenuAndShortcuts_FillSubmit_Text": {
+      "message": "Doldur  Gönder"
+   },
+   "ContextMenuAndShortcuts_IdentitiesEditor_Acc": {
+      "message": ","
+   },
+   "ContextMenuAndShortcuts_IdentitiesEditor_Text": {
+      "message": "Kimlikler Düzenleyici"
+   },
+   "ContextMenuAndShortcuts_Identities_Acc2": {
+      "message": "N"
+   },
+   "ContextMenuAndShortcuts_Identities_Text": {
+      "message": "Kimlikler"
+   },
+   "ContextMenuAndShortcuts_Logins_Acc2": {
+      "message": "X"
+   },
+   "ContextMenuAndShortcuts_Logins_Text": {
+      "message": "Girişler"
+   },
+   "ContextMenuAndShortcuts_Logoff_Acc": {
+      "message": "L"
+   },
+   "ContextMenuAndShortcuts_Logoff_Text": {
+      "message": "Oturumu kapat"
+   },
+   "ContextMenuAndShortcuts_MatchingPasscard_Acc": {
+      "message": "M"
+   },
+   "ContextMenuAndShortcuts_MatchingPasscard_Text": {
+      "message": "Eşleşen Şifre Kartları"
+   },
+   "ContextMenuAndShortcuts_MyIdentity_Acc": {
+      "message": "19"
+   },
+   "ContextMenuAndShortcuts_MyIdentity_Text": {
+      "message": "Kimliğim"
+   },
+   "ContextMenuAndShortcuts_Options_Acc": {
+      "message": "O"
+   },
+   "ContextMenuAndShortcuts_Options_Text": {
+      "message": "RoboForm Ayarları"
+   },
+   "ContextMenuAndShortcuts_PasscardsEditor_Acc": {
+      "message": "."
+   },
+   "ContextMenuAndShortcuts_PasscardsEditor_Text": {
+      "message": "Şifre Kartları Düzenleyici"
+   },
+   "ContextMenuAndShortcuts_ResetFields_Acc": {
+      "message": "-"
+   },
+   "ContextMenuAndShortcuts_ResetFields_Text": {
+      "message": "Alanları Sıfırla"
+   },
+   "ContextMenuAndShortcuts_RoboFormMenu_Acc2": {
+      "message": "U"
+   },
+   "ContextMenuAndShortcuts_RoboFormMenu_Text": {
+      "message": "RoboForm Menüsü"
+   },
+   "ContextMenuAndShortcuts_RoboFormToolbar_Acc3": {
+      "message": "R"
+   },
+   "ContextMenuAndShortcuts_RoboFormToolbar_Text": {
+      "message": "RoboForm Araç Çubuğu"
+   },
+   "ContextMenuAndShortcuts_RunPassGen_Acc": {
+      "message": "P"
+   },
+   "ContextMenuAndShortcuts_RunPassGen_Text": {
+      "message": "Şifre Oluşturucu"
+   },
+   "ContextMenuAndShortcuts_RunTaskbar_Acc": {
+      "message": "I"
+   },
+   "ContextMenuAndShortcuts_RunTaskbar_Text": {
+      "message": "Robo Görev Çubuğu"
+   },
+   "ContextMenuAndShortcuts_SafenotesEditor_Acc": {
+      "message": "/"
+   },
+   "ContextMenuAndShortcuts_SafenotesEditor_Text": {
+      "message": "Güvenli Notlar Düzenleyici"
+   },
+   "ContextMenuAndShortcuts_Safenotes_Acc": {
+      "message": "C"
+   },
+   "ContextMenuAndShortcuts_Safenotes_Text": {
+      "message": "Güvenli Notlar"
+   },
+   "ContextMenuAndShortcuts_SaveForms_Acc": {
+      "message": "["
+   },
+   "ContextMenuAndShortcuts_SaveForms_Text": {
+      "message": "Formları Kaydet"
+   },
+   "ContextMenuAndShortcuts_SearchBox_Acc": {
+      "message": "S"
+   },
+   "ContextMenuAndShortcuts_SearchBox_Text": {
+      "message": "Arama Kutusu"
+   },
+   "ContextMenuAndShortcuts_SetFields_Acc": {
+      "message": "="
+   },
+   "ContextMenuAndShortcuts_SetFields_Text": {
+      "message": "Alanları Seç"
+   },
+   "CreateAccountConfirmPage_ForgetInfo_Text": {
+      "message": "RoboForm Ana Şifreniz, verilerinizi açan anahtardır. Unutmanız halinde verileriniz deşifre edilemez (bizim tarafımızdan dahi) ve sıfırdan başlamanız gerekir."
+   },
+   "CreateAccountConfirmPage_ForgetTitle_Text": {
+      "message": "Ana Şifrenizi unutmayın"
+   },
+   "CreateBlockingPass__WebExt_Confirm": {
+      "message": "RoboForm'un bu web sitesinin her sayfasında \nOto.Kaydet penceresi açmasını önlemek ister misiniz?\nBu web sitesinin engelini daha sonra\nkaldırmak için 'Kaydet' ve sonrada\nEngeli Kaldır'a tıklayın."
+   },
+   "DeleteBlockingPass__WebExt_Confirm": {
+      "message": "RoboForm'un bu web sitesinin tüm sayfalarında\nOto.Kaydet penceresi açmasına izin vermek istiyor musunuz?"
+   },
+   "DeleteItemPage_Confirmation_Text": {
+      "message": "'%1'i silmek istiyor musunuz?"
+   },
+   "DeleteSharedFolder_Permissions_Error": {
+      "message": "'%1' silmek için izinler yetersiz."
+   },
+   "DomainNotInLogin_Text": {
+      "message": "Bu sitenin alan adlı, Girişin Eşleşen URL'si ile eşleşmiyor."
+   },
+   "DomainNotInLogin_Text2": {
+      "message": "Yine de RoboForm'un formu doldurmasını istiyor musunuz?"
+   },
+   "DomainNotInLogin_Title": {
+      "message": "RoboForm Uyarısı"
+   },
+   "DuplicateFields_Text1_2": {
+      "message": "RoboForm, formda birden fazla görünen alanları buldu. Lütfen, bu Alanların doldurulmasına izin verdiğinizi onaylayın:"
+   },
+   "DuplicateFields_Text2_2": {
+      "message": "\n\nFormun yalnızca bir bölümünü bir Kimlikten doldurmak istiyorsanız, formun bir bölümünü vurgulayın (seçin), Formları Doldur'u tıkladığınızda yalnızca vurgulanan kısım doldurulacaktır."
+   },
+   "DuplicateFields_Title": {
+      "message": "Doldurulan alanları kopyala - RoboForm"
+   },
+   "DuplicatesDialog_ApplyChanges_Button": {
+      "message": "Uygula"
+   },
+   "DuplicatesDialog_CancelDelete_Button": {
+      "message": "Silme"
+   },
+   "DuplicatesDialog_CancelRename_Button": {
+      "message": "Yeniden Adlandırma"
+   },
+   "DuplicatesDialog_Cancel_Button": {
+      "message": "Uygulama"
+   },
+   "DuplicatesDialog_DeleteMessageText": {
+      "message": "Sildiniz: \"%1\". Aşağıda listelenen özdeş dosyaları da silmek istiyor musunuz?"
+   },
+   "DuplicatesDialog_Delete_Button": {
+      "message": "Sil"
+   },
+   "DuplicatesDialog_Delete_Text": {
+      "message": "Sil"
+   },
+   "DuplicatesDialog_MessageText": {
+      "message": "Güncellediniz: \"%1\". Bu değişiklikleri aşağıda listelenen özdeş dosyalara uygulamak istiyor musunuz? Ayrıca, gereksiz kopyaları silebilirsiniz."
+   },
+   "DuplicatesDialog_RenameMessageText": {
+      "message": "\"%1\" dosyasını \"%2\" olarak yeniden adlandırdınız. Aşağıda listelenen özdeş dosyaları da bu adla yeniden adlandırmak istiyor musunuz? Ayrıca, gereksiz kopyaları silebilirsiniz."
+   },
+   "DuplicatesDialog_Rename_Button": {
+      "message": "Yeniden Adlandır"
+   },
+   "DuplicatesDialog_Undo_Text": {
+      "message": "Geri Al"
+   },
+   "DuplicatesDialog_WindowTitle": {
+      "message": "Özdeş RoboForm Dosyaları Saptandı"
+   },
+   "Editor_Cmd_Selector_All_Flat": {
+      "message": "Tümü"
+   },
+   "Editor_Indicator_Show_AllIdentities": {
+      "message": "Tüm Kimlikleri göster (%1)"
+   },
+   "Editor_Indicator_Show_NMatch": {
+      "message": "Eşleşen tüm Girişleri göster (%1)"
+   },
+   "Editor_SharedFolderOrGroupExists_Error": {
+      "message": "'%1' adlı paylaşılan klasör veya grup zaten mevcut"
+   },
+   "Editor_SharedFolderTooLongName_Error": {
+      "message": "Ad çok uzun, paylaşılan klasörler ve gruplar için maksimum izin verilen ad uzunluğu %1 semboldür"
+   },
+   "EmailEmpty_Error": {
+      "message": "E-posta en az %1 karakter uzunluğunda olmalıdır"
+   },
+   "EmailIncorrect_Error": {
+      "message": "E-posta hatalı"
+   },
+   "EmailMaxLength_Error": {
+      "message": "E-posta %1 karakterden daha uzun olmamalıdır"
+   },
+   "EmergencyAccessContactConfirmationDescription_Text": {
+      "message": "Başka bir RoboForm kullanıcısı sizi kendisinin Acil Durum Erişim Kişisi olmaya davet etti. Lütfen daveti aşağıda kabul edin veya reddedin:"
+   },
+   "EmergencyAccessDataAccessConfirmationDescription_Text": {
+      "message": "Acil Durum Kişileriniz, RoboForm hesap verilerinize Acil Durum Erişimi talep ettiler.\nEğer bu talepler için belirtilen süreler içinde herhangi bir işlem yapmazsanız, erişim otomatik olarak sağlanacaktır."
+   },
+   "EmergencyAccess_Accept_Invitation_Question": {
+      "message": "\"%1\" kişisinin Acil Durum Kişisi olmayı istediğinize emin misiniz?"
+   },
+   "EmergencyAccess_AccessRequestedDaysHours_Status": {
+      "message": "Talep edildi. Veriler %1 gün %2 saat içinde erişilebilir olacaktır"
+   },
+   "EmergencyAccess_AccessRequestedDays_Status": {
+      "message": "Talep edildi. Veriler %1 gün içinde erişilebilir olacaktır"
+   },
+   "EmergencyAccess_AccessRequestedHours_Status": {
+      "message": "Talep edildi. Veriler %1 saat içinde erişilebilir olacaktır"
+   },
+   "EmergencyAccess_CreationDate_Title": {
+      "message": "Oluşturulma Tarihi"
+   },
+   "EmergencyAccess_DenyAccess_Button_Text": {
+      "message": "Reddet"
+   },
+   "EmergencyAccess_DenyAccess_Text": {
+      "message": "Erişimi Reddet"
+   },
+   "EmergencyAccess_EditContact_Title": {
+      "message": "\"%1\" kişisini düzenle"
+   },
+   "EmergencyAccess_Email_Is_Empty": {
+      "message": "E-posta boş"
+   },
+   "EmergencyAccess_GetData_Help_Text": {
+      "message": "Bunlar, %1'in size Acil Durum Erişim izni vermiş olduğu ögelerdir. Bunları görüntüleyebilir veya RoboForm hesabınıza ekleyebilirsiniz. Eklenmesi halinde, ögeler Acil Durum Erişim klasörüne kaydedilecektir."
+   },
+   "EmergencyAccess_GetData_Request_Question": {
+      "message": "\"%1\"den veri almak istediğinize emin misiniz? Ögeler Acil Durum Erişim klasörüne kaydedilecektir."
+   },
+   "EmergencyAccess_GrantAccess_Text": {
+      "message": "İzin Ver"
+   },
+   "EmergencyAccess_GrantAccess_Title": {
+      "message": "Erişim İzni Ver"
+   },
+   "EmergencyAccess_InviteAgain_Question": {
+      "message": "\"%1\" kişisini yeniden davet etmek istediğinize emin misiniz?"
+   },
+   "EmergencyAccess_InviteContact_Text": {
+      "message": "Davet Et"
+   },
+   "EmergencyAccess_Loading_Title": {
+      "message": "Yükleniyor..."
+   },
+   "EmergencyAccess_NoAccess_Status": {
+      "message": "Erişim Yok"
+   },
+   "EmergencyAccess_RejectAccess_Text": {
+      "message": "Reddet"
+   },
+   "EmergencyAccess_Reject_Invitation_Question": {
+      "message": "\"%1\" erişimini reddetmek istediğinize emin misiniz?"
+   },
+   "EmergencyAccess_Reject_Invitation_Text": {
+      "message": "Erişimi Reddet"
+   },
+   "EmergencyAccess_Reject_Title": {
+      "message": "Acil Durum Kişisini Reddet"
+   },
+   "EmergencyAccess_RevokeAccess_Button_Text": {
+      "message": "Erişimi Kaldır"
+   },
+   "EmergencyAccess_Revoke_Question": {
+      "message": "\"%1\" kişisini Acil Durum Kişileriniz arasından kaldırıyorsunuz."
+   },
+   "EmergencyAccess_Revoke_Tip": {
+      "message": "Acil Durum Kişisini Kaldır"
+   },
+   "EmergencyAccess_Title": {
+      "message": "Acil Durum Erişimi"
+   },
+   "EmergencyAccess_invitationUserNotFound_Question": {
+      "message": "\"%1\" adresine Acil Durum Kişiniz olma davetini içeren bir e-posta göndereceğiz"
+   },
+   "FillDlg_FindFill_Title": {
+      "message": "Formları Doldur - RoboForm"
+   },
+   "Filler_FillEmptyOnlyOnMessage": {
+      "message": "Bu web sayfasında boş (doldurulmamış) alan yok ve Sadece Boş Alanları Doldur bayrağı Açık olarak ayarlanmış"
+   },
+   "Filler_FillTheSameValues": {
+      "message": "Bu sayfada (veya seçilen bölümünde) bu Kimlik/Şifre Kartından doldurulabilecek bir form alanı bulunmuyor çünkü tüm alanlar dolu durumda"
+   },
+   "Filler_NoFormsFound": {
+      "message": "Bu sayfada doldurulacak bir form bulunamadı"
+   },
+   "Filler_NoMatchingFields": {
+      "message": "Bu sayfada (veya seçilen bölümünde) bu Kimlik/Şifre Kartından doldurulabilecek bir form alanı bulunamadı çünkü hiçbir alan geçerli Kimlik/Şifre Kartı verisine uymuyor"
+   },
+   "FolderTree_NewItem": {
+      "message": "Yen Klasör"
+   },
+   "GenericConfirmDialog_Cancel": {
+      "message": "İptal"
+   },
+   "GenericConfirmDialog_Ok": {
+      "message": "Tamam"
+   },
+   "GenericConfirmDialog_Title": {
+      "message": "Onay"
+   },
+   "HomeFolder": {
+      "message": "Ana Sayfa"
+   },
+   "Identities_Cmd_Instance_AlreadyExists_Error": {
+      "message": "Örnek zaten grupta var"
+   },
+   "Identities_Cmd_Instance_NotExists_Error": {
+      "message": "Grupta belirtilen bir örnek yok"
+   },
+   "Identities_ConfirmDeleteInstance": {
+      "message": "'%2' 'den '%1' 'i silmek istiyormusunuz?"
+   },
+   "Identities_CustomFieldOverrideHeader": {
+      "message": "Özel alanlar, bazı standart RoboForm alanlarını doğru doldurmayı engeller.\nEtkilenen standart alanların düzgün bir biçimde doldurulmasını istiyorsanız, bu özel alanları kaldırın."
+   },
+   "Identities_CustomFieldOverride_1": {
+      "message": "'%1' %2 ’yi geçersiz kılıyor"
+   },
+   "Identities_InstanceNameInvalidCharacter": {
+      "message": "Örnek adı sadece harf, rakam, '_' ve '-' karakterlerini içerebilir"
+   },
+   "Identities_Instance_Main": {
+      "message": "Ana"
+   },
+   "Identity_ClickToView_Tip": {
+      "message": "Kimliği görüntülemek için tıkla"
+   },
+   "Import_1Password_Instructions_Mac": {
+      "message": "1Password'ü açın ve oturum açın.\n1Password hesabınızda oturum açarken Menü Çubuğunuzun sol üst köşesindeki \"Dosya\" açılır menüsünü tıklayın. \"Dışa Aktar\"ı seçin ve ardından \"Tüm Öğeler...\" seçeneğini tıklayın.\nAna Parolanızı girerek dışa aktarmak istediğinizi onaylamanız istenecektir. Girin ve mavi renkli \"Devam\" düğmesini tıklayın.\n\"Farklı Kaydet\" menüsü açılır. Dosyaya bir ad verin, konumunu seçin ve \"Dosya Biçimi\" açılır menüsünden \"Virgülle Ayrılmış Metin (.csv)\" öğesini seçtiğinizden emin olun. \"Dışa Aktarılacak Alanlar\" altında \"Ortak Etiketleri Dahil Et\" etiketli kutuyu işaretlemeniz gerekir, aksi takdirde RoboForm'a aktarma başarısız olur. Dışa aktarma ayarlarınızın doğru olduğundan emin olduğunuzda, mavi renkli \"Kaydet\" düğmesini tıklayın."
+   },
+   "Import_1Password_Instructions_Win": {
+      "message": "1Password'ü açın ve oturum açın.\nDışa aktarmak istediğiniz verileri seçin. Birden çok veri nesnesini, üzerlerine tıklarken Shift veya Ctrl tuşlarını basılı tutarak seçebilirsiniz. Listedeki öğelerden birine tıkladıktan sonra \"Ctrl + A\" tuşlarına basarak kaydedilen tüm verileri toplu olarak da seçebilirsiniz. Dışa aktarmak istediğiniz öğeleri seçtikten sonra, seçilen verilere sağ tıklayın ve beliren menüden \"Dışa Aktar\"ı seçin.\nAna Parolanızı girerek dışa aktarmak istediğinizi onaylamanız istenecektir. Girin ve \"Dışa Aktar\" düğmesini tıklayın.\n\"Farklı Kaydet\" menüsü açılır. \"Kaydet türü\" açılır menüsünden Virgülle ayrılmış değerler (CSV) seçtiğinizden emin olun, ardından dosyayı adlandırın, konumunu not edin ve \"Kaydet\"i tıklayın."
+   },
+   "Import_AdditionalInformation_Note": {
+      "message": "Ek bilgiler:\n"
+   },
+   "Import_BackButton_Text": {
+      "message": "Geri"
+   },
+   "Import_Bitwarden_Instructions": {
+      "message": "Tarayıcınızı açın ve Bitwarden hesabınızda oturum açın. Sol üstteki \"Araçlar\"ı tıklayın.\nSoldaki sütundan \"Kasayı Dışa Aktar\"ı seçin. \"Dosya Biçimi\" altında bir .csv dosyası seçeneğini belirleyin. Ana Parolanızı girin. Ardından, mavi renkli \"Kasayı Dışa Aktar\" düğmesini tıklayın.\nDışarı aktarmayı onaylamanız istenecek, bu istemde mavi renkli \"Kasayı Dışa Aktar\" düğmesini tıklayın. Bitwarden, \"bitwarden_export_##############.csv\" başlıklı bir CSV dosyasını belirlenen indirme klasörünüze aktaracaktır."
+   },
+   "Import_Chrome_Browser_Text": {
+      "message": "Google Chrome"
+   },
+   "Import_Chrome_Instructions": {
+      "message": "Chrome'u açın ve sağ üst köşedeki 3 dikey noktayı tıklayın. Menüden \"Ayarlar\"ı seçin.\nAyarlar menüsünün Otomatik Doldurma bölümünün altındaki \"Şifreler\"i tıklayın. \"Kayıtlı Parolalar\"ın sağındaki 3 dikey noktayı tıklayın. \"Şifreleri dışa aktar...\" seçeneğini tıklayın.\nDışarı aktarmayı onaylamanızı isteyen bir pencere belirecek, mavi renkli \"Şifreleri dışa aktar...\" düğmesini tıklayın. \"Farklı Kaydet\" diyaloğu görünecektir. CSV dosyasını adlandırın ve konumunu seçin."
+   },
+   "Import_CustomFields_Note": {
+      "message": "Özel alanlar:"
+   },
+   "Import_Dashlane_Instructions": {
+      "message": "Tarayıcınızı açın ve Dashlane uzantısını tıklayın.\nUzantının menüsünün sağ üst köşesindeki \"Diğer\" düğmesini tıklayın ve \"Uygulamayı aç\" seçeneğini seçin.\nSol altta \"Hesabım\"ı tıklayın köşesine gidin ve beliren menüden \"Verileri Dışa Aktar\"ı seçin. Ana Parolanızı girin ve ardından \"CSV'ye Aktar\" seçeneğini tıklayın.\nDashlane verilerinizi içeren bir .zip dosyası, belirlenen indirme klasörünüze indirilecektir. Klasörü açın ve beş farklı CSV dosyası göreceksiniz. Oturum açma kimlik bilgilerinizi içeren CSV, \"credentials.csv\" etiketli dosyadır."
+   },
+   "Import_Dialog_Title1": {
+      "message": "Şifreleri şuradan içe aktar:"
+   },
+   "Import_Dialog_Title2": {
+      "message": "%1'den şifreleri içe aktar"
+   },
+   "Import_Edge_Browser_Text": {
+      "message": "Microsoft Edge"
+   },
+   "Import_Edge_Instructions": {
+      "message": "Edge'i açın ve sağ üst köşedeki 3 noktayı tıklayın. Menüden \"Ayarlar\"ı seçin.\nSoldaki sütundan \"Profiller\"i seçin ve ardından \"Parolalar\" seçeneğini tıklayın. \"Kayıtlı Parolalar\"ın sağındaki 3 noktayı tıklayın. \"Şifreleri dışa aktar\" seçeneğini tıklayın.\nDışa aktarmayı onaylamanızı isteyen bir pencere belirecek, mavi renkli \"Şifreleri dışa aktar\" düğmesini tıklayın. Bir sonraki istemde, Kullanıcı Parolanızı girin ve dışa aktarmayı başlatmak için \"Tamam\" düğmesini tıklayın. \"Farklı Kaydet\" diyaloğu görünecektir. CSV dosyasını adlandırın ve konumunu seçin."
+   },
+   "Import_Enpass_Instructions_Mac": {
+      "message": "Enpass'ı açın ve oturum açın. Sol üstteki \"Dosya\" açılır menüsünü tıklayın, ardından \"Dışa Aktar\"ı seçin.\nDışa aktarma diyaloğu sağda açılacaktır. \"Dosya Biçimini Seç\" altında \".json\" biçimini seçin. Ardından, dışa aktarma hedefini seçmek için \"Konum Seç\" altındaki \"Klasör\" simgesini tıklayın. Dosyayı istediğiniz gibi adlandırın ve ekranın altındaki \"Kaydet\" düğmesini tıklayın.\nDışa aktar düğmesini tıklayın. Bu eylemi onaylamak için Ana Parolanızı girmeniz istenecektir. Şifreyi girin ve onayla'ya tıklayın. Enpass, dışa aktarmanızın başarılı olduğunu onaylayacaktır. \"Bitti\" düğmesini tıklayın."
+   },
+   "Import_Enpass_Instructions_Win": {
+      "message": "Enpass'ı açın ve oturum açın. Sağ üst köşedeki 3 yığılmış yatay çizgiyi tıklayın, \"Dosya\"yı seçin ve ardından \"Dışa Aktar\" seçeneğini tıklayın.\nDışa aktarma diyaloğu sağda açılacaktır. \"Dosya Biçimini Seç\" altında \".json\" biçimini seçin. Ardından, dışa aktarma hedefini seçmek için \"Konum Seç\" altındaki \"Klasör\" simgesini tıklayın. Dosyayı istediğiniz gibi adlandırın ve ekranın altındaki \"Kaydet\" düğmesini tıklayın.\nDışa aktar düğmesini tıklayın. Bu eylemi onaylamak için Ana Parolanızı girmeniz istenecektir. Şifreyi girin ve onayla'ya tıklayın. Enpass, dışa aktarmanızın başarılı olduğunu onaylayacaktır. \"Bitti\" düğmesini tıklayın."
+   },
+   "Import_Firefox_Browser_Text": {
+      "message": "Mozilla Firefox"
+   },
+   "Import_Firefox_Instructions": {
+      "message": "Firefox'u açın ve sağ üst köşedeki 3 yatay çizgiye tıklayın. Menüden \"Parolalar\"ı seçin.\nOturum Açma Bilgileri ve Parolalar sayfasının sağ üst köşesindeki 3 noktayı tıklayın. Menüden \"Girişleri Dışa Aktar...\" öğesini seçin. Dışa aktarmak istediğinizi onaylamanızı isteyen bir mesaj alacaksınız. Kırmızı \"Dışa Aktar...\" düğmesini tıklayın.\n\"Farklı Kaydet\" iletişim kutusu görünecektir. CSV dosyasını adlandırın ve konumunu seçin."
+   },
+   "Import_From1Password_Note": {
+      "message": "1Password’den içe aktarıldı."
+   },
+   "Import_FromBitwarden_Note": {
+      "message": "Bitwarden’dan içe aktarıldı."
+   },
+   "Import_FromCSVFile_Note": {
+      "message": "CSV dosyasından içe aktarıldı."
+   },
+   "Import_FromDashlane_Note": {
+      "message": "Dashlane’den içe aktarıldı."
+   },
+   "Import_FromEnpass_Note": {
+      "message": "Enpass'dan İçe aktarılmıştır."
+   },
+   "Import_FromKeeper_Note": {
+      "message": "Keeper’dan içe aktarıldı."
+   },
+   "Import_FromLastPass_Note": {
+      "message": "LastPass’den içe aktarıldı."
+   },
+   "Import_FromNordPass_Note": {
+      "message": "NordPass'tan İçe aktarılmıştır."
+   },
+   "Import_FromSafari_Note": {
+      "message": "Safari'den içe aktarılmıştır."
+   },
+   "Import_FromTrueKey_Note": {
+      "message": "TrueKey'den İçe aktarılmıştır."
+   },
+   "Import_ImportFromFileButton_Text": {
+      "message": "Dosyadan içe aktar"
+   },
+   "Import_Keeper_Instructions_Mac": {
+      "message": "Keeper'ı açın ve Kasanıza gidin.\nSağ üst köşedeki hesap açılır menüsünü tıklayın ve \"Ayarlar\" seçeneğini seçin. Soldaki sütundan \"Dışa Aktar\"ı seçin.\n\".csv Dosyasına Aktar\"ın sağındaki \"Şimdi Dışa Aktar\" düğmesini tıklayın. Ardından Ana Parolanızı girmeniz istenecektir. Girin ve sarı \"Şimdi Dışa Aktar\" düğmesini tıklayın.\n\"Farklı Kaydet\" menüsü açılır. Dosyaya bir ad verin, konumunu seçin ve \"Kaydet\"i tıklayın. Keeper, verilerinizi içeren bir CSV dosyasını belirlenen indirme klasörünüze aktaracaktır."
+   },
+   "Import_Keeper_Instructions_Win": {
+      "message": "Keeper'ı açın ve Kasanıza gidin.\nSağ üst köşedeki hesap açılır menüsünü tıklayın ve \"Ayarlar\" seçeneğini seçin. Soldaki sütundan \"Dışa Aktar\"ı seçin.\n\".csv Dosyasına Aktar\"ın sağındaki \"Şimdi Dışa Aktar\" düğmesini tıklayın. Ardından Ana Parolanızı girmeniz istenecektir. Girin ve sarı \"Şimdi Dışa Aktar\" düğmesini tıklayın.\nKeeper, verilerinizi içeren bir CSV dosyasını belirlenen indirme klasörünüze aktaracaktır."
+   },
+   "Import_LastPass_Instructions": {
+      "message": "Web tarayıcınızın araç çubuğunda, LastPass simgesini ve ardından \"Kasamı Aç\"ı tıklayın. En alttaki sol gezinme bölümünden \"Gelişmiş Seçenekler\"i seçin.\n\"Dışa Aktar\" seçeneğini tıklayın. İstenirse, Ana Parolanızı girin ve kırmızı \"Devam\" düğmesini tıklayın.\nLastPass, \"lastpass_export.csv\" başlıklı bir CSV dosyasını belirlenen indirme klasörünüze aktaracaktır."
+   },
+   "Import_Last_Instruction": {
+      "message": "Bittiğinde, aşağıdaki \"Dosyadan içe aktar\"ı tıklayın."
+   },
+   "Import_NordPass_Instructions": {
+      "message": "NordPass masaüstü uygulamasını açın ve hesabınıza giriş yapın. Sol üstteki Ayarlar (dişli çark) simgesini tıklayın.\n\"İçe Aktar ve Dışa Aktar\" bölümüne ilerleyin ve \"Öğeleri Dışa Aktar\" seçeneğini seçin. Dışa aktarmayı onaylamak için Ana Parolanızı girmeniz istenecektir.\n\"Farklı Kaydet\" iletişim kutusu görünecektir. CSV dosyasını adlandırın ve konumunu seçin. Ardından, \"Kaydet\" düğmesini tıklayın."
+   },
+   "Import_Opera_Browser_Text": {
+      "message": "Opera"
+   },
+   "Import_Opera_Instructions": {
+      "message": "Opera'yı açın ve sol üst köşedeki Opera simgesine tıklayın. Menüden \"Ayarlar\"ı seçin.\nOtomatik Doldurma bölümünün altındaki \"Şifreler\"i tıklayın. \"Kayıtlı Parolalar\"ın sağındaki 3 dikey noktayı tıklayın. \"Şifreleri dışa aktar...\" seçeneğini tıklayın.\nDışarı aktarmayı onaylamanızı isteyen bir pencere belirecek, mavi renkli \"Şifreleri dışa aktar...\" düğmesini tıklayın. \"Farklı Kaydet\" diyaloğu görünecektir. CSV dosyasını adlandırın ve konumunu seçin."
+   },
+   "Import_ReportAddedGeneric_Text": {
+      "message": "%1 %2 eklendi\n"
+   },
+   "Import_ReportError_Text": {
+      "message": "Bir hata oluştu"
+   },
+   "Import_ReportExistingGeneric_Text": {
+      "message": "%1 %2 zaten RoboForm'a kayıtlıydı\n"
+   },
+   "Import_SelectedFolderIsReadOnly_Error": {
+      "message": "Salt okunur klasöre içe aktarılamaz."
+   },
+   "Import_Succeeded_Title": {
+      "message": "İçe aktarma başarıyla tamamlandı"
+   },
+   "Import_TrueKey_Instructions": {
+      "message": "True Key'de oturum açın ve sağ üst köşedeki \"Dişli\" simgesine tıklayın. Ardından, sağ üst köşedeki \"Uygulama Ayarları\" sekmesini tıklayın.\n\"Verileri Dışa Aktar\" bölümünün sağındaki \"Dışa Aktar\" düğmesini tıklayın. Bu eylemi onaylamanızı isteyen bir pencere ile karşılaşacaksınız. Mavi renkli \"Devam\" düğmesini tıklayın.\nAna Parolanızı girmeniz istenecektir. Girin ve mavi \"Kilidi Aç\" düğmesini tıklayın. Ardından verileriniz belirlenen indirme klasörünüze indirilecektir."
+   },
+   "Install_AccountCreated_Text": {
+      "message": "RoboForm hesabınız başarıyla oluşturuldu"
+   },
+   "Install_ConfirmRoboFormMasterPassword2": {
+      "message": "Şifreyi Onayla:"
+   },
+   "Install_Email": {
+      "message": "E-posta:"
+   },
+   "Install_HidePassword_Tip": {
+      "message": "Şifreyi gizle"
+   },
+   "Install_MemorizePassword_Prompt2": {
+      "message": "Ana Şifrenizi unutmayın. Bu şifre verilerinizi açan anahtardır. Unutmanız halinde verilerinize erişilemez (bizim tarafımızdan dahi) ve sıfırdan başlamanız gerekir."
+   },
+   "Install_Next": {
+      "message": "İleri"
+   },
+   "Install_No": {
+      "message": "Hayır"
+   },
+   "Install_PasswordTooShort": {
+      "message": "Şifrenin en az 6 karakter uzunluğunda olması gerekir."
+   },
+   "Install_RoboFormMasterPassword": {
+      "message": "Ana Şifre:"
+   },
+   "Install_ShowPassword_Tip": {
+      "message": "Şifreyi metin olarak göster"
+   },
+   "Install_WarningSheet_Title": {
+      "message": "RoboForm Kurulum Uyarısı"
+   },
+   "Install_Yes": {
+      "message": "Evet"
+   },
+   "InterfaceLanguage_Warning": {
+      "message": "Kullanıcı arayüzü dilini '%1' den '%2' ye değiştirmek ister misiniz?\nEğer değiştirdiğiniz dili bilmiyorsanız, geri dönüş yapmanız zor olabilir.\nAyrıca, dil değişiminin tamamen etkili olması için tarayıcılarınızı yeniden başlamanız gerekebilir"
+   },
+   "Item_ClickToFill_Tip": {
+      "message": "Doldurmak için tıkla"
+   },
+   "Item_ClickToLogin_Tip": {
+      "message": "Giriş Yapmak için tıkla"
+   },
+   "ItemsListPage_More_Button_Text": {
+      "message": "Daha fazla..."
+   },
+   "ItemsListPage_RecentlyUsed_Title": {
+      "message": "Son Kullanılanlar"
+   },
+   "ItemsListPage_SearchIdentities_Placeholder": {
+      "message": "Kimlikleri ara"
+   },
+   "ItemsListPage_SearchMatchingLogins_Placeholder": {
+      "message": "Eşleşen girişleri ara"
+   },
+   "LicenseExceededWarning_EnterpriseExceeded_Title": {
+      "message": "RoboForm for Business abonelik sınırı aşıldı"
+   },
+   "Loading_Status_Text": {
+      "message": "Yükleniyor..."
+   },
+   "LoginTip_CloseAfterSubmit_Text": {
+      "message": "Gönderdikten sonra kapat"
+   },
+   "Login_OneTimeCode_Copied_Text": {
+      "message": "Doğrulama kodu panoya kopyalandı"
+   },
+   "Login_OneTimeCode_Copy": {
+      "message": "Doğrulama Kodunu Kopyala"
+   },
+   "Login_OneTimeCode_Copy_Tip": {
+      "message": "Doğrulama kodunu kopyalamak için tıklayın"
+   },
+   "Login_OneTimeCode_Text": {
+      "message": "Doğrulama Kodu"
+   },
+   "MainPage_AddNewLogin_Text": {
+      "message": "Yeni Giriş Ekle"
+   },
+   "MainPage_AllItems_Header_Text": {
+      "message": "A-Z"
+   },
+   "MainPage_CreateFirstBookmarkInstructions_Text": {
+      "message": "İlk Yer İşaretinizi oluşturmak için aşağıdaki %1 butonuna tıklayın."
+   },
+   "MainPage_CreateFirstSafenoteInstructions_Text": {
+      "message": "Güvenli Not oluşturmak için aşağıdaki %1 butonuna tıklayın ve pin sayıları, güvenli erişim kodları ve diğer gizli erişim talimatları gibi gizli metinler ekleyin."
+   },
+   "MainPage_CreateLoginInstruction_LearnMore_Link": {
+      "message": "Giriş oluşturma hakkında daha fazlasını burada bulabilirsiniz"
+   },
+   "MainPage_CreateLoginInstruction_Option1_Text": {
+      "message": "Online hesaplarınıza giriş yaparken, RoboForm şifrelerinizi kaydetmeyi teklif eder."
+   },
+   "MainPage_CreateLoginInstruction_Option2_Text": {
+      "message": "%1 butonuna tıklayın, web sitesini seçin ve bilgilerinizi girin."
+   },
+   "MainPage_CreateLoginInstruction_Option3_Import_Text": {
+      "message": "İçe aktar"
+   },
+   "MainPage_CreateLoginInstruction_Option3_Text": {
+      "message": "%1 önceki kayıtlı şifre."
+   },
+   "MainPage_CreateLoginInstruction_Top_Text": {
+      "message": "Girişler oluşturmanın iki yolu bulunmaktadır:"
+   },
+   "MainPage_CreateNewButton_Bookmark_Tip": {
+      "message": "Yeni Yer İşareti oluştur"
+   },
+   "MainPage_CreateNewButton_File_Tip": {
+      "message": "Yeni RoboForm Dosyası Oluştur"
+   },
+   "MainPage_CreateNewButton_Identity_Tip": {
+      "message": "Yeni Kimlik oluştur"
+   },
+   "MainPage_CreateNewButton_Login_Tip": {
+      "message": "Yeni Giriş oluştur"
+   },
+   "MainPage_CreateNewButton_Safenote_Tip": {
+      "message": "Yeni Güvenli Not oluştur"
+   },
+   "MainPage_CreateNew_Text": {
+      "message": "Yeni oluştur"
+   },
+   "MainPage_CreatePinItemInstruction_Text": {
+      "message": "Herhangi RoboForm ögesi üzerinde Pinlenenlere Ekle komutunu seçerek kendi Pinlenmiş ögeler listenizi oluşturun. Pinlenmiş ögeler konumlarını korur."
+   },
+   "MainPage_Create_Identity_Text": {
+      "message": "Kimlik Oluştur"
+   },
+   "MainPage_Create_Identity_Tip": {
+      "message": "İlk Kimliğinizi oluşturun"
+   },
+   "MainPage_EnableAutoSaveOnDomain_Text": {
+      "message": "Bu alan adında Oto.Kaydet’i etkinleştir"
+   },
+   "MainPage_EnableInpageIconsOnDomain_Text": {
+      "message": "Bu alan adında Sayfa İçi İkonları etkinleştir"
+   },
+   "MainPage_EnjoyUsing": {
+      "message": "%1 kullanmayı seviyor musunuz?"
+   },
+   "MainPage_FillIdentitiesTabAll_Search_Placeholder": {
+      "message": "Tüm Kimliklerde Ara"
+   },
+   "MainPage_FillIdentitiesTabMatch_Search_Placeholder": {
+      "message": "Eşleşen Kimliklerde Ara"
+   },
+   "MainPage_FillIdentitiesTab_AllIdentities_Button_Text": {
+      "message": "Tümü"
+   },
+   "MainPage_FillIdentitiesTab_CreateFirst_Text": {
+      "message": "Ad, adres, ödeme bilgileri gibi kişisel verilerinizi Kimlik'e eklemek için %1 butonuna tıklayın. RoboForm, tek tıkla ödeme yapmanız veya hesap kayıt formları için bu verileri doldurmayı teklif edecektir."
+   },
+   "MainPage_FillIdentitiesTab_EmptyMatch_Text": {
+      "message": "Kimliklerinizde, mevcut sayfada bulunan alanları doldurmak için hiçbir veri bulunmuyor. Mevcut Kimliği eşleşen değerlerle güncelleyin ya da yeni bir Kimlik oluşturun."
+   },
+   "MainPage_FillIdentitiesTab_IdentityView_CopyDrag_Tip": {
+      "message": "Kopyalamak için tıkla veya sürükle ve bırak"
+   },
+   "MainPage_FillIdentitiesTab_IdentityView_Copy_Tip": {
+      "message": "Kopyalamak için tıkla"
+   },
+   "MainPage_FillIdentitiesTab_IdentityView_FillBtn_Tip": {
+      "message": "'%1' Kimliğinden doldur"
+   },
+   "MainPage_FillIdentitiesTab_IdentityView_Limited_Top_Text": {
+      "message": "Bu Kimlikten doldur"
+   },
+   "MainPage_FillIdentitiesTab_IdentityView_Top_Text": {
+      "message": "Bu Kimlikten doldur, sürükle ve bırak veya kopyala/yapıştır"
+   },
+   "MainPage_FillIdentitiesTab_MatchingIdentities_Button_Text": {
+      "message": "Eşleştir"
+   },
+   "MainPage_FillIdentities_Button_Text": {
+      "message": "Kimlik Doldur"
+   },
+   "MainPage_FillLoginsTabAll_Search_Placeholder": {
+      "message": "Tüm Girişlerde Ara"
+   },
+   "MainPage_FillLoginsTabDomain_Search_Placeholder": {
+      "message": "Alan Adı Girişlerinde Ara"
+   },
+   "MainPage_FillLoginsTab_AllLogins_Button_Text": {
+      "message": "Tümü"
+   },
+   "MainPage_FillLoginsTab_MatchingLogins_Button_Text": {
+      "message": "Eşleşen Girişler"
+   },
+   "MainPage_FillLoginsTab_NoLoginsForDomain_Text": {
+      "message": "Mevcut sayfa için kaydedilmiş hiçbir Giriş bulunmuyor"
+   },
+   "MainPage_FillLoginsTab_NoLoginsForPage_Text": {
+      "message": "Bu sayfanın doldurabileceğimiz hiçbir eşleşen alanı bulunmuyor. Sayfada web sitesi işaretine gidin veya Aynı Alan Adı  eşleşen Giriş kategorisine geçin."
+   },
+   "MainPage_FillLoginsTab_SameDomain_Button_Text": {
+      "message": "Aynı Alan Adı"
+   },
+   "MainPage_FillLoginsTab_Search_GeneralResults": {
+      "message": "Genel arama sonuçları:"
+   },
+   "MainPage_FillLoginsTab_Search_NoMatchingLogins": {
+      "message": "Eşleşen Girişlerde hiçbir arama sonucu yok."
+   },
+   "MainPage_FillLoginsTab_Search_NoSameDomainLogins": {
+      "message": "Aynı Alan Adı Girişlerinde hiçbir arama sonucu yok."
+   },
+   "MainPage_FillLoginsTab_Search_Placeholder": {
+      "message": "Eşleşen Girişlerde Ara"
+   },
+   "MainPage_FillLogins_Button_Text": {
+      "message": "Girişleri Doldur"
+   },
+   "MainPage_FillLogins_Button_Tip": {
+      "message": "Eşleşen Girişler Listesi"
+   },
+   "MainPage_Items_Button_All_Tip": {
+      "message": "RoboForm Ögeleriniz"
+   },
+   "MainPage_Items_Button_Bookmarks_Tip": {
+      "message": "RoboForm Yer İşaretleriniz"
+   },
+   "MainPage_Items_Button_Identities_Tip": {
+      "message": "RoboForm Kimlikleriniz"
+   },
+   "MainPage_Items_Button_Logins_Tip": {
+      "message": "RoboForm Girişleriniz"
+   },
+   "MainPage_Items_Button_Pinned_Tip": {
+      "message": "Pinlenmiş Ögeleriniz"
+   },
+   "MainPage_Items_Button_Safenotes_Tip": {
+      "message": "RoboForm Güvenli Notlarınız"
+   },
+   "MainPage_LoginsTab_Search_Placeholder": {
+      "message": "RoboForm'da Ara"
+   },
+   "MainPage_MatchingLogins_Header_Text": {
+      "message": "Eşleşen Girişler"
+   },
+   "MainPage_OtherLogins_Header_Text": {
+      "message": "Diğer Girişler"
+   },
+   "MainPage_Pinned_Header_Text": {
+      "message": "Pinlendi"
+   },
+   "MainPage_PleaseRateUs": {
+      "message": "Lütfen bizi değerlendirin"
+   },
+   "MainPage_Popular_Header_Text": {
+      "message": "Popüler"
+   },
+   "MainPage_RateUs_Btn_Text": {
+      "message": "%1’u değerlendir"
+   },
+   "MainPage_Recent_Header_Text": {
+      "message": "Son Eklenenler"
+   },
+   "MainPage_RemindMeLater_Btn_Text": {
+      "message": "Daha sonra hatırlat"
+   },
+   "MainPage_SaveButton_SaveBookmark_Tip": {
+      "message": "Mevcut sayfayı yer işareti olarak kaydet"
+   },
+   "MainPage_SaveButton_SaveForms_Tip": {
+      "message": "Mevcut sayfa için formları kaydet"
+   },
+   "MainPage_Settings_Button_Tip": {
+      "message": "RoboForm Araçları ve Ayarları"
+   },
+   "MainPage_ShowAll_Bookmarks_Text": {
+      "message": "Tüm Yer İşaretleri"
+   },
+   "MainPage_ShowAll_Header_Text": {
+      "message": "Tümü"
+   },
+   "MainPage_ShowAll_Identities_Text": {
+      "message": "Tüm Kimlikler"
+   },
+   "MainPage_ShowAll_Logins_Text": {
+      "message": "Tüm Girişler"
+   },
+   "MainPage_ShowAll_NativeMenu_Tip": {
+      "message": "%1 masaüstü menüsünü görmek için tıkla"
+   },
+   "MainPage_ShowAll_Safenotes_Text": {
+      "message": "Tüm Güvenli Notlar"
+   },
+   "MainPage_Start_Button_Text": {
+      "message": "Ana Sayfa"
+   },
+   "MainPage_ViewAllIdentities_Tip": {
+      "message": "Tüm kimlikleri görüntüle"
+   },
+   "MainPage_WouldYouLikeReportAnIssue": {
+      "message": "Bir sorun bildirmek mi istiyorsunuz?"
+   },
+   "MasterPass_DoNotMatch_Status": {
+      "message": "Şifreler eşleşmiyor"
+   },
+   "MasterPass_Expired": {
+      "message": "RoboForm Ana Şifrenizi değiştirmenin zamanı geldi"
+   },
+   "MasterPass_New_BlanksOnly_Error": {
+      "message": "Ana Şifre yalnızca boşluklardan oluşamaz"
+   },
+   "MasterPass_New_DigitChars_Error": {
+      "message": " Şifredeki minimum rakam sayısı %1 olmalıdır"
+   },
+   "MasterPass_New_Length_Error": {
+      "message": "Şifre uzunluğu %1 ile %2 karakter arasında olmalıdır"
+   },
+   "MasterPass_New_LowerCaseChars_Error": {
+      "message": " Şifredeki minimum küçük harf sayısı %1 olmalıdır"
+   },
+   "MasterPass_New_NonNumChars_Error": {
+      "message": "Şifrede sayısal olmayan en az %1 karakter olmalıdır."
+   },
+   "MasterPass_New_TheSameAsPrevious_Error": {
+      "message": "Yeni Ana Şifre mevcut şifreden farklı olmalıdır."
+   },
+   "MasterPass_New_UpperCaseChars_Error": {
+      "message": "Şifredeki minimum büyük harf sayısı %1 olmalıdır"
+   },
+   "MasterPass_Prompt_TypeNew": {
+      "message": "Yeni Şifre:"
+   },
+   "MasterPass_Prompt_TypeOld": {
+      "message": "Eski Şifre:"
+   },
+   "MasterPassword_Error2": {
+      "message": "Yanlış bir şifre girdiniz. Lütfen Ana Şifrenizi tekrar girin"
+   },
+   "MasterPwdEnterDlg_CacheUntilLogoff": {
+      "message": "Çıkış yapılana kadar bu şifreyi kullan"
+   },
+   "MasterPwdEnterDlg_CreatePwd_Text": {
+      "message": "Verilerinizi şifre korumalı hale getirmek için ana şifrenizi belirlemelisiniz"
+   },
+   "MasterPwdEnterDlg_Limit_Text": {
+      "message": "Şifreniz 8 ile 79 sembol arası uzunlukta olmalıdır"
+   },
+   "MasterPwdEnterDlg_Text3": {
+      "message": "Bu nesne şifre korumalıdır.\nLütfen bunu kullanmak için \nAna Şifrenizi girin."
+   },
+   "NameInvalidCharacter_Error2": {
+      "message": "Ad boş olamaz ve şu karakterleri içeremez \\ / : * ? \" \u003C > | karakterlerini içeremez"
+   },
+   "NewGroup_NoPermissions_Error": {
+      "message": "Bir grup oluşturmak için hiçbir izne sahip değilsiniz. Sadece şirket yöneticisi gruplar oluşturabilir."
+   },
+   "NewSharedFolder_Title": {
+      "message": "Ad:"
+   },
+   "No": {
+      "message": "Hayır"
+   },
+   "Notification_Copied_ToClipboard_Text": {
+      "message": "Panoya kopyalandı"
+   },
+   "Notification_File_Deleted_Text": {
+      "message": "Dosya Silindi: %1"
+   },
+   "Notification_Folder_Deleted_Text": {
+      "message": "Klasör Silindi: %1"
+   },
+   "Notification_ItemType_Pinned_Text": {
+      "message": "%1 Pinlenenlere eklendi"
+   },
+   "Notification_ItemType_UnPinned_Text": {
+      "message": "%1 Pinlenenlerden kaldırıldı"
+   },
+   "Notification_Item_Created_Text": {
+      "message": "%1 oluşturuldu"
+   },
+   "Notification_Item_Renamed_Text": {
+      "message": "%1, %2 olarak yeniden adlandırıldı"
+   },
+   "Notification_Password_Copied_Text": {
+      "message": "Şifre panoya kopyalandı"
+   },
+   "Notification_Password_Filled_Text": {
+      "message": "Yeni şifre dolduruldu"
+   },
+   "Notification_URL_Copied_Text": {
+      "message": "URL panoya kopyalandı"
+   },
+   "Notification_Username_Copied_Text": {
+      "message": "Kullanıcı adı panoya kopyalandı"
+   },
+   "OTPPage_EnrollCheck_Text": {
+      "message": "Bu cihazı hatırla"
+   },
+   "OTPPage_Input_Placeholder": {
+      "message": "Tek Kullanımlık Şifrenizi buraya yazın"
+   },
+   "OpenStartpageOnEmptyTabs_Text2": {
+      "message": "Eklenti butonuna tıklamak, boş sekmede Başlangıç Sayfası açar"
+   },
+   "OpenStartpageOnEmptyTabs_Tip": {
+      "message": "Bir kullanıcı boş tarayıcı sekmesindeyken RoboForm tarayıcı eklentisi butonuna tıklarsa RoboForm Başlangıç Sayfası açılır"
+   },
+   "Options_Account_Title": {
+      "message": "Hesap"
+   },
+   "Options_Adapter_Chrome_Text": {
+      "message": "Google Chrome"
+   },
+   "Options_Adapter_ChromiumBased_Text": {
+      "message": "Chromium ve Chromium tabanlı tarayıcılar"
+   },
+   "Options_Adapter_Edge_Text": {
+      "message": "Microsoft Edge eklentisi"
+   },
+   "Options_Adapter_FirefoxBased_Text": {
+      "message": "Firefox tabanlı tarayıcılar"
+   },
+   "Options_Adapter_Firefox_Text2": {
+      "message": "Mozilla Firefox Eklentisi"
+   },
+   "Options_Adapter_Install_Text": {
+      "message": "Kur"
+   },
+   "Options_Adapter_Opera_Text": {
+      "message": "Opera"
+   },
+   "Options_Advanced_Title": {
+      "message": "Gelişmiş"
+   },
+   "Options_AuthMethod_AskOnNewBrowserSession": {
+      "message": "Yeni tarayıcı oturumunda Ana Parola isteyin"
+   },
+   "Options_AuthMethod_AskOnNewBrowserSession_Tip": {
+      "message": "Her yeni tarayıcı oturumu açıldığında Ana Parola girmeniz istenecektir."
+   },
+   "Options_AuthMethod_Biometrics_InstallDesktopApp_Link": {
+      "message": "RoboForm masaüstü uygulaması"
+   },
+   "Options_AuthMethod_Biometrics_InstallDesktopApp_Text": {
+      "message": "%1. Bu, aşağıdakilerin kurulumunu gerektirecektir:"
+   },
+   "Options_AuthMethod_EnterMasterPassword_Prompt": {
+      "message": "%1 için Kimlik Doğrulama yöntemi değişimini onaylamak için Ana Şifreyi girin"
+   },
+   "Options_AuthMethod_Fingerprint": {
+      "message": "Parmak İzi (WBF)"
+   },
+   "Options_AuthMethod_Fingerprint_Tip": {
+      "message": "WBF cihazda Oturum Açmak için Ana Şifreniz yerine parmak izi kullanın. Oturum Açmak için yine de Ana Şifreye ihtiyaç duyabileceğinizi unutmayın, dolayısıyla onu bilmeniz gerekir."
+   },
+   "Options_AuthMethod_MasterPasswordOnly": {
+      "message": "Her zaman Ana Şifreyi sor"
+   },
+   "Options_AuthMethod_MasterPasswordOnly_Tip": {
+      "message": "Sadece Ana Şifrenizi girerek Oturum Açabilirsiniz."
+   },
+   "Options_AuthMethod_MasterPasswordOnly_Tip2": {
+      "message": "Ayarlanan hareketsizlik süresi sona erdikten sonra, her yeni tarayıcı oturumu açıldığında, bilgisayarın kilidi her açıldığında veya açıldığında Ana Parolayı girmeniz istenecektir."
+   },
+   "Options_AuthMethod_OldNativeRF_Warning": {
+      "message": "Bu ayar burada değiştirilemez. Masaüstü RoboForm ayarlarını göstermek için tıklayın"
+   },
+   "Options_AuthMethod_OpenNativeOptions_ButtonText": {
+      "message": "Kimlik Doğrulama Yöntemlerini Yönetin"
+   },
+   "Options_AuthMethod_Title": {
+      "message": "Kimlik doğrulama yöntemi"
+   },
+   "Options_AuthMethod_UseTouchID": {
+      "message": "Dokunmatik Kimliği Kullan"
+   },
+   "Options_AuthMethod_UseWatch": {
+      "message": "Apple Watch'u kullanın"
+   },
+   "Options_AuthMethod_WindowsHello": {
+      "message": "Windows Hello"
+   },
+   "Options_AuthMethod_WindowsHello2": {
+      "message": "Windows Hello'yu kullanın"
+   },
+   "Options_AuthMethod_WindowsHello_Tip": {
+      "message": "Oturum Açmak için Ana Şifreniz yerine Windows Hello kullanın. Oturum Açmak için yine de Ana Şifreye ihtiyaç duyabileceğinizi unutmayın, dolayısıyla onu bilmeniz gerekir."
+   },
+   "Options_AutoFillBoth_Text2": {
+      "message": "Girişler ve Kimlikleri Göster"
+   },
+   "Options_AutoFillBoth_Tip2": {
+      "message": "Hem Girişler hem de Kimliklerden formları Oto.Doldur öner"
+   },
+   "Options_AutoFillIdentities_Text": {
+      "message": "Sadece Kimlikleri göster"
+   },
+   "Options_AutoFillIdentities_Tip": {
+      "message": "Girişlerden değil, sadece Kimliklerden formları Oto.Doldur öner"
+   },
+   "Options_AutoFillIfPass_Text2": {
+      "message": "Şifreli sayfalarda sadece Girişlerden Oto.Doldur öner"
+   },
+   "Options_AutoFillIfPass_Tip2": {
+      "message": "İşaretlenmişse: Şifre alanlarına sahip web sayfalarında sadece Eşleşen Girişlerden Oto.Doldur öner. İşaretlenmemişse: Şifre alanlarına sahip olmasa dahi web sayfalarında sadece Eşleşen Girişlerden Oto.Doldur öner"
+   },
+   "Options_AutoFillLogins_Text": {
+      "message": "Sadece Girişleri göster"
+   },
+   "Options_AutoFillLogins_Tip": {
+      "message": "Kimliklerden değil, sadece Girişlerden formları Oto.Doldur öner"
+   },
+   "Options_AutoFillThreshold_Text2": {
+      "message": "Kimlikler için Oto.Doldur İstemini tetiklemek için sayfa alanları gereklidir"
+   },
+   "Options_AutoFillThreshold_Tip": {
+      "message": "Kimlikten Oto.Doldur önerisinin yapılması için web sayfasındaki en düşük doldurma alanı sayısı"
+   },
+   "Options_AutoFill_DontOffer_Text": {
+      "message": "Oto.Doldur Önerme"
+   },
+   "Options_AutoFill_FromContacts_Text": {
+      "message": "Kişilerden Oto.Doldur Öner"
+   },
+   "Options_AutoFill_FromContacts_Tip2": {
+      "message": "Oto.Doldur, varsayılan olarak sadece Kimliklerden doldurmayı teklif eder. Bu ayar, Kişilerin de teklif edilmesine izin verir"
+   },
+   "Options_AutoFill_OfferInOldBrowsers_Text": {
+      "message": "Internet Explorer'da Oto.Doldur Öner"
+   },
+   "Options_AutoFill_OfferInOldBrowsers_Tip2": {
+      "message": "Eşleşen Girişler ve Kimliklerden doldurmayı teklif eden Oto.Doldur diyalogu Internet Explorer’da görüntülenir"
+   },
+   "Options_AutoFill_Offer_Text": {
+      "message": "Oto.Doldur Öner"
+   },
+   "Options_AutoFill_Offer_Tip": {
+      "message": "RoboForm, Eşleşen Girişten veya Kimlikten doldurulabilecek bir web (HTML) formu ile karşılaştığı zaman, Eşleşen Girişler veya Kimlikler öneren sayfa içi Oto.Doldurmayı görüntüler"
+   },
+   "Options_AutoFill_Text": {
+      "message": "Oto.Doldur"
+   },
+   "Options_AutoFill_Tip": {
+      "message": "RoboForm'un kaydedilmiş Girişler ve Kimliklerden online formları doldurmayı nasıl soracağını seçin"
+   },
+   "Options_AutoFill_Title": {
+      "message": "Oto.Doldur"
+   },
+   "Options_AutoFill_WithoutAsking_Text1": {
+      "message": "Sormadan Oto.Doldur"
+   },
+   "Options_AutoFill_WithoutAsking_Text2": {
+      "message": "(tek seçenekse)"
+   },
+   "Options_AutoFill_WithoutAsking_Tip": {
+      "message": "Bir web sayfasındaki formları, Oto.Doldur göstermeksizin en iyi eşleşen sayfanın Giriş veya Kimliği ile doldurur. Ancak, birden fazla Giriş bir web sayfası ile eşleşirse Oto.Doldur diyaloğunu görüntüler"
+   },
+   "Options_AutoForgetTime_Text": {
+      "message": "dakika sonra pasif moda geç"
+   },
+   "Options_AutoForgetTime_Tip2": {
+      "message": "RoboForm, bu kadar uzun süre hareketsiz kaldıktan sonra mevcut oturumunuzdan otomatik olarak çıkış yapar."
+   },
+   "Options_AutoRenewStatus_BillingAmount_Text": {
+      "message": "Tutar: %1"
+   },
+   "Options_AutoRenewStatus_BillingDate_Text": {
+      "message": "Fatura tarihi: %1"
+   },
+   "Options_AutoRenewStatus_Failed_Text": {
+      "message": "BAŞARISIZ"
+   },
+   "Options_AutoRenewStatus_Off_Text": {
+      "message": "KAPALI"
+   },
+   "Options_AutoRenewStatus_On_Text": {
+      "message": "AÇIK"
+   },
+   "Options_AutoRenew_Text": {
+      "message": "Otomatik Yenileme Durumu"
+   },
+   "Options_AutoRenew_TurnOff_Button_Text": {
+      "message": "Otomatik yenilemeyi KAPAT"
+   },
+   "Options_AutoRenew_TurnOn_Button_Text": {
+      "message": "Otomatik yenilemeyi AÇ"
+   },
+   "Options_AutoSave_AltClickEnable_Text2": {
+      "message": "Klavye kısayolunu etkinleştir: ALT+giriş butonuna tıklama Oto.Kaydet yapar"
+   },
+   "Options_AutoSave_ShiftEnterEnable_Text2": {
+      "message": "Klavye kısayolunu etkinleştir: Metin alanında SHIFT+ENTER tuşlarına basmak Oto.Kaydet yapar"
+   },
+   "Options_AutoSave_Text": {
+      "message": "Oto.Kaydet"
+   },
+   "Options_AutoSave_Tip": {
+      "message": "RoboForm’un yeni saptanan giriş bilgilerini nasıl kaydedeceğini seçin"
+   },
+   "Options_AutoSave_Title": {
+      "message": "Oto.Kaydet"
+   },
+   "Options_AutoSave_WebForms_No_Text": {
+      "message": "Oto.Kaydet Önerme"
+   },
+   "Options_AutoSave_WebForms_No_Tip": {
+      "message": "Doldurulmuş Giriş web (HTML) formu gönderdiğiniz zaman, RoboForm bunu kaydetmeyi teklif etmez"
+   },
+   "Options_AutoSave_WebForms_WithConfirmation_Text1": {
+      "message": "Oto.Kaydet teklif et"
+   },
+   "Options_AutoSave_WebForms_WithConfirmation_Text2": {
+      "message": "(kullanıcı onayı gerektirir)"
+   },
+   "Options_AutoSave_WebForms_WithConfirmation_Tip": {
+      "message": "Doldurulmuş Giriş web (HTML) formu gönderdiğiniz zaman, RoboForm bunu kaydetmeyi teklif eder"
+   },
+   "Options_AutoSave_WebForms_WitoutAsking_Text": {
+      "message": "Sormadan Oto.Kaydet"
+   },
+   "Options_AutoSave_WebForms_WitoutAsking_Tip": {
+      "message": "Doldurulmuş Giriş web (HTML) formu gönderdiğiniz zaman, RoboForm bunu otomatik olarak kaydeder"
+   },
+   "Options_BackupRestoreFrame_Text": {
+      "message": "Yedekle ve Geri Yükle"
+   },
+   "Options_Billing_Title": {
+      "message": "Faturalandırma"
+   },
+   "Options_Browsers_Title": {
+      "message": "Tarayıcılar"
+   },
+   "Options_DisableShortcuts_Text": {
+      "message": "RoboForm Kısayollarını Tarayıcıda Aktifleştir"
+   },
+   "Options_DisableShortcuts_Tip": {
+      "message": "RoboForm Kısayollarını Tarayıcıda Aktifleştir.\nRoboForm Kısayolları:\nALT+R - RoboForm Araç Çubuğu\nALT+S – RoboForm Arama Kutusuna odak ayarla\nALT+- - Alanları Sıfırla\nALT+P – Şifre Oluşturucuyu Göster\nALT+n – n. Kimlik için mini kutucuğu göster\nALT+M – bu siteyle uyuşan tüm şifre kartlarını listeleyen mini kutucuğu göster"
+   },
+   "Options_Domains_Equivalences_BadDomains_Error": {
+      "message": "Burada sadece alan adları tanımlanabilir. Alan adları sadece harfler, rakamlar, tireler ('-') ve noktalar ('.') içerebilir. Alan adları bir harf veya bir rakam ile başlamalı ve bitmelidir. Hatalı Alan Adı/Adları:\n'%1'"
+   },
+   "Options_Domains_Equivalences_Custom_Tip": {
+      "message": "Kullanıcı tanımlı alan adı eşitliklerinin listesi. Her satır, '=' ile ayrılmış eşit alan adlarını tanımlar. Domain’leri 'http' ve 'www' olmadan ekleyin.\nAlan adı eşitlikleri geçişlidir, örneğin:\naaa.com=bbb.com=ccc.com\nddd.com=bbb.com\nddd.com=eee\nbu alan adlarının sonuçları tamamen eşittir."
+   },
+   "Options_Domains_Equivalences_Frame": {
+      "message": "Alan adı Eşitlikleri"
+   },
+   "Options_Domains_FillingFromLoginChecksDomain_Text2": {
+      "message": "Eşleşmeyen bir alan adına Giriş verileri doldurulmadan önce beni uyar"
+   },
+   "Options_Domains_FillingFromLoginChecksDomain_Tip": {
+      "message": "RoboForm, Giriş verileri, o Giriş ile ilişkili olandan farklı bir alan adına doldurulmadan önce uyarır"
+   },
+   "Options_Domains_Title": {
+      "message": "Alan adı"
+   },
+   "Options_EnableNativeIntegration_Text": {
+      "message": "Kurulu RoboForm uygulaması ile entegrasyonu etkinleştir"
+   },
+   "Options_Extended_ActiveServer_Text": {
+      "message": "Çalışılacak aktif sunucu: "
+   },
+   "Options_General_Title": {
+      "message": "Genel"
+   },
+   "Options_Import_FolderSuffix_Text": {
+      "message": "İçe Aktarıldı"
+   },
+   "Options_ImportsButton_Text2": {
+      "message": "İçe aktar"
+   },
+   "Options_IncorrectValue_AuxKey": {
+      "message": "En az bir uzantı anahtarı işaretlenmelidir"
+   },
+   "Options_Keyboard_Title": {
+      "message": "Klavye"
+   },
+   "Options_Language_DefaultOption": {
+      "message": "Tarayıcı Dilini Kullan - %1"
+   },
+   "Options_Language_Tip": {
+      "message": "RoboForm uygulaması ekran dilini seçin"
+   },
+   "Options_Language_Title": {
+      "message": "Dil"
+   },
+   "Options_LicenseStatus_ActiveSubscription_Text": {
+      "message": "Aktif abonelik"
+   },
+   "Options_LicenseStatus_ExpirationDate_Text": {
+      "message": "Son kullanma tarihi: %1"
+   },
+   "Options_LicenseStatus_ExpiredSubscription_Text": {
+      "message": "Süresi dolmuş abonelik"
+   },
+   "Options_LicenseStatus_ExpiredTrial_Text": {
+      "message": "Süresi dolmuş deneme"
+   },
+   "Options_LicenseStatus_FreeAccount_Text": {
+      "message": "Ücretsiz hesap"
+   },
+   "Options_LicenseStatus_FreeTrial_Text": {
+      "message": "Ücretsiz deneme"
+   },
+   "Options_LicenseStatus_NoLicense_Text": {
+      "message": "Lisans yok"
+   },
+   "Options_LicenseStatus_PurchaseLicense_Button_Text": {
+      "message": "Bir lisans satın al"
+   },
+   "Options_LicenseStatus_RenewNow_Button_Text": {
+      "message": "Şimdi Yenile"
+   },
+   "Options_LicenseStatus_Text": {
+      "message": "Lisans durumu"
+   },
+   "Options_LicenseType_Business_Text": {
+      "message": "İşletme"
+   },
+   "Options_LicenseType_Everywhere_Text": {
+      "message": "Everywhere"
+   },
+   "Options_LicenseType_Family_Text": {
+      "message": "Aile"
+   },
+   "Options_LicenseType_Text": {
+      "message": "Lisans tipi"
+   },
+   "Options_LoginToViewMoreOptions_Text": {
+      "message": "Bazı seçenekler, RoboForm hesabınıza giriş yapana kadar kullanılamaz. Giriş işlemini gerçekleştirmek için lütfen tarayıcı araç çubuğunda RoboForm butonuna tıklayın."
+   },
+   "Options_ManagedByPolicy_Text": {
+      "message": "Şirket politikası tarafından yönetilir"
+   },
+   "Options_NativeIntegrationChange_Warning": {
+      "message": "Yerel entegrasyon seçeneğini değiştirmek istiyor musunuz?\nEklenti yeniden yüklenecektir."
+   },
+   "Options_No": {
+      "message": "Hayır"
+   },
+   "Options_NotPrimaryBuyer_Text": {
+      "message": "RoboForm Hesabınız birincil lisans sahibi değildir (faturalandırılan kişi).\nYenileme için lütfen birincil hesap sahibiyle iletişime geçin\nveya aboneliği yalnızca bu hesap için kendiniz yenileyebilirsiniz (yeni fatura bilgileri girmeniz istenir)."
+   },
+   "Options_OfferAutoFill_BasicAuthDialogs_Text": {
+      "message": "Tarayıcılarda Temel Kimlik Doğrulama diyaloglarından Oto.Doldur"
+   },
+   "Options_OfferAutoFill_BasicAuthDialogs_Tip": {
+      "message": "Eşleşen Girişlerden Temel Kimlik Doğrulama diyaloglarını doldurmayı teklif et"
+   },
+   "Options_OfferAutoFill_WinDialogs_Text2": {
+      "message": "Tarayıcılarda Windows Temel Kimlik Doğrulama diyaloglarını oto.doldur"
+   },
+   "Options_OfferAutoFill_WinDialogs_Tip2": {
+      "message": "Eşleşen Girişlerden Windows dialogu (temel kimlik doğrulama) ile doldurmayı teklif et"
+   },
+   "Options_OfferAutoSave_BasicAuthDialogs_Text": {
+      "message": "Tarayıcılarda Temel Kimlik Doğrulama diyaloglarından Oto.Kaydet"
+   },
+   "Options_OfferAutoSave_BasicAuthDialogs_Tip": {
+      "message": "Tarayıcılarda Temel Kimlik Doğrulama diyalogu gönderilmesiyle Oto.Kaydet tetiklenir"
+   },
+   "Options_OfferAutoSave_WinDialogs_Text": {
+      "message": "Tarayıcılarda Windows diyalogundan (temel kimlik doğrulama) Oto.Kaydet"
+   },
+   "Options_OfferAutoSave_WinDialogs_Tip2": {
+      "message": "Tarayıcılarda Windows diyalogu (temel kimlik doğrulama) gönderilmesiyle Oto.Kaydet tetiklenir"
+   },
+   "Options_OpenOptionsInInstalledRoboForm": {
+      "message": "Kurulu RoboForm'da Seçenekler'i açın"
+   },
+   "Options_OpenSPOnLoginFromExtension_Title": {
+      "message": "RoboForm'a Giriş yaptığımda BaşlangıçSayfasını aç"
+   },
+   "Options_PaymentInfo_Text": {
+      "message": "Ödeme Bilgileri"
+   },
+   "Options_PaymentInfo_UpdateBillingInfo_Text": {
+      "message": "Ödeme Bilgilerini Güncelle"
+   },
+   "Options_RightAltForShortcuts_Text": {
+      "message": "Kısayollar için Sağ ALT tuşunu da kullan"
+   },
+   "Options_RightAltForShortcuts_Tip": {
+      "message": "Eğer işaretliyse, Sol ALT + Tuş ’a ek olarak Sağ ALT + Tuş ’a basmak da RoboForm klavye kısayollarını çalıştırır. Eğer işaretli değilse, sadece Sol ALT + Tuş RoboForm kısayolunu çalıştırır"
+   },
+   "Options_RoboFormOpensWith_AllPopularItems_Text": {
+      "message": "Tüm popüler ögeler"
+   },
+   "Options_RoboFormOpensWith_AllRecentlyUsedItems_Text": {
+      "message": "Tüm son kullanılan ögeler"
+   },
+   "Options_RoboFormOpensWith_LastSelected_Text": {
+      "message": "Seçili son sıralama"
+   },
+   "Options_RoboFormOpensWith_PinnedItems_Text": {
+      "message": "Pinlenmiş ögeler"
+   },
+   "Options_RoboFormOpensWith_PopularLogins_Text": {
+      "message": "Popüler Girişler"
+   },
+   "Options_RoboFormOpensWith_RecentlyUsedLogins_Text": {
+      "message": "Son kullanılan Girişler"
+   },
+   "Options_RoboFormOpensWith_Tip2": {
+      "message": "RoboForm tarayıcı uzantısı ve Başlangıç Sayfası her açıldığında seçilen sıralama gösterilecektir."
+   },
+   "Options_RoboFormOpensWith_Title2": {
+      "message": "RoboForm tarayıcı uzantısı ve Başlangıç Sayfası şununla açılır:"
+   },
+   "Options_Security_AutoLogoffDisabled_Text": {
+      "message": "*Bu seçenek seçilmiştir ve sadece RoboForm Online web sitende,\nPolitika Düzenleyici sekmesinden değiştirilebilir"
+   },
+   "Options_Security_Title": {
+      "message": "Güvenlik"
+   },
+   "Options_Security_TurnOffBuiltInPwdMgr_Desciption_Text": {
+      "message": "Evet olarak ayarlandığında, Chrome, Edge ve Firefox'taki RoboForm uzantısı, tarayıcı yerleşik şifre yöneticilerinin yeni şifreleri kaydetme teklifini devre dışı bırakır."
+   },
+   "Options_Security_TurnOffBuiltInPwdMgr_Text": {
+      "message": "Tarayıcının entegre şifre yöneticisini kapat"
+   },
+   "Options_SetPasswordButton_Text4": {
+      "message": "Ana Şifreyi Değiştir"
+   },
+   "Options_SetPasswordLink_Text": {
+      "message": "Değiştir"
+   },
+   "Options_Settings_Saved_Notification2": {
+      "message": "Ayar değişiklikleri kaydedildi"
+   },
+   "Options_Settings_Title": {
+      "message": "Ayarlar"
+   },
+   "Options_Shortcut_Alt_Text": {
+      "message": "Alt"
+   },
+   "Options_Shortcut_Ctrl_Text": {
+      "message": "Ctrl"
+   },
+   "Options_Shortcut_Shift_Text": {
+      "message": "Shift"
+   },
+   "Options_ShortcutsList_Text": {
+      "message": "Kısayol Listesi"
+   },
+   "Options_ShortcutsList_Tip": {
+      "message": "Tarayıcıda RoboForm kısayolları listesi. Bunları ayrı ayrı açabilir/kapatabilirsiniz"
+   },
+   "Options_ShowBookmarksAndLoginsTogether_Text": {
+      "message": "Yer İşaretlerini ve Girişleri birlikte göster"
+   },
+   "Options_ShowBookmarksAndLoginsTogether_Tip2": {
+      "message": "Yer İşaretleri, tüm RoboForm ekranlarında Girişler altında listelenir"
+   },
+   "Options_ShowCompromisedPasswordsIndicator": {
+      "message": "Riskli şifre göstergesini göster"
+   },
+   "Options_ShowCompromisedPasswordsIndicator_Tip": {
+      "message": "Riskli şifreler içeren Girişlerin yanında kırmızı ünlem simgesi görünür"
+   },
+   "Options_StoreMPInSystemProtectedStorage_Text2": {
+      "message": "Ana Şifre isteme"
+   },
+   "Options_StoreMPInSystemProtectedStorage_Tip2": {
+      "message": "Ana Şifre girdikten sonra, sistem tarafından korunan saklama alanına depolanır; bu nedenle, onu tekrar girmek zorunda kalmazsınız.\nRoboForm'un Ana Şifreyi tekrar istemesini sağlamak için, Sistem Korumalı Şifre Alanından Ana Şifreyi silecek Çıkış düğmesine tıklayın. RoboForm, zamanaşımı nedeniyle otomatik olarak çıkış yapmaz."
+   },
+   "Options_TimeZone_Title": {
+      "message": "Saat dilimi ayarları"
+   },
+   "Options_UpgradeToFamilyPlan_Button_Text": {
+      "message": "Aile planına yükselt"
+   },
+   "Options_UseNativeMenus_Text": {
+      "message": "RoboForm Masaüstü Menüsünü Etkinleştir"
+   },
+   "Options_UseNativeMenus_Tip": {
+      "message": "RoboForm Masaüstü menüsü tarayıcı eklentisine eklenir"
+   },
+   "Options_WarnAboutFillingSensitiveInfo_Text2": {
+      "message": "Kredi kartı veya banka hesabı bilgilerim doldurulmadan önce beni uyar"
+   },
+   "Options_WarnAboutFillingSensitiveInfo_Tip": {
+      "message": "RoboForm, kimliğinizde saklanan herhangi bir ödeme bilgisi verisi doldurulmadan önce sizden ek bir onay ister"
+   },
+   "Options_WebExt_AutoLogoffAfterIdle_Text": {
+      "message": "Boşta kaldıktan sonra Otomatik Çıkış yap (0-99999 dakika)*"
+   },
+   "Options_WebExt_HighlightFields_Text": {
+      "message": "Doldurulmuş alanları vurgula"
+   },
+   "Options_WebExt_LogoffTakeEffectNextSession": {
+      "message": "*Bir sonraki RoboForm oturumu itibarıyla geçerli olacaktır"
+   },
+   "Options_Yes": {
+      "message": "Evet"
+   },
+   "Page_ListItem_MoreActions_Tip": {
+      "message": "Daha Fazla İşlem"
+   },
+   "PassAud_PwdStrengthGood": {
+      "message": "İyi"
+   },
+   "PassAud_PwdStrengthMedium": {
+      "message": "Orta"
+   },
+   "PassAud_PwdStrengthStrong": {
+      "message": "Güçlü"
+   },
+   "PassAud_PwdStrengthWeak": {
+      "message": "Zayıf"
+   },
+   "PassCards_LoginTip_EditTipText": {
+      "message": "Giriş ipucunu düzenle"
+   },
+   "PassCards_LoginTip_HideMonospaceText": {
+      "message": "Eşit boşluklu yazı tipi kullanmayın"
+   },
+   "PassCards_LoginTip_ShowMonospaceText": {
+      "message": "Eşit boşluklu yazı tipi kullanın"
+   },
+   "PassCards_LoginTip_Title": {
+      "message": "Giriş İpucu"
+   },
+   "PassCards_Note": {
+      "message": "Not"
+   },
+   "PassCards_Password": {
+      "message": "Şifre"
+   },
+   "PassCards_UserId": {
+      "message": "Kullanıcı Kimliği"
+   },
+   "PassGen_BitStrength": {
+      "message": "Bit Gücü = "
+   },
+   "PassGen_CharNumber_Text": {
+      "message": "Karakterlerin sayısı"
+   },
+   "PassGen_CharNumber_Tip": {
+      "message": "Oluşturulan şifrede kullanılacak karakter sayısı"
+   },
+   "PassGen_Copy": {
+      "message": "Kopyala"
+   },
+   "PassGen_Copy_Tip": {
+      "message": "Oluşturulan şifreyi panoya kopyalar"
+   },
+   "PassGen_ExcludeSimilar_Text": {
+      "message": "Benzerleri hariç tut"
+   },
+   "PassGen_ExcludeSimilar_Tip": {
+      "message": "Oluşturulan şifredeki karakterler birbirinin aynı olmasın"
+   },
+   "PassGen_Fill": {
+      "message": "Doldur"
+   },
+   "PassGen_Fill_Tip": {
+      "message": "Oluşturulan şifreyi tarayıcı penceresindeki tüm şifre alanlarına kopyalar"
+   },
+   "PassGen_Generate": {
+      "message": "Yeni Oluştur"
+   },
+   "PassGen_Generate_Tip": {
+      "message": "Yeni şifre oluştur"
+   },
+   "PassGen_Generated_Tip": {
+      "message": "Şifre Oluşturuldu"
+   },
+   "PassGen_Lower_Tip": {
+      "message": "Oluşturulacak şifrede a-z karakterlerini kullan"
+   },
+   "PassGen_Numb_Tip": {
+      "message": "Oluşturulacak şifrede 0-9 karakterlerini kullan"
+   },
+   "PassGen_RestoreDefaults_Text": {
+      "message": "Varsayılana geri dön"
+   },
+   "PassGen_ShowAdvanced": {
+      "message": "Gelişmiş ayarlar"
+   },
+   "PassGen_Title": {
+      "message": "Şifre Oluşturucusu - RoboForm"
+   },
+   "PassGen_Upper_Tip": {
+      "message": "Oluşturulacak şifrede A-Z karakterlerini kullan"
+   },
+   "PassGen_UseHexChars": {
+      "message": "Hex karakterleri 0-9, A-F"
+   },
+   "PassGen_UseHexChars_Tip": {
+      "message": "Sadece Hex karakterleri kullanılır: 0-9, A-F"
+   },
+   "PassGen_UseSpecial_Tip": {
+      "message": "Oluşturulan şifrede özel karakterler olsun"
+   },
+   "PassGen_WrongChars_Errtext": {
+      "message": "Yanlış karakter sayısı (1-512)"
+   },
+   "PassGen_WrongNums_Errtext": {
+      "message": "Yanlış rakam sayısı"
+   },
+   "PassGen_helptext1": {
+      "message": "Yeni şifre oluşturuldu. Doldurmak için Doldur ögesine tıklayın"
+   },
+   "PassGen_helptext2": {
+      "message": "tarayıcıdaki şifre alanı. Kopyalamak için Kopyala ögesine tıklayın"
+   },
+   "PassGen_helptext3": {
+      "message": "Panoya. Yenisini oluşturmak için Oluştur ögesine tıklayın."
+   },
+   "PassType_Blocking_Suffix": {
+      "message": " -Engellendi-"
+   },
+   "PassportExpirationDate_DisplayText": {
+      "message": "skt. %1"
+   },
+   "Passw_Account_Title": {
+      "message": "RoboForm Hesabı için:"
+   },
+   "Passw_ChangeAccount": {
+      "message": "Hesap Değiştir"
+   },
+   "Passw_DontRememberButton_Text": {
+      "message": "Ana Şifreyi hatırlamıyorum"
+   },
+   "Passw_EnterNotifySet_Text2": {
+      "message": "Güvenlik gerekçesiyle her %1 günde bir Ana Şifrenizi girmenizi rica ediyoruz."
+   },
+   "Passw_EnterNotify_Text2": {
+      "message": "Güvenlik gerekçesiyle her %1 günde bir Ana Şifrenizi girmenizi rica ediyoruz."
+   },
+   "Passw_EnterNowButton_Text": {
+      "message": "Şimdi Gir"
+   },
+   "Passw_Generic_Header": {
+      "message": "Şifre Girin"
+   },
+   "Passw_Login": {
+      "message": "Giriş"
+   },
+   "Passw_SubmitButton_Text": {
+      "message": "Gönder"
+   },
+   "Password_Successfully_Changed": {
+      "message": "Şifre Başarıyla Değiştirildi"
+   },
+   "PhishingWarning_FillingIntoDomainNotInLogin": {
+      "message": "Bu sitenin alan adı, Girişin Eşleşen URL'si ile eşleşmiyor.\n\nEşleşen URL: %1\nSite URL: %2\n\nYine de RoboForm'un formu doldurmasını istiyor musunuz?"
+   },
+   "PhishingWarning_FillingIntoFrameDomainNotInLogin": {
+      "message": "Bu çerçevenin alan adı, Girişin Eşleşen URL'si ile eşleşmiyor.\n\nEşleşen URL alan adı: %1\nÇerçeve URL alan adı: %2\n\nYine de RoboForm’un formu doldurmasını istiyor musunuz?"
+   },
+   "PhishingWarning_FrameDomainNotInLogin": {
+      "message": "Oltalama uyarısı: çerçevenin alan adı, Girişin Eşleşen URL'si ile eşleşmiyor.\n\nEşleşen URL: %1\nÇerçeve URL: %2\nAna URL:  %3\n\nYine de RoboForm'un formu doldurmasını istiyor musunuz?"
+   },
+   "Policy_CommandDisabled_Message": {
+      "message": "Komut politika gereğince yasaklandı"
+   },
+   "Policy_DisableNonGroupData_Message": {
+      "message": "Komut politika gereğince yasaklanmıştır. Sadece gruplar içerisinde veriler oluşturabilirsiniz"
+   },
+   "Policy_FileCreationProhibited_Text": {
+      "message": "Hata: %1 oluşturma politika gereğince yasaklanmıştır."
+   },
+   "Policy_FillingIntoDomainNotInLogin": {
+      "message": "Sitenin alan adının, Girişin Eşleşen URL'si ile eşleşmemesi nedeniyle form doldurma iptal edilmiştir.\n\nEşleşen URL: %1\nSite URL: %2"
+   },
+   "Policy_FillingIntoFrameDomainNotInLogin": {
+      "message": "Çerçevenin alan adının, Girişin Eşleşen URL'si ile eşleşmemesi nedeniyle form doldurma iptal edilmiştir.\n\nEşleşen URL alan adı: %1\nÇerçeve URL alan adı: %2"
+   },
+   "Policy_MasterPasswordChangeDisabled": {
+      "message": "Ana Şifre değiştirme ve oluşturma, politika gereğince yasaklandı"
+   },
+   "Policy_ProhibitedFolder_NonGroupData_Message": {
+      "message": "Kaydetme için seçilen klasör, politika gereğince yasaklanmıştır. Sadece gruplar içerisinde veriler oluşturabilirsiniz"
+   },
+   "Popup_ReportAnIssue_Command_Text": {
+      "message": "Bu sayfada bir sorun bildir"
+   },
+   "ProAd_UpgradeNow_Button": {
+      "message": "Şimdi Yükselt"
+   },
+   "RFOError_WrongUserIDOrPassword": {
+      "message": "Geçersiz bir Kullanıcı Adı ve Şifresi girdiniz"
+   },
+   "RFOSetup_CreateNewAccount_Button": {
+      "message": "Yeni Hesap Oluştur"
+   },
+   "RFOSetup_EnterPasswordForAccount": {
+      "message": "RoboForm Hesabı için şifreyi girin:"
+   },
+   "RFOSync_ForceMasterPasswordChange_Text": {
+      "message": "Ana Şifre süresi doldu. Ana Şifrenizi değiştirmelisiniz."
+   },
+   "RFO_CreateAccountCannotSendEmail_Error": {
+      "message": "Hesap oluşturulmamıştır. Vermiş olduğunuz e-posta adresine bir hesap oluşturma doğrulama e-postası gönderemedik.\nLütfen geçerli bir e-posta adresi girin ve tekrar deneyin."
+   },
+   "RFO_OTP_Memorize_Device": {
+      "message": "Bir sonraki Girişinizde Tek Kullanımlık Şifre istenmemesi için bu tarayıcıyı kaydedin."
+   },
+   "RFO_TwoFactorCaption_Text": {
+      "message": "Tek kullanımlık şifre"
+   },
+   "RFO_TwoFactorIsOn_TextShort": {
+      "message": "Hesabınız için Tek Kullanımlık Şifre (OTP) ayarı AÇIK."
+   },
+   "RFO_TwoFactor_ByEmail_Text2": {
+      "message": "OTP, doğrulanmış e-posta adresinize gönderildi."
+   },
+   "RFO_TwoFactor_ByGA_Text3": {
+      "message": "Devam etmek için Authenticator uygulamanızdan aldığınız kodu girin."
+   },
+   "RFO_TwoFactor_BySMS_Text2": {
+      "message": "OTP, doğrulanmış telefon numaranıza SMS yoluyla gönderilmiştir."
+   },
+   "RFO_TwoFactor_EnrollBrowserGA_Text": {
+      "message": "Bir sonraki girişinizde Authenticator Kodu istenmemesi için bu tarayıcıyı kaydedin."
+   },
+   "RFO_TwoFactor_EnrollBrowserGeneric_Text": {
+      "message": "Bir sonraki girişinizde İki Faktörlü Kimlik Doğrulama istenmemesi için bu tarayıcıyı kaydedin."
+   },
+   "RFO_TwoFactor_PromptGeneric_Text": {
+      "message": "Hesabınızda İki Faktörlü Kimlik Doğrulama AÇIK durumdadır. Hesabınıza erişebilmek için ekstra koda ihtiyacınız var."
+   },
+   "RFO_TwoFactor_Send_Button": {
+      "message": "OTP Gönder"
+   },
+   "RFO_TwoFactor_WrongOTP_Text": {
+      "message": "Hatalı Tek Kullanımlık Şifre"
+   },
+   "RI_AOL_Screen_Name": {
+      "message": "AOL Adı"
+   },
+   "RI_Abbr": {
+      "message": "Ab."
+   },
+   "RI_Address": {
+      "message": "Adres"
+   },
+   "RI_Address_Line_1": {
+      "message": "Adres 1. Satır"
+   },
+   "RI_Address_Line_2": {
+      "message": "Adres 2. Satır"
+   },
+   "RI_Age": {
+      "message": "Yaş"
+   },
+   "RI_Alphabet": {
+      "message": "Alfabe"
+   },
+   "RI_Alphabet_Name": {
+      "message": "Alfabe"
+   },
+   "RI_Apartment_Number": {
+      "message": "Apartman No"
+   },
+   "RI_Bank_Account_Number": {
+      "message": "Hesap Numarası"
+   },
+   "RI_Bank_Account_Owner": {
+      "message": "Hesap Sahibi"
+   },
+   "RI_Bank_Account_Type": {
+      "message": "Hesap Türü"
+   },
+   "RI_Bank_Account_Type_Checking": {
+      "message": "Çek"
+   },
+   "RI_Bank_Account_Type_Current": {
+      "message": "Cari"
+   },
+   "RI_Bank_Account_Type_Money_Manager": {
+      "message": "Para Yöneticisi"
+   },
+   "RI_Bank_Account_Type_Savings": {
+      "message": "Tasarruf"
+   },
+   "RI_Bank_Address": {
+      "message": "Banka Adresi"
+   },
+   "RI_Bank_Branch_Name": {
+      "message": "Banka Şubesi"
+   },
+   "RI_Bank_Branch_Type": {
+      "message": "Şube Tipi"
+   },
+   "RI_Bank_Corr_Account": {
+      "message": "Banka Ek Hesabı"
+   },
+   "RI_Bank_Interest_Rate": {
+      "message": "Faiz Oranı"
+   },
+   "RI_Bank_Name": {
+      "message": "Banka Adı"
+   },
+   "RI_Bank_PIN_Code": {
+      "message": "Banka PIN Kodu"
+   },
+   "RI_Bank_Phone": {
+      "message": "Banka Telefonu"
+   },
+   "RI_Bank_Routing_Number": {
+      "message": "Routing Numarası"
+   },
+   "RI_Bank_Swift_Code": {
+      "message": "SWIFT"
+   },
+   "RI_Bank_Type": {
+      "message": "Banka Türü"
+   },
+   "RI_Birth_Date": {
+      "message": "Doğum Tarihi"
+   },
+   "RI_Birth_Day": {
+      "message": "Gün"
+   },
+   "RI_Birth_Month": {
+      "message": "Ay"
+   },
+   "RI_Birth_Place": {
+      "message": "Doğum Yeri"
+   },
+   "RI_Birth_Year": {
+      "message": "Yıl"
+   },
+   "RI_Bundesland": {
+      "message": "Bundesland"
+   },
+   "RI_Canton": {
+      "message": "Kanton"
+   },
+   "RI_Car_Make": {
+      "message": "Marka"
+   },
+   "RI_Car_Model": {
+      "message": "Model"
+   },
+   "RI_Car_Plate": {
+      "message": "Plaka"
+   },
+   "RI_Car_Plate_Number": {
+      "message": "Plaka No"
+   },
+   "RI_Car_Year": {
+      "message": "Yıl"
+   },
+   "RI_Card_Credit_Limit": {
+      "message": "Kredi Limiti"
+   },
+   "RI_Card_Customer_Service_Phone": {
+      "message": "Banka Telefonu "
+   },
+   "RI_Card_Expires": {
+      "message": "SKT"
+   },
+   "RI_Card_Interest_Rate": {
+      "message": "Faiz Oranı"
+   },
+   "RI_Card_Issuing_Bank": {
+      "message": "Dağıtıcı Banka"
+   },
+   "RI_Card_Number": {
+      "message": "Kart Numarası"
+   },
+   "RI_Card_PIN_Number": {
+      "message": "PIN Kodu"
+   },
+   "RI_Card_Password": {
+      "message": "Kart Şifresi"
+   },
+   "RI_Card_Type": {
+      "message": "Kart Tipi"
+   },
+   "RI_Card_User_Name": {
+      "message": "Kart Sahibi"
+   },
+   "RI_Card_Validation_Code": {
+      "message": "Onay Kodu"
+   },
+   "RI_Cell_Phone": {
+      "message": "Cep Tel"
+   },
+   "RI_City": {
+      "message": "Şehir"
+   },
+   "RI_Code_OKPO": {
+      "message": "OKPO"
+   },
+   "RI_Code_OKVED": {
+      "message": "OKVED"
+   },
+   "RI_Colony": {
+      "message": "Koloni"
+   },
+   "RI_Company": {
+      "message": "Şirket Adı"
+   },
+   "RI_Company_Department": {
+      "message": "Bölüm"
+   },
+   "RI_Company_Registration_Number": {
+      "message": "Şirket Sicil Numarası"
+   },
+   "RI_Company_Registration_Place": {
+      "message": "Bağlı Olduğu Sicil Dairesi"
+   },
+   "RI_Company_Tax_ID": {
+      "message": "Şirket Vergi No"
+   },
+   "RI_Company_VAT_Number": {
+      "message": "KDV No"
+   },
+   "RI_Contact": {
+      "message": "İletişim"
+   },
+   "RI_Country": {
+      "message": "Ülke"
+   },
+   "RI_CountryAlt_United_States": {
+      "message": "Amerika Birleşik Devletleri;ABD"
+   },
+   "RI_CountryCode": {
+      "message": "Ülke Kodu"
+   },
+   "RI_Country_Afghanistan": {
+      "message": "Afghanistan"
+   },
+   "RI_Country_Andorra": {
+      "message": "Andora"
+   },
+   "RI_Country_Argentina": {
+      "message": "Arjantin"
+   },
+   "RI_Country_Armenia": {
+      "message": "Ermenistan"
+   },
+   "RI_Country_Australia": {
+      "message": "Avustralya"
+   },
+   "RI_Country_Austria": {
+      "message": "Avusturya"
+   },
+   "RI_Country_Belarus": {
+      "message": "Beyaz Rusya"
+   },
+   "RI_Country_Belgium": {
+      "message": "Belçika"
+   },
+   "RI_Country_Bolivia": {
+      "message": "Bolivya"
+   },
+   "RI_Country_Bosnia_And_Herzegovina": {
+      "message": "Bosna-Hersek"
+   },
+   "RI_Country_Brazil": {
+      "message": "Brezilya"
+   },
+   "RI_Country_Bulgaria": {
+      "message": "Bulgaristan"
+   },
+   "RI_Country_Canada": {
+      "message": "Kanada"
+   },
+   "RI_Country_Chile": {
+      "message": "Şili"
+   },
+   "RI_Country_China": {
+      "message": "Çin"
+   },
+   "RI_Country_Colombia": {
+      "message": "Kolombiya"
+   },
+   "RI_Country_Costa_Rica": {
+      "message": "Kosta Rika"
+   },
+   "RI_Country_Croatia": {
+      "message": "Hırvatistan"
+   },
+   "RI_Country_Cyprus": {
+      "message": "Kıbrıs Rum Kesimi"
+   },
+   "RI_Country_Czech_Republic": {
+      "message": "Çek Cumhuriyeti"
+   },
+   "RI_Country_Denmark": {
+      "message": "Danimarka"
+   },
+   "RI_Country_Egypt": {
+      "message": "Mısır"
+   },
+   "RI_Country_Estonia": {
+      "message": "Estonya"
+   },
+   "RI_Country_Finland": {
+      "message": "Finlandiya"
+   },
+   "RI_Country_France": {
+      "message": "Fransa"
+   },
+   "RI_Country_Gabon": {
+      "message": "Gabon"
+   },
+   "RI_Country_Germany": {
+      "message": "Almanya"
+   },
+   "RI_Country_Gibraltar": {
+      "message": "Cebelitarık"
+   },
+   "RI_Country_Greece": {
+      "message": "Yunanistan"
+   },
+   "RI_Country_Greenland": {
+      "message": "Grönland"
+   },
+   "RI_Country_Haiti": {
+      "message": "Haiti"
+   },
+   "RI_Country_Hong_Kong": {
+      "message": "Hong Kong"
+   },
+   "RI_Country_Hungary": {
+      "message": "Fas"
+   },
+   "RI_Country_Iceland": {
+      "message": "İzlanda"
+   },
+   "RI_Country_India": {
+      "message": "Hindistan"
+   },
+   "RI_Country_Indonesia": {
+      "message": "Endonezya"
+   },
+   "RI_Country_Iran": {
+      "message": "İran"
+   },
+   "RI_Country_Iraq": {
+      "message": "Irak"
+   },
+   "RI_Country_Ireland": {
+      "message": "İrlanda"
+   },
+   "RI_Country_Israel": {
+      "message": "İsrail"
+   },
+   "RI_Country_Italy": {
+      "message": "İtalya"
+   },
+   "RI_Country_Jamaica": {
+      "message": "Jamaika"
+   },
+   "RI_Country_Japan": {
+      "message": "Japonya"
+   },
+   "RI_Country_Kazakhstan": {
+      "message": "Kazakistan"
+   },
+   "RI_Country_Korea": {
+      "message": "Kore"
+   },
+   "RI_Country_Latvia": {
+      "message": "Letonya"
+   },
+   "RI_Country_Liechtenstein": {
+      "message": "Liechtenstein"
+   },
+   "RI_Country_Lithuania": {
+      "message": "Litvanya"
+   },
+   "RI_Country_Luxembourg": {
+      "message": "Lüksemburg"
+   },
+   "RI_Country_Macedonia": {
+      "message": "Makedonya"
+   },
+   "RI_Country_Malaysia": {
+      "message": "Malezya"
+   },
+   "RI_Country_Malta": {
+      "message": "Malta"
+   },
+   "RI_Country_Mexico": {
+      "message": "Meksika"
+   },
+   "RI_Country_Moldova": {
+      "message": "Moldova"
+   },
+   "RI_Country_Monaco": {
+      "message": "Monako"
+   },
+   "RI_Country_Montenegro": {
+      "message": "Karadağ"
+   },
+   "RI_Country_Morocco": {
+      "message": "Fas"
+   },
+   "RI_Country_Namibia": {
+      "message": "Namibya"
+   },
+   "RI_Country_Netherlands": {
+      "message": "Hollanda"
+   },
+   "RI_Country_New_Zealand": {
+      "message": "Yeni Zelanda"
+   },
+   "RI_Country_Nigeria": {
+      "message": "Nijerya"
+   },
+   "RI_Country_Norway": {
+      "message": "Norveç"
+   },
+   "RI_Country_Other": {
+      "message": "Diğer"
+   },
+   "RI_Country_Pakistan": {
+      "message": "Pakistan"
+   },
+   "RI_Country_Panama": {
+      "message": "Panama"
+   },
+   "RI_Country_Paraguay": {
+      "message": "Paraguay"
+   },
+   "RI_Country_Peru": {
+      "message": "Peru"
+   },
+   "RI_Country_Philippines": {
+      "message": "Filipinler"
+   },
+   "RI_Country_Poland": {
+      "message": "Polonya"
+   },
+   "RI_Country_Portugal": {
+      "message": "Portekiz"
+   },
+   "RI_Country_Qatar": {
+      "message": "Katar"
+   },
+   "RI_Country_Romania": {
+      "message": "Romanya"
+   },
+   "RI_Country_Russia": {
+      "message": "Rusya"
+   },
+   "RI_Country_San_Marino": {
+      "message": "San Marino"
+   },
+   "RI_Country_Saudi_Arabia": {
+      "message": "Suudi Arabistan"
+   },
+   "RI_Country_Serbia": {
+      "message": "Sırbistan"
+   },
+   "RI_Country_Singapore": {
+      "message": "Singapur"
+   },
+   "RI_Country_Slovakia": {
+      "message": "Slovenya"
+   },
+   "RI_Country_Slovenia": {
+      "message": "Slovenya"
+   },
+   "RI_Country_South_Africa": {
+      "message": "Güney Afrika"
+   },
+   "RI_Country_Spain": {
+      "message": "İspanya"
+   },
+   "RI_Country_Sweden": {
+      "message": "İsveç"
+   },
+   "RI_Country_Switzerland": {
+      "message": "İsviçre"
+   },
+   "RI_Country_Taiwan": {
+      "message": "Tayvan"
+   },
+   "RI_Country_Thailand": {
+      "message": "Tayland"
+   },
+   "RI_Country_Turkey": {
+      "message": "Türkiye"
+   },
+   "RI_Country_Ukraine": {
+      "message": "Ukrayna"
+   },
+   "RI_Country_United_Kingdom": {
+      "message": "İngiltere"
+   },
+   "RI_Country_United_States": {
+      "message": "ABD"
+   },
+   "RI_Country_Venezuela": {
+      "message": "Venezuela"
+   },
+   "RI_Country_Vietnam": {
+      "message": "Vietnam"
+   },
+   "RI_County": {
+      "message": "İlçe/Bölge"
+   },
+   "RI_Department": {
+      "message": "Bölüm"
+   },
+   "RI_Dispatching_Agency": {
+      "message": "Sevk Dairesi"
+   },
+   "RI_District": {
+      "message": "İlçe"
+   },
+   "RI_Driver_License": {
+      "message": "Sürücü Belgesi"
+   },
+   "RI_Driver_License_Number": {
+      "message": "Sürücü Belgesi"
+   },
+   "RI_Email": {
+      "message": "E-Posta"
+   },
+   "RI_Employer_Identitification_Number": {
+      "message": "Çalışan Kimliği"
+   },
+   "RI_Expires": {
+      "message": "SKT"
+   },
+   "RI_Fax_Phone": {
+      "message": "Faks"
+   },
+   "RI_First": {
+      "message": "Ön Ad"
+   },
+   "RI_Fiscal_Code": {
+      "message": "Mali Kod"
+   },
+   "RI_General_Register": {
+      "message": "GK"
+   },
+   "RI_Group_Bank_Account": {
+      "message": "Banka Hesabı"
+   },
+   "RI_Group_Business": {
+      "message": "İş"
+   },
+   "RI_Group_Car": {
+      "message": "Araba"
+   },
+   "RI_Group_Credit_Card": {
+      "message": "Kredi Kartı"
+   },
+   "RI_Group_Custom": {
+      "message": "Özel"
+   },
+   "RI_Group_Default_Password": {
+      "message": "Varsayılan Şifre"
+   },
+   "RI_Group_Location": {
+      "message": "Adres"
+   },
+   "RI_Group_Passport": {
+      "message": "Pasaport"
+   },
+   "RI_Group_Person": {
+      "message": "Kişi"
+   },
+   "RI_Group_Service": {
+      "message": "Hizmet"
+   },
+   "RI_Group_Service2": {
+      "message": "Ortak"
+   },
+   "RI_Group_Summary": {
+      "message": "Özet"
+   },
+   "RI_Home_Phone": {
+      "message": "Ev Tel"
+   },
+   "RI_HouseNumber": {
+      "message": "Bina No"
+   },
+   "RI_HouseNumber_StreetName": {
+      "message": "Bina No Sokak Adı"
+   },
+   "RI_HouseNumber_or_Name": {
+      "message": "Bina No ya da Adı"
+   },
+   "RI_ICQ_Number": {
+      "message": "ICQ Adı"
+   },
+   "RI_ID_Card_Number": {
+      "message": "Kimlik Kartı No"
+   },
+   "RI_ID_Card_Type": {
+      "message": "Kimlik Kartı Tipi"
+   },
+   "RI_Income": {
+      "message": "Gelir"
+   },
+   "RI_Inset": {
+      "message": "Ek"
+   },
+   "RI_Int_Bank_Account_Number": {
+      "message": "IBAN"
+   },
+   "RI_International_Card_Customer_Service_Phone": {
+      "message": "Genel Servis Numarası"
+   },
+   "RI_Job": {
+      "message": "Meslek"
+   },
+   "RI_Last": {
+      "message": "Soyadı"
+   },
+   "RI_Last2": {
+      "message": "2. Soyadı"
+   },
+   "RI_Legal_Business_Name": {
+      "message": "Resmi Şirket Adı"
+   },
+   "RI_MSN_ID": {
+      "message": "MSN Adı"
+   },
+   "RI_Middle": {
+      "message": "Göbek Adı"
+   },
+   "RI_Mobile_Email": {
+      "message": "Mobil E-Posta"
+   },
+   "RI_Municipality": {
+      "message": "Belediye"
+   },
+   "RI_Name": {
+      "message": "Adı"
+   },
+   "RI_Name_Suffix_Jr": {
+      "message": "Jr."
+   },
+   "RI_Name_Suffix_Sr": {
+      "message": "Sr."
+   },
+   "RI_NationalPrefix": {
+      "message": "Alan Kodu"
+   },
+   "RI_National_Health_Service_Number": {
+      "message": "NHS Numarası"
+   },
+   "RI_National_Insurance_Number": {
+      "message": "NI Numarası"
+   },
+   "RI_Number": {
+      "message": "Numara"
+   },
+   "RI_Pager_Phone": {
+      "message": "Çağrı Tel"
+   },
+   "RI_Passport": {
+      "message": "Pasaport"
+   },
+   "RI_Passport_Expiration_Date": {
+      "message": "Pasaport Geçerlilik Tarihi"
+   },
+   "RI_Passport_Issue_Date": {
+      "message": "Pasaport Düzenleme Tarihi"
+   },
+   "RI_Passport_Issue_Place": {
+      "message": "Pasaport Veren Makam"
+   },
+   "RI_Passport_Number": {
+      "message": "Pasaport Numarası"
+   },
+   "RI_Passport_Series": {
+      "message": "Pasaport Seri"
+   },
+   "RI_Passport_Type": {
+      "message": "Pasaport Tipi"
+   },
+   "RI_Passport_Type_International": {
+      "message": "Uluslararası"
+   },
+   "RI_Passport_Type_National": {
+      "message": "Ulusal"
+   },
+   "RI_Password": {
+      "message": "Şifre"
+   },
+   "RI_Password_Answer": {
+      "message": "Şifre Hatırlatma Cevabı"
+   },
+   "RI_Password_Question": {
+      "message": "Şifre Hatırlatma Sorusu"
+   },
+   "RI_Pension_Insurance_Number": {
+      "message": "Emekli Sandığı Numarası"
+   },
+   "RI_Person_Cadastre": {
+      "message": "Tapu Kadastro"
+   },
+   "RI_Personal_ID": {
+      "message": "Kişisel Kimlik"
+   },
+   "RI_Phone": {
+      "message": "Telefon"
+   },
+   "RI_Position": {
+      "message": "Meslek"
+   },
+   "RI_PostCode": {
+      "message": "Posta Kodu"
+   },
+   "RI_PostCode_City": {
+      "message": "Şehir Posta Kodu"
+   },
+   "RI_Prefecture": {
+      "message": "Bina"
+   },
+   "RI_Province": {
+      "message": "İl"
+   },
+   "RI_Region": {
+      "message": "Bölge"
+   },
+   "RI_Roman_Name": {
+      "message": "Roma"
+   },
+   "RI_Series": {
+      "message": "Seri"
+   },
+   "RI_Sex": {
+      "message": "Cinsiyet"
+   },
+   "RI_Sex_Female": {
+      "message": "Kadın"
+   },
+   "RI_Sex_Male": {
+      "message": "Erkek"
+   },
+   "RI_Skype_ID": {
+      "message": "Skype Adı"
+   },
+   "RI_Social_Security_Number": {
+      "message": "Sigorta Numarası"
+   },
+   "RI_State": {
+      "message": "Eyalet"
+   },
+   "RI_State_Or_Province": {
+      "message": "Eyalet veya İl"
+   },
+   "RI_State_Or_Province_AA": {
+      "message": "AA"
+   },
+   "RI_State_Or_Province_AE": {
+      "message": "AE"
+   },
+   "RI_State_Or_Province_AP": {
+      "message": "AP"
+   },
+   "RI_State_Or_Province_Adygeya_republic": {
+      "message": "Adygeya Cumhuriyeti"
+   },
+   "RI_State_Or_Province_Agin_Buryat_avt_okrug": {
+      "message": "Agin Buryat avt okrug"
+   },
+   "RI_State_Or_Province_Aichi": {
+      "message": "Aichi"
+   },
+   "RI_State_Or_Province_Akita": {
+      "message": "Akita"
+   },
+   "RI_State_Or_Province_Alabama": {
+      "message": "AL"
+   },
+   "RI_State_Or_Province_Alaska": {
+      "message": "AK"
+   },
+   "RI_State_Or_Province_Alberta": {
+      "message": "Alberta"
+   },
+   "RI_State_Or_Province_Altai_republic": {
+      "message": "Altai Cumhuriyeti"
+   },
+   "RI_State_Or_Province_Altaiskiy_krai": {
+      "message": "Altaiskiy krai"
+   },
+   "RI_State_Or_Province_American_Samoa": {
+      "message": "AS"
+   },
+   "RI_State_Or_Province_Amur_oblast": {
+      "message": "Amur oblastı"
+   },
+   "RI_State_Or_Province_Anhui": {
+      "message": "Anhui"
+   },
+   "RI_State_Or_Province_Antwerpen": {
+      "message": "Antwerpen"
+   },
+   "RI_State_Or_Province_Aomen": {
+      "message": "Aomen"
+   },
+   "RI_State_Or_Province_Aomori": {
+      "message": "Aomori"
+   },
+   "RI_State_Or_Province_Appenzell_Inner_Rhodes": {
+      "message": "Appenzell Inner-Rhodes"
+   },
+   "RI_State_Or_Province_Appenzell_Outer_Rhodes": {
+      "message": "Appenzell Outer Rhodes"
+   },
+   "RI_State_Or_Province_Argovia": {
+      "message": "Argovia"
+   },
+   "RI_State_Or_Province_Arizona": {
+      "message": "AZ"
+   },
+   "RI_State_Or_Province_Arkansas": {
+      "message": "AR"
+   },
+   "RI_State_Or_Province_Arkhangelsk_oblast": {
+      "message": "Arkhangelsk oblastı"
+   },
+   "RI_State_Or_Province_Astrakhan_oblast": {
+      "message": "Astrakhan oblastı"
+   },
+   "RI_State_Or_Province_Australian_Capital_Terr": {
+      "message": "ACT"
+   },
+   "RI_State_Or_Province_Bashkir_republic": {
+      "message": "Bashkir Cumhuriyeti"
+   },
+   "RI_State_Or_Province_Basle_Country": {
+      "message": "Basle-Country"
+   },
+   "RI_State_Or_Province_Basle_Town": {
+      "message": "Basle-Town"
+   },
+   "RI_State_Or_Province_Beijing": {
+      "message": "Pekin"
+   },
+   "RI_State_Or_Province_Belgorod_oblast": {
+      "message": "Belgorod oblastı"
+   },
+   "RI_State_Or_Province_Berne": {
+      "message": "Berne"
+   },
+   "RI_State_Or_Province_Brabant_Wallon": {
+      "message": "Brabant Wallon"
+   },
+   "RI_State_Or_Province_British_Columbia": {
+      "message": "British Columbia"
+   },
+   "RI_State_Or_Province_Brussels_Region": {
+      "message": "Brussels Region"
+   },
+   "RI_State_Or_Province_Bryansk_oblast": {
+      "message": "Bryansk oblastı"
+   },
+   "RI_State_Or_Province_Buruyat_republic": {
+      "message": "Buruyat Cumhuriyeti"
+   },
+   "RI_State_Or_Province_California": {
+      "message": "CA"
+   },
+   "RI_State_Or_Province_Chechen_republic": {
+      "message": "Chechen Cumhuriyeti"
+   },
+   "RI_State_Or_Province_Chelyabinsk_oblast": {
+      "message": "Chelyabinsk oblastı"
+   },
+   "RI_State_Or_Province_Chiba": {
+      "message": "Chiba"
+   },
+   "RI_State_Or_Province_Chita_oblast": {
+      "message": "Chita oblastı"
+   },
+   "RI_State_Or_Province_Chongqing": {
+      "message": "Chongqing"
+   },
+   "RI_State_Or_Province_Chukotka_avt_okrug": {
+      "message": "Chukotka avt okrug"
+   },
+   "RI_State_Or_Province_Chuvash_republic": {
+      "message": "Chuvash Cumhuriyeti"
+   },
+   "RI_State_Or_Province_Colorado": {
+      "message": "CO"
+   },
+   "RI_State_Or_Province_Connecticut": {
+      "message": "CT"
+   },
+   "RI_State_Or_Province_Dagestan_republic": {
+      "message": "Dagestan Cumhuriyeti"
+   },
+   "RI_State_Or_Province_Delaware": {
+      "message": "DE"
+   },
+   "RI_State_Or_Province_District_of_Columbia": {
+      "message": "DC"
+   },
+   "RI_State_Or_Province_Dolnoslaskie": {
+      "message": "Dolnoslaskie"
+   },
+   "RI_State_Or_Province_Ehime": {
+      "message": "Ehime"
+   },
+   "RI_State_Or_Province_Evenk_avt_okrug": {
+      "message": "Evenk avt okrug"
+   },
+   "RI_State_Or_Province_Evreyskaya_avt_oblast": {
+      "message": "Evreyskaya avt oblastı"
+   },
+   "RI_State_Or_Province_Florida": {
+      "message": "FL"
+   },
+   "RI_State_Or_Province_Fribourg": {
+      "message": "Fribourg"
+   },
+   "RI_State_Or_Province_Fujian": {
+      "message": "Fujian"
+   },
+   "RI_State_Or_Province_Fukui": {
+      "message": "Fukui"
+   },
+   "RI_State_Or_Province_Fukuoka": {
+      "message": "Fukuoka"
+   },
+   "RI_State_Or_Province_Fukushima": {
+      "message": "Fukushima"
+   },
+   "RI_State_Or_Province_Gansu": {
+      "message": "Gansu"
+   },
+   "RI_State_Or_Province_Geneva": {
+      "message": "Geneva"
+   },
+   "RI_State_Or_Province_Georgia": {
+      "message": "GA"
+   },
+   "RI_State_Or_Province_Gifu": {
+      "message": "Gifu"
+   },
+   "RI_State_Or_Province_Glarus": {
+      "message": "Glarus"
+   },
+   "RI_State_Or_Province_Grisons": {
+      "message": "Grisons"
+   },
+   "RI_State_Or_Province_Guam": {
+      "message": "GU"
+   },
+   "RI_State_Or_Province_Guangdong": {
+      "message": "Guangdong"
+   },
+   "RI_State_Or_Province_Guangxi": {
+      "message": "Guangxi"
+   },
+   "RI_State_Or_Province_Guizhou": {
+      "message": "Guizhou"
+   },
+   "RI_State_Or_Province_Gunma": {
+      "message": "Gunma"
+   },
+   "RI_State_Or_Province_Hainan": {
+      "message": "Hainan"
+   },
+   "RI_State_Or_Province_Hainaut": {
+      "message": "Hainaut"
+   },
+   "RI_State_Or_Province_Hanty_Mansy_avt_okrug": {
+      "message": "Hanty-Mansy avt okrug"
+   },
+   "RI_State_Or_Province_Hawaii": {
+      "message": "HI"
+   },
+   "RI_State_Or_Province_Hebei": {
+      "message": "Hebei"
+   },
+   "RI_State_Or_Province_Heilongjiang": {
+      "message": "Heilongjiang"
+   },
+   "RI_State_Or_Province_Henan": {
+      "message": "Henan"
+   },
+   "RI_State_Or_Province_Hiroshima": {
+      "message": "Hiroshima"
+   },
+   "RI_State_Or_Province_Hokkaido": {
+      "message": "Hokkaido"
+   },
+   "RI_State_Or_Province_Hubei": {
+      "message": "Hubei"
+   },
+   "RI_State_Or_Province_Hunan": {
+      "message": "Hunan"
+   },
+   "RI_State_Or_Province_Hyougo": {
+      "message": "Hyougo"
+   },
+   "RI_State_Or_Province_Ibaraki": {
+      "message": "Ibaraki"
+   },
+   "RI_State_Or_Province_Idaho": {
+      "message": "ID"
+   },
+   "RI_State_Or_Province_Illinois": {
+      "message": "IL"
+   },
+   "RI_State_Or_Province_Indiana": {
+      "message": "IN"
+   },
+   "RI_State_Or_Province_Ingush_republic": {
+      "message": "Ingush Cumhuriyeti"
+   },
+   "RI_State_Or_Province_Iowa": {
+      "message": "IA"
+   },
+   "RI_State_Or_Province_Irkutsk_oblast": {
+      "message": "Irkutsk oblastı"
+   },
+   "RI_State_Or_Province_Ishikawa": {
+      "message": "Ishikawa"
+   },
+   "RI_State_Or_Province_Ivanovskaya_oblast": {
+      "message": "Ivanovskaya oblastı"
+   },
+   "RI_State_Or_Province_Iwate": {
+      "message": "Iwate"
+   },
+   "RI_State_Or_Province_Jiangsu": {
+      "message": "Jiangsu"
+   },
+   "RI_State_Or_Province_Jiangxi": {
+      "message": "Jiangxi"
+   },
+   "RI_State_Or_Province_Jilin": {
+      "message": "Jilin"
+   },
+   "RI_State_Or_Province_Jura": {
+      "message": "Jura"
+   },
+   "RI_State_Or_Province_Kabardino_Balkar_republic": {
+      "message": "Kabardino-Balkar Cumhuriyeti"
+   },
+   "RI_State_Or_Province_Kagawa": {
+      "message": "Kagawa"
+   },
+   "RI_State_Or_Province_Kagoshima": {
+      "message": "Kagoshima"
+   },
+   "RI_State_Or_Province_Kalinigrad_oblast": {
+      "message": "Kalinigrad oblastı"
+   },
+   "RI_State_Or_Province_Kalmykiya_republic": {
+      "message": "Kalmykiya Cumhuriyeti"
+   },
+   "RI_State_Or_Province_Kaluga_oblast": {
+      "message": "Kaluga oblastı"
+   },
+   "RI_State_Or_Province_Kamchatka_oblast": {
+      "message": "Kamçatka oblastı"
+   },
+   "RI_State_Or_Province_Kanagawa": {
+      "message": "Kanagawa"
+   },
+   "RI_State_Or_Province_Kansas": {
+      "message": "KS"
+   },
+   "RI_State_Or_Province_Karachaevo_Cherkessia_republic": {
+      "message": "Karachaevo-Cherkessia Cumhuriyeti"
+   },
+   "RI_State_Or_Province_Karelia_republic": {
+      "message": "Karelia Cumhuriyeti"
+   },
+   "RI_State_Or_Province_Kemerovo_oblast": {
+      "message": "Kemerovo oblastı"
+   },
+   "RI_State_Or_Province_Kentucky": {
+      "message": "KY"
+   },
+   "RI_State_Or_Province_Khabarovsk_krai": {
+      "message": "Khabarovsk krai"
+   },
+   "RI_State_Or_Province_Khakassia_republic": {
+      "message": "Khakassia Cumhuriyeti"
+   },
+   "RI_State_Or_Province_Kirov_oblast": {
+      "message": "Kirov oblastı"
+   },
+   "RI_State_Or_Province_Komi_Permyak_avt_okrug": {
+      "message": "Komi-Permyak avt okrugu"
+   },
+   "RI_State_Or_Province_Komi_republic": {
+      "message": "Komi Cumhuriyeti"
+   },
+   "RI_State_Or_Province_Koryak_avt_okrug": {
+      "message": "Koryak avt okrugu"
+   },
+   "RI_State_Or_Province_Kostroma_oblast": {
+      "message": "Kostroma oblastı"
+   },
+   "RI_State_Or_Province_Kouchi": {
+      "message": "Kouchi"
+   },
+   "RI_State_Or_Province_Krasnodar_krai": {
+      "message": "Krasnodar krai"
+   },
+   "RI_State_Or_Province_Krasnoyarsk_krai": {
+      "message": "Krasnoyarsk krai"
+   },
+   "RI_State_Or_Province_Kujawsko_Pomorskie": {
+      "message": "Kujawsko-Pomorskie"
+   },
+   "RI_State_Or_Province_Kumamoto": {
+      "message": "Kumamoto"
+   },
+   "RI_State_Or_Province_Kurgan_oblast": {
+      "message": "Kurgan oblastı"
+   },
+   "RI_State_Or_Province_Kursk_oblast": {
+      "message": "Kursk oblastı"
+   },
+   "RI_State_Or_Province_Kyoto": {
+      "message": "Kyoto"
+   },
+   "RI_State_Or_Province_Leningrad_oblast": {
+      "message": "Leningrad oblastı"
+   },
+   "RI_State_Or_Province_Liaoning": {
+      "message": "Liaoning"
+   },
+   "RI_State_Or_Province_Liege": {
+      "message": "Liege"
+   },
+   "RI_State_Or_Province_Limburg": {
+      "message": "Limburg"
+   },
+   "RI_State_Or_Province_Lipetsk_oblast": {
+      "message": "Lipetsk oblastı"
+   },
+   "RI_State_Or_Province_Lodzkie": {
+      "message": "Lodzkie"
+   },
+   "RI_State_Or_Province_Louisiana": {
+      "message": "LA"
+   },
+   "RI_State_Or_Province_Lubelskie": {
+      "message": "Lubelskie"
+   },
+   "RI_State_Or_Province_Lubuskie": {
+      "message": "Lubuskie"
+   },
+   "RI_State_Or_Province_Lucerne": {
+      "message": "Lucerne"
+   },
+   "RI_State_Or_Province_Luxembourg": {
+      "message": "Luxembourg"
+   },
+   "RI_State_Or_Province_Magadan_oblast": {
+      "message": "Magadan oblastı"
+   },
+   "RI_State_Or_Province_Maine": {
+      "message": "ME"
+   },
+   "RI_State_Or_Province_Malopolskie": {
+      "message": "Malopolskie"
+   },
+   "RI_State_Or_Province_Manitoba": {
+      "message": "Manitoba"
+   },
+   "RI_State_Or_Province_Marii_El_republic": {
+      "message": "Marii El Cumhuriyeti"
+   },
+   "RI_State_Or_Province_Maryland": {
+      "message": "MD"
+   },
+   "RI_State_Or_Province_Massachusetts": {
+      "message": "MA"
+   },
+   "RI_State_Or_Province_Mazowieckie": {
+      "message": "Mazowieckie"
+   },
+   "RI_State_Or_Province_Michigan": {
+      "message": "MI"
+   },
+   "RI_State_Or_Province_Mie": {
+      "message": "Mie"
+   },
+   "RI_State_Or_Province_Minnesota": {
+      "message": "MN"
+   },
+   "RI_State_Or_Province_Mississippi": {
+      "message": "MS"
+   },
+   "RI_State_Or_Province_Missouri": {
+      "message": "MO"
+   },
+   "RI_State_Or_Province_Miyagi": {
+      "message": "Miyagi"
+   },
+   "RI_State_Or_Province_Miyazaki": {
+      "message": "Miyazaki"
+   },
+   "RI_State_Or_Province_Montana": {
+      "message": "MT"
+   },
+   "RI_State_Or_Province_Mordovia_republic": {
+      "message": "Mordovya Cumhuriyeti"
+   },
+   "RI_State_Or_Province_Moscow_city": {
+      "message": "Moskova şehri"
+   },
+   "RI_State_Or_Province_Moscow_oblast": {
+      "message": "Moskova oblastı"
+   },
+   "RI_State_Or_Province_Murmansk_oblast": {
+      "message": "Murmansk oblastı"
+   },
+   "RI_State_Or_Province_Nagano": {
+      "message": "Nagano"
+   },
+   "RI_State_Or_Province_Nagasaki": {
+      "message": "Nagasaki"
+   },
+   "RI_State_Or_Province_Namur": {
+      "message": "Namur"
+   },
+   "RI_State_Or_Province_Nara": {
+      "message": "Nara"
+   },
+   "RI_State_Or_Province_Nebraska": {
+      "message": "NE"
+   },
+   "RI_State_Or_Province_Nei_Mongol": {
+      "message": "Nei Mongol"
+   },
+   "RI_State_Or_Province_Nenetsk_avt_okrug": {
+      "message": "Nenetsk avt okrug"
+   },
+   "RI_State_Or_Province_Neuchatel": {
+      "message": "Neuchatel"
+   },
+   "RI_State_Or_Province_Nevada": {
+      "message": "NV"
+   },
+   "RI_State_Or_Province_New_Brunswick": {
+      "message": "New Brunswick"
+   },
+   "RI_State_Or_Province_New_Hampshire": {
+      "message": "NH"
+   },
+   "RI_State_Or_Province_New_Jersey": {
+      "message": "NJ"
+   },
+   "RI_State_Or_Province_New_Mexico": {
+      "message": "NM"
+   },
+   "RI_State_Or_Province_New_South_Wales": {
+      "message": "NSW"
+   },
+   "RI_State_Or_Province_New_York": {
+      "message": "NY"
+   },
+   "RI_State_Or_Province_Newfoundland": {
+      "message": "Newfoundland"
+   },
+   "RI_State_Or_Province_Nidwalden": {
+      "message": "Nidwalden"
+   },
+   "RI_State_Or_Province_Niigata": {
+      "message": "Niigata"
+   },
+   "RI_State_Or_Province_Ningxia": {
+      "message": "Ningxia"
+   },
+   "RI_State_Or_Province_Nizhegorodskaya_oblast": {
+      "message": "Nizhegorodskaya oblastı"
+   },
+   "RI_State_Or_Province_North_Carolina": {
+      "message": "NC"
+   },
+   "RI_State_Or_Province_North_Dakota": {
+      "message": "ND"
+   },
+   "RI_State_Or_Province_Northern_Mariana_Is": {
+      "message": "MP"
+   },
+   "RI_State_Or_Province_Northern_Territory": {
+      "message": "NT"
+   },
+   "RI_State_Or_Province_Northwest_Territories": {
+      "message": "Kuzey Batı Bölgesi"
+   },
+   "RI_State_Or_Province_Nova_Scotia": {
+      "message": "Nova Scotia"
+   },
+   "RI_State_Or_Province_Novgorod_oblast": {
+      "message": "Novgorod oblastı"
+   },
+   "RI_State_Or_Province_Novosibirsk_oblast": {
+      "message": "Novosibirsk oblastı"
+   },
+   "RI_State_Or_Province_Nunavut": {
+      "message": "Nunavut"
+   },
+   "RI_State_Or_Province_Obwalden": {
+      "message": "Obwalden"
+   },
+   "RI_State_Or_Province_Ohio": {
+      "message": "OH"
+   },
+   "RI_State_Or_Province_Okayama": {
+      "message": "Okayama"
+   },
+   "RI_State_Or_Province_Okinawa": {
+      "message": "Okinawa"
+   },
+   "RI_State_Or_Province_Oklahoma": {
+      "message": "OK"
+   },
+   "RI_State_Or_Province_Omsk_oblast": {
+      "message": "Omsk oblastı"
+   },
+   "RI_State_Or_Province_Ontario": {
+      "message": "Ontario"
+   },
+   "RI_State_Or_Province_Ooita": {
+      "message": "Ooita"
+   },
+   "RI_State_Or_Province_Oost_Vlaanderen": {
+      "message": "Oost Vlaanderen"
+   },
+   "RI_State_Or_Province_Opolskie": {
+      "message": "Opolskie"
+   },
+   "RI_State_Or_Province_Oregon": {
+      "message": "OR"
+   },
+   "RI_State_Or_Province_Orel_oblast": {
+      "message": "Orel oblastı"
+   },
+   "RI_State_Or_Province_Orenburg_oblast": {
+      "message": "Orenburg oblastı"
+   },
+   "RI_State_Or_Province_Osaka": {
+      "message": "Osaka"
+   },
+   "RI_State_Or_Province_Palau": {
+      "message": "PW"
+   },
+   "RI_State_Or_Province_Pennsylvania": {
+      "message": "PA"
+   },
+   "RI_State_Or_Province_Penza_oblast": {
+      "message": "Penza oblastı"
+   },
+   "RI_State_Or_Province_Perm_oblast": {
+      "message": "Perm oblastı"
+   },
+   "RI_State_Or_Province_Podkarpackie": {
+      "message": "Podkarpackie"
+   },
+   "RI_State_Or_Province_Podlaskie": {
+      "message": "Podlaskie"
+   },
+   "RI_State_Or_Province_Pomorskie": {
+      "message": "Pomorskie"
+   },
+   "RI_State_Or_Province_Primorskii_krai": {
+      "message": "Primorskii krai"
+   },
+   "RI_State_Or_Province_Prince_Edward_Island": {
+      "message": "Prens Edward Adası"
+   },
+   "RI_State_Or_Province_Pskov_oblast": {
+      "message": "Pskov oblastı"
+   },
+   "RI_State_Or_Province_Puerto_Rico": {
+      "message": "PR"
+   },
+   "RI_State_Or_Province_Qinghai": {
+      "message": "Qinghai"
+   },
+   "RI_State_Or_Province_Quebec": {
+      "message": "Quebec"
+   },
+   "RI_State_Or_Province_Queensland": {
+      "message": "QLD"
+   },
+   "RI_State_Or_Province_Rhode_Island": {
+      "message": "RI"
+   },
+   "RI_State_Or_Province_Rostov_oblast": {
+      "message": "Rostov oblastı"
+   },
+   "RI_State_Or_Province_Ryazan_oblast": {
+      "message": "Ryazan oblastı"
+   },
+   "RI_State_Or_Province_Saga": {
+      "message": "Saga"
+   },
+   "RI_State_Or_Province_Saha_republic": {
+      "message": "Saha (Yakutia)"
+   },
+   "RI_State_Or_Province_Saint_Gall": {
+      "message": "St. Gall"
+   },
+   "RI_State_Or_Province_Saitama": {
+      "message": "Saitama"
+   },
+   "RI_State_Or_Province_Sakhalin_oblast": {
+      "message": "Sahalin oblastı"
+   },
+   "RI_State_Or_Province_Samara_oblast": {
+      "message": "Samara oblastı"
+   },
+   "RI_State_Or_Province_Saratov_oblast": {
+      "message": "Saratov oblastı"
+   },
+   "RI_State_Or_Province_Saskatchewan": {
+      "message": "Saskatchewan"
+   },
+   "RI_State_Or_Province_Schaffhausen": {
+      "message": "Schaffhausen"
+   },
+   "RI_State_Or_Province_Schwyz": {
+      "message": "Schwyz"
+   },
+   "RI_State_Or_Province_Severnaya_Ossetia_Alaniya_republic": {
+      "message": "Severnaya Ossetia-Alaniya Cumhuriyeti"
+   },
+   "RI_State_Or_Province_Shaanxi": {
+      "message": "Shaanxi"
+   },
+   "RI_State_Or_Province_Shandong": {
+      "message": "Shandong"
+   },
+   "RI_State_Or_Province_Shanghai": {
+      "message": "Shanghai"
+   },
+   "RI_State_Or_Province_Shanxi": {
+      "message": "Shanxi"
+   },
+   "RI_State_Or_Province_Shiga": {
+      "message": "Shiga"
+   },
+   "RI_State_Or_Province_Shimane": {
+      "message": "Shimane"
+   },
+   "RI_State_Or_Province_Shizuoka": {
+      "message": "Shizuoka"
+   },
+   "RI_State_Or_Province_Sichuan": {
+      "message": "Sichuan"
+   },
+   "RI_State_Or_Province_Slaskie": {
+      "message": "Slaskie"
+   },
+   "RI_State_Or_Province_Smolensk_oblast": {
+      "message": "Smolensk oblastı"
+   },
+   "RI_State_Or_Province_Solothurn": {
+      "message": "Solothurn"
+   },
+   "RI_State_Or_Province_South_Australia": {
+      "message": "SA"
+   },
+   "RI_State_Or_Province_South_Carolina": {
+      "message": "SC"
+   },
+   "RI_State_Or_Province_South_Dakota": {
+      "message": "SD"
+   },
+   "RI_State_Or_Province_St_Petersburg_city": {
+      "message": "St Petersburg şehri"
+   },
+   "RI_State_Or_Province_Stavropol_krai": {
+      "message": "Stavropol krai"
+   },
+   "RI_State_Or_Province_Sverdlovsk_oblast": {
+      "message": "Sverdlovsk oblastı"
+   },
+   "RI_State_Or_Province_Swietokrzyskie": {
+      "message": "Swietokrzyskie"
+   },
+   "RI_State_Or_Province_Taimyr_act_okrug": {
+      "message": "Taimyr act okrug"
+   },
+   "RI_State_Or_Province_Taiwan": {
+      "message": "Tayvan"
+   },
+   "RI_State_Or_Province_Tambov_oblast": {
+      "message": "Tambov oblastı"
+   },
+   "RI_State_Or_Province_Tasmania": {
+      "message": "TAS"
+   },
+   "RI_State_Or_Province_Tatarstan_republic": {
+      "message": "Tatarstan Cumhuriyeti"
+   },
+   "RI_State_Or_Province_Tennessee": {
+      "message": "TN"
+   },
+   "RI_State_Or_Province_Texas": {
+      "message": "TX"
+   },
+   "RI_State_Or_Province_Thurgovia": {
+      "message": "Thurgovia"
+   },
+   "RI_State_Or_Province_Tianjin": {
+      "message": "Tianjin"
+   },
+   "RI_State_Or_Province_Ticino": {
+      "message": "Ticino"
+   },
+   "RI_State_Or_Province_Tochigi": {
+      "message": "Tochigi"
+   },
+   "RI_State_Or_Province_Tokushima": {
+      "message": "Tokushima"
+   },
+   "RI_State_Or_Province_Tokyo": {
+      "message": "Tokyo"
+   },
+   "RI_State_Or_Province_Tomsk_oblast": {
+      "message": "Tomsk oblastı"
+   },
+   "RI_State_Or_Province_Tottori": {
+      "message": "Tottori"
+   },
+   "RI_State_Or_Province_Toyama": {
+      "message": "Toyama"
+   },
+   "RI_State_Or_Province_Tula_oblast": {
+      "message": "Tula oblastı"
+   },
+   "RI_State_Or_Province_Tver_oblast": {
+      "message": "Tver oblastı"
+   },
+   "RI_State_Or_Province_Tyumen_oblast": {
+      "message": "Tyumen oblastı"
+   },
+   "RI_State_Or_Province_Tywa_republic": {
+      "message": "Tywa Cumhuriyeti"
+   },
+   "RI_State_Or_Province_Udmurtia_republic": {
+      "message": "Udmurtia Cumhuriyeti"
+   },
+   "RI_State_Or_Province_Ulianovsk_oblast": {
+      "message": "Ulianovsk oblastı"
+   },
+   "RI_State_Or_Province_Uri": {
+      "message": "Uri"
+   },
+   "RI_State_Or_Province_Ust_Ordynsk_Buryat_avt_okrug": {
+      "message": "Ust'-Ordynsk Buryat avt okrug"
+   },
+   "RI_State_Or_Province_Utah": {
+      "message": "UT"
+   },
+   "RI_State_Or_Province_Valais": {
+      "message": "Valais"
+   },
+   "RI_State_Or_Province_Vaud": {
+      "message": "Vaud"
+   },
+   "RI_State_Or_Province_Vermont": {
+      "message": "VT"
+   },
+   "RI_State_Or_Province_Victoria": {
+      "message": "VIC"
+   },
+   "RI_State_Or_Province_Virgin_Island": {
+      "message": "VI"
+   },
+   "RI_State_Or_Province_Virginia": {
+      "message": "VA"
+   },
+   "RI_State_Or_Province_Vlaams_Brabant": {
+      "message": "Vlaams Brabant"
+   },
+   "RI_State_Or_Province_Vladimir_oblast": {
+      "message": "Vladimir oblastı"
+   },
+   "RI_State_Or_Province_Volgograd_oblast": {
+      "message": "Volgograd oblastı"
+   },
+   "RI_State_Or_Province_Vologod_oblast": {
+      "message": "Vologod oblastı"
+   },
+   "RI_State_Or_Province_Voronezh_oblast": {
+      "message": "Voronezh oblastı"
+   },
+   "RI_State_Or_Province_Wakayama": {
+      "message": "Wakayama"
+   },
+   "RI_State_Or_Province_Warminsko_Mazurskie": {
+      "message": "Warminsko-Mazurskie"
+   },
+   "RI_State_Or_Province_Washington": {
+      "message": "WA"
+   },
+   "RI_State_Or_Province_West_Virginia": {
+      "message": "WV"
+   },
+   "RI_State_Or_Province_West_Vlaanderen": {
+      "message": "Batı Vlaanderen"
+   },
+   "RI_State_Or_Province_Western_Australia": {
+      "message": "WA"
+   },
+   "RI_State_Or_Province_Wielkopolskie": {
+      "message": "Wielkopolskie"
+   },
+   "RI_State_Or_Province_Wisconsin": {
+      "message": "WI"
+   },
+   "RI_State_Or_Province_Wyoming": {
+      "message": "WY"
+   },
+   "RI_State_Or_Province_Xianggang": {
+      "message": "Xianggang"
+   },
+   "RI_State_Or_Province_Xinjiang": {
+      "message": "Xinjiang"
+   },
+   "RI_State_Or_Province_Xizang": {
+      "message": "Xizang"
+   },
+   "RI_State_Or_Province_Yamagata": {
+      "message": "Yamagata"
+   },
+   "RI_State_Or_Province_Yamaguchi": {
+      "message": "Yamaguchi"
+   },
+   "RI_State_Or_Province_Yamalo_Nenetsk_avt_okrug": {
+      "message": "Yamalo-Nenetsk avt okrug"
+   },
+   "RI_State_Or_Province_Yamanashi": {
+      "message": "Yamanashi"
+   },
+   "RI_State_Or_Province_Yaroslav_oblast": {
+      "message": "Yaroslav oblastı"
+   },
+   "RI_State_Or_Province_Yukon": {
+      "message": "Yukon"
+   },
+   "RI_State_Or_Province_Yunnan": {
+      "message": "Yunnan"
+   },
+   "RI_State_Or_Province_Zachodniopomorskie": {
+      "message": "Zachodniopomorskie"
+   },
+   "RI_State_Or_Province_Zhejiang": {
+      "message": "Zhejiang"
+   },
+   "RI_State_Or_Province_Zug": {
+      "message": "Zug"
+   },
+   "RI_State_Or_Province_Zurich": {
+      "message": "Zurich"
+   },
+   "RI_State_Zip": {
+      "message": "Eyalet PK"
+   },
+   "RI_Station": {
+      "message": "İstasyon"
+   },
+   "RI_Stock_Symbol": {
+      "message": "Menkul Değer Sembolü"
+   },
+   "RI_StreetName": {
+      "message": "Sokak Adı"
+   },
+   "RI_StreetNameC_HouseNumber": {
+      "message": "Sokak Adı, Bina No"
+   },
+   "RI_StreetName_HouseNumber": {
+      "message": "Sokak Adı Bina No"
+   },
+   "RI_Suburb": {
+      "message": "Banliyö"
+   },
+   "RI_Subway_Station": {
+      "message": "Metro İstasyonu"
+   },
+   "RI_Suffix": {
+      "message": "Sonek"
+   },
+   "RI_Summary___id_account__": {
+      "message": "hsp"
+   },
+   "RI_Summary___id_appname__": {
+      "message": "uyg adı"
+   },
+   "RI_Summary___id_bank__": {
+      "message": "banka"
+   },
+   "RI_Summary___id_carmakemodel__": {
+      "message": "marka, model"
+   },
+   "RI_Summary___id_cell__": {
+      "message": "cep:\t"
+   },
+   "RI_Summary___id_cvv__": {
+      "message": "cvv"
+   },
+   "RI_Summary___id_expiration__": {
+      "message": "skt"
+   },
+   "RI_Summary___id_fax__": {
+      "message": "faks:\t"
+   },
+   "RI_Summary___id_filename__": {
+      "message": "dosya adı"
+   },
+   "RI_Summary___id_home__": {
+      "message": "ev:\t"
+   },
+   "RI_Summary___id_mail__": {
+      "message": "posta"
+   },
+   "RI_Summary___id_passportnumber__": {
+      "message": "pasaport no"
+   },
+   "RI_Summary___id_password__": {
+      "message": "şifre"
+   },
+   "RI_Summary___id_phone__": {
+      "message": "telefon:\t"
+   },
+   "RI_Summary___id_platenumber__": {
+      "message": "plaka no"
+   },
+   "RI_Summary___id_ssn__": {
+      "message": "SGK No"
+   },
+   "RI_Summary___id_userid__": {
+      "message": "kul.adı"
+   },
+   "RI_Summary___id_work__": {
+      "message": "iş:\t"
+   },
+   "RI_Tax_ID": {
+      "message": "Vergi D. Kimliği"
+   },
+   "RI_Title": {
+      "message": "Ünvan"
+   },
+   "RI_Title_Dr": {
+      "message": "Dr"
+   },
+   "RI_Title_Engr": {
+      "message": "Müh"
+   },
+   "RI_Title_Mr": {
+      "message": "Bay"
+   },
+   "RI_Title_Mrs": {
+      "message": "Byn"
+   },
+   "RI_Title_Ms": {
+      "message": "Byn"
+   },
+   "RI_Title_Prof": {
+      "message": "Prof"
+   },
+   "RI_Toll_Free_Phone": {
+      "message": "Ücretsiz Telefon"
+   },
+   "RI_Type_Of_Business": {
+      "message": "Meslek Tipi"
+   },
+   "RI_User_ID": {
+      "message": "Kullanıcı adı"
+   },
+   "RI_Valid_From": {
+      "message": "Geçerlilik"
+   },
+   "RI_Vehicle_Identification_Number": {
+      "message": "Şasi No"
+   },
+   "RI_Web_Site": {
+      "message": "Web Sitesi"
+   },
+   "RI_Work_Phone": {
+      "message": "İş Tel"
+   },
+   "RI_Work_Phone_Ext": {
+      "message": "Dahili no."
+   },
+   "RI_Yahoo_ID": {
+      "message": "Yahoo Adı"
+   },
+   "RI_ZipCode": {
+      "message": "Posta Kodu"
+   },
+   "RI_Zip_Or_PostCode": {
+      "message": "Posta Kodu"
+   },
+   "RI_dd": {
+      "message": "gg"
+   },
+   "RI_mm": {
+      "message": "aa"
+   },
+   "RI_yyyy": {
+      "message": "yyyy"
+   },
+   "ReadOnly_Error": {
+      "message": "Veriler salt okunur"
+   },
+   "RenameDlg_InstanceRename_Prompt": {
+      "message": "%3 '%4' den %1 '%2' yi yeniden adlandır:"
+   },
+   "RenameDlg_Instance_Type_Text": {
+      "message": "Örnek"
+   },
+   "ReportAnIssue_RFSSTicket_Message": {
+      "message": "Sayın RoboForm Destek Ekibi, \nBu web sayfasında: %1 \nRoboForm ile ilgili şu sorunları keşfettim: \n%2"
+   },
+   "ReportAnIssue_RFSSTicket_Subject": {
+      "message": "%1 üzerinde RoboForm sorunu"
+   },
+   "RfSyncProgress_Analyzed": {
+      "message": "Analiz Edildi"
+   },
+   "RfSyncProgress_Connecting": {
+      "message": "Bağlanıyor..."
+   },
+   "RfSyncProgress_Done": {
+      "message": "Bitti"
+   },
+   "RfSyncProgress_RequestingAccountInfo": {
+      "message": "Bilgiler talep ediliyor..."
+   },
+   "RfSyncProgress_Synced": {
+      "message": "Senkronize Edildi"
+   },
+   "RfSyncProgress_Syncing": {
+      "message": "Senkronize ediliyor..."
+   },
+   "RfSyncProgress_SyncingSharedFiles": {
+      "message": "Paylaşılan dosyalar senkronize ediliyor..."
+   },
+   "RfSyncProgress_SyncingSharedFolders": {
+      "message": "Paylaşılan klasörler senkronize ediliyor..."
+   },
+   "RfSyncProgress_SyncingUsageInfo": {
+      "message": "Kullanım bilgisi senkronize ediliyor..."
+   },
+   "RoboForm_Error": {
+      "message": "RoboForm Hatası"
+   },
+   "RoboForm_Question": {
+      "message": "RoboForm Sorusu"
+   },
+   "RoboForm_Warning": {
+      "message": "RoboForm Uyarısı"
+   },
+   "RoboformType_Bookmark": {
+      "message": "Yer İşareti"
+   },
+   "RoboformType_Bookmarks": {
+      "message": "Yer İşaretleri"
+   },
+   "RoboformType_Contact": {
+      "message": "Kişi"
+   },
+   "RoboformType_Contacts": {
+      "message": "Kişiler"
+   },
+   "RoboformType_File": {
+      "message": "Dosya"
+   },
+   "RoboformType_Files": {
+      "message": "Dosyalar"
+   },
+   "RoboformType_Folder": {
+      "message": "Klasör"
+   },
+   "RoboformType_Folders": {
+      "message": "Klasörler"
+   },
+   "RoboformType_Identities": {
+      "message": "Kimlikler"
+   },
+   "RoboformType_Identity": {
+      "message": "Kimlik"
+   },
+   "RoboformType_Login": {
+      "message": "Giriş"
+   },
+   "RoboformType_Logins": {
+      "message": "Girişler"
+   },
+   "RoboformType_Safenote": {
+      "message": "Güvenli Not"
+   },
+   "RoboformType_Safenotes": {
+      "message": "Güvenli Notlar"
+   },
+   "RoboformType_Searchcard": {
+      "message": "Arama kartı"
+   },
+   "RoboformType_Searchcards": {
+      "message": "Arama kartları"
+   },
+   "Roboform_Folder": {
+      "message": "Klasör"
+   },
+   "SA_ChangeAccountPwd_Error": {
+      "message": "Hata Kodu %1"
+   },
+   "SA_Edge_Setup_Description_First": {
+      "message": "Edge için RoboForm bağımsız eklentisini kurdunuz. Tüm özelliklere sahip sürümü için Windows için RoboForm'u kurun."
+   },
+   "SA_LimitedMode_LinkRF_Text": {
+      "message": "RoboForm'u Kur"
+   },
+   "SA_LimitedMode_Text": {
+      "message": "Sınırlı işlevler. Tüm özellikler için "
+   },
+   "SA_Setup_Description_First": {
+      "message": "RoboForm eklentisini kurdunuz. Bu eklenti sadece sınırlı işlevler sunmaktadır. İşlevlerin tümünü kullanabilmek için abonelik yükseltmeli veya bilgisayarınıza tam sürüm RoboForm uygulamasını kurmalısınız."
+   },
+   "SA_Setup_Description_Repair": {
+      "message": "Bilgisayarınızda daha önce RoboForm yazılımı ile RoboForm eklentisi kullanmıştınız, ama RoboForm yazılımı artık eskidi veya kurulu değil. RoboForm sürümünü bilgisayarınızda onarmak veya güncellemek için aşağıdaki \"Şimdi kur\" butonuna tıklayın."
+   },
+   "SA_Setup_InstallNow_Button": {
+      "message": "Şimdi kur"
+   },
+   "SA_Setup_Skip_Button": {
+      "message": "Geç"
+   },
+   "Safenote_ClickToView_Tip": {
+      "message": "Güvenli Notu görüntülemek için tıkla"
+   },
+   "SaveDlg_ActionNote_Existing_Bookmark": {
+      "message": "Bu Yer İşareti, mevcut bir Yer İşaretinin yerini alacaktır: '%1'"
+   },
+   "SaveDlg_ActionNote_Existing_Login": {
+      "message": "Bu Giriş bilgileri, şu mevcut Giriş'in yerini alacaktır: '%1'"
+   },
+   "SaveDlg_ActionNote_NewAccountLogin": {
+      "message": "Yeni Hesap bilgileri yeni Giriş '%1' 'e kaydedilecektir"
+   },
+   "SaveDlg_ActionNote_UpdateLoginPassword": {
+      "message": "Yeni şifre mevcut Giriş'te eski şifrenin yerini alacaktır: '%1', diğer alanlar değişmez"
+   },
+   "SaveDlg_ActionNote_UpdateLoginUrl_Text": {
+      "message": "'%1' Girişinde bulunan Url güncellenecektir"
+   },
+   "SaveDlg_ActionNote_UpdateLogin_Text": {
+      "message": "'%1' Girişi yeni bilgilerle güncellenecektir"
+   },
+   "SaveDlg_AskBeforeSaving_Text": {
+      "message": "Kaydetmeden önce sor"
+   },
+   "SaveDlg_AutoSavedPassword_LoginTip": {
+      "message": "Şifre değiştirme formundan Oto.Kaydedildi"
+   },
+   "SaveDlg_Folder_Text": {
+      "message": "Klasör:"
+   },
+   "SaveDlg_NeverForThisSite_Text": {
+      "message": "Bu site için asla"
+   },
+   "SaveDlg_NewFolder_Text": {
+      "message": "Klasör Oluştur..."
+   },
+   "SaveDlg_Note_AccountCreationData_Text": {
+      "message": "Hesap Oluşturma Verileri:"
+   },
+   "SaveDlg_Note_PasswordChanged_Text2": {
+      "message": "%1: Şifre değiştirildi '%2'"
+   },
+   "SaveDlg_PostSave_Notification_Text": {
+      "message": "kimlik bilgileriniz kaydedildi."
+   },
+   "SaveDlg_PostSave_Notification_Title": {
+      "message": "Başarılı"
+   },
+   "SaveDlg_Preview_Group_Title": {
+      "message": "Önizleme"
+   },
+   "SaveDlg_ReplaceExistingItem_Section_Text": {
+      "message": "Mevcut ögeyi değiştir:"
+   },
+   "SaveDlg_ReplaceExistingLogin_Section_Text": {
+      "message": "Mevcut Girişi değiştir:"
+   },
+   "SaveDlg_SaveAs_Bookmark_Text": {
+      "message": "Yer İşareti"
+   },
+   "SaveDlg_SaveAs_Login_Text": {
+      "message": "Giriş"
+   },
+   "SaveDlg_SaveNewLogin_Section_Text": {
+      "message": "Yeni Girişi kaydet:"
+   },
+   "SaveDlg_Unblock_Key": {
+      "message": "Engeli Kaldır"
+   },
+   "SaveDlg_UpdateExistingLogin_Section_Text": {
+      "message": "Mevcut Girişi güncelle:"
+   },
+   "SaveDlg_UpdateLoginQuestion_Text": {
+      "message": "RoboForm'un Girişinizi güncellemesini istiyor musunuz?"
+   },
+   "SaveDlg_UpdatePasswordQuestion_Text": {
+      "message": "Yeni şifre tespit edildi.\n'%1' Girişi yeni şifre ile güncellensin mi?"
+   },
+   "SaveForms_Disabled": {
+      "message": "FormlarıKaydet, güvenlik politikası tarafından devre dışı bırakıldı"
+   },
+   "SearchAction_Search_In": {
+      "message": "%1 ’içinde '%%sorgu%%' ara"
+   },
+   "SearchAction_Search_In_RoboForm_Files": {
+      "message": "RoboForm Dosyalarında '%%sorgu%%' ara"
+   },
+   "SearchAction_Search_In_RoboForm_Names": {
+      "message": "RoboForm İsimlerinde '%%sorgu%%' ara"
+   },
+   "SendFilesConfirmation_Title": {
+      "message": "Bir RoboForm kullanıcısı size bazı RoboForm verileri gönderdi.\nLütfen dosya/dosyaları aşağıda kabul edin veya reddedin:"
+   },
+   "SensitiveFields_Text_2": {
+      "message": "RoboForm hassas Alanlar buldu. Lütfen, bu Alanların doldurulmasına izin verdiğinizi onaylayın:"
+   },
+   "SensitiveFields_Title2": {
+      "message": "Hassas Alanlar Bulundu - RoboForm"
+   },
+   "SessionExpireDlg_Text": {
+      "message": "Oturumunuz zaman aşımına uğradı. Lütfen tekrar oturum açın."
+   },
+   "SetupPage_AlreadyHaveAnAccount_Question": {
+      "message": "Zaten bir hesabınız var mı?"
+   },
+   "SetupPage_AlreadyHaveAnAccount_Text": {
+      "message": "Zaten bir RoboForm hesabınız var mı?"
+   },
+   "SetupPage_CreateAccount_Button_Text": {
+      "message": "RoboForm Hesabınızı Oluşturun"
+   },
+   "SetupPage_CreateAccount_Link_Text": {
+      "message": "Hesap Oluştur"
+   },
+   "SetupPage_DoNotHaveAnAccount_Text": {
+      "message": "Bir hesabınız yok mu?"
+   },
+   "Setup_CreateAccountWithTakenEmail_Error2": {
+      "message": "Bu e-postayı kullanan bir hesap zaten mevcut.\nLütfen başka bir e-posta girin."
+   },
+   "Setup_LoginWithExistingAccount_Prompt": {
+      "message": "* RoboForm eklentisi çerez kullanımını gerektiriyor. 'Çerezler' ayarlarınızın 'Çerezlere izin ver' olarak seçilmiş olduğundan emin olun"
+   },
+   "ShareExistingFolder_TooLongName_Error": {
+      "message": "'%1' klasörünün adı çok uzun. Paylaşılan klasörler ve gruplar için maksimum izin verilen ad uzunluğu %2 semboldür."
+   },
+   "SharedFileSettings_CompanyMembersOnlySending_Error": {
+      "message": "Dosya gönderme politika gereği sınırlandırılmıştır. Sadece şirketinizin üyelerine dosyalar gönderebilirsiniz."
+   },
+   "SharedFileSettings_CompanyMembersOnlySharing_Error": {
+      "message": "Dosya paylaşımı politika gereği sınırlandırılmıştır. Sadece şirketinizin üyeleri ile dosyalar paylaşabilirsiniz."
+   },
+   "SharedFilesConfirmation_Title": {
+      "message": "Bir RoboForm kullanıcısı sizinle bazı RoboForm verilerini paylaşmak istiyor.\nLütfen dosya/dosyaları aşağıda kabul edin veya reddedin:"
+   },
+   "SharedFolderSettings_CompanyMembersOnlySharing_Error": {
+      "message": "Klasör paylaşımı politika gereği sınırlandırılmıştır. Sadece şirketinizin üyeleri ile klasörler paylaşabilirsiniz."
+   },
+   "SharedFolderSettings_Folder": {
+      "message": "Paylaşılan Klasör"
+   },
+   "SharedFolderSettings_Group": {
+      "message": "Grup"
+   },
+   "SharedFolderSettings_RejectSharedFolder": {
+      "message": "Reddet"
+   },
+   "SharedFolderSettings_RoleOwner": {
+      "message": "Sahibi"
+   },
+   "SharedFolder_Revoke_Confirmation": {
+      "message": "'%1' paylaşılan klasörünü '%2' kullanıcısından kaldırmak istediğinize emin misiniz?"
+   },
+   "SharedFoldersConfirmation_Title": {
+      "message": "Bir RoboForm kullanıcısı sizinle bazı RoboForm verilerini paylaşmak istiyor.\nLütfen klasör/klasörleri aşağıda kabul edin veya reddedin:"
+   },
+   "ShowAutoFillUI_Text": {
+      "message": "Yerinde Oto.Doldur arayüzünü göster"
+   },
+   "ShowContextMenuCommands_Text2": {
+      "message": "RoboForm komutlarını tarayıcı bağlam menüsünde göster"
+   },
+   "ShowContextMenuCommands_Tip": {
+      "message": "RoboForm komutları, Windows bağlam menülerinde görüntülenir"
+   },
+   "ShowLowerToolbarForPopups_Text": {
+      "message": "Açılır pencere için alt RoboForm araç çubuğunu göster."
+   },
+   "ShowLowerToolbarForPopups_Tip": {
+      "message": "RoboForm araç çubuğu, tarayıcı açılır pencerelerinin alt kısmına otomatik olarak eklenir"
+   },
+   "ShowLowerToolbar_Text2": {
+      "message": "Web tarayıcılarda alt RoboForm araç çubuğunu göster"
+   },
+   "ShowLowerToolbar_Tip": {
+      "message": "Tam işlevli RoboForm araç çubuğu, RoboForm eklentisinin yüklü olduğu tüm web tarayıcılarının alt kısmına eklenir."
+   },
+   "StopSharingFolder_DataInFolder_Error": {
+      "message": "Verileriniz \"%1\" klasörüne kaydedilmiştir.\nHata: %2."
+   },
+   "StopSharingFolder_DataInFolder_RemoveShared_Error": {
+      "message": "Verileriniz \"%1\" klasörüne kaydedilmiştir.\nPaylaşılan klasörü(grubu) silmeli veya reddetmelisiniz.\nHata: %2."
+   },
+   "StopSharingFolder_NotFolderOwner_Error": {
+      "message": "Sadece paylaşılan klasör sahibi klasör paylaşmayı durdurabilir."
+   },
+   "UseDesktopEditorForViewAndEdit_Text": {
+      "message": "Görüntüleme ve Düzenleme için Masaüstü Editörü kullan"
+   },
+   "UseDesktopEditorForViewAndEdit_Tip": {
+      "message": "RoboForm eklentisinden başlatılan komutları görüntüleyin ve düzenleyin, Başlangıç Sayfası menüleri Masasütü Editöründe açılacaktır"
+   },
+   "WelcomePage_Page_Title": {
+      "message": "Hoş Geldiniz"
+   },
+   "WrongNameLenght_Error": {
+      "message": "İsim 1-%1 sembol uzunlukta olmalıdır"
+   },
+   "Yes": {
+      "message": "Evet"
+   }
+}

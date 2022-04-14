@@ -1,0 +1,28 @@
+{
+  "1582025844": {
+    "autoInstallDxvk": true,
+    "autoInstallVkd3d": true,
+    "enableFSR": false,
+    "enableFsync": false,
+    "maxSharpness": 3,
+    "nvidiaPrime": false,
+    "otherOptions": "",
+    "savesPath": "",
+    "showFps": true,
+    "showMangohud": true,
+    "targetExe": "",
+    "useGameMode": true,
+    "wineCrossoverBottle": "Heroic",
+    "winePrefix": "/home/tommi/Games/Heroic/Prefixes/Thea-2-The-Shattering",
+    "wineVersion": {
+      "bin": "'/home/tommi/.local/share/lutris/runners/wine/lutris-fshack-7.2-x86_64/bin/wine'",
+      "name": "Wine - lutris-fshack-7.2-x86_64",
+      "type": "wine",
+      "wineserver": "'/home/tommi/.local/share/lutris/runners/wine/lutris-fshack-7.2-x86_64/bin/wineserver'",
+      "wineboot": "'/home/tommi/.local/share/lutris/runners/wine/lutris-fshack-7.2-x86_64/bin/wineboot'"
+    },
+    "useSteamRuntime": false
+  },
+  "version": "v0",
+  "explicit": true
+}
