@@ -1,0 +1,63 @@
+2022-05-21T09:32:42.526Z - info: [ui] createOwnerKey: Updating 1 owners with keys
+2022-05-21T09:32:55.988Z - info: [ui] [AppStore] loading 2 repositories from store
+2022-05-21T09:32:55.989Z - info: [ui] [AppStore] found account: hamburgerghini1 (hamburgerghini1)
+2022-05-21T09:32:56.115Z - info: [ui] launching: 3.0.0-linux1 (Linux 5.17.8-300.fc36.x86_64)
+2022-05-21T09:32:56.116Z - info: [ui] execPath: '/usr/lib/github-desktop/github-desktop'
+2022-05-21T09:32:56.431Z - info: [ui] Stats reported.
+2022-05-21T09:32:56.471Z - info: [ui] Subscribed 'hamburgerghini1' to Alive channel
+2022-05-21T09:33:06.257Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 0.0s of which 0.0s paused, total 0.0s
+2022-05-21T09:33:09.858Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/hamburgerghini1/mykdeconfig.git - hamburgerghini1 (has token)
+2022-05-21T09:51:33.417Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 0.0s of which 0.0s paused, total 0.0s
+2022-05-21T10:00:38.937Z - info: [ui] Executing clone: git -c credential.helper= -c protocol.version=2 -c init.defaultBranch=main clone --recursive --progress -- https://github.com/hamburgerghini1/mykdeconfig.git /home/tommi/Asiakirjat/GitHub/mykdeconfig (took 1649.060s)
+2022-05-21T10:00:38.979Z - info: [ui] [BranchPruner] Last prune took place 28 minutes ago - skipping
+2022-05-21T10:00:39.265Z - info: [ui] [BranchPruner] Last prune took place 28 minutes ago - skipping
+2022-05-21T10:00:39.963Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.010s)
+2022-05-21T10:00:40.019Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.052s)
+2022-05-21T10:00:40.277Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.023s)
+2022-05-21T10:06:20.124Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.080s)
+2022-05-21T10:26:37.349Z - info: [ui] [AppStore] loading 2 repositories from store
+2022-05-21T10:26:37.351Z - info: [ui] [AppStore] found account: hamburgerghini1 (hamburgerghini1)
+2022-05-21T10:26:37.386Z - info: [ui] [BranchPruner] Last prune took place 1 hour ago - skipping
+2022-05-21T10:26:37.463Z - info: [ui] launching: 3.0.0-linux1 (Linux 5.17.8-300.fc36.x86_64)
+2022-05-21T10:26:37.463Z - info: [ui] execPath: '/usr/lib/github-desktop/github-desktop'
+2022-05-21T10:26:37.837Z - info: [ui] Subscribed 'hamburgerghini1' to Alive channel
+2022-05-21T10:26:38.387Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.028s)
+2022-05-21T10:26:38.517Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.030s)
+2022-05-21T10:26:39.877Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: mykdeconfig - hamburgerghini1 (has token)
+2022-05-21T10:26:45.414Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 5.519s)
+2022-05-21T10:26:45.910Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.040s)
+2022-05-21T10:26:46.644Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.046s)
+2022-05-21T10:26:47.543Z - info: [ui] [BranchPruner] Last prune took place 1 hour ago - skipping
+2022-05-21T10:26:48.448Z - error: [ui] Highlighter worked failed for old contents
+Error: timed out
+    at /home/tommi/webpack:/[name]/app/src/lib/highlighter/worker.ts:85:14
+2022-05-21T10:26:48.449Z - error: [ui] Highlighter worked failed for new contents
+Error: timed out
+    at /home/tommi/webpack:/[name]/app/src/lib/highlighter/worker.ts:85:14
+2022-05-21T10:26:54.162Z - info: [ui] Executing getChangedFilesNameStatus: git log d19769c279dbbf136fd674b31f75738f0f7e1ae1 -C -M -m -1 --no-show-signature --first-parent --format=format: -z --name-status -- (took 1.103s)
+2022-05-21T10:26:56.668Z - error: [ui] Highlighter worked failed for old contents
+Error: timed out
+    at /home/tommi/webpack:/[name]/app/src/lib/highlighter/worker.ts:85:14
+2022-05-21T10:26:56.668Z - error: [ui] Highlighter worked failed for new contents
+Error: timed out
+    at /home/tommi/webpack:/[name]/app/src/lib/highlighter/worker.ts:85:14
+2022-05-21T10:27:04.696Z - error: [ui] Highlighter worked failed for old contents
+Error: timed out
+    at /home/tommi/webpack:/[name]/app/src/lib/highlighter/worker.ts:85:14
+2022-05-21T10:27:04.697Z - error: [ui] Highlighter worked failed for new contents
+Error: timed out
+    at /home/tommi/webpack:/[name]/app/src/lib/highlighter/worker.ts:85:14
+2022-05-21T10:27:08.969Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.046s)
+2022-05-21T10:27:11.696Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 0.0s of which 0.0s paused, total 0.0s
+2022-05-21T10:27:16.595Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.149s)
+2022-05-21T10:27:21.172Z - info: [ui] Executing getChangedFilesNumStats: git log d19769c279dbbf136fd674b31f75738f0f7e1ae1 -C -M -m -1 --no-show-signature --first-parent --format=format: -z --numstat -- (took 26.999s)
+2022-05-21T10:27:21.889Z - info: [ui] Executing getChangedFilesNumStats: git log d19769c279dbbf136fd674b31f75738f0f7e1ae1 -C -M -m -1 --no-show-signature --first-parent --format=format: -z --numstat -- (took 26.708s)
+2022-05-21T10:27:26.030Z - info: [ui] Executing getChangedFilesNumStats: git log d19769c279dbbf136fd674b31f75738f0f7e1ae1 -C -M -m -1 --no-show-signature --first-parent --format=format: -z --numstat -- (took 28.065s)
+2022-05-21T10:27:34.534Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.086s)
+2022-05-21T10:29:42.222Z - info: [ui] [AppStore] loading 2 repositories from store
+2022-05-21T10:29:42.224Z - info: [ui] [AppStore] found account: hamburgerghini1 (hamburgerghini1)
+2022-05-21T10:29:42.252Z - info: [ui] [BranchPruner] Last prune took place 1 hour ago - skipping
+2022-05-21T10:29:42.351Z - info: [ui] launching: 3.0.0-linux1 (Linux 5.17.8-300.fc36.x86_64)
+2022-05-21T10:29:42.352Z - info: [ui] execPath: '/usr/lib/github-desktop/github-desktop'
+2022-05-21T10:29:42.656Z - info: [ui] Subscribed 'hamburgerghini1' to Alive channel
+2022-05-21T10:29:43.320Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.008s)

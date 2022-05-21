@@ -54,7 +54,7 @@ LastNameSeen=android.img
 [Devices][/org/freedesktop/UDisks2/block_devices/nvme0n1p1]
 EverMounted=true
 Icon=drive-harddisk
-LastNameSeen=pelissd
+LastNameSeen=Uusi asema
 LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/nvme0n1p3]

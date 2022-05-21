@@ -1,0 +1,16 @@
+game:
+  arch: win64
+  exe: drive_c/Program Files (x86)/Origin/Origin.exe
+  prefix: /home/tommi/Games/need-for-speed-payback
+system:
+  disable_runtime: false
+  env:
+    DXVK_CONFIG_FILE: /home/tommi/Games/need-for-speed-payback/dxvk.conf
+    DXVK_HUD: '0'
+wine:
+  dxvk: true
+  esync: true
+  overrides:
+    nvapi,nvapi64: disabled
+    xaudio2_7: native,builtin
+  version: lutris-fshack-7.2-x86_64

@@ -7,6 +7,10 @@ Recent Files[$e]=cyberpunk-Small.layout.latte,file:$HOME/Latte Dock (2022-04-09)
 Recent URLs[$e]=file:$HOME/Lataukset/,file:$HOME/,file:$HOME/Asiakirjat/
 detailViewIconSize=16
 
+[KPropertiesDialog]
+HDMI-A-1 Height 1920x1080=464
+HDMI-A-1 Width 1920x1080=450
+
 [LatteSettingsDialog]
 downloadWindowSize=980,600
 windowSize=1100,750

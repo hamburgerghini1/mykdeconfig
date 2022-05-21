@@ -33,11 +33,11 @@ mute=Volume Mute,Volume Mute,Vaimenna
 
 [ksmserver]
 Halt Without Confirmation=none,,Sammuta kyselemättä
-Lock Session=Meta+L\tCtrl+Alt+L\tScreensaver,Meta+L\tCtrl+Alt+L\tScreensaver,Lukitse istunto
+Lock Session=Meta+L\tCtrl+Alt+L\tScreensaver,Meta+L\tCtrl+Alt+L\tScreensaver,Lock Session
 Log Out=Ctrl+Alt+Del,Ctrl+Alt+Del,Kirjaudu ulos
 Log Out Without Confirmation=none,,Kirjaudu kyselemättä ulos
 Reboot Without Confirmation=none,,Käynnistä kyselemättä uudelleen
-_k_friendly_name=Istunnonhallinta
+_k_friendly_name=Session Management
 
 [kwin]
 Activate Window Demanding Attention=Ctrl+Alt+A,Ctrl+Alt+A,Aktivoi huomiota vaativa ikkuna
@@ -104,14 +104,14 @@ Walk Through Desktop List=none,,Selaa työpöytäluetteloa
 Walk Through Desktop List (Reverse)=none,,Selaa työpöytäluetteloa taaksepäin
 Walk Through Desktops=none,,Selaa työpöytiä
 Walk Through Desktops (Reverse)=none,,Selaa työpöytiä taaksepäin
-Walk Through Windows=Alt+Tab,Alt+Tab,Selaa ikkunoita
-Walk Through Windows (Reverse)=Alt+Shift+Backtab,Alt+Shift+Backtab,Selaa ikkunoita taaksepäin
-Walk Through Windows Alternative=none,,Selaa ikkunoita (vaihtoehtoinen)
-Walk Through Windows Alternative (Reverse)=none,,Selaa ikkunoita taaksepäin (vaihtoehtoinen)
-Walk Through Windows of Current Application=Alt+`,Alt+`,Selaa nykyisen sovelluksen ikkunoita
-Walk Through Windows of Current Application (Reverse)=Alt+~,Alt+~,Selaa nykyisen sovelluksen ikkunoita taaksepäin
-Walk Through Windows of Current Application Alternative=none,,Selaa nykyisen sovelluksen ikkunoita (vaihtoehtoinen)
-Walk Through Windows of Current Application Alternative (Reverse)=none,,Selaa nykyisen sovelluksen ikkunoita taaksepäin (vaihtoehtoinen)
+Walk Through Windows=Alt+Tab,Alt+Tab,Walk Through Windows
+Walk Through Windows (Reverse)=Alt+Shift+Backtab,Alt+Shift+Backtab,Walk Through Windows (Reverse)
+Walk Through Windows Alternative=none,,Walk Through Windows Alternative
+Walk Through Windows Alternative (Reverse)=none,,Walk Through Windows Alternative (Reverse)
+Walk Through Windows of Current Application=Alt+`,Alt+`,Walk Through Windows of Current Application
+Walk Through Windows of Current Application (Reverse)=Alt+~,Alt+~,Walk Through Windows of Current Application (Reverse)
+Walk Through Windows of Current Application Alternative=none,,Walk Through Windows of Current Application Alternative
+Walk Through Windows of Current Application Alternative (Reverse)=none,,Walk Through Windows of Current Application Alternative (Reverse)
 Window Above Other Windows=none,,Pidä ikkuna muiden yllä
 Window Below Other Windows=none,,Pidä ikkuna muiden alla
 Window Close=Alt+F4,Alt+F4,Sulje ikkuna
@@ -287,7 +287,7 @@ Turn Off Screen=none,none,Sammuta näyttö
 _k_friendly_name=Virranhallinta
 
 [plasmashell]
-_k_friendly_name=Latte Dock
+_k_friendly_name=Aktiviteettien vaihto
 activate task manager entry 1=Meta+1,Meta+1,Aktivoi tehtävienhallinnan kohta 1
 activate task manager entry 10=none,Meta+0,Aktivoi tehtävienhallinnan kohta 10
 activate task manager entry 2=Meta+2,Meta+2,Aktivoi tehtävienhallinnan kohta 2
@@ -306,8 +306,8 @@ cycleNextAction=none,none,Seuraava historiatietue
 cyclePrevAction=none,none,Edellinen historiatietue
 edit_clipboard=none,none,Muokkaa sisältöä…
 manage activities=Meta+Q,Meta+Q,Näytä aktiviteettivaihto
-next activity=Meta+Tab,none,Selaa aktiviteetteja
-previous activity=Meta+Shift+Tab,none,Selaa aktiviteetteja (käänteisessä järjestyksessä)
+next activity=Meta+Tab,Meta+Tab,Selaa aktiviteetteja
+previous activity=Meta+Shift+Tab,Meta+Shift+Tab,Selaa aktiviteetteja (käänteisessä järjestyksessä)
 repeat_action=Ctrl+Alt+R,Ctrl+Alt+R,Käytä toimintoja manuaalisesti nykyisellä leikepöydällä
 show dashboard=Ctrl+F12,Ctrl+F12,Näytä työpöytä
 show-barcode=none,none,Näytä viivakoodi…

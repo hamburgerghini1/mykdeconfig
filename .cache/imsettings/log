@@ -1,0 +1,49 @@
+[        58.844578]: IMSettings-Daemon[1969]: INFO: Starting imsettings-daemon...
+[        58.845050]: IMSettings-Daemon[1969]: INFO:   [HOME=/home/tommi/.config/imsettings]
+[        58.845169]: IMSettings-Daemon[1969]: INFO:   [XINPUTRCDIR=/etc/X11/xinit/]
+[        58.845194]: IMSettings-Daemon[1969]: INFO:   [XINPUTDIR=/etc/X11/xinit/xinput.d/]
+
+[        58.845213]: IMSettings-Daemon[1969]: INFO:   [MODULEDIR=/usr/lib64/imsettings]
+
+[        58.845231]: IMSettings-Daemon[1969]: INFO:   [MODULES=systemd-qt, systemd-gtk]
+
+
+[        58.850357]: IMSettings-Daemon[1969]: WARNING **: Child process exited with code 1
+[        58.851694]: IMSettings-Daemon[1969]: INFO: X Display is available
+[        58.864866]: IMSettings-Daemon[1969]: INFO: Attempting to switch IM to IBus [lang=en_GB.UTF-8, desktop=KDE-wayland, update=false]
+
+[        58.935558]: IMSettings-Daemon[1969]: WARNING **: Child process exited with code 1
+[        58.935683]: IMSettings-Daemon[1969]: INFO:   no need to invoke any auxiliary process for IBus
+[        58.935708]: IMSettings-Daemon[1969]: INFO:   Starting the main process for IBus [lang:en_GB.UTF-8]
+[        58.936815]: IMSettings-Daemon[1969]: INFO:   Started IBus: [process: /usr/bin/ibus-daemon -r --xim, lang: en_GB.UTF-8, pid: 2193, id: 13, time: 2022-05-21T10:55:58.936803+03
+[        58.936946]: IMSettings-Systemd-Gtk backend[1969]: INFO: Setting up ibus:xim as gtk+ immodule
+[        58.936972]: IMSettings-Systemd-Gtk backend[1969]: INFO: Setting up ibus as XMODIFIERS
+[        58.936990]: IMSettings-Systemd-Gtk backend[1969]: INFO: Reboot may require to apply.
+[        58.937098]: IMSettings-Systemd-Qt backend[1969]: INFO: Setting up ibus as qt immodule
+[        58.937119]: IMSettings-Systemd-Qt backend[1969]: INFO: Setting up ibus as XMODIFIERS
+[        58.937134]: IMSettings-Systemd-Qt backend[1969]: INFO: Reboot may require to apply.
+[        43.515954]: IMSettings-Daemon[1969]: INFO: Stopped main process for IBus with the status 0 [pid: 2193]
+[        44.413806]: IMSettings-Daemon[1621]: INFO: Starting imsettings-daemon...
+[        44.414340]: IMSettings-Daemon[1621]: INFO:   [HOME=/home/tommi/.config/imsettings]
+[        44.414374]: IMSettings-Daemon[1621]: INFO:   [XINPUTRCDIR=/etc/X11/xinit/]
+[        44.414395]: IMSettings-Daemon[1621]: INFO:   [XINPUTDIR=/etc/X11/xinit/xinput.d/]
+
+[        44.414413]: IMSettings-Daemon[1621]: INFO:   [MODULEDIR=/usr/lib64/imsettings]
+
+[        44.414432]: IMSettings-Daemon[1621]: INFO:   [MODULES=systemd-qt, systemd-gtk]
+
+
+[        44.419823]: IMSettings-Daemon[1621]: WARNING **: Child process exited with code 1
+[        44.421246]: IMSettings-Daemon[1621]: INFO: X Display is available
+[        44.435222]: IMSettings-Daemon[1621]: INFO: Attempting to switch IM to IBus [lang=fi_FI.UTF-8, desktop=KDE-wayland, update=false]
+
+[        44.501937]: IMSettings-Daemon[1621]: WARNING **: Child process exited with code 1
+[        44.502040]: IMSettings-Daemon[1621]: INFO:   no need to invoke any auxiliary process for IBus
+[        44.502070]: IMSettings-Daemon[1621]: INFO:   Starting the main process for IBus [lang:fi_FI.UTF-8]
+[        44.503316]: IMSettings-Daemon[1621]: INFO:   Started IBus: [process: /usr/bin/ibus-daemon -r --xim, lang: fi_FI.UTF-8, pid: 1830, id: 13, time: 2022-05-21T11:13:44.503301+03
+[        44.505223]: IMSettings-Systemd-Gtk backend[1621]: INFO: Setting up ibus:xim as gtk+ immodule
+[        44.505268]: IMSettings-Systemd-Gtk backend[1621]: INFO: Setting up ibus as XMODIFIERS
+[        44.505284]: IMSettings-Systemd-Gtk backend[1621]: INFO: Reboot may require to apply.
+[        44.507582]: IMSettings-Systemd-Qt backend[1621]: INFO: Setting up ibus as qt immodule
+[        44.508073]: IMSettings-Systemd-Qt backend[1621]: INFO: Setting up ibus as XMODIFIERS
+[        44.508114]: IMSettings-Systemd-Qt backend[1621]: INFO: Reboot may require to apply.

@@ -10,7 +10,7 @@ HDMI-A-0 Width 1920x1080=1278
 
 [General]
 Version=201
-ViewPropsTimestamp=2022,3,25,21,17,27.935
+ViewPropsTimestamp=2022,5,21,11,10,7.692
 
 [KFileDialog Settings]
 Recent Files[$e]=file:$HOME/.local/share/lutris/runners/wine,file:$HOME/.local/share/lutris/runners/wine
@@ -20,8 +20,8 @@ detailViewIconSize=16
 [KPropertiesDialog]
 HDMI-A-0 Height 1920x1080=478
 HDMI-A-0 Width 1920x1080=506
-HDMI-A-1 Height 1920x1080=478
-HDMI-A-1 Width 1920x1080=479
+HDMI-A-1 Height 1920x1080=444
+HDMI-A-1 Width 1920x1080=577
 
 [MainWindow]
 HDMI-A-0 Height 1920x1080=965

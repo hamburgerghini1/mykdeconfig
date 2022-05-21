@@ -1,11 +1,13 @@
 [KFileDialog Settings]
-Recent Files[$e]=Forza4-2.ico,file:$HOME/Videot/Y2Mate.is - Cyberpunk 2077 Night City live Wallpaper 1080p-ChSVeNrGzkE-1080p-1647022504509.mp4
-Recent URLs[$e]=file:$HOME/Videot/
+Recent Files[$e]=Forza4-2.ico,file:$HOME/Downloads/cropped-1920-1080-1021178.jpg
+Recent URLs[$e]=file:$HOME/Downloads/
 detailViewIconSize=16
 
 [KPropertiesDialog]
 HDMI-A-0 Height 1920x1080=488
 HDMI-A-0 Width 1920x1080=484
+HDMI-A-1 Height 1920x1080=464
+HDMI-A-1 Width 1920x1080=450
 
 [PlasmaViews][Panel 2][Defaults]
 thickness=44

@@ -1,0 +1,7 @@
+2022/05/21-11:14:42.738 1aaa Reusing MANIFEST /home/tommi/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/21-11:14:42.739 1aaa Recovering log #24
+2022/05/21-11:14:42.746 1aaa Reusing old log /home/tommi/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000024.log 
+2022/05/21-11:14:42.746 1aaa Delete type=2 #23
+2022/05/21-11:18:23.999 1af8 Level-0 table #29: started
+2022/05/21-11:18:24.006 1af8 Level-0 table #29: 986593 bytes OK
+2022/05/21-11:18:24.008 1af8 Delete type=0 #24

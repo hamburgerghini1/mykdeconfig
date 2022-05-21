@@ -1,6 +1,21 @@
-2022/04/14-16:34:10.047 26ab Reusing MANIFEST /home/tommi/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2022/04/14-16:34:10.048 26ab Recovering log #472
-2022/04/14-16:34:10.048 26ab Reusing old log /home/tommi/.config/discord/Local Storage/leveldb/000472.log 
-2022/04/14-16:45:04.556 26ba Level-0 table #476: started
-2022/04/14-16:45:04.557 26ba Level-0 table #476: 17663 bytes OK
-2022/04/14-16:45:04.559 26ba Delete type=0 #472
+2022/05/21-11:22:36.086 23f1 Reusing MANIFEST /home/tommi/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/05/21-11:22:36.086 23f1 Recovering log #475
+2022/05/21-11:22:36.086 23f1 Reusing old log /home/tommi/.config/discord/Local Storage/leveldb/000475.log 
+2022/05/21-11:23:38.330 23ef Level-0 table #479: started
+2022/05/21-11:23:38.331 23ef Level-0 table #479: 17417 bytes OK
+2022/05/21-11:23:38.333 23ef Delete type=0 #475
+2022/05/21-12:51:52.591 23ef Level-0 table #481: started
+2022/05/21-12:51:52.596 23ef Level-0 table #481: 433713 bytes OK
+2022/05/21-12:51:52.597 23ef Delete type=0 #478
+2022/05/21-12:51:52.597 23ef Compacting 4@0 + 1@1 files
+2022/05/21-12:51:52.605 23ef Generated table #482@0: 101 keys, 833463 bytes
+2022/05/21-12:51:52.605 23ef Compacted 4@0 + 1@1 files => 833463 bytes
+2022/05/21-12:51:52.606 23ef compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/05/21-12:51:52.606 23ef Delete type=2 #470
+2022/05/21-12:51:52.606 23ef Delete type=2 #473
+2022/05/21-12:51:52.606 23ef Delete type=2 #476
+2022/05/21-12:51:52.606 23ef Delete type=2 #479
+2022/05/21-12:51:52.606 23ef Delete type=2 #481
+2022/05/21-12:58:53.775 23ef Level-0 table #484: started
+2022/05/21-12:58:53.776 23ef Level-0 table #484: 15427 bytes OK
+2022/05/21-12:58:53.777 23ef Delete type=0 #480
