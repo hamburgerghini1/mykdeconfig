@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=ASIO4ALL Web Site
-Exec=env WINEPREFIX="/home/tommi/.wine" wine C:\\\\users\\\\tommi\\\\AppData\\\\Roaming\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\ASIO4ALL\\ v2\\\\ASIO4ALL\\ Web\\ Site.lnk
-Type=Application
-StartupNotify=true
-Path=/home/tommi/.wine/dosdevices/c:/Program Files (x86)/ASIO4ALL v2
-Icon=DCC2_ASIO4ALL Web Site.0
-StartupWMClass=asio4all web site.url

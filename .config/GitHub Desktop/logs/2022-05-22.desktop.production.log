@@ -1,0 +1,17 @@
+2022-05-22T12:09:20.705Z - info: [ui] [AppStore] loading 2 repositories from store
+2022-05-22T12:09:20.708Z - info: [ui] [AppStore] found account: hamburgerghini1 (hamburgerghini1)
+2022-05-22T12:09:20.865Z - info: [ui] launching: 3.0.0-linux1 (Linux 5.17.9-xm1.0.fc36.x86_64)
+2022-05-22T12:09:20.866Z - info: [ui] execPath: '/usr/lib/github-desktop/github-desktop'
+2022-05-22T12:09:21.163Z - info: [ui] Subscribed 'hamburgerghini1' to Alive channel
+2022-05-22T12:09:21.259Z - info: [ui] Stats reported.
+2022-05-22T12:09:22.053Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.333s)
+2022-05-22T12:09:22.054Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.218s)
+2022-05-22T12:09:24.364Z - info: [ui] Executing getChangedFilesNumStats: git log c2b5617035a6f36189920a77b8c516bdc78350e0 -C -M -m -1 --no-show-signature --first-parent --format=format: -z --numstat -- (took 2.108s)
+2022-05-22T12:09:27.535Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: mykdeconfig - hamburgerghini1 (has token)
+2022-05-22T12:09:32.084Z - info: [ui] [BranchPruner] Last prune took place 11 seconds ago - skipping
+2022-05-22T12:09:56.912Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 0.0s of which 0.0s paused, total 0.0s
+2022-05-22T12:09:58.169Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/hamburgerghini1/mykdeconfig.git - hamburgerghini1 (has token)
+2022-05-22T12:14:32.748Z - info: [ui] Executing clone: git -c credential.helper= -c protocol.version=2 -c init.defaultBranch=main clone --recursive --progress -- https://github.com/hamburgerghini1/mykdeconfig.git /home/tommi/Asiakirjat/GitHub/mykdeconfig (took 274.572s)
+2022-05-22T12:14:32.762Z - info: [ui] [AppStore] adding repository at /home/tommi/Asiakirjat/GitHub/mykdeconfig to store
+2022-05-22T12:14:33.452Z - info: [ui] [BranchPruner] Last prune took place 5 minutes ago - skipping
+2022-05-22T12:14:40.887Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: mykdeconfig - hamburgerghini1 (has token)

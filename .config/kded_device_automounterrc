@@ -54,7 +54,7 @@ LastNameSeen=android.img
 [Devices][/org/freedesktop/UDisks2/block_devices/nvme0n1p1]
 EverMounted=true
 Icon=drive-harddisk
-LastNameSeen=Uusi asema
+LastNameSeen=pelissd
 LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/nvme0n1p3]
@@ -91,8 +91,16 @@ LastNameSeen=Siirrettävä tallennusväline
 [Devices][/org/freedesktop/UDisks2/block_devices/sda1]
 EverMounted=true
 Icon=drive-removable-media-usb-pendrive
-LastNameSeen=ARCH_202204
+LastNameSeen=HIVE
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sda2]
 Icon=drive-removable-media-usb-pendrive
-LastNameSeen=ARCHISO_EFI
+LastNameSeen=NHOS
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda3]
+Icon=drive-removable-media-usb-pendrive
+LastNameSeen=SYSTEM
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda4]
+Icon=drive-removable-media-usb-pendrive
+LastNameSeen=hiveroot

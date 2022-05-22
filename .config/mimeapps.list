@@ -123,7 +123,7 @@ x-scheme-handler/magnet=transmission-gtk.desktop
 x-scheme-handler/spotify=spotify.desktop
 x-scheme-handler/terminal=kitty.desktop
 x-scheme-handler/web+cardano=brave-browser.desktop
-x-scheme-handler/etcher=appimagekit_9ec79f6c33b8ea599a9d8c0fa31d312f-balenaEtcher.desktop
+x-scheme-handler/etcher=balena-etcher-electron.desktop
 x-scheme-handler/x-github-client=github-desktop.desktop
 x-scheme-handler/x-github-desktop-auth=github-desktop.desktop
 

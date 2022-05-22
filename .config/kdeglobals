@@ -108,6 +108,7 @@ Theme=Sweet-Rainbow
 
 [KDE]
 LookAndFeelPackage=org.kde.breezedark.desktop
+SingleClick=false
 widgetStyle=kvantum-dark
 
 [KFileDialog Settings]

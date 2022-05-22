@@ -3,6 +3,6 @@ HDMI-A-0 Height 1920x1080=600
 HDMI-A-0 Width 1920x1080=980
 
 [KFileDialog Settings]
-Recent Files[$e]=cv.pdf,file:$HOME/Downloads/GitHubDesktop-linux-3.0.0-linux1.rpm,file:$HOME/Downloads/cropped-1920-1080-1021178.jpg
-Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/
+Recent Files[$e]=cv.pdf,file:$HOME/Työpöytä/Nobara-36-KDE-5.iso.torrent,file:$HOME/Downloads/Nobara-36-KDE-5.iso,file:$HOME/Downloads/ArmouryCrateInstaller_3.1.4.0/ArmouryCrateInstaller.exe,file:$HOME/Screenshot_20220522_111450.png
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/,file:$HOME/Työpöytä/,file:$HOME/Downloads/ArmouryCrateInstaller_3.1.4.0/,file:$HOME/Asiakirjat/
 detailViewIconSize=16

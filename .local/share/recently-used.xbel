@@ -3,1182 +3,175 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/tommi/Lataukset/material-shellpapyelgringo.v18.shell-extension.zip" added="2022-03-25T19:02:05.177752Z" modified="2022-03-25T19:02:05.177774Z" visited="2022-03-25T19:02:05.177756Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-25T19:02:05.177764Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/cv.pdf" added="2022-03-26T09:04:12.157721Z" modified="2022-03-26T09:11:45.774837Z" visited="2022-03-26T09:04:12.157724Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-26T09:11:45.774835Z" count="7"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/cv.docx" added="2022-03-26T09:07:51.925402Z" modified="2022-03-26T09:07:51.925406Z" visited="2022-03-26T09:07:51.925402Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-26T09:07:51.925403Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/surfshark-release_1.0.0-2_amd64.deb" added="2022-03-26T10:35:05.445471Z" modified="2022-03-26T10:35:05.445474Z" visited="2022-03-26T10:35:05.445472Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.debian.binary-package"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-26T10:35:05.445473Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/EAappInstaller.exe" added="2022-03-26T11:01:17.839350Z" modified="2022-03-26T11:07:01.073406Z" visited="2022-03-26T11:01:17.839351Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-ms-dos-executable"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-26T11:01:17.839352Z" count="1"/>
-          <bookmark:application name="bottles" exec="&apos;bottles %u&apos;" modified="2022-03-26T11:01:24.205274Z" count="1"/>
-          <bookmark:application name="mainwindow.py" exec="&apos;mainwindow.py %u&apos;" modified="2022-03-26T11:07:01.073404Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/Vortex-1-1-5-7-1647333183.exe" added="2022-03-26T11:37:04.294264Z" modified="2022-04-03T15:35:49.778848Z" visited="2022-03-26T11:37:04.294265Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-ms-dos-executable"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-03T15:35:49.778843Z" count="2"/>
-          <bookmark:application name="bottles" exec="&apos;bottles %u&apos;" modified="2022-03-26T11:40:41.514309Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/2019%20Sales%20Folder.zip" added="2022-03-26T12:23:18.553424Z" modified="2022-03-26T12:23:18.553431Z" visited="2022-03-26T12:23:18.553424Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-26T12:23:18.553427Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/2020%20Sales%20Folder.zip" added="2022-03-26T12:25:56.686091Z" modified="2022-03-26T12:25:56.686102Z" visited="2022-03-26T12:25:56.686093Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-26T12:25:56.686097Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/7fb43324-17a3-4553-8e94-d6d7fb776392" added="2022-03-26T12:33:17.835865Z" modified="2022-03-26T12:33:17.835874Z" visited="2022-03-26T12:33:17.835867Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-26T12:33:17.835869Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///run/media/tommi/Horizon%204" added="2022-03-26T13:26:46.926007Z" modified="2022-03-26T13:26:46.926013Z" visited="2022-03-26T13:26:46.926008Z">
+  <bookmark href="file:///home/tommi/Asiakirjat/GitHub/mykdeconfig" added="2022-05-21T17:48:13.313298Z" modified="2022-05-21T17:48:13.313301Z" visited="2022-05-21T17:48:13.313298Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2022-03-26T13:26:46.926010Z" count="1"/>
+          <bookmark:application name="github-desktop" exec="&apos;github-desktop %u&apos;" modified="2022-05-21T17:48:13.313299Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///run/media/tommi/Horizon%204/setup.exe" added="2022-03-26T13:27:43.946383Z" modified="2022-03-26T13:49:22.164419Z" visited="2022-03-26T13:27:43.946385Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-ms-dos-executable"/>
-        <bookmark:applications>
-          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2022-03-26T13:36:34.296331Z" count="3"/>
-          <bookmark:application name="mainwindow.py" exec="&apos;mainwindow.py %u&apos;" modified="2022-03-26T13:40:20.914909Z" count="1"/>
-          <bookmark:application name="bottles" exec="&apos;bottles %u&apos;" modified="2022-03-26T13:49:22.164418Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///media/pelissd/Forza%20Horizon%204" added="2022-03-26T13:33:28.442735Z" modified="2022-03-26T13:36:27.019215Z" visited="2022-03-26T13:33:28.442736Z">
+  <bookmark href="file:///media/pelissd/SteamLibrary/steamapps/common/Resident%20Evil%206" added="2022-05-21T17:56:21.886000Z" modified="2022-05-21T17:56:21.886000Z" visited="2022-05-21T17:56:21.886000Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2022-03-26T13:36:27.019212Z" count="2"/>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u %u" modified="2022-05-21T17:56:21.886000Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///media/pelissd/SteamLibrary" added="2022-03-26T13:36:21.161534Z" modified="2022-03-26T13:36:21.161539Z" visited="2022-03-26T13:36:21.161534Z">
+  <bookmark href="file:///home/tommi/Downloads/refind-0.13.3.1-1.x86_64.rpm" added="2022-05-21T20:26:32.407000Z" modified="2022-05-21T20:26:32.407000Z" visited="2022-05-21T20:26:32.407000Z">
     <info>
       <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="inode/directory"/>
+        <mime:mime-type type="application/x-rpm"/>
         <bookmark:applications>
-          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2022-03-26T13:36:21.161536Z" count="1"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2022-05-21T20:26:32.407000Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///run/media/tommi/Horizon%204/Forza4-2.ico" added="2022-03-26T13:46:21.819050Z" modified="2022-03-26T13:46:21.819066Z" visited="2022-03-26T13:46:21.819052Z">
+  <bookmark href="file:///home/tommi/Downloads/image.webp" added="2022-05-22T06:27:30.273000Z" modified="2022-05-22T06:28:12.025000Z" visited="2022-05-22T06:28:12.025000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2022-05-22T06:28:12.025000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tommi/Downloads/image.ico" added="2022-05-22T06:28:20.137000Z" modified="2022-05-22T06:28:27.353000Z" visited="2022-05-22T06:28:27.353000Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/vnd.microsoft.icon"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="mainwindow.py" exec="&apos;mainwindow.py %u&apos;" modified="2022-03-26T13:46:21.819059Z" count="1"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2022-05-22T06:28:20.137000Z" count="1"/>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2022-05-22T06:28:21.468000Z" count="1"/>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2022-05-22T06:28:27.353000Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/Win10_21H2_Finnish_x64.iso" added="2022-03-26T14:17:41.580337Z" modified="2022-04-03T09:16:30.447061Z" visited="2022-03-26T14:17:41.580339Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-cd-image"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-03T08:56:33.245941Z" count="3"/>
-          <bookmark:application name="virt-manager" exec="&apos;virt-manager %u&apos;" modified="2022-04-03T09:16:30.447058Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/virtio-win-0.1.215-2.noarch.rpm" added="2022-03-26T14:18:13.533311Z" modified="2022-03-26T14:18:13.533322Z" visited="2022-03-26T14:18:13.533313Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-rpm"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-26T14:18:13.533317Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/virtio-win-0.1.215.iso" added="2022-03-26T14:19:15.214246Z" modified="2022-04-03T09:27:33.508180Z" visited="2022-03-26T14:19:15.214246Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-cd-image"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-03T09:19:01.134251Z" count="2"/>
-          <bookmark:application name="virt-manager" exec="&apos;virt-manager %u&apos;" modified="2022-04-03T09:27:33.508175Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///media/pelissd/win.vm" added="2022-03-26T14:20:45.364681Z" modified="2022-03-26T14:20:45.364692Z" visited="2022-03-26T14:20:45.364683Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="inode/directory"/>
-        <bookmark:applications>
-          <bookmark:application name="virt-manager" exec="&apos;virt-manager %u&apos;" modified="2022-03-26T14:20:45.364686Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/amdgpu-install-21.50.2.50002-1.el8.noarch.rpm" added="2022-03-26T17:10:17.997317Z" modified="2022-04-08T19:42:17.530982Z" visited="2022-03-26T17:10:17.997318Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-rpm"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-08T19:42:17.530981Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/Sweet.colors" added="2022-03-26T17:23:48.597890Z" modified="2022-03-26T17:23:48.597895Z" visited="2022-03-26T17:23:48.597890Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-26T17:23:48.597892Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/candy-icons.tar.xz" added="2022-03-26T17:25:31.696129Z" modified="2022-03-26T17:25:31.696140Z" visited="2022-03-26T17:25:31.696130Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-xz-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-26T17:25:31.696135Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/Sweet-Rainbow.tar.xz" added="2022-03-26T17:26:16.382472Z" modified="2022-03-26T17:26:16.382478Z" visited="2022-03-26T17:26:16.382472Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-xz-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-26T17:26:16.382473Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/Sweet-transparent-toolbar.tar.xz" added="2022-03-26T17:32:57.332306Z" modified="2022-03-26T17:32:57.332309Z" visited="2022-03-26T17:32:57.332306Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-xz-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-26T17:32:57.332308Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/qt5-qtwebsockets-5.15.3-1.fc37.i686.rpm" added="2022-03-26T17:37:45.052052Z" modified="2022-03-26T17:37:45.052061Z" visited="2022-03-26T17:37:45.052054Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-rpm"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-26T17:37:45.052056Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/cyberpunk-v2-Large.layout.latte.zip" added="2022-03-26T17:46:31.599517Z" modified="2022-03-26T17:46:31.599521Z" visited="2022-03-26T17:46:31.599518Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-26T17:46:31.599519Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/cyberpunk-Small.layout.latte.zip" added="2022-03-26T17:46:56.216126Z" modified="2022-03-26T17:46:56.216136Z" visited="2022-03-26T17:46:56.216127Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-26T17:46:56.216132Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/denys-nevozhai-2vmT5_FeMck-unsplash.jpg" added="2022-03-26T18:05:16.974389Z" modified="2022-03-26T18:05:16.974393Z" visited="2022-03-26T18:05:16.974390Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-26T18:05:16.974391Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/smartvideowallpaper.tar.gz" added="2022-03-26T18:17:07.312216Z" modified="2022-03-26T18:19:47.373250Z" visited="2022-03-26T18:17:07.312217Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-26T18:19:47.373229Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/Y2Mate.is%20-%20Cyberpunk%202077%20Night%20City%20live%20Wallpaper%201080p-ChSVeNrGzkE-1080p-1647022504509.mp4" added="2022-03-26T18:21:33.765147Z" modified="2022-03-26T18:21:33.765151Z" visited="2022-03-26T18:21:33.765148Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="video/mp4"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-26T18:21:33.765149Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/panon-0.4.6.plasmoid" added="2022-03-26T18:29:47.415213Z" modified="2022-03-26T18:29:47.415217Z" visited="2022-03-26T18:29:47.415213Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-plasma"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-26T18:29:47.415215Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/cheese-release-35-1.fc35.noarch.rpm" added="2022-03-26T18:43:22.500823Z" modified="2022-03-26T18:43:22.500835Z" visited="2022-03-26T18:43:22.500824Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-rpm"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-26T18:43:22.500827Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/visualizer.sh" added="2022-03-26T18:45:49.184711Z" modified="2022-03-26T18:45:49.506942Z" visited="2022-03-26T18:45:49.184713Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-shellscript"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-26T18:45:49.506937Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/spine-20220117.zip" added="2022-03-27T07:20:23.655935Z" modified="2022-03-27T07:58:50.234390Z" visited="2022-03-27T07:20:23.655937Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-27T07:58:50.234385Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/orbital-master.zip" added="2022-03-27T07:23:36.096941Z" modified="2022-03-27T07:23:36.096946Z" visited="2022-03-27T07:23:36.096942Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-27T07:23:36.096943Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/firmware.7z" added="2022-03-27T07:37:22.079116Z" modified="2022-03-27T07:37:22.079133Z" visited="2022-03-27T07:37:22.079118Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-7z-compressed"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-27T07:37:22.079123Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Kuvat/Screenshot_20220327_132733.png" added="2022-03-27T10:32:16.417218Z" modified="2022-03-27T10:32:31.835555Z" visited="2022-03-27T10:32:16.417220Z">
+  <bookmark href="file:///home/tommi/Screenshot_20220522_104003.png" added="2022-05-22T07:40:19.111000Z" modified="2022-05-22T07:41:08.556566Z" visited="2022-05-22T07:40:46.657000Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-03-27T10:32:16.417224Z" count="1"/>
-          <bookmark:application name="Discord" exec="&apos;Discord %u&apos;" modified="2022-03-27T10:32:31.835549Z" count="1"/>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %u" modified="2022-05-22T07:40:19.215000Z" count="2"/>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2022-05-22T07:40:46.657000Z" count="2"/>
+          <bookmark:application name="Discord" exec="&apos;Discord %u&apos;" modified="2022-05-22T07:41:08.556562Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/com.pajuelo.plasmaConfSaver-1.6.tar.gz" added="2022-03-27T10:55:56.176536Z" modified="2022-03-27T10:55:56.176539Z" visited="2022-03-27T10:55:56.176536Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-27T10:55:56.176537Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/default.tar.gz" added="2022-03-27T10:59:35.789114Z" modified="2022-03-27T10:59:35.789119Z" visited="2022-03-27T10:59:35.789115Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-27T10:59:35.789117Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/7a4738-NoGTAVLauncher_Setup.zip" added="2022-03-27T12:41:05.855974Z" modified="2022-03-27T12:41:05.855991Z" visited="2022-03-27T12:41:05.855976Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-27T12:41:05.855980Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/GE-Proton7-10.tar.gz" added="2022-03-27T12:59:15.232740Z" modified="2022-03-27T12:59:15.232782Z" visited="2022-03-27T12:59:15.232745Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-27T12:59:15.232757Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/msttcore-fonts-installer-2.6-1.noarch.rpm" added="2022-03-27T13:10:55.655088Z" modified="2022-03-27T13:10:55.655094Z" visited="2022-03-27T13:10:55.655088Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-rpm"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-27T13:10:55.655090Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/msttcore-fonts-installer-2.6-1.noarch(1).rpm" added="2022-03-27T13:10:56.745368Z" modified="2022-03-27T13:10:56.745373Z" visited="2022-03-27T13:10:56.745369Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-rpm"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-27T13:10:56.745372Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///media/pelissd/Lutris" added="2022-03-29T12:57:56.359760Z" modified="2022-03-29T12:57:56.359763Z" visited="2022-03-29T12:57:56.359761Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="inode/directory"/>
-        <bookmark:applications>
-          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2022-03-29T12:57:56.359761Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/appimagelauncher-2.2.0-travis995.0f91801.x86_64.rpm" added="2022-03-29T13:03:17.665233Z" modified="2022-03-29T13:03:17.665245Z" visited="2022-03-29T13:03:17.665234Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-rpm"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-29T13:03:17.665239Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/pling-store-5.0.2-1-x86_64.AppImage" added="2022-03-29T13:04:52.852685Z" modified="2022-03-29T13:04:52.852693Z" visited="2022-03-29T13:04:52.852686Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.appimage"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-29T13:04:52.852688Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/idme-recovery-code-2022-03-30.pdf" added="2022-03-30T12:13:16.616321Z" modified="2022-03-30T12:13:16.983224Z" visited="2022-03-30T12:13:16.616322Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-30T12:13:16.983219Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/surfshark-vpn_1.1.0_amd64.deb" added="2022-03-31T12:13:35.245967Z" modified="2022-03-31T12:13:35.246007Z" visited="2022-03-31T12:13:35.245971Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.debian.binary-package"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-31T12:13:35.245995Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/surfshark-vpn-1.1.0-2.x86_64.rpm" added="2022-03-31T12:24:44.284023Z" modified="2022-03-31T12:24:44.284038Z" visited="2022-03-31T12:24:44.284025Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-rpm"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-31T12:24:44.284031Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/2022-03-31%2015-22-23.mkv" added="2022-03-31T12:26:09.200173Z" modified="2022-03-31T12:26:09.200184Z" visited="2022-03-31T12:26:09.200175Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="video/x-matroska"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-31T12:26:09.200179Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/ForzaHorizon5.bat" added="2022-03-31T12:35:11.507111Z" modified="2022-03-31T12:35:11.507115Z" visited="2022-03-31T12:35:11.507112Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-31T12:35:11.507113Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/Win11_Finnish_x64v1.iso" added="2022-03-31T12:54:40.652187Z" modified="2022-03-31T12:54:40.652199Z" visited="2022-03-31T12:54:40.652189Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-cd-image"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-03-31T12:54:40.652193Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///media/pelissd/GOG" added="2022-04-01T13:16:08.288980Z" modified="2022-04-01T13:16:08.288994Z" visited="2022-04-01T13:16:08.288983Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="inode/directory"/>
-        <bookmark:applications>
-          <bookmark:application name="minigalaxy" exec="&apos;minigalaxy %u&apos;" modified="2022-04-01T13:16:08.288987Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Kuvat/Screenshot_20220401_171201.png" added="2022-04-01T14:12:21.532350Z" modified="2022-04-01T14:12:21.532359Z" visited="2022-04-01T14:12:21.532351Z">
+  <bookmark href="file:///home/tommi/Screenshot_20220522_111450.png" added="2022-05-22T08:15:37.418000Z" modified="2022-05-22T08:17:42.200000Z" visited="2022-05-22T08:17:42.200000Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="Discord" exec="&apos;Discord %u&apos;" modified="2022-04-01T14:12:21.532354Z" count="1"/>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %u" modified="2022-05-22T08:15:37.557000Z" count="2"/>
+          <bookmark:application name="Discord" exec="&apos;Discord %u&apos;" modified="2022-05-22T08:15:48.888422Z" count="1"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2022-05-22T08:17:42.200000Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/ookla-speedtest-1.1.1-linux-x86_64.tgz" added="2022-04-01T14:24:36.489855Z" modified="2022-04-01T14:24:36.489860Z" visited="2022-04-01T14:24:36.489856Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-01T14:24:36.489857Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Kuvat/Screenshot_20220402_104616.png" added="2022-04-02T07:47:21.408032Z" modified="2022-04-02T07:47:21.408041Z" visited="2022-04-02T07:47:21.408034Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:applications>
-          <bookmark:application name="Discord" exec="&apos;Discord %u&apos;" modified="2022-04-02T07:47:21.408036Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Asiakirjat/Ihastuttava,%20vihastuttava%20Suomi.doc" added="2022-04-02T08:01:34.276884Z" modified="2022-04-02T08:01:34.276892Z" visited="2022-04-02T08:01:34.276885Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/msword"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-02T08:01:34.276888Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/refind-0.12.0-1.x86_64.rpm" added="2022-04-02T09:38:19.213003Z" modified="2022-04-10T05:15:55.302651Z" visited="2022-04-02T09:38:19.213003Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-rpm"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-10T05:15:55.302650Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/refind-0.12.0-1.x86_64(1).rpm" added="2022-04-02T09:38:20.000677Z" modified="2022-04-10T05:15:57.360272Z" visited="2022-04-02T09:38:20.000678Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-rpm"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-10T05:15:57.360269Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/refind-0.13.2-1.x86_64.rpm" added="2022-04-02T09:39:19.181142Z" modified="2022-04-02T09:39:19.181148Z" visited="2022-04-02T09:39:19.181143Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-rpm"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-02T09:39:19.181145Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/ArmouryCrateInstallTool.zip" added="2022-04-02T09:51:12.690219Z" modified="2022-04-02T09:51:12.690222Z" visited="2022-04-02T09:51:12.690219Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-02T09:51:12.690221Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/cxbx-update-apkod.zip" added="2022-04-02T10:00:40.208301Z" modified="2022-04-02T10:00:40.208306Z" visited="2022-04-02T10:00:40.208302Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-02T10:00:40.208304Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/xenia_master.zip" added="2022-04-02T10:29:41.025161Z" modified="2022-04-02T10:29:41.025171Z" visited="2022-04-02T10:29:41.025162Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-02T10:29:41.025164Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/MediaGet.tar.xz" added="2022-04-02T10:39:50.973045Z" modified="2022-04-02T10:39:50.973052Z" visited="2022-04-02T10:39:50.973046Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-xz-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-02T10:39:50.973047Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/Forza.Motorsport.4.0800.NTSC.XBOX360-XPG.torrent" added="2022-04-02T10:39:53.007811Z" modified="2022-04-02T10:39:53.007817Z" visited="2022-04-02T10:39:53.007811Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-bittorrent"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-02T10:39:53.007813Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/ArmouryCrateInstaller_3.1.3.0/ArmouryCrateInstaller.exe" added="2022-04-02T10:41:22.543260Z" modified="2022-04-02T10:41:22.543262Z" visited="2022-04-02T10:41:22.543261Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-ms-dos-executable"/>
-        <bookmark:applications>
-          <bookmark:application name="bottles" exec="&apos;bottles %u&apos;" modified="2022-04-02T10:41:22.543261Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/Copy%20of%20%5BDownloadgamexbox.com%5DJTAG-590.rar" added="2022-04-02T10:50:42.166853Z" modified="2022-04-02T10:50:42.166882Z" visited="2022-04-02T10:50:42.166855Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.rar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-02T10:50:42.166862Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/Copy%20of%20%5BDownloadgamexbox.com%5DJTAG-589.rar" added="2022-04-02T10:53:48.966117Z" modified="2022-04-02T10:53:48.966123Z" visited="2022-04-02T10:53:48.966118Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.rar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-02T10:53:48.966120Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/nofuckinggrindmod_1.3.zip" added="2022-04-03T08:28:52.308845Z" modified="2022-04-03T08:28:52.308855Z" visited="2022-04-03T08:28:52.308847Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-03T08:28:52.308850Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/MafiaToolkit_v2.24_26032022.zip" added="2022-04-03T08:30:41.614063Z" modified="2022-04-03T08:30:41.614070Z" visited="2022-04-03T08:30:41.614064Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-03T08:30:41.614067Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/M3DE_ScriptHook.7z" added="2022-04-03T08:31:26.012180Z" modified="2022-04-03T08:31:26.012187Z" visited="2022-04-03T08:31:26.012181Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-7z-compressed"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-03T08:31:26.012183Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/Mafia-Definitive-Edition-ScriptHook-Installer_r96.exe" added="2022-04-03T08:37:07.101849Z" modified="2022-04-03T08:43:19.120498Z" visited="2022-04-03T08:37:07.101850Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-ms-dos-executable"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-03T08:43:19.120490Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/Win64ShippingPublic_r96.zip" added="2022-04-03T08:37:21.529820Z" modified="2022-04-03T08:38:30.441238Z" visited="2022-04-03T08:37:21.529820Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-03T08:38:30.441234Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/Mafia-3-ScriptHook.zip" added="2022-04-03T08:45:15.198608Z" modified="2022-04-03T08:45:15.198625Z" visited="2022-04-03T08:45:15.198611Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-03T08:45:15.198619Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/core.zip" added="2022-04-03T08:48:38.504073Z" modified="2022-04-03T08:48:38.504077Z" visited="2022-04-03T08:48:38.504074Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-03T08:48:38.504075Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Asiakirjat/Win11_Finnish_x64v1.iso" added="2022-04-03T08:51:28.267695Z" modified="2022-04-03T08:51:28.267699Z" visited="2022-04-03T08:51:28.267696Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-cd-image"/>
-        <bookmark:applications>
-          <bookmark:application name="virt-manager" exec="&apos;virt-manager %u&apos;" modified="2022-04-03T08:51:28.267697Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/NDP46-KB3045557-x86-x64-AllOS-ENU.exe" added="2022-04-03T15:37:58.011719Z" modified="2022-04-03T15:37:58.011723Z" visited="2022-04-03T15:37:58.011720Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-ms-dos-executable"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-03T15:37:58.011722Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/wine-mono-7.1.1-x86.msi" added="2022-04-03T15:42:49.794732Z" modified="2022-04-03T15:42:49.794735Z" visited="2022-04-03T15:42:49.794732Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-msi"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-03T15:42:49.794733Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/NDP46-KB3045560-Web.exe" added="2022-04-03T15:49:41.616260Z" modified="2022-04-03T15:49:41.616264Z" visited="2022-04-03T15:49:41.616261Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-ms-dos-executable"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-03T15:49:41.616262Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/GE-Proton7-9.tar.gz" added="2022-04-03T16:08:03.956133Z" modified="2022-04-03T16:08:03.956142Z" visited="2022-04-03T16:08:03.956133Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-03T16:08:03.956139Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/NVIDIA-Linux-x86_64-510.60.02.run" added="2022-04-03T16:32:27.715581Z" modified="2022-04-03T16:32:27.715589Z" visited="2022-04-03T16:32:27.715582Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-03T16:32:27.715585Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/GE-Proton7-14.tar.gz" added="2022-04-05T12:37:29.992675Z" modified="2022-04-08T19:18:33.011500Z" visited="2022-04-05T12:37:29.992676Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-08T19:18:33.011496Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/vc_redist.x64.exe" added="2022-04-05T12:42:41.495201Z" modified="2022-04-05T12:42:41.495204Z" visited="2022-04-05T12:42:41.495202Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-ms-dos-executable"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-05T12:42:41.495203Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/FL_Studio_Producer_Edition_20.8.4.2576/FL%20Studio%20Producer%20Edition%2020.8.4.2576/Patch/FL%20Studio%2020.8.4.2576%20Patch.exe" added="2022-04-06T12:49:29.518599Z" modified="2022-04-06T12:49:29.518602Z" visited="2022-04-06T12:49:29.518599Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-ms-dos-executable"/>
-        <bookmark:applications>
-          <bookmark:application name="bottles" exec="&apos;bottles %u&apos;" modified="2022-04-06T12:49:29.518600Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/FL_Studio_Producer_Edition_20.8.4.2576/FL%20Studio%20Producer%20Edition%2020.8.4.2576/FL%20Studio%2020.8.4.2576%20Setup.exe" added="2022-04-06T12:52:48.037405Z" modified="2022-04-06T12:52:48.037408Z" visited="2022-04-06T12:52:48.037406Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-ms-dos-executable"/>
-        <bookmark:applications>
-          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2022-04-06T12:52:48.037407Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/kde_config.tar.gz" added="2022-04-08T12:18:44.026256Z" modified="2022-04-08T12:18:44.026259Z" visited="2022-04-08T12:18:44.026256Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-08T12:18:44.026257Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/archlinux-gui-plasma-pure-2022.04-x86_64(1).iso" added="2022-04-08T12:38:49.871319Z" modified="2022-04-08T12:38:49.871322Z" visited="2022-04-08T12:38:49.871320Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-cd-image"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-08T12:38:49.871321Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/org.pipewire.Helvum.flatpakref" added="2022-04-08T18:08:55.025388Z" modified="2022-04-08T18:08:55.025391Z" visited="2022-04-08T18:08:55.025388Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.flatpak.ref"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-08T18:08:55.025389Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/plasma-bspwm.sh" added="2022-04-09T08:15:45.633538Z" modified="2022-04-09T08:15:45.973461Z" visited="2022-04-09T08:15:45.633539Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-shellscript"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-09T08:15:45.973459Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/154569-ksuperkey-0.4.tar.gz" added="2022-04-09T09:35:39.644858Z" modified="2022-04-09T09:35:39.644862Z" visited="2022-04-09T09:35:39.644859Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-09T09:35:39.644860Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/ocs-url-3.1.0-1.fc20.x86_64.rpm" added="2022-04-09T09:36:08.643913Z" modified="2022-04-09T09:36:08.643918Z" visited="2022-04-09T09:36:08.643914Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-rpm"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-09T09:36:08.643915Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Latte%20Dock%20(2022-04-09).latterc" added="2022-04-09T09:49:40.654135Z" modified="2022-04-09T09:49:40.654139Z" visited="2022-04-09T09:49:40.654136Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-09T09:49:40.654137Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/org.gnome.Fractal.flatpakref" added="2022-04-09T12:43:20.153157Z" modified="2022-04-09T12:43:20.153169Z" visited="2022-04-09T12:43:20.153158Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.flatpak.ref"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-09T12:43:20.153164Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/security-key.txt" added="2022-04-09T12:47:05.322722Z" modified="2022-04-09T13:03:54.104089Z" visited="2022-04-09T12:47:05.322722Z">
+  <bookmark href="file:///media/pelissd/SteamLibrary/steamapps/common/Grand%20Theft%20Auto%20V/dxvk.conf" added="2022-05-22T08:43:53.653000Z" modified="2022-05-22T08:44:08.084000Z" visited="2022-05-22T08:44:08.084000Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-09T13:03:54.104087Z" count="2"/>
+          <bookmark:application name="org.kde.kwrite" exec="kwrite %U %u" modified="2022-05-22T08:44:08.084000Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/im.riot.Riot.flatpakref" added="2022-04-09T12:47:49.308024Z" modified="2022-04-09T12:47:49.308033Z" visited="2022-04-09T12:47:49.308025Z">
+  <bookmark href="file:///media/pelissd/SteamLibrary/steamapps/common/Grand%20Theft%20Auto%20V" added="2022-05-22T08:50:49.903000Z" modified="2022-05-22T08:50:49.903000Z" visited="2022-05-22T08:50:49.903000Z">
     <info>
       <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.flatpak.ref"/>
+        <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-09T12:47:49.308028Z" count="1"/>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u %u" modified="2022-05-22T08:50:49.903000Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/Win10_21H2_EnglishInternational_x64.iso" added="2022-04-09T13:38:07.424834Z" modified="2022-04-09T13:38:07.424837Z" visited="2022-04-09T13:38:07.424835Z">
+  <bookmark href="file:///media/pelissd/SteamLibrary/steamapps/common/Grand%20Theft%20Auto%20V/Installers/Social-Club-Setup.exe" added="2022-05-22T08:53:30.210000Z" modified="2022-05-22T08:53:30.210000Z" visited="2022-05-22T08:53:30.210000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="wine" exec="wine start /unix %f %u" modified="2022-05-22T08:53:30.210000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/pelissd/SteamLibrary/steamapps/common/Grand%20Theft%20Auto%20V/Installers/Rockstar-Games-Launcher.exe" added="2022-05-22T08:53:58.820000Z" modified="2022-05-22T08:55:47.427000Z" visited="2022-05-22T08:55:47.427000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="wine" exec="wine start /unix %f %u" modified="2022-05-22T08:53:58.820000Z" count="1"/>
+          <bookmark:application name="com.github.Matoking.protontricks-launch" exec="/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=protontricks-launch --file-forwarding com.github.Matoking.protontricks --no-term @@ %f @@ %u" modified="2022-05-22T08:55:47.427000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tommi/Downloads/ArmouryCrateInstallTool.zip" added="2022-05-22T09:01:21.158000Z" modified="2022-05-22T09:01:21.158000Z" visited="2022-05-22T09:01:21.158000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2022-05-22T09:01:21.158000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tommi/Downloads/ArmouryCrateInstaller_3.1.4.0/ArmouryCrateInstaller.exe" added="2022-05-22T09:03:05.138949Z" modified="2022-05-22T09:25:42.475000Z" visited="2022-05-22T09:25:42.475000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="mainwindow.py" exec="&apos;mainwindow.py %u&apos;" modified="2022-05-22T09:04:18.034775Z" count="2"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2022-05-22T09:22:28.451000Z" count="3"/>
+          <bookmark:application name="wine" exec="wine start /unix %f %u" modified="2022-05-22T09:25:42.475000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tommi/Downloads/Nobara-36-KDE-5.iso" added="2022-05-22T10:18:17.100000Z" modified="2022-05-22T10:29:42.538760Z" visited="2022-05-22T10:18:17.100000Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/x-cd-image"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-09T13:38:07.424836Z" count="1"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2022-05-22T10:18:17.100000Z" count="1"/>
+          <bookmark:application name="Transmission" exec="&apos;transmission-gtk %u&apos;" modified="2022-05-22T10:29:42.538752Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/75A5805690131C16517F2BF37FE86440CB51902E.torrent" added="2022-04-09T13:40:59.554580Z" modified="2022-04-09T13:40:59.554585Z" visited="2022-04-09T13:40:59.554580Z">
+  <bookmark href="file:///home/tommi/Ty%C3%B6p%C3%B6yt%C3%A4/Nobara-36-KDE-5.iso.torrent" added="2022-05-22T10:30:14.503658Z" modified="2022-05-22T10:37:20.898000Z" visited="2022-05-22T10:37:20.898000Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/x-bittorrent"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-09T13:40:59.554582Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/modapi-2022_04_10_07_48_49.zip" added="2022-04-10T05:48:50.164203Z" modified="2022-04-10T05:48:50.164207Z" visited="2022-04-10T05:48:50.164204Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-10T05:48:50.164205Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/onlyfans-mod-full.apk" added="2022-04-10T11:07:14.724963Z" modified="2022-04-10T11:07:14.724966Z" visited="2022-04-10T11:07:14.724963Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.android.package-archive"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-10T11:07:14.724965Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/android-x86-9.0-r2.x86_64.rpm" added="2022-04-10T11:08:35.776862Z" modified="2022-04-10T11:08:35.776868Z" visited="2022-04-10T11:08:35.776863Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-rpm"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-10T11:08:35.776865Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/hover-paywalls-browser-extension-master.zip" added="2022-04-10T11:23:05.829600Z" modified="2022-04-10T11:23:05.829603Z" visited="2022-04-10T11:23:05.829600Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-10T11:23:05.829602Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/OnlyFans-7.4.1.zip" added="2022-04-10T11:27:22.746532Z" modified="2022-04-10T11:27:22.746537Z" visited="2022-04-10T11:27:22.746533Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-10T11:27:22.746535Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/proxy-image.jpg" added="2022-04-10T12:54:11.927312Z" modified="2022-04-10T12:54:20.931628Z" visited="2022-04-10T12:54:11.927314Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-10T12:54:20.931626Z" count="3"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/ubuntu-20.04.4-live-server-amd64.iso.torrent" added="2022-04-12T13:06:54.170209Z" modified="2022-04-12T13:06:54.170214Z" visited="2022-04-12T13:06:54.170210Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-bittorrent"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-12T13:06:54.170212Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/ubuntu-20.04.4-live-server-amd64.iso" added="2022-04-12T13:08:43.358354Z" modified="2022-04-12T13:08:43.358357Z" visited="2022-04-12T13:08:43.358354Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-cd-image"/>
-        <bookmark:applications>
-          <bookmark:application name="virt-manager" exec="&apos;virt-manager %u&apos;" modified="2022-04-12T13:08:43.358355Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/dupeguru-4.2.1-2.x86_64.rpm" added="2022-04-13T12:22:57.909944Z" modified="2022-04-13T12:22:57.909947Z" visited="2022-04-13T12:22:57.909944Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-rpm"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-13T12:22:57.909946Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/wine-lutris-GE-Proton7-8-x86_64.tar.xz" added="2022-04-13T13:25:03.034625Z" modified="2022-04-13T13:25:03.034629Z" visited="2022-04-13T13:25:03.034626Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-xz-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-13T13:25:03.034627Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/TRAOD_P4(mv6.6.4).zip" added="2022-04-13T14:11:40.603242Z" modified="2022-04-13T14:11:40.603252Z" visited="2022-04-13T14:11:40.603243Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-13T14:11:40.603244Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/tails-amd64-4.29.img" added="2022-04-14T12:37:53.331746Z" modified="2022-04-14T12:38:06.831107Z" visited="2022-04-14T12:37:53.331747Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-raw-disk-image"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-14T12:37:53.331749Z" count="1"/>
-          <bookmark:application name="gnome-disks" exec="&apos;gnome-disks %u&apos;" modified="2022-04-14T12:38:06.831106Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/Qubes-R4.1.0-x86_64.torrent" added="2022-04-14T13:08:36.299496Z" modified="2022-04-14T13:08:36.299499Z" visited="2022-04-14T13:08:36.299496Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-bittorrent"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-14T13:08:36.299497Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Qubes-R4.1.0-x86_64/Qubes-R4.1.0-x86_64.iso" added="2022-04-14T13:16:33.513824Z" modified="2022-04-14T13:16:33.513826Z" visited="2022-04-14T13:16:33.513824Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-cd-image"/>
-        <bookmark:applications>
-          <bookmark:application name="virt-manager" exec="&apos;virt-manager %u&apos;" modified="2022-04-14T13:16:33.513825Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/WhatsApp-Image-2021-08-25-at-4.46.32-PM.jpeg" added="2022-04-14T14:19:32.755813Z" modified="2022-04-14T14:21:41.332911Z" visited="2022-04-14T14:19:32.755814Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-14T14:21:41.332910Z" count="3"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/71269C18-E4D1-47D4-A21A-8998801F3296.jpg" added="2022-04-14T14:20:02.585660Z" modified="2022-04-14T14:21:51.306474Z" visited="2022-04-14T14:20:02.585661Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-14T14:21:51.306473Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/archlinux-2022.04.05-x86_64.iso" added="2022-04-14T14:44:11.857057Z" modified="2022-04-14T14:45:31.220057Z" visited="2022-04-14T14:44:11.857059Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-cd-image"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-14T14:44:11.857078Z" count="1"/>
-          <bookmark:application name="balena-etcher-electron.bin" exec="&apos;balena-etcher-electron.bin %u&apos;" modified="2022-04-14T14:45:31.220053Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/balena-etcher-electron-1.7.8-linux-x64.zip" added="2022-04-14T14:44:56.068052Z" modified="2022-04-14T14:44:56.068062Z" visited="2022-04-14T14:44:56.068054Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-14T14:44:56.068058Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Lataukset/kde-cyberpunk-config.tar.gz" added="2022-04-14T14:47:04.415566Z" modified="2022-04-14T14:47:04.415574Z" visited="2022-04-14T14:47:04.415567Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-14T14:47:04.415570Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/.mozilla.zip" added="2022-04-14T14:53:34.310120Z" modified="2022-04-14T14:53:59.272882Z" visited="2022-04-14T14:53:34.310121Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-14T14:53:59.272880Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/.kde.zip" added="2022-04-14T14:53:34.310133Z" modified="2022-04-14T14:53:59.272890Z" visited="2022-04-14T14:53:34.310133Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-04-14T14:53:59.272889Z" count="2"/>
+          <bookmark:application name="Transmission" exec="&apos;transmission-gtk %u&apos;" modified="2022-05-22T10:30:14.503659Z" count="1"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2022-05-22T10:37:20.898000Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>

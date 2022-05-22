@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Among Trees
-Comment=Play this game on Steam
-Exec=steam steam://rungameid/897730
-Icon=steam_icon_897730
-Terminal=false
-Type=Application
-Categories=Game;

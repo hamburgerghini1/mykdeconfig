@@ -17,8 +17,8 @@ raiseOnActivityChange=false
 raiseOnDesktopChange=false
 timerHide=500
 timerShow=0
-viewType=0
-visibility=2
+viewType=1
+visibility=0
 wallpaperplugin=org.kde.image
 
 [Containments][17][Applets][307]
@@ -29,33 +29,53 @@ plugin=org.kde.latte.plasmoid
 PreloadWeight=0
 
 [Containments][17][Applets][307][Configuration][General]
+animationLauncherBouncing=false
+animationWindowAddedInGroup=false
+animationWindowInAttention=false
 isInLatteDock=true
 isPreferredForDroppedLaunchers=false
 launchers59=applications:org.kde.dolphin.desktop,applications:brave-browser.desktop,applications:org.kde.konsole.desktop,applications:systemsettings.desktop,applications:discord.desktop,applications:com.spotify.Client.desktop,applications:net.lutris.Lutris.desktop,applications:steam.desktop
 manualScrollTasksType=Disabled
 
+[Containments][17][Applets][413]
+immutability=1
+plugin=org.kde.plasma.showdesktop
+
+[Containments][17][Applets][414]
+immutability=1
+plugin=org.kde.plasma.compact-shutdown
+
+[Containments][17][Applets][414][Configuration]
+PreloadWeight=55
+
 [Containments][17][Configuration]
 PreloadWeight=0
 
 [Containments][17][General]
+alignment=10
 alignmentUpgraded=true
-appletOrder=307
+appletOrder=414;413;307
+appletShadowsEnabled=false
+autoSizeEnabled=false
 configurationSticker=true
+dragActiveWindowEnabled=true
 editBackgroundOpacity=0.10000000000000003
+floatingInternalGapIsForced=false
 lengthExtMargin=10
 panelOutline=true
-panelSize=5
+panelSize=100
 panelTransparency=50
+plasmaBackgroundForPopups=true
 proportionIconSize=3
 screenEdgeMargin=5
 shadowOpacity=20
 shadowsUpgraded=true
-splitterPosition=1
-splitterPosition2=3
+splitterPosition=3
+splitterPosition2=5
 tasksUpgraded=true
 thickMargin=10
 titleTooltips=false
-zoomLevel=16
+zoomLevel=0
 
 [Containments][17][Indicator]
 customType=org.kde.latte.dashtopanel
@@ -693,7 +713,7 @@ immutability=1
 plugin=org.kde.plasma.keyboardindicator
 
 [Containments][6][Applets][11][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][6][Applets][12]
 immutability=1
@@ -728,7 +748,7 @@ immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][6][Applets][16][Configuration]
-PreloadWeight=0
+PreloadWeight=10
 
 [Containments][6][Applets][19]
 immutability=1
@@ -767,7 +787,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][6][Applets][410][Configuration]
-PreloadWeight=27
+PreloadWeight=42
 
 [Containments][6][Applets][411]
 immutability=1
@@ -788,7 +808,10 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][6][Applets][7][Configuration]
-PreloadWeight=0
+PreloadWeight=5
+
+[Containments][6][Applets][7][Configuration][General]
+currentTab=streams
 
 [Containments][6][Applets][8]
 immutability=1
@@ -809,9 +832,9 @@ DialogHeight=682
 DialogWidth=880
 
 [Containments][6][General]
-extraItems=org.kde.plasma.mediacontroller_plus,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.devicenotifier,org.kde.kscreen,org.kde.plasma.keyboardindicator,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.nightcolorcontrol,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.printmanager,org.kde.plasma.vault,org.kde.kdeconnect
+extraItems=org.kde.plasma.mediacontroller_plus,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.devicenotifier,org.kde.kscreen,org.kde.plasma.keyboardindicator,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.nightcolorcontrol,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.printmanager,org.kde.plasma.vault
 hiddenItems=org.kde.plasma.mediacontroller_plus,touchpad,Latte Dock_microphone,org.kde.plasma.notifications,org.kde.plasma.mediacontroller
-knownItems=org.kde.plasma.mediacontroller_plus,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.networkmanagement,org.kde.plasma.bluetooth,org.kde.plasma.nightcolorcontrol,org.kde.plasma.keyboardindicator,org.kde.plasma.battery,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.printmanager,org.kde.plasma.vault,org.kde.kdeconnect
+knownItems=org.kde.plasma.mediacontroller_plus,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.networkmanagement,org.kde.plasma.bluetooth,org.kde.plasma.nightcolorcontrol,org.kde.plasma.keyboardindicator,org.kde.plasma.battery,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.printmanager,org.kde.plasma.vault
 shownItems=org.kde.plasma.volume,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.keyboardindicator,KDE Daemon,org.kde.plasma.clipboard,org.kde.kscreen,org.kde.plasma.networkmanagement,org.kde.plasma.devicenotifier,org.kde.plasma.nightcolorcontrol,Package Manager,MSM Notifier for Plasma5
 
 [Containments][75]

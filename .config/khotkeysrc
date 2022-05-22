@@ -1025,6 +1025,7 @@ History Items[$d]
 
 [General]
 AllowKDEAppsToRememberWindowPositions[$d]
+BrowserApplication[$d]
 ColorScheme[$d]
 ColorSchemeHash[$d]
 fixed[$d]

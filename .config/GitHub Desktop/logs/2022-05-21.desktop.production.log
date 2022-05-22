@@ -61,3 +61,94 @@ Error: timed out
 2022-05-21T10:29:42.352Z - info: [ui] execPath: '/usr/lib/github-desktop/github-desktop'
 2022-05-21T10:29:42.656Z - info: [ui] Subscribed 'hamburgerghini1' to Alive channel
 2022-05-21T10:29:43.320Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.008s)
+2022-05-21T10:30:24.388Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.774s)
+2022-05-21T10:30:27.583Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 2.528s)
+2022-05-21T10:30:27.715Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 2.323s)
+2022-05-21T10:30:27.901Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 2.503s)
+2022-05-21T10:31:29.911Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 24.347s)
+2022-05-21T10:31:40.592Z - info: [ui] Executing unstageAll: git reset -- . (took 19.940s)
+2022-05-21T10:32:03.625Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 23.025s)
+2022-05-21T10:32:05.521Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 0.0s of which 0.0s paused, total 0.0s
+2022-05-21T10:32:05.521Z - info: [ui] Executing createCommit: git commit -F - (took 1.896s)
+2022-05-21T10:32:06.908Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/mykdeconfig' took 46.496s
+2022-05-21T10:32:11.777Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: mykdeconfig - hamburgerghini1 (has token)
+2022-05-21T10:32:59.796Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin main:main --progress (took 47.992s)
+2022-05-21T10:33:07.438Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 7.632s)
+2022-05-21T10:33:18.053Z - info: [ui] No submodules found. Skipping "git submodule status"
+2022-05-21T10:33:23.217Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: mykdeconfig - hamburgerghini1 (has token)
+2022-05-21T10:33:25.024Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.786s)
+2022-05-21T10:33:48.944Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/mykdeconfig' took 1.040s
+2022-05-21T10:34:05.734Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/mykdeconfig' took 0.939s
+2022-05-21T10:35:36.103Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: mykdeconfig - hamburgerghini1 (has token)
+2022-05-21T17:47:18.148Z - info: [ui] [AppStore] loading 2 repositories from store
+2022-05-21T17:47:18.151Z - info: [ui] [AppStore] found account: hamburgerghini1 (hamburgerghini1)
+2022-05-21T17:47:18.170Z - info: [ui] [BranchPruner] Last prune took place 8 hours ago - skipping
+2022-05-21T17:47:18.250Z - info: [ui] launching: 3.0.0-linux1 (Linux 5.17.9-xm1.0.fc36.x86_64)
+2022-05-21T17:47:18.251Z - info: [ui] execPath: '/usr/lib/github-desktop/github-desktop'
+2022-05-21T17:47:18.582Z - info: [ui] Subscribed 'hamburgerghini1' to Alive channel
+2022-05-21T17:48:05.132Z - info: [ui] [AppStore] loading 2 repositories from store
+2022-05-21T17:48:05.134Z - info: [ui] [AppStore] found account: hamburgerghini1 (hamburgerghini1)
+2022-05-21T17:48:05.139Z - info: [ui] Subscribed 'hamburgerghini1' to Alive channel
+2022-05-21T17:48:05.209Z - info: [ui] launching: 3.0.0-linux1 (Linux 5.17.9-xm1.0.fc36.x86_64)
+2022-05-21T17:48:05.211Z - info: [ui] execPath: '/usr/lib/github-desktop/github-desktop'
+2022-05-21T17:48:13.440Z - info: [ui] [BranchPruner] Last prune took place 8 hours ago - skipping
+2022-05-21T17:48:32.184Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 27.041s)
+2022-05-21T17:48:32.290Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 27.053s)
+2022-05-21T17:48:33.485Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 20.134s)
+2022-05-21T17:48:34.192Z - error: [ui] Could not load new contents for syntax highlighting
+Error: ENOENT: no such file or directory, open '/home/tommi/Asiakirjat/GitHub/mykdeconfig/.bash_history'
+2022-05-21T17:48:34.329Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 21.002s)
+2022-05-21T17:48:35.167Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 21.766s)
+2022-05-21T17:48:36.978Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 20.332s)
+2022-05-21T17:48:38.542Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: mykdeconfig - hamburgerghini1 (has token)
+2022-05-21T17:48:47.975Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 19.344s)
+2022-05-21T17:48:51.610Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 18.192s)
+2022-05-21T17:48:52.674Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 19.281s)
+2022-05-21T17:48:53.612Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 18.510s)
+2022-05-21T17:49:05.666Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 17.381s)
+2022-05-21T17:49:06.042Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: mykdeconfig - hamburgerghini1 (has token)
+2022-05-21T17:49:06.042Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 17.9s of which 0.0s paused, total 17.9s
+2022-05-21T17:49:07.756Z - error: [ui] Could not load new contents for syntax highlighting
+Error: ENOENT: no such file or directory, open '/home/tommi/Asiakirjat/GitHub/mykdeconfig/.bash_logout'
+2022-05-21T17:49:10.659Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 16.951s)
+2022-05-21T17:49:11.957Z - error: [ui] Could not load new contents for syntax highlighting
+Error: ENOENT: no such file or directory, open '/home/tommi/Asiakirjat/GitHub/mykdeconfig/.bash_history'
+2022-05-21T17:49:12.491Z - error: [ui] Could not load new contents for syntax highlighting
+Error: ENOENT: no such file or directory, open '/home/tommi/Asiakirjat/GitHub/mykdeconfig/.bash_logout'
+2022-05-21T17:49:13.950Z - error: [ui] Could not load new contents for syntax highlighting
+Error: ENOENT: no such file or directory, open '/home/tommi/Asiakirjat/GitHub/mykdeconfig/.bash_profile'
+2022-05-21T17:49:15.066Z - error: [ui] Could not load new contents for syntax highlighting
+Error: ENOENT: no such file or directory, open '/home/tommi/Asiakirjat/GitHub/mykdeconfig/.bash_logout'
+2022-05-21T17:49:15.820Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 37.230s)
+2022-05-21T17:49:17.188Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 16.964s)
+2022-05-21T17:49:18.142Z - error: [ui] Could not load new contents for syntax highlighting
+Error: ENOENT: no such file or directory, open '/home/tommi/Asiakirjat/GitHub/mykdeconfig/.bash_profile'
+2022-05-21T17:49:21.202Z - error: [ui] Could not load new contents for syntax highlighting
+Error: ENOENT: no such file or directory, open '/home/tommi/Asiakirjat/GitHub/mykdeconfig/.bash_logout'
+2022-05-21T17:49:21.945Z - error: [ui] Could not load new contents for syntax highlighting
+Error: ENOENT: no such file or directory, open '/home/tommi/Asiakirjat/GitHub/mykdeconfig/.bash_profile'
+2022-05-21T17:49:33.640Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 17.610s)
+2022-05-21T17:49:34.781Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 17.642s)
+2022-05-21T17:49:36.120Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 16.858s)
+2022-05-21T17:49:56.558Z - error: [ui] Could not load new contents for syntax highlighting
+Error: ENOENT: no such file or directory, open '/home/tommi/Asiakirjat/GitHub/mykdeconfig/Työpöytä/Wallpaper Engine.desktop'
+2022-05-21T17:50:08.018Z - info: [ui] [AppStore] loading 2 repositories from store
+2022-05-21T17:50:08.022Z - info: [ui] [AppStore] found account: hamburgerghini1 (hamburgerghini1)
+2022-05-21T17:50:08.052Z - info: [ui] [BranchPruner] Last prune took place 8 hours ago - skipping
+2022-05-21T17:50:08.136Z - info: [ui] launching: 3.0.0-linux1 (Linux 5.17.9-xm1.0.fc36.x86_64)
+2022-05-21T17:50:08.136Z - info: [ui] execPath: '/usr/lib/github-desktop/github-desktop'
+2022-05-21T17:50:08.479Z - info: [ui] Subscribed 'hamburgerghini1' to Alive channel
+2022-05-21T17:50:17.742Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 0.0s of which 0.0s paused, total 0.0s
+2022-05-21T17:50:24.717Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 16.689s)
+2022-05-21T17:50:24.794Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 16.666s)
+2022-05-21T17:50:25.753Z - error: [ui] Could not load new contents for syntax highlighting
+Error: ENOENT: no such file or directory, open '/home/tommi/Asiakirjat/GitHub/mykdeconfig/.bash_history'
+2022-05-21T17:50:32.493Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/hamburgerghini1/mykdeconfig.git - hamburgerghini1 (has token)
+2022-05-21T17:50:47.248Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 16.179s)
+2022-05-21T18:04:15.043Z - info: [ui] Executing clone: git -c credential.helper= -c protocol.version=2 -c init.defaultBranch=main clone --recursive --progress -- https://github.com/hamburgerghini1/mykdeconfig.git /home/tommi/Asiakirjat/GitHub/mykdeconfig (took 822.524s)
+2022-05-21T18:04:15.057Z - info: [ui] [AppStore] adding repository at /home/tommi/Asiakirjat/GitHub/mykdeconfig to store
+2022-05-21T18:04:15.117Z - info: [ui] [BranchPruner] Last prune took place 9 hours ago - skipping
+2022-05-21T18:04:16.140Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.048s)
+2022-05-21T18:04:16.446Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.375s)
+2022-05-21T18:04:17.189Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.029s)
+2022-05-21T18:07:37.614Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 0.0s of which 0.0s paused, total 0.0s

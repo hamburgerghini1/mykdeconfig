@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Thea 2 - The Shattering
-Exec=env WINEPREFIX="/media/pelissd/GOG/Thea 2 The Shattering/prefix" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\GOG.com\\\\Thea\\ 2\\ -\\ The\\ Shattering\\\\Thea\\ 2\\ -\\ The\\ Shattering.lnk
-Type=Application
-StartupNotify=true
-Path=/home/tommi/.cache/minigalaxy/extract/1582025844
-Icon=67A8_goggame-1582025844.0
-StartupWMClass=thea2.exe

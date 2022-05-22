@@ -1,5 +1,5 @@
-2022/05/21-13:27:50.318 8f75d Recovering log #3
-2022/05/21-13:27:50.418 8f75d Level-0 table #5: started
-2022/05/21-13:27:50.472 8f75d Level-0 table #5: 2784740 bytes OK
-2022/05/21-13:27:50.481 8f75d Delete type=0 #3
-2022/05/21-13:27:50.481 8f75d Delete type=3 #2
+2022/05/22-15:08:46.303 7aef Recovering log #3
+2022/05/22-15:08:46.404 7aef Level-0 table #5: started
+2022/05/22-15:08:46.452 7aef Level-0 table #5: 2784740 bytes OK
+2022/05/22-15:08:46.459 7aef Delete type=0 #3
+2022/05/22-15:08:46.459 7aef Delete type=3 #2

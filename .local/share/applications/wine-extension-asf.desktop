@@ -1,8 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=Windows Media Player
-MimeType=application/vnd.ms-asf;
-Exec=env WINEPREFIX="/media/pelissd/SteamLibrary/steamapps/compatdata/221040/pfx" wine start /ProgIDOpen ASFFile %f
-NoDisplay=true
-StartupNotify=true
-Icon=4025_wmplayer.0
