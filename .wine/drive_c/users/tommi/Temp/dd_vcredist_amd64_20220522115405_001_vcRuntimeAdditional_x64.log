@@ -1,0 +1,284 @@
+1: 0 2: 1033 3: 1252 
+=== Loki aloitettu: 22.5.2022  11:54:06 ===
+Viestin tyyppi: 0, Argumentti: 1033, 1252
+Viestin tyyppi: 1, Argumentti: Microsoft Visual C++ 2019 X64 Additional Runtime - 14.22.27821
+Toiminto 11:54:06: INSTALL. 
+Toiminto alkoi 11:54:06: INSTALL.
+1: 0 2: 1033 3: 1252 
+1: 0 2: 1033 3: 1252 
+=== Loki aloitettu: 22.5.2022  11:54:06 ===
+Viestin tyyppi: 0, Argumentti: 1033, 1252
+Viestin tyyppi: 1, Argumentti: Microsoft Visual C++ 2019 X64 Additional Runtime - 14.22.27821
+Toiminto 11:54:06: INSTALL. 
+Toiminto alkoi 11:54:06: INSTALL.
+1: Microsoft Visual C++ 2019 X64 Additional Runtime - 14.22.27821 2: {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378} 
+Toiminto 11:54:06: FindRelatedProducts. Etsitään tähän liittyviä sovelluksia
+Toiminto alkoi 11:54:06: FindRelatedProducts.
+Toiminto loppui 11:54:06: FindRelatedProducts. Paluuarvo 1.
+Toiminto 11:54:06: LaunchConditions. Arvioidaan käynnistysehtoja
+Toiminto alkoi 11:54:06: LaunchConditions.
+Toiminto loppui 11:54:06: LaunchConditions. Paluuarvo 1.
+Toiminto 11:54:06: ValidateProductID. 
+Toiminto alkoi 11:54:06: ValidateProductID.
+Toiminto loppui 11:54:06: ValidateProductID. Paluuarvo 1.
+Toiminto 11:54:06: CostInitialize. Lasketaan tilavaatimuksia
+Toiminto alkoi 11:54:06: CostInitialize.
+Toiminto loppui 11:54:06: CostInitialize. Paluuarvo 1.
+Toiminto 11:54:06: FileCost. Lasketaan tilavaatimuksia
+Toiminto alkoi 11:54:06: FileCost.
+Toiminto loppui 11:54:06: FileCost. Paluuarvo 1.
+Toiminto 11:54:06: CostFinalize. Lasketaan tilavaatimuksia
+Toiminto alkoi 11:54:06: CostFinalize.
+Toiminto loppui 11:54:06: CostFinalize. Paluuarvo 1.
+Toiminto 11:54:06: InstallValidate. Vahvistetaan asennusta
+Toiminto alkoi 11:54:06: InstallValidate.
+Toiminto loppui 11:54:06: InstallValidate. Paluuarvo 1.
+Toiminto 11:54:06: InstallInitialize. 
+Toiminto alkoi 11:54:06: InstallInitialize.
+Toiminto loppui 11:54:06: InstallInitialize. Paluuarvo 1.
+Toiminto 11:54:06: RemoveExistingProducts. Poistetaan sovelluksia
+Toiminto alkoi 11:54:06: RemoveExistingProducts.
+Toiminto loppui 11:54:06: RemoveExistingProducts. Paluuarvo 1.
+Toiminto 11:54:06: ProcessComponents. Päivitetään komponenttien rekisteröintiä
+Toiminto alkoi 11:54:06: ProcessComponents.
+Toiminto loppui 11:54:06: ProcessComponents. Paluuarvo 1.
+Toiminto 11:54:06: UnpublishFeatures. Kumotaan tuotteen ominaisuuksien julkaisua
+Toiminto alkoi 11:54:06: UnpublishFeatures.
+Toiminto loppui 11:54:06: UnpublishFeatures. Paluuarvo 1.
+Toiminto 11:54:06: RemoveRegistryValues. Poistetaan tietoja järjestelmärekisteristä
+Toiminto alkoi 11:54:06: RemoveRegistryValues.
+Toiminto loppui 11:54:06: RemoveRegistryValues. Paluuarvo 1.
+Toiminto 11:54:06: RemoveFiles. Poistetaan tiedostoja
+Toiminto alkoi 11:54:06: RemoveFiles.
+Toiminto loppui 11:54:06: RemoveFiles. Paluuarvo 1.
+Toiminto 11:54:06: InstallFiles. Kopioidaan uusia tiedostoja
+Toiminto alkoi 11:54:06: InstallFiles.
+Toiminto loppui 11:54:06: InstallFiles. Paluuarvo 1.
+Toiminto 11:54:06: WriteRegistryValues. Kirjoitetaan järjestelmärekisterin tietoja
+Toiminto alkoi 11:54:06: WriteRegistryValues.
+Toiminto loppui 11:54:06: WriteRegistryValues. Paluuarvo 1.
+Toiminto 11:54:06: RegisterUser. Rekisteröidään käyttäjää
+Toiminto alkoi 11:54:06: RegisterUser.
+Toiminto loppui 11:54:06: RegisterUser. Paluuarvo 1.
+Toiminto 11:54:06: RegisterProduct. Rekisteröidään tuotetta
+Toiminto alkoi 11:54:06: RegisterProduct.
+Toiminto loppui 11:54:06: RegisterProduct. Paluuarvo 1.
+Toiminto 11:54:06: PublishFeatures. Julkaistaan tuotteen ominaisuuksia
+Toiminto alkoi 11:54:06: PublishFeatures.
+Toiminto loppui 11:54:06: PublishFeatures. Paluuarvo 1.
+Toiminto 11:54:06: PublishProduct. Julkaistaan tuotteen tietoja
+Toiminto alkoi 11:54:06: PublishProduct.
+Toiminto loppui 11:54:06: PublishProduct. Paluuarvo 1.
+Toiminto 11:54:06: InstallFinalize. 
+Toiminto alkoi 11:54:06: InstallFinalize.
+Toiminto 11:54:06: ProcessComponents. Päivitetään komponenttien rekisteröintiä
+Toiminto alkoi 11:54:06: ProcessComponents.
+1: {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378} 2: {3639FCCA-5969-316D-AC18-E0C6B2B532E9} 3: 02:\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64\Version 
+1: {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378} 2: {D2959D22-4DB7-32AF-A1B0-8405C4221749} 3: 02:\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64\Version 
+1: {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378} 2: {99A922E3-648F-3C37-8AE6-78232F317B1E} 3: C:\windows\system32\mfc140.dll 
+1: {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378} 2: {8924DA15-E863-388D-A06B-E7A3931AD77B} 3: C:\windows\system32\mfc140u.dll 
+1: {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378} 2: {32252141-0BE5-3AFE-9849-D281CD954D43} 3: C:\windows\system32\mfcm140.dll 
+1: {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378} 2: {AD221A2C-956B-3F16-8F64-FC938CBFD1C9} 3: C:\windows\system32\mfcm140u.dll 
+1: {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378} 2: {CA9C8888-CEE6-38D6-A64D-33DA28675281} 3: C:\windows\system32\mfc140chs.dll 
+1: {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378} 2: {F692B585-1C66-3BD5-AC31-442E4221ED80} 3: C:\windows\system32\mfc140cht.dll 
+1: {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378} 2: {7F148EE8-E61F-3462-B6D4-E1411A8EC5C9} 3: C:\windows\system32\mfc140deu.dll 
+1: {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378} 2: {686933F1-9A99-3CD8-A071-2BE11CEA5E99} 3: C:\windows\system32\mfc140enu.dll 
+1: {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378} 2: {674A4EC5-F732-3C6D-A0FB-289D61963665} 3: C:\windows\system32\mfc140esn.dll 
+1: {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378} 2: {3A88BA88-2780-3262-A7A9-7A11D3ED9A88} 3: C:\windows\system32\mfc140fra.dll 
+1: {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378} 2: {8D300AD7-942A-3EDF-AA03-3D442AF99208} 3: C:\windows\system32\mfc140ita.dll 
+1: {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378} 2: {51C499DB-BD7A-31E9-AAFA-5D0813741B43} 3: C:\windows\system32\mfc140jpn.dll 
+1: {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378} 2: {C6C22F1F-CEB2-31D6-A2E9-8F124A82428F} 3: C:\windows\system32\mfc140kor.dll 
+1: {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378} 2: {21B0261D-5191-3D58-9C29-B9232B27D616} 3: C:\windows\system32\mfc140rus.dll 
+1: {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378} 2: {EA0D3A76-AE46-3F46-B94D-309D5097A125} 3: 02:\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\SP 
+1: {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378} 2: {225DB27C-EE31-3DF8-B4BB-AC5506C5673A} 3: 02:\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeAdditional\Install 
+1: {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378} 2: {04D1E303-8E0F-36D1-BC1F-E27EE209198A} 3: 02:\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\SP 
+1: {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378} 2: {ABC89929-9E1E-30F1-A5A6-C685BDDDB7E3} 3: 02:\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeAdditional\Install 
+1: {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378} 2: {610423BB-1113-392F-8B0A-340000E19044} 3: -1:\Software\Classes\Installer\Dependencies\Microsoft.VS.VC_RuntimeAdditionalVSU_amd64,v14\Version 
+Toiminto loppui 11:54:06: ProcessComponents. Paluuarvo 1.
+Toiminto 11:54:06: UnpublishFeatures. Kumotaan tuotteen ominaisuuksien julkaisua
+Toiminto alkoi 11:54:06: UnpublishFeatures.
+Toiminto loppui 11:54:06: UnpublishFeatures. Paluuarvo 1.
+Toiminto 11:54:06: RemoveRegistryValues. Poistetaan tietoja järjestelmärekisteristä
+Toiminto alkoi 11:54:06: RemoveRegistryValues.
+Toiminto loppui 11:54:06: RemoveRegistryValues. Paluuarvo 1.
+Toiminto 11:54:06: RemoveFiles. Poistetaan tiedostoja
+Toiminto alkoi 11:54:06: RemoveFiles.
+Tiedosto: mfc140.dll, Kansio: System64Folder
+Tiedosto: mfc140chs.dll, Kansio: System64Folder
+Tiedosto: mfc140cht.dll, Kansio: System64Folder
+Tiedosto: mfc140deu.dll, Kansio: System64Folder
+Tiedosto: mfc140enu.dll, Kansio: System64Folder
+Tiedosto: mfc140esn.dll, Kansio: System64Folder
+Tiedosto: mfc140fra.dll, Kansio: System64Folder
+Tiedosto: mfc140ita.dll, Kansio: System64Folder
+Tiedosto: mfc140jpn.dll, Kansio: System64Folder
+Tiedosto: mfc140kor.dll, Kansio: System64Folder
+Tiedosto: mfc140rus.dll, Kansio: System64Folder
+Tiedosto: mfc140u.dll, Kansio: System64Folder
+Tiedosto: mfcm140.dll, Kansio: System64Folder
+Tiedosto: mfcm140u.dll, Kansio: System64Folder
+Toiminto loppui 11:54:06: RemoveFiles. Paluuarvo 1.
+Toiminto 11:54:06: InstallFiles. Kopioidaan uusia tiedostoja
+Toiminto alkoi 11:54:06: InstallFiles.
+Tiedosto: mfc140.dll,  Kansio: System64Folder,  Koko: 5784560
+Tiedosto: mfc140chs.dll,  Kansio: System64Folder,  Koko: 47592
+Tiedosto: mfc140cht.dll,  Kansio: System64Folder,  Koko: 47376
+Tiedosto: mfc140deu.dll,  Kansio: System64Folder,  Koko: 76056
+Tiedosto: mfc140enu.dll,  Kansio: System64Folder,  Koko: 66536
+Tiedosto: mfc140esn.dll,  Kansio: System64Folder,  Koko: 75032
+Tiedosto: mfc140fra.dll,  Kansio: System64Folder,  Koko: 76056
+Tiedosto: mfc140ita.dll,  Kansio: System64Folder,  Koko: 74216
+Tiedosto: mfc140jpn.dll,  Kansio: System64Folder,  Koko: 55784
+Tiedosto: mfc140kor.dll,  Kansio: System64Folder,  Koko: 54760
+Tiedosto: mfc140rus.dll,  Kansio: System64Folder,  Koko: 72168
+Tiedosto: mfc140u.dll,  Kansio: System64Folder,  Koko: 5813224
+Tiedosto: mfcm140.dll,  Kansio: System64Folder,  Koko: 102680
+Tiedosto: mfcm140u.dll,  Kansio: System64Folder,  Koko: 102680
+Toiminto loppui 11:54:06: InstallFiles. Paluuarvo 1.
+Toiminto 11:54:06: WriteRegistryValues. Kirjoitetaan järjestelmärekisterin tietoja
+Toiminto alkoi 11:54:06: WriteRegistryValues.
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64, Nimi: Version, Arvo: v14.22.27821.00
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64, Nimi: Version, Arvo: v14.22.27821.00
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0, Nimi: SP, Arvo: 
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeAdditional, Nimi: Install, Arvo: 
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0, Nimi: SP, Arvo: 
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeAdditional, Nimi: Install, Arvo: 
+Avain: HKEY_LOCAL_MACHINE\Software\Classes\Installer\Dependencies\Microsoft.VS.VC_RuntimeAdditionalVSU_amd64,v14, Nimi: Version, Arvo: 14.22.27821
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64, Nimi: Installed, Arvo: 
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64, Nimi: Major, Arvo: 
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64, Nimi: Minor, Arvo: 
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64, Nimi: Bld, Arvo: 
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64, Nimi: Rbld, Arvo: 
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64, Nimi: Installed, Arvo: 
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64, Nimi: Major, Arvo: 
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64, Nimi: Minor, Arvo: 
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64, Nimi: Bld, Arvo: 
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64, Nimi: Rbld, Arvo: 
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0, Nimi: SPIndex, Arvo: 
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeAdditional, Nimi: InstallerType, Arvo: MSI
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeAdditional, Nimi: SP, Arvo: 
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeAdditional, Nimi: SPIndex, Arvo: 
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeAdditional, Nimi: SPName, Arvo: RTM
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeAdditional, Nimi: Version, Arvo: 14.22.27821
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeAdditional, Nimi: UpdateVersion, Arvo: 14.22.27821
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0, Nimi: SPIndex, Arvo: 
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeAdditional, Nimi: InstallerType, Arvo: MSI
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeAdditional, Nimi: SP, Arvo: 
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeAdditional, Nimi: SPIndex, Arvo: 
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeAdditional, Nimi: SPName, Arvo: RTM
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeAdditional, Nimi: Version, Arvo: 14.22.27821
+Avain: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeAdditional, Nimi: UpdateVersion, Arvo: 14.22.27821
+Avain: HKEY_LOCAL_MACHINE\Software\Classes\Installer\Dependencies\Microsoft.VS.VC_RuntimeAdditionalVSU_amd64,v14, Nimi: , Arvo: {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378}
+Avain: HKEY_LOCAL_MACHINE\Software\Classes\Installer\Dependencies\Microsoft.VS.VC_RuntimeAdditionalVSU_amd64,v14, Nimi: DisplayName, Arvo: Microsoft Visual C++ 2019 X64 Additional Runtime - 14.22.27821
+Toiminto loppui 11:54:06: WriteRegistryValues. Paluuarvo 1.
+Toiminto 11:54:06: RegisterUser. Rekisteröidään käyttäjää
+Toiminto alkoi 11:54:06: RegisterUser.
+1:  
+Toiminto loppui 11:54:06: RegisterUser. Paluuarvo 1.
+Toiminto 11:54:06: RegisterProduct. Rekisteröidään tuotetta
+Toiminto alkoi 11:54:06: RegisterProduct.
+1: {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378} 
+Toiminto loppui 11:54:06: RegisterProduct. Paluuarvo 1.
+Toiminto 11:54:06: PublishFeatures. Julkaistaan tuotteen ominaisuuksia
+Toiminto alkoi 11:54:06: PublishFeatures.
+Ominaisuus: VC_Runtime_Additional
+Ominaisuus: Provider
+Ominaisuus: Servicing_Key
+Toiminto loppui 11:54:06: PublishFeatures. Paluuarvo 1.
+Toiminto 11:54:06: PublishProduct. Julkaistaan tuotteen tietoja
+Toiminto alkoi 11:54:06: PublishProduct.
+1: {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378} 
+Toiminto loppui 11:54:06: PublishProduct. Paluuarvo 1.
+Toiminto loppui 11:54:06: InstallFinalize. Paluuarvo 1.
+Toiminto loppui 11:54:06: INSTALL. Paluuarvo 1.
+1: Microsoft Visual C++ 2019 X64 Additional Runtime - 14.22.27821 2: {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378} 3: 1 
+Property(S): UpgradeCode = {9B0BAA88-E15F-3A1F-ACC0-B206E9DDF71C}
+Property(S): TARGETDIR = C:\
+Property(S): System64Folder = C:\windows\system32\
+Property(S): SourceDir = C:\ProgramData\Package Cache\{6E2C7A8E-B17A-4637-9CE9-F0B1157CF378}v14.22.27821\packages\vcRuntimeAdditional_amd64\
+Property(S): ALLUSERS = 1
+Property(S): FILESINUSETEXT = The following applications should be closed before continuing the install:
+Property(S): INSTALLLEVEL = 2
+Property(S): LIMITUI = 1
+Property(S): REBOOT = ReallySuppress
+Property(S): REPAIR_REINSTALLMODE = pecmsu
+Property(S): ARPSYSTEMCOMPONENT = 1
+Property(S): LocProductName = Microsoft Visual C++ 2019 X64 Runtime
+Property(S): ProductCPU = amd64
+Property(S): ProductEdition = Runtime
+Property(S): ProductFamily = VC
+Property(S): RTM_ProductVersion = 14.22.27821
+Property(S): MsiLogging = voicewarmup
+Property(S): Manufacturer = Microsoft Corporation
+Property(S): ProductCode = {6E2C7A8E-B17A-4637-9CE9-F0B1157CF378}
+Property(S): ProductLanguage = 1033
+Property(S): ProductName = Microsoft Visual C++ 2019 X64 Additional Runtime - 14.22.27821
+Property(S): ProductVersion = 14.22.27821
+Property(S): DirectoryTable100_amd64 = DirectoryTable
+Property(S): SecureCustomProperties = IGNOREDEPENDENCIES;NEWERVCRUNTIMEVERSIONDETECTED;UPGRADEVCRUNTIME
+Property(S): AdminUser = 1
+Property(S): Privileged = 1
+Property(S): MsiRunningElevated = 1
+Property(S): CommonAppDataFolder = C:\ProgramData\
+Property(S): FavoritesFolder = C:\users\tommi\Favorites\
+Property(S): FontsFolder = C:\windows\Fonts\
+Property(S): SendToFolder = C:\users\tommi\AppData\Roaming\Microsoft\Windows\SendTo\
+Property(S): StartMenuFolder = C:\users\tommi\AppData\Roaming\Microsoft\Windows\Start Menu\
+Property(S): StartupFolder = C:\users\tommi\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\StartUp\
+Property(S): TemplateFolder = C:\users\tommi\AppData\Roaming\Microsoft\Windows\Templates\
+Property(S): DesktopFolder = C:\users\tommi\Desktop\
+Property(S): ProgramMenuFolder = C:\users\tommi\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\
+Property(S): AdminToolsFolder = C:\users\tommi\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools\
+Property(S): AppDataFolder = C:\users\tommi\AppData\Roaming\
+Property(S): SystemFolder = C:\windows\syswow64\
+Property(S): System16Folder = C:\windows\system32\
+Property(S): LocalAppDataFolder = C:\users\tommi\AppData\Local\
+Property(S): MyPicturesFolder = C:\users\tommi\Pictures\
+Property(S): PersonalFolder = C:\users\tommi\Documents\
+Property(S): WindowsFolder = C:\windows\
+Property(S): PrintHoodFolder = C:\users\tommi\AppData\Roaming\Microsoft\Windows\Printer Shortcuts\
+Property(S): NetHoodFolder = C:\users\tommi\AppData\Roaming\Microsoft\Windows\Network Shortcuts\
+Property(S): RecentFolder = C:\users\tommi\AppData\Roaming\Microsoft\Windows\Recent\
+Property(S): PhysicalMemory = 32009
+Property(S): WindowsVolume = C:\
+Property(S): TempFolder = C:\users\tommi\Temp\
+Property(S): VersionNT = 603
+Property(S): MsiNTProductType = 1
+Property(S): WindowsBuild = 9600
+Property(S): ServicePackLevel = 0
+Property(S): VersionMsi = 4.5
+Property(S): VersionDatabase = 400
+Property(S): Intel = 6
+Property(S): MsiAMD64 = 6
+Property(S): Msix64 = 6
+Property(S): VersionNT64 = 603
+Property(S): ProgramFiles64Folder = C:\Program Files\
+Property(S): ProgramFilesFolder = C:\Program Files (x86)\
+Property(S): CommonFiles64Folder = C:\Program Files\Common Files\
+Property(S): CommonFilesFolder = C:\Program Files (x86)\Common Files\
+Property(S): ScreenX = 1920
+Property(S): ScreenY = 1080
+Property(S): ColorBits = 32
+Property(S): UserSID = S-1-5-21-0-0-0-1000
+Property(S): MsiNetAssemblySupport = 2.0.50727.4016
+Property(S): UserLanguageID = 1035
+Property(S): SystemLanguageID = 1035
+Property(S): ProductState = -1
+Property(S): LogonUser = tommi
+Property(S): ComputerName = DSL-TREBNG11-54
+Property(S): UILevel = 2
+Property(S): PackageCode = {55A3A51E-8943-4E16-A721-B5EB4A4F8E58}
+Property(S): DATABASE = C:\windows\Installer\ca25.msi
+Property(S): OriginalDatabase = C:\ProgramData\Package Cache\{6E2C7A8E-B17A-4637-9CE9-F0B1157CF378}v14.22.27821\packages\vcRuntimeAdditional_amd64\vc_runtimeAdditional_x64.msi
+Property(S): SOURCEDIR = C:\ProgramData\Package Cache\{6E2C7A8E-B17A-4637-9CE9-F0B1157CF378}v14.22.27821\packages\vcRuntimeAdditional_amd64\
+Property(S): MSIFASTINSTALL = 7
+Property(S): NOVSUI = 1
+Property(S): ACTION = INSTALL
+Property(S): EXECUTEACTION = INSTALL
+Property(S): CostingComplete = 1
+Property(S): ROOTDRIVE = C:\
+Property(S): OutOfDiskSpace = 0
+Property(S): OutOfNoRbDiskSpace = 0
+1: 2 2: 0 
+1: 2 2: 1 
+Toiminto loppui 11:54:06: INSTALL. Paluuarvo 1.

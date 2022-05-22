@@ -1,0 +1,9 @@
+22.5.2022 12.25.44: isFirst = False ,forcelang = 
+22.5.2022 12.25.44: Shell_TrayWnd exist
+22.5.2022 12.25.44: after InitializeComponent
+22.5.2022 12.25.45: WinLoad
+22.5.2022 12.25.45: Shell_TrayWnd exist
+22.5.2022 12.25.45: Shell_TrayWnd mMaxWait-1,mWaitTime=1
+22.5.2022 12.25.46: Shell_TrayWnd mMaxWait4,mWaitTime=2
+22.5.2022 12.25.47: Shell_TrayWnd mMaxWait4,mWaitTime=3
+22.5.2022 12.25.48: Shell_TrayWnd mMaxWait4,mWaitTime=4

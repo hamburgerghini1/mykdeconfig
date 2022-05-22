@@ -1,0 +1,621 @@
+"Registry"
+{
+	"HKLM"
+	{
+		"Software"
+		{
+			"Valve"
+			{
+				"Steam"
+				{
+					"SteamPID"		"2556"
+					"TempAppCmdLine"		""
+					"ReLaunchCmdLine"		""
+					"ClientLauncherType"		"0"
+				}
+			}
+		}
+	}
+	"HKCU"
+	{
+		"Software"
+		{
+			"Valve"
+			{
+				"Steam"
+				{
+					"steamglobal"
+					{
+						"language"		"english"
+					}
+					"language"		"english"
+					"SourceModInstallPath"		"/home/tommi/.local/share/Steam/steamapps\\sourcemods"
+					"Rate"		"30000"
+					"AlreadyRetriedOfflineMode"		"0"
+					"AutoLoginUser"		"pussydestroyer66629"
+					"apps"
+					{
+						"1091500"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"1551360"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+							"name"		"Forza Horizon 5"
+						}
+						"19000"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"203160"
+						{
+							"Installed"		"0"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"206420"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"21690"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+							"name"		"Resident Evil 5"
+						}
+						"221040"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+							"name"		"Resident Evil 6"
+						}
+						"238010"
+						{
+							"Installed"		"0"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"271590"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+							"name"		"Grand Theft Auto V"
+						}
+						"287290"
+						{
+							"Installed"		"0"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"337000"
+						{
+							"Installed"		"0"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"391220"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"403640"
+						{
+							"Installed"		"0"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"431960"
+						{
+							"Installed"		"0"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"442120"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+							"name"		"Pinball FX3"
+						}
+						"55230"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"578080"
+						{
+							"Installed"		"0"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"730"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+							"name"		"Counter-Strike: Global Offensive"
+						}
+						"750920"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"760160"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+							"name"		"Vampire: The Masquerade - Bloodhunt"
+						}
+						"883710"
+						{
+							"Installed"		"0"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"887800"
+						{
+							"Installed"		"0"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"952060"
+						{
+							"Installed"		"0"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"952070"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+							"name"		"RESIDENT EVIL RESISTANCE"
+						}
+						"228980"
+						{
+							"Updating"		"0"
+							"Installed"		"1"
+							"Running"		"0"
+						}
+						"366150"
+						{
+							"Installed"		"0"
+						}
+						"476950"
+						{
+							"Installed"		"0"
+						}
+						"476951"
+						{
+							"Installed"		"0"
+						}
+						"476952"
+						{
+							"Installed"		"0"
+						}
+						"418700"
+						{
+							"Installed"		"1"
+						}
+						"418690"
+						{
+							"Installed"		"1"
+						}
+						"418710"
+						{
+							"Installed"		"1"
+						}
+						"418680"
+						{
+							"Installed"		"1"
+						}
+						"418750"
+						{
+							"Installed"		"1"
+						}
+						"418790"
+						{
+							"Installed"		"1"
+						}
+						"418780"
+						{
+							"Installed"		"1"
+						}
+						"418770"
+						{
+							"Installed"		"1"
+						}
+						"418760"
+						{
+							"Installed"		"1"
+						}
+						"418800"
+						{
+							"Installed"		"1"
+						}
+						"418810"
+						{
+							"Installed"		"1"
+						}
+						"419110"
+						{
+							"Installed"		"1"
+						}
+						"437800"
+						{
+							"Installed"		"1"
+						}
+						"505540"
+						{
+							"Installed"		"1"
+						}
+						"541750"
+						{
+							"Installed"		"1"
+						}
+						"849165"
+						{
+							"Installed"		"1"
+						}
+						"849166"
+						{
+							"Installed"		"1"
+						}
+						"849167"
+						{
+							"Installed"		"1"
+						}
+						"849168"
+						{
+							"Installed"		"1"
+						}
+						"849170"
+						{
+							"Installed"		"1"
+						}
+						"849171"
+						{
+							"Installed"		"1"
+						}
+						"849308"
+						{
+							"Installed"		"1"
+						}
+						"849309"
+						{
+							"Installed"		"1"
+						}
+						"849310"
+						{
+							"Installed"		"1"
+						}
+						"849311"
+						{
+							"Installed"		"1"
+						}
+						"943200"
+						{
+							"Installed"		"1"
+						}
+						"849176"
+						{
+							"Installed"		"1"
+						}
+						"849177"
+						{
+							"Installed"		"1"
+						}
+						"849178"
+						{
+							"Installed"		"1"
+						}
+						"849179"
+						{
+							"Installed"		"1"
+						}
+						"849180"
+						{
+							"Installed"		"1"
+						}
+						"849181"
+						{
+							"Installed"		"1"
+						}
+						"849186"
+						{
+							"Installed"		"1"
+						}
+						"849187"
+						{
+							"Installed"		"1"
+						}
+						"849188"
+						{
+							"Installed"		"1"
+						}
+						"849302"
+						{
+							"Installed"		"1"
+						}
+						"849303"
+						{
+							"Installed"		"1"
+						}
+						"849304"
+						{
+							"Installed"		"1"
+						}
+						"849305"
+						{
+							"Installed"		"1"
+						}
+						"1058360"
+						{
+							"Installed"		"1"
+						}
+						"1109290"
+						{
+							"Installed"		"1"
+						}
+						"241100"
+						{
+							"Updating"		"0"
+						}
+						"1493710"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"1391110"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"1826330"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"1887720"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"1580130"
+						{
+							"Installed"		"0"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"1420170"
+						{
+							"Installed"		"0"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"1245040"
+						{
+							"Installed"		"0"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"1172470"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"352000"
+						{
+							"Installed"		"1"
+						}
+						"319810"
+						{
+							"Installed"		"0"
+						}
+						"320350"
+						{
+							"Installed"		"0"
+						}
+						"320351"
+						{
+							"Installed"		"0"
+						}
+						"320352"
+						{
+							"Installed"		"0"
+						}
+						"320353"
+						{
+							"Installed"		"0"
+						}
+						"320360"
+						{
+							"Installed"		"0"
+						}
+						"320361"
+						{
+							"Installed"		"0"
+						}
+						"320362"
+						{
+							"Installed"		"0"
+						}
+						"320363"
+						{
+							"Installed"		"0"
+						}
+						"320370"
+						{
+							"Installed"		"0"
+						}
+						"320371"
+						{
+							"Installed"		"0"
+						}
+						"320372"
+						{
+							"Installed"		"0"
+						}
+						"320380"
+						{
+							"Installed"		"0"
+						}
+						"320381"
+						{
+							"Installed"		"0"
+						}
+						"320382"
+						{
+							"Installed"		"0"
+						}
+						"320383"
+						{
+							"Installed"		"0"
+						}
+						"320384"
+						{
+							"Installed"		"0"
+						}
+						"320385"
+						{
+							"Installed"		"0"
+						}
+						"320386"
+						{
+							"Installed"		"0"
+						}
+						"320387"
+						{
+							"Installed"		"0"
+						}
+						"320388"
+						{
+							"Installed"		"0"
+						}
+						"920571"
+						{
+							"Installed"		"0"
+						}
+						"254700"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"863550"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+						}
+						"950540"
+						{
+							"Installed"		"1"
+						}
+						"950550"
+						{
+							"Installed"		"1"
+						}
+						"950551"
+						{
+							"Installed"		"1"
+						}
+						"950552"
+						{
+							"Installed"		"1"
+						}
+						"950553"
+						{
+							"Installed"		"1"
+						}
+						"950554"
+						{
+							"Installed"		"1"
+						}
+						"950555"
+						{
+							"Installed"		"1"
+						}
+						"950556"
+						{
+							"Installed"		"1"
+						}
+						"950557"
+						{
+							"Installed"		"1"
+						}
+						"950558"
+						{
+							"Installed"		"1"
+						}
+						"950559"
+						{
+							"Installed"		"1"
+						}
+						"950560"
+						{
+							"Installed"		"1"
+						}
+						"950561"
+						{
+							"Installed"		"1"
+						}
+						"950562"
+						{
+							"Installed"		"1"
+						}
+						"957733"
+						{
+							"Installed"		"1"
+						}
+						"957695"
+						{
+							"Installed"		"1"
+						}
+						"957730"
+						{
+							"Installed"		"1"
+						}
+						"957735"
+						{
+							"Installed"		"1"
+						}
+						"957696"
+						{
+							"Installed"		"1"
+						}
+						"957731"
+						{
+							"Installed"		"1"
+						}
+					}
+					"StartupMode"		"0"
+					"RunningAppID"		"0"
+				}
+			}
+			"Rockstar Games"
+			{
+			}
+		}
+	}
+}

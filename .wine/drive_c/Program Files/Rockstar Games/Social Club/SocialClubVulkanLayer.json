@@ -1,0 +1,11 @@
+{
+    "file_format_version" : "1.0.0",
+    "layer" : {
+        "name": "VK_LAYER_ROCKSTAR_GAMES_social_club",
+        "type": "GLOBAL",
+        "library_path": ".\\SocialClubVulkanLayer.dll",
+        "api_version": "1.0.70",
+        "implementation_version": "1",
+        "description": "Rockstar Games Social Club Layer"
+    }
+}

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Rockstar Games Launcher
+Exec=env WINEPREFIX="/home/tommi/.wine" wine C:\\\\Program\\ Files\\\\Rockstar\\ Games\\\\Launcher\\\\LauncherPatcher.exe 
+Type=Application
+StartupNotify=true
+Comment=Rockstar Games Launcher
+Path=/home/tommi/.wine/dosdevices/c:/Program Files/Rockstar Games/Launcher/
+Icon=357F_LauncherPatcher.0
+StartupWMClass=launcherpatcher.exe
