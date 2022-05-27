@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=folder-documents
+Name=Documents
+Type=Link
+URL[$e]=file:$HOME/Documents
+X-KDE-LastOpenedWith=org.kde.dolphin

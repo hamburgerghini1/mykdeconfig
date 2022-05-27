@@ -3,8 +3,8 @@ WINE REGISTRY Version 2
 
 #arch=win64
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders] 1653122565
-#time=1d86ceebe44b2a6
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders] 1653551932
+#time=1d870d6709c3344
 "Administrative Tools"="C:\\users\\tommi\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools"
 "AppData"="C:\\users\\tommi\\AppData\\Roaming"
 "Cache"="C:\\users\\tommi\\AppData\\Local\\Microsoft\\Windows\\INetCache"
@@ -33,8 +33,8 @@ WINE REGISTRY Version 2
 "{A520A1A4-1780-4FF6-BD18-167343C5AF16}"="C:\\users\\tommi\\AppData\\LocalLow"
 "{BFB9D5E0-C6A9-404C-B2B2-AE6DB6AF4968}"="C:\\users\\tommi\\Links"
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders] 1653122565
-#time=1d86ceebe44a69e
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders] 1653551932
+#time=1d870d6709c2a48
 "Administrative Tools"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools"
 "AppData"=str(2):"%USERPROFILE%\\AppData\\Roaming"
 "Cache"=str(2):"%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\INetCache"

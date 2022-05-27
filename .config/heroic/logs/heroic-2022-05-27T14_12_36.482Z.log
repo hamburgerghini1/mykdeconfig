@@ -1,0 +1,47 @@
+(17:12:36) DEBUG:   [Legendary]:       Running Legendary command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(17:12:37) INFO:    [Legendary]:       Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(17:12:37) INFO:    [Gog]:             GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(17:12:37) INFO:    [Backend]:         
+  Heroic Version: 2.3.3 Brook
+  Legendary Version:  0.20.25 Our Benefactors
+  OS: Garuda KERNEL: 5.17.9-zen1-1-zen ARCH: x64
+  CPU: Intel Core™ i5-10600K @4.1 GOVERNOR: performance
+  RAM: Total: 31.25 GiB Available: 28.13 GiB
+  GRAPHICS: GPU0: Navi 22 [Radeon RX 6700/6700 XT/6750 XT / 6800M] VRAM: 1MB DRIVER:  
+  PROTOCOL: x11
+  
+(17:12:37) WARNING: [Backend]:         Protocol already registered.
+(17:12:37) INFO:    [Frontend]:        Refreshing Library
+(17:12:37) INFO:    [Legendary]:       Refreshing library...
+(17:12:37) INFO:    [Legendary]:       Refreshing Epic Games...
+(17:12:38) DEBUG:   [Legendary]:       Running Legendary command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list
+(17:12:38) INFO:    [Legendary]:       Updating game list
+(17:12:38) INFO:    [Legendary]:       Game List Updated
+(17:12:39) INFO:    [Legendary]:       Checking for game updates: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list-installed --check-updates --tsv
+(17:12:39) DEBUG:   [Legendary]:       Running Legendary command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list-installed --check-updates --tsv
+(17:12:40) INFO:    [Legendary]:       Found 0 game(s) to update
+(17:12:40) INFO:    [Gog]:             Found 0 game(s) to update
+(17:12:44) INFO:    [Backend]:         Launching BioShock Remastered (bc2c95c6ff564a16b26644f1d3ac3c55)
+(17:12:44) DEBUG:   [Legendary]:       Running Wine command: "/home/tommi/.config/heroic/tools/wine/wine-7.9-staging-amd64/bin/wine" wineboot --init
+(17:12:52) DEBUG:   [Legendary]:       Ran Wine command: "/home/tommi/.config/heroic/tools/wine/wine-7.9-staging-amd64/bin/wine" wineboot --init
+(17:12:52) INFO:    [Backend]:         Created/Updated Wineprefix at /home/tommi/Games/Heroic/Prefixes/BioshockRemastered
+(17:12:52) INFO:    [Legendary]:       Launching BioShock Remastered: WINEPREFIX=/home/tommi/Games/Heroic/Prefixes/BioshockRemastered /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch bc2c95c6ff564a16b26644f1d3ac3c55 --wine /home/tommi/.config/heroic/tools/wine/wine-7.9-staging-amd64/bin/wine --wine-prefix /home/tommi/Games/Heroic/Prefixes/BioshockRemastered
+(17:12:52) DEBUG:   [Legendary]:       Running Legendary command: WINEPREFIX=/home/tommi/Games/Heroic/Prefixes/BioshockRemastered /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch bc2c95c6ff564a16b26644f1d3ac3c55 --wine /home/tommi/.config/heroic/tools/wine/wine-7.9-staging-amd64/bin/wine --wine-prefix /home/tommi/Games/Heroic/Prefixes/BioshockRemastered
+(17:12:58) DEBUG:   [Legendary]:       Running Legendary command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(17:12:58) INFO:    [Backend]:         Log was written to /home/tommi/.config/heroic/GamesConfig/bc2c95c6ff564a16b26644f1d3ac3c55-lastPlay.log
+(17:12:58) INFO:    [Frontend]:        Refreshing Library
+(17:12:58) INFO:    [Legendary]:       Refreshing library...
+(17:12:58) INFO:    [Legendary]:       Updating game list
+(17:12:58) INFO:    [Legendary]:       Game List Updated
+(17:13:09) INFO:    [Legendary]:       Uninstalling bc2c95c6ff564a16b26644f1d3ac3c55: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary uninstall bc2c95c6ff564a16b26644f1d3ac3c55 -y
+(17:13:09) DEBUG:   [Legendary]:       Running Legendary command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary uninstall bc2c95c6ff564a16b26644f1d3ac3c55 -y
+(17:13:10) INFO:    [Legendary]:       Installed game list updated
+(17:13:10) INFO:    [Legendary]:       Installed game list updated
+(17:13:10) INFO:    Removing prefix /home/tommi/Games/Heroic/Prefixes/BioshockRemastered
+(17:13:10) INFO:    [Backend]:         finished uninstalling
+(17:13:10) INFO:    [Backend]:         Desktop shortcut removed
+(17:13:10) INFO:    [Backend]:         Applications shortcut removed
+(17:13:10) INFO:    [Frontend]:        Refreshing Library
+(17:13:10) INFO:    [Legendary]:       Refreshing library...
+(17:13:10) INFO:    [Legendary]:       Updating game list
+(17:13:10) INFO:    [Legendary]:       Game List Updated

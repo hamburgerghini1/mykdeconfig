@@ -1,0 +1,1272 @@
+kdeinit5: preparing to launch '/usr/lib/kf5/klauncher'
+kdeinit5: Launched KLauncher, pid = 3486, result = 0
+kdeinit5: opened connection to :0
+kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/tommi/.gtkrc:/home/tommi/.config/gtkrc' from launcher.
+kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/tommi/.gtkrc-2.0:/home/tommi/.config/gtkrc-2.0' from launcher.
+kdeinit5: Got SETENV 'XCURSOR_THEME=Sweet-cursors' from launcher.
+kdeinit5: Got SETENV 'XCURSOR_SIZE=24' from launcher.
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/garuda:@/tmp/.ICE-unix/3557,unix/garuda:/tmp/.ICE-unix/3557' from launcher.
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/garuda:@/tmp/.ICE-unix/3557,unix/garuda:/tmp/.ICE-unix/3557' from launcher.
+Failed to load profile 'default': Profile not found (line 1502)
+[7094:0527/170722.498652:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+APPIMAGE env is not defined, current application is not an AppImage
+(17:07:22) WARNING: [Backend]:         Protocol already registered.
+[7044:0527/170722.964895:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[7044:0527/170722.964958:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[7044:0527/170722.965001:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+(node:7236) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 setGameStatus listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+(Use `exe --trace-warnings ...` to show where the warning was created)
+[2022-05-27 17:07:29.028] [7484] (engine.cpp:231): Time: Fri May 27 17:07:29 2022 EEST logLevel:2
+[2022-05-27 17:07:29.028] [7484] (audio_device_impl.cc:83): Create
+[2022-05-27 17:07:29.028] [7484] (audio_device_impl.cc:91): CreateForTest
+[2022-05-27 17:07:29.028] [7484] (audio_device_buffer.cc:64): AudioDeviceBuffer::ctor
+[2022-05-27 17:07:29.028] [7484] (audio_device_impl.cc:129): AudioDeviceModuleImpl
+[2022-05-27 17:07:29.028] [7484] (audio_device_impl.cc:133): CheckPlatform
+[2022-05-27 17:07:29.028] [7484] (audio_device_impl.cc:144): current platform is Linux
+[2022-05-27 17:07:29.028] [7484] (audio_device_impl.cc:163): CreatePlatformSpecificObjects
+[2022-05-27 17:07:29.028] [7484] (audio_device_impl.cc:992): PlatformAudioLayer
+[2022-05-27 17:07:29.028] [7484] (audio_device_impl.cc:299): PulseAudio support is enabled.
+[2022-05-27 17:07:29.028] [7484] (audio_mixer_manager_pulse_linux.cc:57): AudioMixerManagerLinuxPulse created
+[2022-05-27 17:07:29.028] [7484] (audio_device_pulse_linux.cc:81): AudioDeviceLinuxPulse created
+[2022-05-27 17:07:29.028] [7484] (audio_device_impl.cc:304): Linux PulseAudio APIs will be utilized
+[2022-05-27 17:07:29.028] [7484] (audio_device_impl.cc:345): AttachAudioBuffer
+[2022-05-27 17:07:29.028] [7484] (audio_device_buffer.cc:180): SetRecordingSampleRate(0)
+[2022-05-27 17:07:29.028] [7484] (audio_device_buffer.cc:186): SetPlayoutSampleRate(0)
+[2022-05-27 17:07:29.028] [7484] (audio_device_buffer.cc:200): SetRecordingChannels(0)
+[2022-05-27 17:07:29.028] [7484] (audio_device_buffer.cc:206): SetPlayoutChannels(0)
+[2022-05-27 17:07:29.028] [7484] (audio_engine.cpp:46): Creating audio engine: standard
+[2022-05-27 17:07:29.029] [7484] (audio_device_impl.cc:365): Init
+[2022-05-27 17:07:29.032] [7484] (audio_processing_impl.cc:274): Injected APM submodules:
+Echo control factory: 0
+Echo detector: 0
+Capture analyzer: 0
+Capture post processor: 0
+Render pre processor: 0
+[2022-05-27 17:07:29.032] [7484] (audio_processing_impl.cc:274): Injected APM submodules:
+Echo control factory: 1
+Echo detector: 0
+Capture analyzer: 0
+Capture post processor: 0
+Render pre processor: 0
+[2022-05-27 17:07:29.034] [7484] (audio_processing_impl.cc:531): AudioProcessing::ApplyConfig: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 }, high_pass_filter: { enabled: 1 }, echo_canceller: { enabled: 0, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, voice_detection: { enabled: 0 }, gain_controller1: { enabled: 0, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_level_minimum: 0, analog_level_maximum: 255 }, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, level_estimator: { vad_probability_attack: 1, type: Rms, adjacent_speech_frames_threshold: 1, initial_saturation_margin_db: 20, extra_saturation_margin_db: 2 }, gain_applier: { adjacent_speech_frames_threshold: 1, max_gain_change_db_per_second: 3, max_output_noise_level_dbfs: -50 }}}, residual_echo_detector: { enabled: 1 }, level_estimation: { enabled: 0 }}
+[2022-05-27 17:07:29.034] [7484] (audio_device_impl.cc:896): RegisterAudioCallback
+[2022-05-27 17:07:29.034] [7484] (audio_device_buffer.cc:81): RegisterAudioCallback
+[2022-05-27 17:07:29.087] [7484] (audio_device_impl.cc:355): ActiveAudioLayer
+[2022-05-27 17:07:29.118] [7484] (audio_engine.cpp:143): Setting audio input device: 'default'
+[2022-05-27 17:07:29.118] [7484] (audio_device_impl.cc:579): SetStereoRecording(1)
+[2022-05-27 17:07:29.118] [7484] (audio_device_buffer.cc:200): SetRecordingChannels(2)
+[2022-05-27 17:07:29.118] [7484] (audio_device_impl.cc:777): SetRecordingDevice(0)
+[2022-05-27 17:07:29.118] [7484] (audio_device_impl.cc:567): StereoRecordingIsAvailable
+[2022-05-27 17:07:29.118] [7484] (audio_mixer_manager_pulse_linux.cc:196): MicrophoneIsInitialized
+[2022-05-27 17:07:29.118] [7484] (audio_device_impl.cc:574): output: 0
+[2022-05-27 17:07:29.118] [7484] (audio_device_impl.cc:579): SetStereoRecording(0)
+[2022-05-27 17:07:29.118] [7484] (audio_device_buffer.cc:200): SetRecordingChannels(1)
+[2022-05-27 17:07:29.118] [7484] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2022-05-27 17:07:29.118] [7484] (audio_device_impl.cc:548): SetMicrophoneVolume(255)
+[2022-05-27 17:07:29.118] [7484] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2022-05-27 17:07:29.118] [7484] (audio_engine.cpp:154): Setting audio output device: 'Navi 21/23 HDMI/DP Audio Controller Digital Stereo (HDMI)'
+[2022-05-27 17:07:29.118] [7484] (audio_device_impl.cc:721): SetPlayoutDevice
+[2022-05-27 17:07:29.118] [7484] (audio_device_generic.cc:62): SetPlayoutDevice: Not supported on this platform
+[2022-05-27 17:07:29.119] [7484] (audio_device_impl.cc:709): SetPlayoutDevice(2)
+[2022-05-27 17:07:29.119] [7484] (audio_device_impl.cc:613): StereoPlayoutIsAvailable
+[2022-05-27 17:07:29.119] [7484] (audio_mixer_manager_pulse_linux.cc:189): SpeakerIsInitialized
+[2022-05-27 17:07:29.119] [7484] (audio_device_impl.cc:620): output: 1
+[2022-05-27 17:07:29.119] [7484] (audio_device_impl.cc:625): SetStereoPlayout(1)
+[2022-05-27 17:07:29.119] [7484] (audio_device_buffer.cc:206): SetPlayoutChannels(2)
+[2022-05-27 17:07:29.119] [7484] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2022-05-27 17:07:29.119] [7484] (audio_device_impl.cc:548): SetMicrophoneVolume(255)
+[2022-05-27 17:07:29.119] [7484] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2022-05-27 17:07:29.119] [7464] (discord.cpp:551): JS console: ["%c[default]","[BUILD INFO] Release Channel: stable, Build Number: 129954, Version Hash: 18fc43005993e0f9536a821622437efda933dfcc"]
+[2022-05-27 17:07:29.129] [7464] (discord.cpp:551): JS console: ["%c[default]","[NATIVE INFO] host 0.0.17, modules: discord_desktop_core: 3, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 6, discord_game_utils: 1, discord_rpc: 1"]
+[2022-05-27 17:07:29.158] [7464] (discord.cpp:551): JS console: ["[FAST CONNECT] connected in 424ms"]
+[2022-05-27 17:07:29.160] [7484] (audio_engine.cpp:143): Setting audio input device: 'default'
+[2022-05-27 17:07:29.160] [7484] (audio_device_impl.cc:827): RecordingIsInitialized
+[2022-05-27 17:07:29.160] [7484] (audio_device_impl.cc:579): SetStereoRecording(1)
+[2022-05-27 17:07:29.160] [7484] (audio_device_buffer.cc:200): SetRecordingChannels(2)
+[2022-05-27 17:07:29.160] [7484] (audio_device_impl.cc:777): SetRecordingDevice(0)
+[2022-05-27 17:07:29.160] [7484] (audio_device_impl.cc:567): StereoRecordingIsAvailable
+[2022-05-27 17:07:29.160] [7484] (audio_mixer_manager_pulse_linux.cc:196): MicrophoneIsInitialized
+[2022-05-27 17:07:29.161] [7484] (audio_device_impl.cc:574): output: 0
+[2022-05-27 17:07:29.161] [7484] (audio_device_impl.cc:579): SetStereoRecording(0)
+[2022-05-27 17:07:29.161] [7484] (audio_device_buffer.cc:200): SetRecordingChannels(1)
+[2022-05-27 17:07:29.161] [7484] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2022-05-27 17:07:29.161] [7484] (audio_device_impl.cc:548): SetMicrophoneVolume(255)
+[2022-05-27 17:07:29.161] [7484] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2022-05-27 17:07:29.161] [7484] (audio_engine.cpp:154): Setting audio output device: 'Navi 21/23 HDMI/DP Audio Controller Digital Stereo (HDMI)'
+[2022-05-27 17:07:29.161] [7484] (audio_device_impl.cc:821): PlayoutIsInitialized
+[2022-05-27 17:07:29.161] [7484] (audio_device_impl.cc:721): SetPlayoutDevice
+[2022-05-27 17:07:29.161] [7484] (audio_device_generic.cc:62): SetPlayoutDevice: Not supported on this platform
+[2022-05-27 17:07:29.161] [7484] (audio_device_impl.cc:709): SetPlayoutDevice(2)
+[2022-05-27 17:07:29.161] [7484] (audio_device_impl.cc:613): StereoPlayoutIsAvailable
+[2022-05-27 17:07:29.161] [7484] (audio_mixer_manager_pulse_linux.cc:189): SpeakerIsInitialized
+[2022-05-27 17:07:29.161] [7484] (audio_device_impl.cc:620): output: 1
+[2022-05-27 17:07:29.161] [7484] (audio_device_impl.cc:625): SetStereoPlayout(1)
+[2022-05-27 17:07:29.161] [7484] (audio_device_buffer.cc:206): SetPlayoutChannels(2)
+[2022-05-27 17:07:29.182] [7464] (discord.cpp:551): JS console: ["%c[Spellchecker]","sh is not a valid locale."]
+Error occurred in handler for 'DISCORD_SPELLCHECK_SET_LOCALE': Error: Invalid language code provided: "fi-FI" is not a valid language code
+    at /home/tommi/.config/discord/0.0.17/modules/discord_desktop_core/core.asar/app/discord_native/browser/spellCheck.js:22:35
+    at electron/js2c/browser_init.js:201:579
+    at Object.<anonymous> (electron/js2c/browser_init.js:165:9805)
+    at Object.emit (events.js:315:20)
+    at Object.EventEmitter.emit (domain.js:467:12)
+[2022-05-27 17:07:29.187] [7464] (discord.cpp:551): JS console: ["%c[Spellchecker]","Switching to fi-FI","(unavailable)"]
+[2022-05-27 17:07:29.468] [7464] (discord.cpp:551): JS console: ["Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.\nArguments: \n[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: 5/13/2022 10:00 -0800, _f: undefined, _strict: undefined, _locale: [object Object]\nError\n    at Function.createFromInputFallback (https://discord.com/assets/bea439df7995565773f9.js:5555:330)\n    at Vn (https://discord.com/assets/bea439df7995565773f9.js:5581:696)\n    at Kn (https://discord.com/assets/bea439df7995565773f9.js:5584:356)\n    at Wn (https://discord.com/assets/bea439df7995565773f9.js:5584:199)\n    at jn (https://discord.com/assets/bea439df7995565773f9.js:5583:886)\n    at zn (https://discord.com/assets/bea439df7995565773f9.js:5584:697)\n    at Xn (https://discord.com/assets/bea439df7995565773f9.js:5584:731)\n    at i (https://discord.com/assets/bea439df7995565773f9.js:5551:961)\n    at Object.962314 (https://discord.com/assets/3c9a1cd1d1fa06ab470b.js:1694:11)\n    at l (https://discord.com/assets/cd3332d81868415bd1f1.js:1:154)\n    at Object.72840 (https://discord.com/assets/3c9a1cd1d1fa06ab470b.js:1552:772)\n    at l (https://discord.com/assets/cd3332d81868415bd1f1.js:1:154)\n    at Object.900993 (https://discord.com/assets/3c9a1cd1d1fa06ab470b.js:54:163)\n    at l (https://discord.com/assets/cd3332d81868415bd1f1.js:1:154)\n    at Object.101327 (https://discord.com/assets/3c9a1cd1d1fa06ab470b.js:156:585)\n    at l (https://discord.com/assets/cd3332d81868415bd1f1.js:1:154)\n    at Object.206566 (https://discord.com/assets/3c9a1cd1d1fa06ab470b.js:163:278)\n    at l (https://discord.com/assets/cd3332d81868415bd1f1.js:1:154)\n    at Object.998872 (https://discord.com/assets/1dd7b0a472be6cc2247d.js:218:237)\n    at Function.l (https://discord.com/assets/cd3332d81868415bd1f1.js:1:154)"]
+[2022-05-27 17:07:29.550] [7464] (discord.cpp:551): JS console: ["%c[CloudSyncUtils]","CloudSync is not supported on this platform"]
+[2022-05-27 17:07:29.609] [7464] (discord.cpp:551): JS console: ["[DEPRECATED] Please use `subscribeWithSelector` middleware"]
+[2022-05-27 17:07:30.103] [7464] (discord.cpp:551): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zlib-stream"]
+[2022-05-27 17:07:30.103] [7464] (discord.cpp:551): JS console: ["[FAST CONNECT] successfully took over websocket, state:","[object Object]"]
+[2022-05-27 17:07:30.104] [7464] (discord.cpp:551): JS console: ["%c[GatewaySocket]","[CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zlib-stream in 0 ms"]
+[2022-05-27 17:07:30.104] [7464] (discord.cpp:551): JS console: ["%c[ConnectionStore]","handleIdentify called","[object Object]"]
+[2022-05-27 17:07:30.104] [7464] (discord.cpp:551): JS console: ["%c[GatewaySocket]","[IDENTIFY]"]
+[2022-05-27 17:07:30.109] [7464] (discord.cpp:551): JS console: ["%c[GatewaySocket]","[HELLO] via [\"gateway-prd-main-hx32\",{\"micros\":0.0}], heartbeat interval: 41250, took 6 ms"]
+[2022-05-27 17:07:30.116] [7464] (discord.cpp:551): JS console: ["%c[RPCServer:WSS]","Starting on 6463"]
+[2022-05-27 17:07:30.118] [7464] (discord.cpp:551): JS console: ["%c[RPCServer:IPC]","Starting on /run/user/1000/discord-ipc-0"]
+(17:07:30) ERROR:   [Backend]:         Error running Wine command: Error: Command failed: "/usr/bin/wine" wineboot --init
+002c:fixme:actctx:parse_depend_manifests Could not find dependent assembly L"Microsoft.Windows.Common-Controls" (6.0.0.0)
+002c:fixme:winediag:LdrInitializeThunk wine-staging 7.7 is a testing version containing experimental patches.
+002c:fixme:winediag:LdrInitializeThunk Please mention your exact version when filing bug reports on winehq.org.
+0050:err:winedevice:ServiceMain Failed to load L"C:\\windows\\system32\\win32k.sys"
+0050:err:winedevice:ServiceMain Failed to load L"C:\\windows\\system32\\drivers\\dxgkrnl.sys"
+0050:err:winedevice:ServiceMain Failed to load L"C:\\windows\\system32\\drivers\\dxgmms1.sys"
+0060:fixme:actctx:parse_depend_manifests Could not find dependent assembly L"Microsoft.Windows.Common-Controls" (6.0.0.0)
+0060:err:ole:StdMarshalImpl_MarshalInterface Failed to create ifstub, hr 0x80004002
+0060:err:ole:CoMarshalInterface Failed to marshal the interface {6d5140c1-7436-11ce-8034-00aa006009fa}, hr 0x80004002
+0060:err:ole:apartment_get_local_server_stream Failed: 0x80004002
+wine: could not load kernel32.dll, status c0000135
+0060:err:ole:start_rpcss Failed to open RpcSs service
+
+(17:07:30) ERROR:   [Backend]:         Unable to create Wineprefix:  TypeError: result.stderr.includes is not a function
+[2022-05-27 17:07:30.895] [7464] (discord.cpp:551): JS console: ["%c[GatewaySocket]","[READY] took 792ms, via [\"gateway-prd-main-hx32\",{\"micros\":370738,\"calls\":[\"discord-sessions-green-prd-2-9\",{\"micros\":354265,\"calls\":[\"start_session\",{\"micros\":227132,\"calls\":[\"discord-api-645d794f4c-k8ghq\",{\"micros\":209846,\"calls\":[\"get_user\",{\"micros\":27804},\"add_authorized_ip\",{\"micros\":20182},\"get_guilds\",{\"micros\":7369},\"private_channels\",{\"micros\":24933},\"read_states\",{\"micros\":15776},\"coros_wait\",{\"micros\":16337},\"aliases\",{\"micros\":7846},\"affine_user_ids\",{\"micros\":67386},\"experiments\",{\"micros\":8378}]}]},\"guilds_connect\",{\"micros\":6853,\"calls\":[]},\"presence_connect\",{\"micros\":1,\"calls\":[]}]}]}] as b9d9c3583a92aa8ad833475043cf805e"]
+[2022-05-27 17:07:30.907] [7464] (discord.cpp:551): JS console: ["%c[AuthenticationStore]","handleConnectionOpen called","[object Object]"]
+[2022-05-27 17:07:30.918] [7464] (discord.cpp:551): JS console: ["%c[Spotify]","WS Connecting"]
+[2022-05-27 17:07:30.919] [7464] (discord.cpp:551): JS console: ["%c[Spotify]","Added account: cimt-official"]
+[2022-05-27 17:07:30.930] [7464] (discord.cpp:551): JS console: ["%c[NativeDispatchUtils]","Tried getting Dispatch instance before instantiated"]
+[2022-05-27 17:07:30.949] [7464] (discord.cpp:551): JS console: ["%c[GatewaySocket]","[READY_SUPPLEMENTAL] took 845ms"]
+[2022-05-27 17:07:31.192] [7464] (discord.cpp:551): JS console: ["%c[Flux]","Slow batch emitChanges took 189ms recentActions:","I18N_LOAD_SUCCESS"]
+[2022-05-27 17:07:31.192] [7464] (discord.cpp:551): JS console: ["%c[Flux]","Slow dispatch on I18N_LOAD_SUCCESS: 189ms"]
+[2022-05-27 17:07:32.036] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:07:32.069] [7464] (discord.cpp:551): JS console: ["%c[RTCLatencyTestManager]","RTC cached preferred region is stockholm"]
+[2022-05-27 17:07:33.042] [7464] (discord.cpp:551): JS console: ["%c[Spotify]","WS Connected"]
+[2022-05-27 17:07:33.150] [7464] (discord.cpp:551): JS console: ["%c[Spotify]","Devices updated for cimt-official:",""]
+[2022-05-27 17:07:33.153] [7464] (discord.cpp:551): JS console: ["%c[Spotify]","Profile updated for cimt-official: isPremium = true"]
+[2022-05-27 17:07:35.039] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:07:38.042] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:07:41.045] [7485] (device_info_linux.cc:45): NumberOfDevices
+(node:7236) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 setGameStatus listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+(17:07:43) WARNING: [Backend]:         You are using Proton, this can lead to some bugs. Please do not open issues with bugs related to games
+(17:07:43) WARNING: No Steam runtime found
+[2022-05-27 17:07:44.048] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:07:47.052] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:07:50.055] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:07:53.058] [7485] (device_info_linux.cc:45): NumberOfDevices
+(node:7236) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 setGameStatus listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+[2022-05-27 17:07:56.060] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:07:59.063] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:08:02.066] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:08:05.069] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:08:08.072] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:08:11.076] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:08:14.079] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:08:17.082] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:08:20.084] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:08:23.088] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:08:26.090] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:08:29.093] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:08:32.097] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:08:35.099] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:08:38.102] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:08:41.106] [7485] (device_info_linux.cc:45): NumberOfDevices
+(node:7236) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 setGameStatus listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+[2022-05-27 17:08:44.109] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:08:47.112] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:08:50.114] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:08:53.118] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:08:56.120] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:08:59.124] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:09:02.127] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:09:05.130] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:09:08.132] [7485] (device_info_linux.cc:45): NumberOfDevices
+[12789:12789:0527/170909.460668:ERROR:sharing_service.cc(222)] Device registration failed with fatal error
+[2022-05-27 17:09:11.136] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:09:14.139] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:09:17.142] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:09:20.145] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:09:23.147] [7485] (device_info_linux.cc:45): NumberOfDevices
+[12789:12789:0527/170924.450188:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data for tabId: 86.  Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[12789:12789:0527/170924.450723:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data for tabId: 86.  Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[2022-05-27 17:09:26.150] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:09:29.154] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:09:32.157] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:09:35.160] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:09:38.162] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:09:41.164] [7485] (device_info_linux.cc:45): NumberOfDevices
+Fontconfig error: Cannot load default config file: No such file: (null)
+[2022-05-27 17:09:44.167] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:09:47.171] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:09:50.173] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:09:53.177] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:09:56.180] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:09:59.182] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:10:02.186] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:10:05.189] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:10:08.192] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:10:11.195] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:10:14.198] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:10:17.201] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:10:20.202] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:10:23.206] [7485] (device_info_linux.cc:45): NumberOfDevices
+[12789:12789:0527/171025.802658:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data for tabId: 95.  Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[12789:12789:0527/171025.803407:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data for tabId: 95.  Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[2022-05-27 17:10:26.208] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:10:29.211] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:10:32.215] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:10:35.217] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:10:38.220] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:10:41.223] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:10:44.227] [7485] (device_info_linux.cc:45): NumberOfDevices
+(node:7236) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 setGameStatus listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+[2022-05-27 17:10:47.229] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:10:50.233] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:10:53.236] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:10:56.238] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:10:59.241] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:11:02.245] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:11:05.247] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:11:08.251] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:11:11.254] [7485] (device_info_linux.cc:45): NumberOfDevices
+libpng error: Read Error
+[2022-05-27 17:11:14.256] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:11:17.260] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:11:20.262] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:11:23.265] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:11:26.269] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:11:29.271] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:11:32.275] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:11:35.278] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:11:38.281] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:11:41.283] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:11:44.287] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:11:47.289] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:11:50.292] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:11:53.296] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:11:56.299] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:11:59.302] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:12:02.305] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:12:05.308] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:12:08.312] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:12:11.315] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:12:14.318] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:12:17.321] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:12:20.325] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:12:23.328] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:12:26.330] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:12:29.334] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:12:32.337] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:12:35.340] [7485] (device_info_linux.cc:45): NumberOfDevices
+[23377:0527/171236.654979:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+APPIMAGE env is not defined, current application is not an AppImage
+(17:12:37) WARNING: [Backend]:         Protocol already registered.
+[22927:0527/171237.123370:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[22927:0527/171237.123423:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[22927:0527/171237.123465:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+(node:23490) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 setGameStatus listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+(Use `exe --trace-warnings ...` to show where the warning was created)
+[2022-05-27 17:12:38.342] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:12:41.346] [7485] (device_info_linux.cc:45): NumberOfDevices
+(node:23490) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 setGameStatus listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+[2022-05-27 17:12:44.348] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:12:47.351] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:12:50.353] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:12:53.357] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:12:56.360] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:12:59.363] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:13:02.365] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:13:05.369] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:13:08.371] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:13:11.374] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:13:14.377] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:13:17.381] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:13:20.384] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:13:23.387] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:13:26.390] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:13:29.392] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:13:32.396] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:13:35.399] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:13:38.402] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:13:41.405] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:13:44.408] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:13:47.412] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:13:50.414] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:13:53.417] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:13:56.420] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:13:59.423] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:14:02.426] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:14:05.429] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:14:08.432] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:14:11.435] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:14:14.438] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:14:17.441] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:14:20.445] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:14:23.447] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:14:26.450] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:14:29.453] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:14:32.456] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:14:35.459] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:14:38.462] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:14:41.465] [7485] (device_info_linux.cc:45): NumberOfDevices
+[29919:0527/171442.828321:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+[2022-05-27 17:14:44.468] [7485] (device_info_linux.cc:45): NumberOfDevices
+[30101:30101:0527/171445.627527:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data for tabId: 2.  Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[2022-05-27 17:14:47.471] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:14:50.474] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:14:53.477] [7485] (device_info_linux.cc:45): NumberOfDevices
+[30101:30101:0527/171455.386431:ERROR:sharing_service.cc(222)] Device registration failed with fatal error
+[2022-05-27 17:14:56.480] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:14:59.483] [7485] (device_info_linux.cc:45): NumberOfDevices
+[30101:30101:0527/171502.236784:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data for tabId: 2.  Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[30101:30159:0527/171502.330314:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+[2022-05-27 17:15:02.486] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:15:05.489] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:15:08.492] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:15:11.495] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:15:14.498] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:15:17.501] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:15:20.504] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:15:23.507] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:15:26.510] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:15:28.204] [7464] (discord.cpp:551): JS console: ["%c[MessageActionCreators]","Fetching messages for 727131232667828334 between undefined and undefined. jump=undefined"]
+[2022-05-27 17:15:28.276] [7464] (discord.cpp:551): JS console: ["%c[Routing/Utils]","transitionTo - Transitioning to /channels/580828709548720129/727131232667828334"]
+[2022-05-27 17:15:29.514] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:15:29.867] [7464] (discord.cpp:551): JS console: ["%c[MessageActionCreators]","Fetched 50 messages for 727131232667828334 isBefore:false isAfter:false"]
+[2022-05-27 17:15:29.978] [7464] (discord.cpp:551): JS console: ["%c[Flux]","Slow batch emitChanges took 108ms recentActions:","LOAD_MESSAGES_SUCCESS"]
+[2022-05-27 17:15:29.978] [7464] (discord.cpp:551): JS console: ["%c[Flux]","Slow dispatch on LOAD_MESSAGES_SUCCESS: 111ms"]
+[2022-05-27 17:15:32.516] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:15:35.520] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:15:38.523] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:15:41.526] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:15:44.528] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:15:47.531] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:15:50.534] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:15:53.538] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:15:56.541] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:15:59.543] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:16:02.546] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:16:05.549] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:16:08.552] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:16:11.555] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:16:14.558] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:16:17.561] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:16:20.564] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:16:23.568] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:16:26.570] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:16:29.573] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:16:32.576] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:16:35.579] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:16:38.583] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:16:41.585] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:16:44.588] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:16:47.591] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:16:50.594] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:16:53.597] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:16:56.600] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:16:59.603] [7485] (device_info_linux.cc:45): NumberOfDevices
+
+** (woeusbgui:37329): WARNING **: 17:17:01.715: Unable to connect to dbus: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): GLib-GIO-CRITICAL **: 17:17:01.720: g_dbus_connection_register_object: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(woeusbgui:37329): GLib-GIO-CRITICAL **: 17:17:01.721: g_dbus_connection_register_object: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(woeusbgui:37329): GLib-GIO-CRITICAL **: 17:17:01.721: g_dbus_connection_get_unique_name: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(woeusbgui:37329): GLib-GIO-CRITICAL **: 17:17:01.793: g_dbus_connection_register_object: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(woeusbgui:37329): GLib-GIO-CRITICAL **: 17:17:01.793: g_dbus_connection_register_object: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(woeusbgui:37329): GLib-GIO-CRITICAL **: 17:17:01.793: g_dbus_connection_get_unique_name: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+[2022-05-27 17:17:02.606] [7485] (device_info_linux.cc:45): NumberOfDevices
+
+(woeusbgui:37329): GLib-GIO-CRITICAL **: 17:17:05.200: g_dbus_connection_register_object: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(woeusbgui:37329): GLib-GIO-CRITICAL **: 17:17:05.200: g_dbus_connection_register_object: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(woeusbgui:37329): GLib-GIO-CRITICAL **: 17:17:05.200: g_dbus_connection_get_unique_name: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:05.218: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:05.230: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:05.243: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:05.260: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:05.277: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:05.294: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:05.311: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:05.328: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:05.346: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:05.363: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:05.379: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:05.397: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:05.414: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:05.431: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:05.448: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:05.465: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:05.481: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:05.498: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:05.515: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:05.532: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:05.549: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:05.566: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:05.583: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+[2022-05-27 17:17:05.609] [7485] (device_info_linux.cc:45): NumberOfDevices
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:05.901: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:06.292: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:06.308: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:06.327: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:06.343: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:06.360: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:06.377: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:06.394: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:06.410: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:06.495: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:06.529: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:06.546: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:06.563: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:06.580: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:06.597: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:06.614: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:06.631: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:06.647: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:06.664: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:07.325: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:07.341: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:07.357: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:07.374: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:07.391: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:07.407: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:07.424: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:07.440: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:07.457: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:07.474: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:07.490: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:07.507: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:07.524: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:07.541: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:07.557: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:07.574: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:07.694: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:07.712: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:07.729: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:07.746: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:07.763: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:07.781: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:07.798: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:08.178: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:08.196: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:08.212: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:08.229: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:08.246: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:08.263: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:08.279: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:08.296: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:08.313: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:08.329: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:08.363: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:08.380: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:08.396: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:08.596: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(woeusbgui:37329): dconf-WARNING **: 17:17:08.596: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=fefb9d113543495b80c7283df7899ac2 --binary-syntax --close-stderr”: Child process exited with code 1
+[2022-05-27 17:17:08.612] [7485] (device_info_linux.cc:45): NumberOfDevices
+
+(woeusbgui:37329): GLib-GIO-CRITICAL **: 17:17:10.003: g_dbus_connection_register_object: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(woeusbgui:37329): GLib-GIO-CRITICAL **: 17:17:10.003: g_dbus_connection_register_object: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(woeusbgui:37329): GLib-GIO-CRITICAL **: 17:17:10.003: g_dbus_connection_get_unique_name: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(woeusbgui:37329): GLib-GIO-CRITICAL **: 17:17:10.942: g_dbus_connection_register_object: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(woeusbgui:37329): GLib-GIO-CRITICAL **: 17:17:10.942: g_dbus_connection_register_object: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(woeusbgui:37329): GLib-GIO-CRITICAL **: 17:17:10.942: g_dbus_connection_get_unique_name: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+[2022-05-27 17:17:11.615] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:17:14.618] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:17:17.622] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:17:20.624] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:17:23.627] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:17:26.630] [7485] (device_info_linux.cc:45): NumberOfDevices
+[38328:38328:0527/171727.027579:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data for tabId: 2.  Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[2022-05-27 17:17:29.633] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:17:32.636] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:17:35.639] [7485] (device_info_linux.cc:45): NumberOfDevices
+[38328:38328:0527/171736.803546:ERROR:sharing_service.cc(222)] Device registration failed with fatal error
+[2022-05-27 17:17:38.642] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:17:41.645] [7485] (device_info_linux.cc:45): NumberOfDevices
+Fontconfig error: Cannot load default config file: No such file: (null)
+[2022-05-27 17:17:44.648] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:17:47.651] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:17:50.654] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:17:53.657] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:17:56.660] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:17:59.663] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:18:02.666] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:18:05.669] [7485] (device_info_linux.cc:45): NumberOfDevices
+steam.sh[40612]: Running Steam on garuda Soaring 64-bit
+steam.sh[40612]: STEAM_RUNTIME is disabled by the user
+steam.sh[40612]: Can't find 'steam-runtime-check-requirements', continuing anyway
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Loaded SDL version 2.0.22-7215337
+Gtk-Message: 17:18:07.017: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 17:18:07.019: Failed to load module "appmenu-gtk-module"
+
+(steam:40694): Gtk-WARNING **: 17:18:07.020: Unable to locate theme engine in module_path: "adwaita",
+
+(steam:40694): Gtk-WARNING **: 17:18:07.026: Unable to locate theme engine in module_path: "murrine",
+
+(steam:40694): Gtk-WARNING **: 17:18:07.026: Unable to locate theme engine in module_path: "murrine",
+
+(steam:40694): Gtk-WARNING **: 17:18:07.027: Unable to locate theme engine in module_path: "murrine",
+
+(steam:40694): Gtk-WARNING **: 17:18:07.027: Unable to locate theme engine in module_path: "murrine",
+
+(steam:40694): Gtk-WARNING **: 17:18:07.027: Unable to locate theme engine in module_path: "murrine",
+ComputeStartupMode: found registry default startup mode: 0Installing breakpad exception handler for appid(steam)/version(1653101165)
+steamwebhelper.sh[40730]: Runtime for steamwebhelper: disabled by environment (this is unsupported)
+steamwebhelper.sh[40730]: glibc >= 2.34, partially disabling sandbox until CEF supports clone3()
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+CAppInfoCacheReadFromDiskThread took 71 milliseconds to initialize
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+*** MESA_GLSL_CACHE_DIR is deprecated; use MESA_SHADER_CACHE_DIR instead ***
+*** MESA_GLSL_CACHE_MAX_SIZE is deprecated; use MESA_SHADER_CACHE_MAX_SIZE instead ***
+
+(steam:40694): Gtk-WARNING **: 17:18:07.988: gtk_disable_setlocale() must be called before gtk_init()
+*** MESA_GLSL_CACHE_DIR is deprecated; use MESA_SHADER_CACHE_DIR instead ***
+*** MESA_GLSL_CACHE_MAX_SIZE is deprecated; use MESA_SHADER_CACHE_MAX_SIZE instead ***
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+[2022-05-27 17:18:08.672] [7485] (device_info_linux.cc:45): NumberOfDevices
+*** MESA_GLSL_CACHE_DIR is deprecated; use MESA_SHADER_CACHE_DIR instead ***
+*** MESA_GLSL_CACHE_MAX_SIZE is deprecated; use MESA_SHADER_CACHE_MAX_SIZE instead ***
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+*** MESA_GLSL_CACHE_DIR is deprecated; use MESA_SHADER_CACHE_DIR instead ***
+*** MESA_GLSL_CACHE_MAX_SIZE is deprecated; use MESA_SHADER_CACHE_MAX_SIZE instead ***
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+src/clientdll/compatmanager.cpp (1024) : GetCompatibilityToolCommandLineInternal on dependent tool failed
+src/clientdll/compatmanager.cpp (1024) : GetCompatibilityToolCommandLineInternal on dependent tool failed
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+assert_20220527171810_27.dmp[40888]: Uploading dump (out-of-process)
+/tmp/dumps/assert_20220527171810_27.dmp
+roaming config store loaded successfully - 394 bytes.
+migrating temporary roaming config store
+BRefreshApplicationsInLibrary 1: 136ms
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Failed to init SteamVR because it isn't installed
+ExecCommandLine: "'/home/tommi/.local/share/Steam/ubuntu12_32/steam'"
+System startup time: 4.62 seconds
+[2022-05-27 17:18:11.675] [7485] (device_info_linux.cc:45): NumberOfDevices
+BuildCompleteAppOverviewChange: 366
+RegisterForAppOverview 1: 20ms
+RegisterForAppOverview 2: 20ms
+assert_20220527171810_27.dmp[40888]: Finished uploading minidump (out-of-process): success = yes
+assert_20220527171810_27.dmp[40888]: response: CrashID=bp-d4a05709-0963-4460-bae1-264d32220527
+assert_20220527171810_27.dmp[40888]: file ''/tmp/dumps/assert_20220527171810_27.dmp'', upload yes: ''CrashID=bp-d4a05709-0963-4460-bae1-264d32220527''
+[2022-05-27 17:18:14.678] [7485] (device_info_linux.cc:45): NumberOfDevices
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+[2022-05-27 17:18:17.681] [7485] (device_info_linux.cc:45): NumberOfDevices
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+ExecuteSteamURL: "steam://open/downloads"
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+[2022-05-27 17:18:20.684] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:18:23.687] [7485] (device_info_linux.cc:45): NumberOfDevices
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+[2022-05-27 17:18:26.690] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:18:29.693] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:18:32.696] [7485] (device_info_linux.cc:45): NumberOfDevices
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+[2022-05-27 17:18:35.699] [7485] (device_info_linux.cc:45): NumberOfDevices
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+[2022-05-27 17:18:36.663] [7464] (discord.cpp:551): JS console: ["%c[RunningGameStore]","games","[object Object]"]
+[2022-05-27 17:18:36.695] [7464] (discord.cpp:551): JS console: ["%c[NativeDispatchUtils]","Tried getting Dispatch instance before instantiated"]
+[2022-05-27 17:18:36.701] [7464] (discord.cpp:551): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 41235"]
+[2022-05-27 17:18:38.702] [7485] (device_info_linux.cc:45): NumberOfDevices
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+[2022-05-27 17:18:41.705] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:18:44.708] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:18:46.664] [7464] (discord.cpp:551): JS console: ["%c[RunningGameStore]","games","[object Object]"]
+[2022-05-27 17:18:46.670] [7464] (discord.cpp:551): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 41548"]
+[2022-05-27 17:18:46.671] [7464] (discord.cpp:551): JS console: ["%c[NativeDispatchUtils]","Tried getting Dispatch instance before instantiated"]
+[2022-05-27 17:18:47.711] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:18:50.714] [7485] (device_info_linux.cc:45): NumberOfDevices
+GameAction [AppID 760160, ActionID 1] : LaunchApp changed task to ShowLaunchOption with ""
+GameAction [AppID 760160, ActionID 1] : LaunchApp waiting for user response to ShowLaunchOption ""
+[2022-05-27 17:18:53.717] [7485] (device_info_linux.cc:45): NumberOfDevices
+GameAction [AppID 760160, ActionID 1] : LaunchApp continues with user response "0"
+GameAction [AppID 760160, ActionID 1] : LaunchApp changed task to ProcessingInstallScript with ""
+[2022-05-27 17:18:56.666] [7464] (discord.cpp:551): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object]"]
+[2022-05-27 17:18:56.672] [7464] (discord.cpp:551): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 41844"]
+[2022-05-27 17:18:56.672] [7464] (discord.cpp:551): JS console: ["%c[NativeDispatchUtils]","Tried getting Dispatch instance before instantiated"]
+[2022-05-27 17:18:56.720] [7485] (device_info_linux.cc:45): NumberOfDevices
+fsync: up and running.
+wine: Using setpriority to control niceness in the [-11,11] range
+[2022-05-27 17:18:59.723] [7485] (device_info_linux.cc:45): NumberOfDevices
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+[2022-05-27 17:19:01.673] [7464] (discord.cpp:551): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2022-05-27 17:19:01.678] [7464] (discord.cpp:551): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 41844"]
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+[2022-05-27 17:19:02.726] [7485] (device_info_linux.cc:45): NumberOfDevices
+GameAction [AppID 760160, ActionID 1] : LaunchApp changed task to SynchronizingControllerConfig with ""
+GameAction [AppID 760160, ActionID 1] : LaunchApp changed task to ProcessingShaderCache with ""
+Fossilize INFO: Setting autogroup scheduling.
+Fossilize INFO: Setting autogroup scheduling.
+[2022-05-27 17:19:05.729] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:19:06.684] [7464] (discord.cpp:551): JS console: ["%c[RunningGameStore]","games","[object Object]"]
+[2022-05-27 17:19:06.697] [7464] (discord.cpp:551): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 42428"]
+[2022-05-27 17:19:06.697] [7464] (discord.cpp:551): JS console: ["%c[NativeDispatchUtils]","Tried getting Dispatch instance before instantiated"]
+GameAction [AppID 760160, ActionID 1] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+GameAction [AppID 760160, ActionID 1] : LaunchApp changed task to CreatingProcess with ""
+GameAction [AppID 760160, ActionID 1] : LaunchApp waiting for user response to CreatingProcess ""
+GameAction [AppID 760160, ActionID 1] : LaunchApp continues with user response "CreatingProcess"
+/bin/sh\0-c\0mangohud /home/tommi/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=760160 -- '/media/pelissd/SteamLibrary/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=waitforexitandrun -- '/media/pelissd/SteamLibrary/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/media/pelissd/SteamLibrary/steamapps/common/Bloodhunt/Tiger.exe'\0
+Game process added : AppID 760160 "mangohud /home/tommi/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=760160 -- '/media/pelissd/SteamLibrary/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=waitforexitandrun -- '/media/pelissd/SteamLibrary/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/media/pelissd/SteamLibrary/steamapps/common/Bloodhunt/Tiger.exe'", ProcID 42745, IP 0.0.0.0:0
+GameAction [AppID 760160, ActionID 1] : LaunchApp changed task to WaitingGameWindow with ""
+GameAction [AppID 760160, ActionID 1] : LaunchApp changed task to Completed with ""
+ERROR: ld.so: object '/home/tommi/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/tommi/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/tommi/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/tommi/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+ERROR: ld.so: object '/home/tommi/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/tommi/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/tommi/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+pid 42749 != 42746, skipping destruction (fork without exec?)
+fsync: up and running.
+wine: Using setpriority to control niceness in the [-11,11] range
+[2022-05-27 17:19:08.732] [7485] (device_info_linux.cc:45): NumberOfDevices
+ThreadGetProcessExitCode: no such process 42962
+ThreadGetProcessExitCode: no such process 42960
+ThreadGetProcessExitCode: no such process 42959
+ThreadGetProcessExitCode: no such process 42958
+ThreadGetProcessExitCode: no such process 42747
+Game process updated : AppID 760160 "mangohud /home/tommi/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=760160 -- '/media/pelissd/SteamLibrary/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=waitforexitandrun -- '/media/pelissd/SteamLibrary/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/media/pelissd/SteamLibrary/steamapps/common/Bloodhunt/Tiger.exe'", ProcID 42961, IP 0.0.0.0:0
+Setting breakpad minidump AppID = 760160
+Steam_SetMinidumpSteamID:  Caching Steam ID:  76561198817292831 [API loaded no]
+*** MESA_GLSL_CACHE_DIR is deprecated; use MESA_SHADER_CACHE_DIR instead ***
+*** MESA_GLSL_CACHE_MAX_SIZE is deprecated; use MESA_SHADER_CACHE_MAX_SIZE instead ***
+[2022-05-27 17:19:10.342] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/wine-explorer.conf' [ not found ]
+[2022-05-27 17:19:10.342] [MANGOHUD] [info] [config.cpp:112] skipping config: '/media/pelissd/SteamLibrary/steamapps/common/Proton - Experimental/files/bin/MangoHud.conf' [ not found ]
+[2022-05-27 17:19:10.342] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-05-27 17:19:10.342] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/MangoHud.conf' [ not found ]
+sh: 1: glxinfo: not found
+*** MESA_GLSL_CACHE_DIR is deprecated; use MESA_SHADER_CACHE_DIR instead ***
+*** MESA_GLSL_CACHE_DIR is deprecated; use MESA_SHADER_CACHE_DIR instead ***
+*** MESA_GLSL_CACHE_MAX_SIZE is deprecated; use MESA_SHADER_CACHE_MAX_SIZE instead ***
+*** MESA_GLSL_CACHE_MAX_SIZE is deprecated; use MESA_SHADER_CACHE_MAX_SIZE instead ***
+[2022-05-27 17:19:10.379] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/wine-explorer.conf' [ not found ]
+[2022-05-27 17:19:10.379] [MANGOHUD] [info] [config.cpp:112] skipping config: '/media/pelissd/SteamLibrary/steamapps/common/Proton - Experimental/files/bin/MangoHud.conf' [ not found ]
+[2022-05-27 17:19:10.379] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-05-27 17:19:10.379] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/MangoHud.conf' [ not found ]
+[2022-05-27 17:19:10.379] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/wine-explorer.conf' [ not found ]
+[2022-05-27 17:19:10.380] [MANGOHUD] [info] [config.cpp:112] skipping config: '/media/pelissd/SteamLibrary/steamapps/common/Proton - Experimental/files/bin/MangoHud.conf' [ not found ]
+[2022-05-27 17:19:10.380] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-05-27 17:19:10.380] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/MangoHud.conf' [ not found ]
+sh: 1: glxinfo: not found
+sh: 1: glxinfo: not found
+*** MESA_GLSL_CACHE_DIR is deprecated; use MESA_SHADER_CACHE_DIR instead ***
+*** MESA_GLSL_CACHE_MAX_SIZE is deprecated; use MESA_SHADER_CACHE_MAX_SIZE instead ***
+[2022-05-27 17:19:10.435] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/wine-explorer.conf' [ not found ]
+[2022-05-27 17:19:10.435] [MANGOHUD] [info] [config.cpp:112] skipping config: '/media/pelissd/SteamLibrary/steamapps/common/Proton - Experimental/files/bin/MangoHud.conf' [ not found ]
+[2022-05-27 17:19:10.435] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-05-27 17:19:10.435] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/MangoHud.conf' [ not found ]
+sh: 1: glxinfo: not found
+ThreadGetProcessExitCode: no such process 42965
+*** MESA_GLSL_CACHE_DIR is deprecated; use MESA_SHADER_CACHE_DIR instead ***
+*** MESA_GLSL_CACHE_MAX_SIZE is deprecated; use MESA_SHADER_CACHE_MAX_SIZE instead ***
+[2022-05-27 17:19:11.009] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/wine-Tiger.conf' [ not found ]
+[2022-05-27 17:19:11.009] [MANGOHUD] [info] [config.cpp:112] skipping config: '/media/pelissd/SteamLibrary/steamapps/common/Proton - Experimental/files/bin/MangoHud.conf' [ not found ]
+[2022-05-27 17:19:11.009] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/wine-preloader.conf' [ not found ]
+[2022-05-27 17:19:11.009] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/MangoHud.conf' [ not found ]
+sh: 1: glxinfo: not found
+*** MESA_GLSL_CACHE_DIR is deprecated; use MESA_SHADER_CACHE_DIR instead ***
+*** MESA_GLSL_CACHE_MAX_SIZE is deprecated; use MESA_SHADER_CACHE_MAX_SIZE instead ***
+[2022-05-27 17:19:11.033] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/wine-Tiger.conf' [ not found ]
+[2022-05-27 17:19:11.033] [MANGOHUD] [info] [config.cpp:112] skipping config: '/media/pelissd/SteamLibrary/steamapps/common/Proton - Experimental/files/bin/MangoHud.conf' [ not found ]
+[2022-05-27 17:19:11.033] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/wine-preloader.conf' [ not found ]
+[2022-05-27 17:19:11.033] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/MangoHud.conf' [ not found ]
+sh: 1: glxinfo: not found
+[2022-05-27 17:19:11.073] [MANGOHUD] [info] [overlay.cpp:716] Uploading is disabled (permit_upload = 0)
+Fossilize INFO: Overriding serialization path: "/media/pelissd/SteamLibrary/steamapps/shadercache/760160/fozpipelinesv6/steamapprun_pipeline_cache".
+Installing breakpad exception handler for appid(gameoverlayui)/version(20220521022212)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+[2022-05-27 17:19:11.676] [7464] (discord.cpp:551): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2022-05-27 17:19:11.686] [7464] (discord.cpp:551): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 43094"]
+[2022-05-27 17:19:11.686] [7464] (discord.cpp:551): JS console: ["%c[NativeDispatchUtils]","Tried getting Dispatch instance before instantiated"]
+[2022-05-27 17:19:11.735] [7485] (device_info_linux.cc:45): NumberOfDevices
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/site-packages/lutris/game.py", line 662, in beat
+    game_pids = self.get_game_pids()
+  File "/usr/lib/python3.10/site-packages/lutris/game.py", line 616, in get_game_pids
+    return set(game_pids + [
+  File "/usr/lib/python3.10/site-packages/lutris/game.py", line 618, in <listcomp>
+    if Process(pid).environ.get("LUTRIS_GAME_UUID") == self.game_uuid
+  File "/usr/lib/python3.10/site-packages/lutris/util/process.py", line 114, in environ
+    _environ_text = self._read_content(environ_path)
+  File "/usr/lib/python3.10/site-packages/lutris/util/process.py", line 39, in _read_content
+    content = proc_file.read()
+  File "/usr/lib/python3.10/codecs.py", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xf7 in position 9411: invalid start byte
+Game process updated : AppID 760160 "mangohud /home/tommi/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=760160 -- '/media/pelissd/SteamLibrary/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=waitforexitandrun -- '/media/pelissd/SteamLibrary/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/media/pelissd/SteamLibrary/steamapps/common/Bloodhunt/Tiger.exe'", ProcID 43168, IP 0.0.0.0:0
+Game process updated : AppID 760160 "mangohud /home/tommi/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=760160 -- '/media/pelissd/SteamLibrary/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=waitforexitandrun -- '/media/pelissd/SteamLibrary/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/media/pelissd/SteamLibrary/steamapps/common/Bloodhunt/Tiger.exe'", ProcID 43168, IP 0.0.0.0:0
+*** MESA_GLSL_CACHE_DIR is deprecated; use MESA_SHADER_CACHE_DIR instead ***
+*** MESA_GLSL_CACHE_MAX_SIZE is deprecated; use MESA_SHADER_CACHE_MAX_SIZE instead ***
+[2022-05-27 17:19:13.456] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/wine-Tiger-Win64-Shipping.conf' [ not found ]
+[2022-05-27 17:19:13.456] [MANGOHUD] [info] [config.cpp:112] skipping config: '/media/pelissd/SteamLibrary/steamapps/common/Proton - Experimental/files/bin/MangoHud.conf' [ not found ]
+[2022-05-27 17:19:13.456] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-05-27 17:19:13.456] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/MangoHud.conf' [ not found ]
+sh: 1: glxinfo: not found
+*** MESA_GLSL_CACHE_DIR is deprecated; use MESA_SHADER_CACHE_DIR instead ***
+*** MESA_GLSL_CACHE_MAX_SIZE is deprecated; use MESA_SHADER_CACHE_MAX_SIZE instead ***
+[2022-05-27 17:19:13.837] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/wine-Tiger-Win64-Shipping.conf' [ not found ]
+[2022-05-27 17:19:13.837] [MANGOHUD] [info] [config.cpp:112] skipping config: '/media/pelissd/SteamLibrary/steamapps/common/Proton - Experimental/files/bin/MangoHud.conf' [ not found ]
+[2022-05-27 17:19:13.837] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-05-27 17:19:13.837] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/MangoHud.conf' [ not found ]
+sh: 1: glxinfo: not found
+*** MESA_GLSL_CACHE_DIR is deprecated; use MESA_SHADER_CACHE_DIR instead ***
+*** MESA_GLSL_CACHE_MAX_SIZE is deprecated; use MESA_SHADER_CACHE_MAX_SIZE instead ***
+[2022-05-27 17:19:13.910] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/wine-Tiger-Win64-Shipping.conf' [ not found ]
+[2022-05-27 17:19:13.910] [MANGOHUD] [info] [config.cpp:112] skipping config: '/media/pelissd/SteamLibrary/steamapps/common/Proton - Experimental/files/bin/MangoHud.conf' [ not found ]
+[2022-05-27 17:19:13.910] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-05-27 17:19:13.910] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/MangoHud.conf' [ not found ]
+sh: 1: glxinfo: not found
+ThreadGetProcessExitCode: no such process 43094
+[2022-05-27 17:19:13.988] [MANGOHUD] [info] [overlay.cpp:716] Uploading is disabled (permit_upload = 0)
+Fossilize INFO: Overriding serialization path: "/media/pelissd/SteamLibrary/steamapps/shadercache/760160/fozpipelinesv6/steamapprun_pipeline_cache".
+*** MESA_GLSL_CACHE_DIR is deprecated; use MESA_SHADER_CACHE_DIR instead ***
+*** MESA_GLSL_CACHE_MAX_SIZE is deprecated; use MESA_SHADER_CACHE_MAX_SIZE instead ***
+[2022-05-27 17:19:14.258] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/wine-Tiger-Win64-Shipping.conf' [ not found ]
+[2022-05-27 17:19:14.258] [MANGOHUD] [info] [config.cpp:112] skipping config: '/media/pelissd/SteamLibrary/steamapps/common/Proton - Experimental/files/bin/MangoHud.conf' [ not found ]
+[2022-05-27 17:19:14.258] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-05-27 17:19:14.258] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/MangoHud.conf' [ not found ]
+sh: 1: glxinfo: not found
+*** MESA_GLSL_CACHE_DIR is deprecated; use MESA_SHADER_CACHE_DIR instead ***
+*** MESA_GLSL_CACHE_MAX_SIZE is deprecated; use MESA_SHADER_CACHE_MAX_SIZE instead ***
+[2022-05-27 17:19:14.310] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/wine-Tiger-Win64-Shipping.conf' [ not found ]
+[2022-05-27 17:19:14.310] [MANGOHUD] [info] [config.cpp:112] skipping config: '/media/pelissd/SteamLibrary/steamapps/common/Proton - Experimental/files/bin/MangoHud.conf' [ not found ]
+[2022-05-27 17:19:14.310] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-05-27 17:19:14.310] [MANGOHUD] [info] [config.cpp:112] skipping config: '/home/tommi/.config/MangoHud/MangoHud.conf' [ not found ]
+sh: 1: glxinfo: not found
+[2022-05-27 17:19:14.390] [MANGOHUD] [info] [overlay.cpp:716] Uploading is disabled (permit_upload = 0)
+Fossilize INFO: Overriding serialization path: "/media/pelissd/SteamLibrary/steamapps/shadercache/760160/fozpipelinesv6/steamapprun_pipeline_cache".
+[2022-05-27 17:19:14.738] [7485] (device_info_linux.cc:45): NumberOfDevices
+
+(process:43150): GLib-GObject-CRITICAL **: 17:19:15.103: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+Installing breakpad exception handler for appid(gameoverlayui)/version(20220521022212)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+[2022-05-27 17:19:16.677] [7464] (discord.cpp:551): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2022-05-27 17:19:16.684] [7464] (discord.cpp:551): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 43168"]
+[2022-05-27 17:19:16.684] [7464] (discord.cpp:551): JS console: ["%c[NativeDispatchUtils]","Tried getting Dispatch instance before instantiated"]
+[2022-05-27 17:19:17.741] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:19:20.744] [7485] (device_info_linux.cc:45): NumberOfDevices
+
+(process:43333): GLib-GObject-CRITICAL **: 17:19:20.887: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+Installing breakpad exception handler for appid(gameoverlayui)/version(20220521022212)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+[2022-05-27 17:19:21.697] [7464] (discord.cpp:551): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2022-05-27 17:19:21.718] [7464] (discord.cpp:551): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 43168"]
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+[2022-05-27 17:19:23.748] [7485] (device_info_linux.cc:45): NumberOfDevices
+src/steamexe/main.cpp (253) : Assertion Failed: reaping pid: 43150 -- gameoverlayui
+
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+assert_20220527171925_54.dmp[43518]: Uploading dump (out-of-process)
+/tmp/dumps/assert_20220527171925_54.dmp
+
+(process:43408): GLib-GObject-CRITICAL **: 17:19:26.372: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+Installing breakpad exception handler for appid(gameoverlayui)/version(20220521022212)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+[2022-05-27 17:19:26.679] [7464] (discord.cpp:551): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2022-05-27 17:19:26.687] [7464] (discord.cpp:551): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 43168"]
+[2022-05-27 17:19:26.751] [7485] (device_info_linux.cc:45): NumberOfDevices
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+assert_20220527171925_54.dmp[43518]: Finished uploading minidump (out-of-process): success = yes
+assert_20220527171925_54.dmp[43518]: response: CrashID=bp-5d41dc6f-9c98-4440-8bf7-cbeb82220527
+assert_20220527171925_54.dmp[43518]: file ''/tmp/dumps/assert_20220527171925_54.dmp'', upload yes: ''CrashID=bp-5d41dc6f-9c98-4440-8bf7-cbeb82220527''
+[2022-05-27 17:19:29.754] [7485] (device_info_linux.cc:45): NumberOfDevices
+
+(process:43522): GLib-GObject-CRITICAL **: 17:19:31.798: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+Installing breakpad exception handler for appid(gameoverlayui)/version(20220521022212)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+[2022-05-27 17:19:32.757] [7485] (device_info_linux.cc:45): NumberOfDevices
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+src/steamexe/main.cpp (253) : Assertion Failed: reaping pid: 43333 -- gameoverlayui
+
+[2022-05-27 17:19:35.760] [7485] (device_info_linux.cc:45): NumberOfDevices
+
+(process:43547): GLib-GObject-CRITICAL **: 17:19:37.186: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+Installing breakpad exception handler for appid(gameoverlayui)/version(20220521022212)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+[2022-05-27 17:19:38.763] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:19:41.766] [7485] (device_info_linux.cc:45): NumberOfDevices
+
+(process:43564): GLib-GObject-CRITICAL **: 17:19:42.575: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+[2022-05-27 17:19:44.769] [7485] (device_info_linux.cc:45): NumberOfDevices
+src/steamexe/main.cpp (253) : Assertion Failed: reaping pid: 43408 -- gameoverlayui
+
+[2022-05-27 17:19:46.683] [7464] (discord.cpp:551): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2022-05-27 17:19:46.691] [7464] (discord.cpp:551): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 43168"]
+[2022-05-27 17:19:47.772] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:19:50.775] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:19:53.778] [7485] (device_info_linux.cc:45): NumberOfDevices
+src/steamexe/main.cpp (253) : Assertion Failed: reaping pid: 43522 -- gameoverlayui
+
+[2022-05-27 17:19:56.781] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:19:59.784] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:20:01.681] [7464] (discord.cpp:551): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2022-05-27 17:20:01.690] [7464] (discord.cpp:551): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 43168"]
+[2022-05-27 17:20:02.787] [7485] (device_info_linux.cc:45): NumberOfDevices
+src/steamexe/main.cpp (253) : Assertion Failed: reaping pid: 43547 -- gameoverlayui
+
+[2022-05-27 17:20:05.790] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:20:08.793] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:20:11.797] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:20:14.799] [7485] (device_info_linux.cc:45): NumberOfDevices
+src/steamexe/main.cpp (253) : Assertion Failed: reaping pid: 43564 -- gameoverlayui
+
+[2022-05-27 17:20:17.802] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:20:20.805] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:20:23.810] [7485] (device_info_linux.cc:45): NumberOfDevices
+ThreadGetProcessExitCode: no such process 42998
+ThreadGetProcessExitCode: no such process 42992
+ThreadGetProcessExitCode: no such process 42967
+ThreadGetProcessExitCode: no such process 42961
+ThreadGetProcessExitCode: no such process 42957
+ThreadGetProcessExitCode: no such process 42746
+[2022-05-27 17:20:26.813] [7485] (device_info_linux.cc:45): NumberOfDevices
+pid 42963 != 42962, skipping destruction (fork without exec?)
+Game process removed: AppID 760160 "mangohud /home/tommi/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=760160 -- '/media/pelissd/SteamLibrary/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=waitforexitandrun -- '/media/pelissd/SteamLibrary/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/media/pelissd/SteamLibrary/steamapps/common/Bloodhunt/Tiger.exe'", ProcID 43168 
+ThreadGetProcessExitCode: no such process 43168
+ThreadGetProcessExitCode: no such process 43061
+ThreadGetProcessExitCode: no such process 42979
+ThreadGetProcessExitCode: no such process 42970
+Game 760160 created interface STEAMAPPS_INTERFACE_VERSION008 / 
+Game 760160 created interface STEAMREMOTESTORAGE_INTERFACE_VERSION014 / 
+Game 760160 created interface STEAMUSERSTATS_INTERFACE_VERSION011 / 
+Game 760160 created interface SteamController007 / Controller
+Game 760160 created interface SteamFriends017 / 
+Game 760160 created interface SteamInput001 / Controller
+Game 760160 created interface SteamMatchMaking009 / 
+Game 760160 created interface SteamMatchMakingServers002 / 
+Game 760160 created interface SteamNetworking006 / 
+Game 760160 created interface SteamUser020 / 
+Game 760160 created interface SteamUser020 / User
+Game 760160 created interface SteamUtils009 / 
+Game 760160 created interface SteamUtils009 / Utils
+Game 760160 method call count for IClientNetworking::AllowP2PPacketRelay : 1
+Game 760160 method call count for IClientUserStats::RequestCurrentStats : 1
+Game 760160 method call count for IClientUtils::RecordSteamInterfaceCreation : 16
+Game 760160 method call count for IClientUtils::GetAppID : 20
+Game 760160 method call count for IClientFriends::GetFriendPersonaName_Public : 6
+Game 760160 method call count for IClientFriends::GetFriendRichPresence : 24
+Game 760160 method call count for IClientFriends::GetFriendGamePlayed : 6
+Game 760160 method call count for IClientFriends::GetFriendByIndex : 6
+Game 760160 method call count for IClientFriends::GetFriendCount : 11
+Game 760160 method call count for IClientFriends::GetFriendPersonaState : 12
+Game 760160 method call count for IClientFriends::GetPersonaName : 1
+Game 760160 method call count for IClientUser::BIsSubscribedApp : 1
+Game 760160 method call count for IClientUser::GetSteamID : 3
+Game 760160 method call count for IClientUser::BLoggedOn : 17
+Uploaded AppInterfaceStats to Steam
+[2022-05-27 17:20:29.816] [7485] (device_info_linux.cc:45): NumberOfDevices
+[43637:43637:0527/172030.526945:ERROR:sharing_service.cc(222)] Device registration failed with fatal error
+[2022-05-27 17:20:31.693] [7464] (discord.cpp:551): JS console: ["%c[RunningGameStore]","games",""]
+[2022-05-27 17:20:32.819] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:20:35.822] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:20:38.825] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:20:41.828] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:20:44.831] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:20:47.834] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:20:50.837] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:20:53.840] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:20:56.843] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:20:59.846] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:21:02.849] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:21:05.852] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:21:08.855] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:21:11.858] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:21:14.861] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:21:17.864] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:21:20.867] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:21:23.870] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:21:26.873] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:21:29.876] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:21:32.879] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:21:35.882] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:21:38.885] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:21:41.888] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:21:44.891] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:21:47.894] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:21:50.897] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:21:53.900] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:21:56.903] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:21:59.906] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:22:02.909] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:22:05.912] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:22:08.915] [7485] (device_info_linux.cc:45): NumberOfDevices
+Fontconfig error: Cannot load default config file: No such file: (null)
+[2022-05-27 17:22:11.918] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:22:14.921] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:22:17.924] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:22:20.927] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:22:23.930] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:22:26.933] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:22:29.936] [7485] (device_info_linux.cc:45): NumberOfDevices
+[43637:43637:0527/172231.789743:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data for tabId: 86.  Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[43637:43637:0527/172231.791675:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data for tabId: 86.  Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[2022-05-27 17:22:32.939] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:22:35.942] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:22:38.945] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:22:41.948] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:22:44.951] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:22:47.954] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:22:50.957] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:22:53.960] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:22:56.963] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:22:59.966] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:23:02.969] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:23:05.972] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:23:08.975] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:23:11.978] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:23:14.981] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:23:17.984] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:23:20.987] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:23:23.990] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:23:26.993] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:23:29.996] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:23:32.999] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:23:36.002] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:23:39.005] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:23:42.008] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:23:45.011] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:23:48.014] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:23:51.017] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:23:54.020] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:23:57.023] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:24:00.026] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:24:03.029] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:24:06.032] [7485] (device_info_linux.cc:45): NumberOfDevices
+[43637:43637:0527/172407.221682:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data for tabId: 91.  Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[43637:43637:0527/172407.221783:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data for tabId: 91.  Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[2022-05-27 17:24:09.035] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:24:12.038] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:24:15.041] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:24:18.043] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:24:21.046] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:24:24.049] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:24:27.052] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:24:30.055] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:24:33.058] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:24:36.061] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:24:39.064] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:24:42.067] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:24:45.070] [7485] (device_info_linux.cc:45): NumberOfDevices
+Installing for i386-pc platform.
+[2022-05-27 17:24:48.073] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:24:51.076] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:24:54.079] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:24:57.082] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:25:00.085] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:25:03.089] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:25:06.091] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:25:09.094] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:25:12.098] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:25:15.098] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:25:18.101] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:25:21.104] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:25:24.105] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:25:27.108] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:25:30.111] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:25:33.114] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:25:36.117] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:25:39.120] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:25:42.123] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:25:45.126] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:25:48.129] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:25:51.132] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:25:54.135] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:25:57.138] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:26:00.141] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:26:03.144] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:26:06.147] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:26:09.150] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:26:12.153] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:26:15.156] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:26:18.159] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:26:21.163] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:26:24.166] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:26:27.168] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:26:30.171] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:26:33.174] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:26:36.178] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:26:39.180] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:26:42.183] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:26:45.186] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:26:48.190] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:26:51.192] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:26:54.195] [7485] (device_info_linux.cc:45): NumberOfDevices
+[43637:43637:0527/172657.026482:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data for tabId: 95.  Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[43637:43637:0527/172657.027013:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data for tabId: 95.  Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[2022-05-27 17:26:57.198] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:27:00.201] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:27:03.204] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:27:06.207] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:27:09.210] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:27:12.213] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:27:15.216] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:27:18.219] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:27:21.222] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:27:24.225] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:27:27.228] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:27:30.231] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:27:33.234] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:27:36.237] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:27:39.240] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:27:42.244] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:27:45.246] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:27:48.249] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:27:51.253] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:27:54.256] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:27:57.258] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:28:00.262] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:28:03.265] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:28:06.267] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:28:09.270] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:28:12.274] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:28:15.277] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:28:18.279] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:28:21.282] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:28:24.286] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:28:27.288] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:28:30.291] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:28:33.294] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:28:36.297] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:28:39.300] [7485] (device_info_linux.cc:45): NumberOfDevices
+[43637:43637:0527/172840.242882:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data for tabId: 98.  Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[43637:43637:0527/172840.243098:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data for tabId: 98.  Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[2022-05-27 17:28:42.303] [7485] (device_info_linux.cc:45): NumberOfDevices
+Fontconfig error: Cannot load default config file: No such file: (null)
+[2022-05-27 17:28:45.306] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:28:48.309] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:28:51.312] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:28:54.315] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:28:57.318] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:29:00.321] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:29:03.324] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:29:06.327] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:29:09.330] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:29:12.333] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:29:15.336] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:29:18.339] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:29:21.342] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:29:24.345] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:29:27.348] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:29:30.351] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:29:33.354] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:29:36.357] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:29:39.360] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:29:42.363] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:29:45.366] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:29:48.370] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:29:51.372] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:29:54.375] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:29:57.378] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:30:00.381] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:30:03.384] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:30:06.387] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:30:09.390] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:30:12.393] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:30:15.396] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:30:18.399] [7485] (device_info_linux.cc:45): NumberOfDevices
+[43674:43674:0527/173018.714975:ERROR:shared_image_manager.cc(228)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[43674:43674:0527/173018.716144:ERROR:shared_image_manager.cc(228)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[43674:43674:0527/173018.716931:ERROR:shared_image_manager.cc(228)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[2022-05-27 17:30:21.402] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:30:24.405] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:30:27.409] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:30:30.412] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:30:33.414] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:30:36.417] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:30:39.420] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:30:42.423] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:30:45.426] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:30:48.429] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:30:51.432] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:30:54.435] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:30:57.438] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:31:00.442] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:31:03.444] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:31:06.447] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:31:09.450] [7485] (device_info_linux.cc:45): NumberOfDevices
+libpng error: Read Error
+[2022-05-27 17:31:12.453] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:31:15.456] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:31:18.459] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:31:21.462] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:31:24.465] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:31:27.468] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:31:30.471] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:31:33.474] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:31:36.477] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:31:39.480] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:31:42.483] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:31:45.487] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:31:48.489] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:31:51.492] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:31:54.495] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:31:57.498] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:32:00.501] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:32:03.504] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:32:06.507] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:32:09.510] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:32:12.513] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:32:15.516] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:32:18.519] [7485] (device_info_linux.cc:45): NumberOfDevices
+
+(steam:40694): GLib-GObject-CRITICAL **: 17:32:18.647: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(steam:40694): GLib-GObject-WARNING **: 17:32:18.648: invalid (NULL) pointer instance
+
+(steam:40694): GLib-GObject-CRITICAL **: 17:32:18.648: g_signal_handlers_disconnect_matched: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(steam:40694): GLib-GObject-CRITICAL **: 17:32:18.648: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+[2022-05-27 17:32:21.523] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:32:24.525] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:32:27.528] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:32:30.531] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:32:33.535] [7485] (device_info_linux.cc:45): NumberOfDevices
+grub-install: error: cannot copy `/usr/share/locale/ast/LC_MESSAGES/grub.mo' to `/media/woeusb_target_1653664631_37329/grub/locale/ast.mo': Input/output error.
+
+(woeusbgui:37329): GLib-GIO-CRITICAL **: 17:32:35.367: g_dbus_connection_register_object: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(woeusbgui:37329): GLib-GIO-CRITICAL **: 17:32:35.367: g_dbus_connection_register_object: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(woeusbgui:37329): GLib-GIO-CRITICAL **: 17:32:35.367: g_dbus_connection_get_unique_name: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+[2022-05-27 17:32:36.537] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:32:39.541] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:32:42.543] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:32:45.546] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:32:48.549] [7485] (device_info_linux.cc:45): NumberOfDevices
+[2022-05-27 17:32:51.552] [7485] (device_info_linux.cc:45): NumberOfDevices

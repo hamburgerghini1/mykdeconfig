@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-cd-image
+Name=Win10_21H2_EnglishInternational_x64.iso
+Type=Link
+URL[$e]=file:$HOME/Documents/Win10_21H2_EnglishInternational_x64.iso
+X-KDE-LastOpenedWith=VirtualBox

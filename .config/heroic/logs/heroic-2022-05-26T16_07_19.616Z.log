@@ -1,0 +1,27 @@
+(19:07:19) DEBUG:   [Legendary]:       Running Legendary command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(19:07:20) INFO:    [Legendary]:       Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(19:07:20) INFO:    [Gog]:             GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(19:07:20) INFO:    [Backend]:         
+  Heroic Version: 2.3.3 Brook
+  Legendary Version:  0.20.25 Our Benefactors
+  OS: Garuda KERNEL: 5.17.9-zen1-1-zen ARCH: x64
+  CPU: Intel Core™ i5-10600K @4.1 GOVERNOR: performance
+  RAM: Total: 31.25 GiB Available: 27.97 GiB
+  GRAPHICS: GPU0: Navi 22 [Radeon RX 6700/6700 XT/6750 XT / 6800M] VRAM: 1MB DRIVER:  
+  PROTOCOL: x11
+  
+(19:07:20) INFO:    [Backend]:         User Not Found, removing it from Store
+(19:07:20) WARNING: [Backend]:         Protocol already registered.
+(19:07:45) INFO:    [Legendary]:       Logging in with Legendary: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --sid <redacted>
+(19:07:45) DEBUG:   [Legendary]:       Running Legendary command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --sid <redacted>
+(19:08:00) INFO:    [Frontend]:        Refreshing Library
+(19:08:00) INFO:    [Legendary]:       Refreshing library...
+(19:08:00) INFO:    [Legendary]:       Refreshing Epic Games...
+(19:08:00) DEBUG:   [Legendary]:       Running Legendary command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list
+(19:08:24) INFO:    [Legendary]:       Updating game list
+(19:08:24) INFO:    [Legendary]:       Game List Updated
+(19:08:24) INFO:    [Frontend]:        No cache found, getting data from legendary...
+(19:08:24) INFO:    [Legendary]:       Refreshing library...
+(19:08:24) INFO:    [Legendary]:       Updating game list
+(19:08:24) INFO:    [Legendary]:       Game List Updated
+(19:08:24) INFO:    [Frontend]:        Force Update

@@ -1,0 +1,63 @@
+{
+	"e9e3ee13329f434f94105e6ec63435e0": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/egs-bioshockremastered-massmediagames-s2-1200x1600-4cb9fb594cde.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Mass Media Games",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "2K",
+			"description": "Explore the undersea city of Rapture, a haven for society's greatest minds that has devolved into a dystopian nightmare wrought by one man's hubris. Amidst the waterlogged ruins, a new ecosystem has emerged, where deranged Splicers hunt down the Little Sisters who would be helpless without their hulking Big Daddy guardians. Your only hopes for survival are quick thinking, reclaimed weaponry, and superhuman powers granted by DNA-altering Plasmids. To defeat Rapture's mutated monsters, you must become one.\n\nAlso includes:\n\n• Museum of Orphaned Concepts - Take a tour through BioShock's beginnings across multiple exhibits in this virtual museum, from early concept art to full in-game models.\n\n• Challenge Rooms - Test your combat skills and puzzle-solving prowess with this noncanonical series of trials.\n\n• Director's Commentary: Imagining BioShock - Discover new collectibles to unlock episodic videos featuring insights from Creative Director Ken Levine and Lead Animator Shawn Robertson.\n\nNOTE: For Windows 10 operating systems and above, requires download and installation of the 2K Launcher to play.",
+			"shortDescription": "Explore the undersea city of Rapture, a haven for society's greatest minds that has devolved into a dystopian nightmare wrought by one man's hubris. Includes Museum of Orphaned Concepts, Challenge Rooms and Director's Commentary - Imagining BioShock.",
+			"title": "BioShock Remastered",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Windows 7 Service Pack 1 64-bit. Platform Update for Windows 7 SP1 and Windows Server 2008 R2 SP1",
+				"recommended": "Windows 7 Service Pack 1 64-bit. Platform Update for Windows 7 SP1 and Windows Server 2008 R2 SP1"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "Intel E6750 Core 2 Duo 2.66 GHz / AMD Athlon X2 2.7 GHZ",
+				"recommended": "3GHz Quad-Core"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "4 GB",
+				"recommended": "8 GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "25 GB",
+				"recommended": "25 GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Direct X",
+				"minimum": "11",
+				"recommended": "11"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "2GB AMD Radeon HD 7770 / 2GB NVIDIA GeForce GTX 670",
+				"recommended": "2GB ATI Radeon HD 7970, 2GB NVIDIA GeForce GTX 770 or better"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Other",
+				"minimum": "Software installations required including DirectX and Microsoft Visual C++ 2010 & 2012 Redistributable Package. Some sys",
+				"recommended": ""
+			}
+		]
+	}
+}

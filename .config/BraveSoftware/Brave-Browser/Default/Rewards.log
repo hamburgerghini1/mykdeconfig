@@ -1,54 +1,36 @@
 --------------------------------------------------------------------------------
-[21. toukok. 2022 klo 2.33.48,0 ip.:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
-[21. toukok. 2022 klo 2.35.10,8 ip.:ERROR:get_recover_wallet.cc(43)] Not found
-[21. toukok. 2022 klo 2.48.20,9 ip.:ERROR:wallet_recover.cc(66)] Result: -2 Size: 0
+[26 May 2022, 11:32:34.3 am:ERROR:refill_unblinded_tokens.cc(193)] Failed to get signed tokens
+[26 May 2022, 11:33:01.4 am:ERROR:publisher.cc(774)] Publisher info not found
+[26 May 2022, 11:33:01.4 am:ERROR:publisher.cc(774)] Publisher info not found
+[26 May 2022, 11:33:02.8 am:ERROR:publisher.cc(774)] Publisher info not found
+[26 May 2022, 11:33:02.8 am:ERROR:publisher.cc(774)] Publisher info not found
+[26 May 2022, 11:33:38.8 am:ERROR:publisher.cc(774)] Publisher info not found
+[26 May 2022, 11:33:38.8 am:ERROR:publisher.cc(774)] Publisher info not found
 --------------------------------------------------------------------------------
-[21. toukok. 2022 klo 2.55.21,3 ip.:ERROR:publisher.cc(774)] Publisher info not found
+[26 May 2022, 12:14:03.1 pm:ERROR:publisher.cc(774)] Publisher info not found
+[26 May 2022, 12:14:03.1 pm:ERROR:publisher.cc(774)] Publisher info not found
+[26 May 2022, 12:16:24.0 pm:ERROR:publisher.cc(774)] Publisher info not found
 --------------------------------------------------------------------------------
-[21. toukok. 2022 klo 3.24.18,9 ip.:ERROR:publisher.cc(774)] Publisher info not found
-[21. toukok. 2022 klo 3.24.18,9 ip.:ERROR:publisher.cc(774)] Publisher info not found
-[21. toukok. 2022 klo 3.24.30,3 ip.:ERROR:publisher.cc(774)] Publisher info not found
-[21. toukok. 2022 klo 3.24.30,3 ip.:ERROR:publisher.cc(774)] Publisher info not found
+[26 May 2022, 6:37:41.3 pm:ERROR:publisher.cc(774)] Publisher info not found
+[26 May 2022, 6:37:41.3 pm:ERROR:publisher.cc(774)] Publisher info not found
 --------------------------------------------------------------------------------
-[21. toukok. 2022 klo 7.14.42,8 ip.:ERROR:publisher.cc(774)] Publisher info not found
-[21. toukok. 2022 klo 7.14.42,8 ip.:ERROR:publisher.cc(774)] Publisher info not found
+[26 May 2022, 7:42:47.0 pm:ERROR:publisher.cc(774)] Publisher info not found
+[26 May 2022, 7:42:47.0 pm:ERROR:publisher.cc(774)] Publisher info not found
 --------------------------------------------------------------------------------
-[21. toukok. 2022 klo 7.19.01,7 ip.:ERROR:publisher.cc(774)] Publisher info not found
-[21. toukok. 2022 klo 7.19.01,7 ip.:ERROR:publisher.cc(774)] Publisher info not found
-[21. toukok. 2022 klo 7.19.12,7 ip.:ERROR:publisher.cc(774)] Publisher info not found
-[21. toukok. 2022 klo 7.19.12,7 ip.:ERROR:publisher.cc(774)] Publisher info not found
-[21. toukok. 2022 klo 7.25.20,1 ip.:ERROR:publisher.cc(774)] Publisher info not found
-[21. toukok. 2022 klo 7.25.20,1 ip.:ERROR:publisher.cc(774)] Publisher info not found
-[21. toukok. 2022 klo 7.26.11,6 ip.:ERROR:publisher.cc(774)] Publisher info not found
-[21. toukok. 2022 klo 7.26.11,6 ip.:ERROR:publisher.cc(774)] Publisher info not found
+[26 May 2022, 7:56:08.8 pm:ERROR:publisher.cc(774)] Publisher info not found
+[26 May 2022, 7:56:08.8 pm:ERROR:publisher.cc(774)] Publisher info not found
 --------------------------------------------------------------------------------
-[21. toukok. 2022 klo 7.32.30,9 ip.:ERROR:publisher.cc(774)] Publisher info not found
+[26 May 2022, 8:06:08.4 pm:ERROR:publisher.cc(774)] Publisher info not found
+[26 May 2022, 8:06:08.4 pm:ERROR:publisher.cc(774)] Publisher info not found
 --------------------------------------------------------------------------------
-[21. toukok. 2022 klo 8.19.21,8 ip.:ERROR:publisher.cc(845)] Failed to retrieve publisher info while updating media duration
-[21. toukok. 2022 klo 8.19.21,9 ip.:ERROR:publisher.cc(774)] Publisher info not found
+[26 May 2022, 8:30:06.2 pm:ERROR:publisher.cc(774)] Publisher info not found
+[26 May 2022, 8:30:37.1 pm:ERROR:publisher.cc(774)] Publisher info not found
+[26 May 2022, 8:31:02.4 pm:ERROR:publisher.cc(774)] Publisher info not found
+[26 May 2022, 8:31:12.7 pm:ERROR:publisher.cc(774)] Publisher info not found
 --------------------------------------------------------------------------------
-[22. toukok. 2022 klo 10.20.36,5 ap.:ERROR:publisher.cc(774)] Publisher info not found
-[22. toukok. 2022 klo 10.20.36,5 ap.:ERROR:publisher.cc(774)] Publisher info not found
-[22. toukok. 2022 klo 10.20.36,5 ap.:ERROR:publisher.cc(774)] Publisher info not found
+[27 May 2022, 9:17:42.4 am:ERROR:publisher.cc(774)] Publisher info not found
 --------------------------------------------------------------------------------
-[22. toukok. 2022 klo 11.38.11,4 ap.:ERROR:publisher.cc(774)] Publisher info not found
-[22. toukok. 2022 klo 11.39.37,8 ap.:ERROR:publisher.cc(774)] Publisher info not found
-[22. toukok. 2022 klo 11.39.37,8 ap.:ERROR:publisher.cc(774)] Publisher info not found
+[27 May 2022, 5:10:27.6 pm:ERROR:publisher.cc(774)] Publisher info not found
+[27 May 2022, 5:10:27.6 pm:ERROR:publisher.cc(774)] Publisher info not found
 --------------------------------------------------------------------------------
-[22. toukok. 2022 klo 12.24.47,1 ip.:ERROR:publisher.cc(774)] Publisher info not found
-[22. toukok. 2022 klo 12.24.54,1 ip.:ERROR:publisher.cc(774)] Publisher info not found
-[22. toukok. 2022 klo 12.25.20,1 ip.:ERROR:publisher.cc(774)] Publisher info not found
-[22. toukok. 2022 klo 12.25.20,1 ip.:ERROR:publisher.cc(774)] Publisher info not found
---------------------------------------------------------------------------------
-[22. toukok. 2022 klo 1.19.49,4 ip.:ERROR:publisher.cc(774)] Publisher info not found
-[22. toukok. 2022 klo 1.32.09,3 ip.:ERROR:publisher.cc(774)] Publisher info not found
-[22. toukok. 2022 klo 1.32.09,3 ip.:ERROR:publisher.cc(774)] Publisher info not found
-[22. toukok. 2022 klo 1.36.22,0 ip.:ERROR:publisher.cc(774)] Publisher info not found
-[22. toukok. 2022 klo 1.36.22,0 ip.:ERROR:publisher.cc(774)] Publisher info not found
---------------------------------------------------------------------------------
-[22. toukok. 2022 klo 2.43.29,2 ip.:ERROR:publisher.cc(774)] Publisher info not found
---------------------------------------------------------------------------------
-[22. toukok. 2022 klo 3.10.57,6 ip.:ERROR:publisher.cc(774)] Publisher info not found
-[22. toukok. 2022 klo 3.10.57,6 ip.:ERROR:publisher.cc(774)] Publisher info not found
-[22. toukok. 2022 klo 3.11.40,6 ip.:ERROR:publisher.cc(774)] Publisher info not found
-[22. toukok. 2022 klo 3.11.40,6 ip.:ERROR:publisher.cc(774)] Publisher info not found
+[27 May 2022, 5:27:22.7 pm:ERROR:publisher.cc(774)] Publisher info not found

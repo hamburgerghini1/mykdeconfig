@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel>
-<xbel xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:kdepriv="http://www.kde.org/kdepriv">
+<xbel xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info" xmlns:kdepriv="http://www.kde.org/kdepriv">
  <info>
   <metadata owner="http://www.kde.org">
    <kde_places_version>4</kde_places_version>
@@ -22,87 +22,80 @@
     <bookmark:icon name="user-home"/>
    </metadata>
    <metadata owner="http://www.kde.org">
-    <ID>1648235644/0</ID>
+    <ID>1653551931/0</ID>
     <isSystemItem>true</isSystemItem>
-    <IsHidden>false</IsHidden>
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/tommi/Työpöytä">
+ <bookmark href="file:///home/tommi/Desktop">
   <title>Desktop</title>
   <info>
    <metadata owner="http://freedesktop.org">
     <bookmark:icon name="user-desktop"/>
    </metadata>
    <metadata owner="http://www.kde.org">
-    <ID>1648235644/1</ID>
+    <ID>1653551931/1</ID>
     <isSystemItem>true</isSystemItem>
-    <IsHidden>false</IsHidden>
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/tommi/Asiakirjat">
+ <bookmark href="file:///home/tommi/Documents">
   <title>Documents</title>
   <info>
    <metadata owner="http://freedesktop.org">
     <bookmark:icon name="folder-documents"/>
    </metadata>
    <metadata owner="http://www.kde.org">
-    <ID>1648235644/2</ID>
+    <ID>1653551931/2</ID>
     <isSystemItem>true</isSystemItem>
-    <IsHidden>false</IsHidden>
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/tommi/Lataukset">
+ <bookmark href="file:///home/tommi/Downloads">
   <title>Downloads</title>
   <info>
    <metadata owner="http://freedesktop.org">
     <bookmark:icon name="folder-downloads"/>
    </metadata>
    <metadata owner="http://www.kde.org">
-    <ID>1648235644/3</ID>
+    <ID>1653551931/3</ID>
     <isSystemItem>true</isSystemItem>
-    <IsHidden>false</IsHidden>
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/tommi/Musiikki">
+ <bookmark href="file:///home/tommi/Music">
   <title>Music</title>
   <info>
    <metadata owner="http://freedesktop.org">
     <bookmark:icon name="folder-music"/>
    </metadata>
    <metadata owner="http://www.kde.org">
-    <ID>1648235644/6</ID>
+    <ID>1653551931/6</ID>
     <isSystemItem>true</isSystemItem>
-    <IsHidden>false</IsHidden>
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/tommi/Kuvat">
+ <bookmark href="file:///home/tommi/Pictures">
   <title>Pictures</title>
   <info>
    <metadata owner="http://freedesktop.org">
     <bookmark:icon name="folder-pictures"/>
    </metadata>
    <metadata owner="http://www.kde.org">
-    <ID>1648235644/7</ID>
+    <ID>1653551931/7</ID>
     <isSystemItem>true</isSystemItem>
-    <IsHidden>false</IsHidden>
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/tommi/Videot">
+ <bookmark href="file:///home/tommi/Videos">
   <title>Videos</title>
   <info>
    <metadata owner="http://freedesktop.org">
     <bookmark:icon name="folder-videos"/>
    </metadata>
    <metadata owner="http://www.kde.org">
-    <ID>1648235644/8</ID>
+    <ID>1653551931/8</ID>
     <isSystemItem>true</isSystemItem>
-    <IsHidden>false</IsHidden>
    </metadata>
   </info>
  </bookmark>
@@ -113,9 +106,8 @@
     <bookmark:icon name="folder-network"/>
    </metadata>
    <metadata owner="http://www.kde.org">
-    <ID>1648235644/4</ID>
+    <ID>1653551931/4</ID>
     <isSystemItem>true</isSystemItem>
-    <IsHidden>false</IsHidden>
    </metadata>
   </info>
  </bookmark>
@@ -123,12 +115,11 @@
   <title>Trash</title>
   <info>
    <metadata owner="http://freedesktop.org">
-    <bookmark:icon name="user-trash-full-full"/>
+    <bookmark:icon name="user-trash"/>
    </metadata>
    <metadata owner="http://www.kde.org">
-    <ID>1648235644/5</ID>
+    <ID>1653551931/5</ID>
     <isSystemItem>true</isSystemItem>
-    <IsHidden>false</IsHidden>
    </metadata>
   </info>
  </bookmark>
@@ -139,9 +130,8 @@
     <bookmark:icon name="document-open-recent"/>
    </metadata>
    <metadata owner="http://www.kde.org">
-    <ID>1648235644/9</ID>
+    <ID>1653551931/9</ID>
     <isSystemItem>true</isSystemItem>
-    <IsHidden>false</IsHidden>
    </metadata>
   </info>
  </bookmark>
@@ -152,9 +142,8 @@
     <bookmark:icon name="folder-open-recent"/>
    </metadata>
    <metadata owner="http://www.kde.org">
-    <ID>1648235644/10</ID>
+    <ID>1653551931/10</ID>
     <isSystemItem>true</isSystemItem>
-    <IsHidden>false</IsHidden>
    </metadata>
   </info>
  </bookmark>
@@ -165,9 +154,8 @@
     <bookmark:icon name="folder-text"/>
    </metadata>
    <metadata owner="http://www.kde.org">
-    <ID>1648235644/11</ID>
+    <ID>1653551931/11</ID>
     <isSystemItem>true</isSystemItem>
-    <IsHidden>false</IsHidden>
    </metadata>
   </info>
  </bookmark>
@@ -178,9 +166,8 @@
     <bookmark:icon name="folder-images"/>
    </metadata>
    <metadata owner="http://www.kde.org">
-    <ID>1648235644/12</ID>
+    <ID>1653551931/12</ID>
     <isSystemItem>true</isSystemItem>
-    <IsHidden>false</IsHidden>
    </metadata>
   </info>
  </bookmark>
@@ -191,9 +178,8 @@
     <bookmark:icon name="folder-sound"/>
    </metadata>
    <metadata owner="http://www.kde.org">
-    <ID>1648235644/13</ID>
+    <ID>1653551931/13</ID>
     <isSystemItem>true</isSystemItem>
-    <IsHidden>false</IsHidden>
    </metadata>
   </info>
  </bookmark>
@@ -204,72 +190,8 @@
     <bookmark:icon name="folder-videos"/>
    </metadata>
    <metadata owner="http://www.kde.org">
-    <ID>1648235644/14</ID>
+    <ID>1653551931/14</ID>
     <isSystemItem>true</isSystemItem>
-    <IsHidden>false</IsHidden>
-   </metadata>
-  </info>
- </bookmark>
- <separator href="file:///boot">
-  <info>
-   <metadata owner="http://www.kde.org">
-    <UDI>/org/freedesktop/UDisks2/block_devices/nvme1n1p2</UDI>
-    <isSystemItem>true</isSystemItem>
-    <IsHidden>false</IsHidden>
-   </metadata>
-   <metadata owner="http://freedesktop.org">
-    <bookmark:icon name="drive-harddisk"/>
-   </metadata>
-  </info>
-  <title>1,0 GiB sisäinen asema (nvme1n1p2)</title>
- </separator>
- <separator href="file:///">
-  <info>
-   <metadata owner="http://www.kde.org">
-    <UDI>/org/freedesktop/UDisks2/block_devices/nvme1n1p3</UDI>
-    <isSystemItem>true</isSystemItem>
-    <IsHidden>false</IsHidden>
-   </metadata>
-   <metadata owner="http://freedesktop.org">
-    <bookmark:icon name="drive-harddisk-root"/>
-   </metadata>
-  </info>
-  <title>fedora_localhost-live</title>
- </separator>
- <separator href="file:///media/pelissd">
-  <info>
-   <metadata owner="http://www.kde.org">
-    <UDI>/org/freedesktop/UDisks2/block_devices/nvme0n1p1</UDI>
-    <isSystemItem>true</isSystemItem>
-    <IsHidden>false</IsHidden>
-   </metadata>
-   <metadata owner="http://freedesktop.org">
-    <bookmark:icon name="drive-harddisk"/>
-   </metadata>
-  </info>
-  <title>pelissd</title>
- </separator>
- <separator href="file:///run/media/tommi/Ventoy">
-  <info>
-   <metadata owner="http://www.kde.org">
-    <UDI>/org/freedesktop/UDisks2/block_devices/sda1</UDI>
-    <isSystemItem>true</isSystemItem>
-    <IsHidden>false</IsHidden>
-   </metadata>
-   <metadata owner="http://freedesktop.org">
-    <bookmark:icon name="drive-removable-media-usb-pendrive"/>
-   </metadata>
-  </info>
-  <title>Ventoy</title>
- </separator>
- <bookmark href="file:///home/tommi/.steam/root/compatibilitytools.d">
-  <title>compatibilitytools.d</title>
-  <info>
-   <metadata owner="http://freedesktop.org">
-    <bookmark:icon name="inode-directory"/>
-   </metadata>
-   <metadata owner="http://www.kde.org">
-    <ID>1649002156/0</ID>
    </metadata>
   </info>
  </bookmark>

@@ -1,14 +1,23 @@
 [$Version]
 update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
 
+[General]
+autoSaveImage=true
+clipboardGroup=PostScreenshotCopyImage
+printKeyActionRunning=FocusWindow
+rememberLastRectangularRegion=2
+useReleaseToCapture=true
+
 [GuiConfig]
-window-position=26,43
+quitAfterSaveCopyExport=true
+window-position=46,30
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME/Screenshot_20220522_104003.png,file:$HOME/Screenshot_20220522_111450.png
-Recent URLs[$e]=file:$HOME/,file:$HOME/Asiakirjat/
+Recent Files[$e]=file:$HOME/Pictures/Screenshot_2.png,file:$HOME/Pictures/Screenshot_2.png
+Recent URLs[$e]=file:$HOME/Pictures/
 detailViewIconSize=16
 
 [Save]
-lastSaveAsLocation=file:///home/tommi/Screenshot_20220522_111450.png
-lastSaveLocation=file:///home/tommi/Screenshot_20220522_111450.png
+lastSaveAsLocation=file:///home/tommi/Pictures/Screenshot_2.png
+lastSaveLocation=file:///home/tommi/Pictures/Screenshot_2.png
+saveFilenameFormat=Screenshot_%T_%d

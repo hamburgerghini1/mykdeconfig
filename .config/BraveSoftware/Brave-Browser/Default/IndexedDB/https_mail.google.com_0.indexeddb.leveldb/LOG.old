@@ -1,3 +1,2 @@
-2022/05/21-14:26:50.189 91a37 Reusing MANIFEST /home/tommi/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/05/21-14:26:50.189 91a37 Recovering log #3
-2022/05/21-14:26:50.190 91a37 Reusing old log /home/tommi/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2022/05/27-09:06:27.109 3e842 Creating DB /home/tommi/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb since it was missing.
+2022/05/27-09:06:27.111 3e842 Reusing MANIFEST /home/tommi/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001

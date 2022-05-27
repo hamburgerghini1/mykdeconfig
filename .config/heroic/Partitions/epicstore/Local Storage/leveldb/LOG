@@ -1,0 +1,3 @@
+2022/05/27-16:04:19.512 69ada Reusing MANIFEST /home/tommi/.config/heroic/Partitions/epicstore/Local Storage/leveldb/MANIFEST-000001
+2022/05/27-16:04:19.512 69ada Recovering log #3
+2022/05/27-16:04:19.513 69ada Reusing old log /home/tommi/.config/heroic/Partitions/epicstore/Local Storage/leveldb/000003.log 

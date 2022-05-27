@@ -1,8 +1,8 @@
 [FileDialogSize]
-HDMI-A-0 Height 1920x1080=600
-HDMI-A-0 Width 1920x1080=980
+HDMI-A-0 Height 1920x1080=579
+HDMI-A-0 Width 1920x1080=978
 
 [KFileDialog Settings]
-Recent Files[$e]=cv.pdf,file:$HOME/Työpöytä/Nobara-36-KDE-5.iso.torrent,file:$HOME/Downloads/Nobara-36-KDE-5.iso,file:$HOME/Downloads/ArmouryCrateInstaller_3.1.4.0/ArmouryCrateInstaller.exe,file:$HOME/Screenshot_20220522_111450.png
-Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/,file:$HOME/Työpöytä/,file:$HOME/Downloads/ArmouryCrateInstaller_3.1.4.0/,file:$HOME/Asiakirjat/
+Recent Files[$e]=file:$HOME/Pictures/wp5894291-minimalist-cyberpunk-wallpapers.jpg,file:$HOME/Downloads/wine-7.9-staging-amd64.tar.xz,file:$HOME/Downloads/Oracle_VM_VirtualBox_Extension_Pack-6.1.34.vbox-extpack,file:$HOME/Downloads/CDKM-1.9.3.EXE,file:$HOME/Documents/165.231.163.5surfshark_openvpn_udp.ovpn
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/Pictures/,file:$HOME/Documents/,file:$HOME/,file:$HOME/Music/
 detailViewIconSize=16

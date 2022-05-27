@@ -1,0 +1,47 @@
+Launch Command: WINEPREFIX=/home/tommi/Games/Heroic/Prefixes/BioshockRemastered /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch bc2c95c6ff564a16b26644f1d3ac3c55 --wine /home/tommi/.config/heroic/tools/wine/wine-7.9-staging-amd64/bin/wine --wine-prefix /home/tommi/Games/Heroic/Prefixes/BioshockRemastered
+
+System Info:
+
+  Heroic Version: 2.3.3 Brook
+  Legendary Version:  0.20.25 Our Benefactors
+  OS: Garuda KERNEL: 5.17.9-zen1-1-zen ARCH: x64
+  CPU: Intel Core™ i5-10600K @4.1 GOVERNOR: performance
+  RAM: Total: 31.25 GiB Available: 27.96 GiB
+  GRAPHICS: GPU0: Navi 22 [Radeon RX 6700/6700 XT/6750 XT / 6800M] VRAM: 1MB DRIVER:  
+  PROTOCOL: x11
+  
+
+Game Settings: {
+	"autoInstallDxvk": true,
+	"autoInstallVkd3d": true,
+	"maxSharpness": 2,
+	"nvidiaPrime": false,
+	"otherOptions": "",
+	"savesPath": "",
+	"showFps": false,
+	"targetExe": "",
+	"useGameMode": false,
+	"wineCrossoverBottle": "Heroic",
+	"winePrefix": "/home/tommi/Games/Heroic/Prefixes/BioshockRemastered",
+	"wineVersion": {
+		"bin": "/home/tommi/.config/heroic/tools/wine/wine-7.9-staging-amd64/bin/wine",
+		"name": "Wine - wine-7.9-staging-amd64",
+		"type": "wine",
+		"wineserver": "/home/tommi/.config/heroic/tools/wine/wine-7.9-staging-amd64/bin/wineserver",
+		"wineboot": "/home/tommi/.config/heroic/tools/wine/wine-7.9-staging-amd64/bin/wineboot"
+	},
+	"useSteamRuntime": false
+}
+
+Error Log:
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Checking for updates...
+[Core] INFO: Getting authentication token...
+[cli] INFO: Launching bc2c95c6ff564a16b26644f1d3ac3c55...
+002c:fixme:winediag:LdrInitializeThunk wine-staging 7.9 is a testing version containing experimental patches.
+002c:fixme:winediag:LdrInitializeThunk Please mention your exact version when filing bug reports on winehq.org.
+00fc:err:wldap32:DllMain No libldap support, expect problems
+00fc:err:winediag:ntlm_check_version ntlm_auth was not found or is outdated. Make sure that ntlm_auth >= 3.0.25 is in your path. Usually, you can find it in the winbind package of your distribution.
+00fc:err:ntlm:ntlm_LsaApInitializePackage no NTLM support, expect problems
+00fc:fixme:kernelbase:AppPolicyGetProcessTerminationMethod FFFFFFFA, 008FFEAC

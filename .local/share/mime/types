@@ -1,17 +1,8 @@
-application/x-ms-wmd
-application/x-ms-wmz
 application/x-msdownload
-application/x-wine-extension-cda
 application/x-wine-extension-cpl
-application/x-wine-extension-dvr-ms
 application/x-wine-extension-inf
 application/x-wine-extension-ini
 application/x-wine-extension-its
 application/x-wine-extension-msp
-application/x-wine-extension-vbs
-application/x-wine-extension-wms
-audio/mid
 image/jpeg
 text/x-component
-video/mpeg
-video/x-ms-wm

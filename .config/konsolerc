@@ -1,14 +1,30 @@
+[Desktop Entry]
+DefaultProfile=Garuda.profile
+
+[KonsoleWindow]
+RememberWindowSize=false
+ShowMenuBarByDefault=false
+
 [MainWindow]
-HDMI-A-0 Height 1920x1080=965
-HDMI-A-0 Width 1920x1080=1920
-HDMI-A-0 Window-Maximized 1920x1080=true
-HDMI-A-0 XPosition 1920x1080=0
-HDMI-A-0 YPosition 1920x1080=72
-HDMI-A-1 Height 1920x1080=965
-HDMI-A-1 Width 1920x1080=960
+HDMI-A-0 Height 1920x1080=1018
+HDMI-A-0 Width 1920x1080=952
+HDMI-A-0 XPosition 1920x1080=964
+HDMI-A-0 YPosition 1920x1080=58
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAfsAAAAcAFMAUwBIAE0AYQBuAGEAZwBlAHIARABvAGMAawAAAAAA/////wAAANUBAAADAAAHgAAAA5cAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAgAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAAAAAAcAHMAZQBzAHMAaQBvAG4AVABvAG8AbABiAGEAcgEAAAEe/////wAAAAAAAAAA
-ToolBarsMovable=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA4EAAAIEAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAwAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAHABzAGUAcwBzAGkAbwBuAFQAbwBvAGwAYgBhAHIAAAAAAAAAAfsAAAAAAAAAAA==
+StatusBar=Disabled
+
+[MainWindow][Toolbar mainToolBar]
+ToolButtonStyle=TextOnly
+
+[MainWindow][Toolbar sessionToolbar]
+IconSize=16
+
+[Toolbar mainToolBar]
+ToolButtonStyle=TextOnly
+
+[Toolbar sessionToolbar]
+IconSize=16
 
 [UiSettings]
-ColorScheme=Oletus
+ColorScheme=

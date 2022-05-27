@@ -1,28 +1,27 @@
+[KDiskFree]
+Device=100
+Free=80
+Full%=50
+HeaderSectionIndices=0,1,2,3,4,5,6,7
+Icon=23
+MountPoint=120
+Size=80
+SortColumn=0
+SortOrder=0
+Type=80
+UsageBar=1112
+
 [KFileDialog Settings]
-Recent Files[$e]=Sweet.colors,file:$HOME/Lataukset/denys-nevozhai-2vmT5_FeMck-unsplash.jpg
-Recent URLs[$e]=file:$HOME/Lataukset/,file:$HOME/,file:$HOME/Kuvat/
+Recent Files[$e]=196.244.191.163surfshark_openvpn_udp.ovpn,file:$HOME/Documents/165.231.163.5surfshark_openvpn_udp.ovpn,file:$HOME/Documents/KDE-Media-Keys-master/next.sh,file:$HOME/Documents/KDE-Media-Keys-master/playpause.sh,file:$HOME/Documents/196.244.191.163surfshark_openvpn_udp.ovpn
+Recent URLs[$e]=file:$HOME/Documents/,file:$HOME/,file:$HOME/Documents/KDE-Media-Keys-master/
 detailViewIconSize=16
 
 [MainWindow]
-HDMI-0 XPosition 1920x1080=450
-HDMI-0 YPosition 1920x1080=202
-HDMI-A-0 Height 1920x1080=965
+HDMI-A-0 Height 1920x1080=1018
 HDMI-A-0 Width 1920x1080=1020
-HDMI-A-0 XPosition 1920x1080=450
-HDMI-A-0 YPosition 1920x1080=72
-HDMI-A-1 Height 1920x1080=1007
-HDMI-A-1 Width 1920x1080=1020
-HDMI-A-1 Window-Maximized 1920x1080=true
+HDMI-A-0 Window-Maximized 1920x1080=true
+HDMI-A-0 XPosition 1920x1080=896
+HDMI-A-0 YPosition 1920x1080=58
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAA/wAAAPFAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAA/wAAAP6AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-
-[Open-with settings]
-CompletionMode=1
-History=thu,ste,dis
-
-[UiSettings]
-ColorScheme=
-
-[systemsettings_sidebar_mode]
-HighlightNonDefaultSettings=false

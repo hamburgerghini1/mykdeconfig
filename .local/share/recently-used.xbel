@@ -1,177 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xbel version="1.0"
-      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
-      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
->
-  <bookmark href="file:///home/tommi/Asiakirjat/GitHub/mykdeconfig" added="2022-05-21T17:48:13.313298Z" modified="2022-05-21T17:48:13.313301Z" visited="2022-05-21T17:48:13.313298Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="inode/directory"/>
-        <bookmark:applications>
-          <bookmark:application name="github-desktop" exec="&apos;github-desktop %u&apos;" modified="2022-05-21T17:48:13.313299Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///media/pelissd/SteamLibrary/steamapps/common/Resident%20Evil%206" added="2022-05-21T17:56:21.886000Z" modified="2022-05-21T17:56:21.886000Z" visited="2022-05-21T17:56:21.886000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="inode/directory"/>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.dolphin" exec="dolphin %u %u" modified="2022-05-21T17:56:21.886000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/refind-0.13.3.1-1.x86_64.rpm" added="2022-05-21T20:26:32.407000Z" modified="2022-05-21T20:26:32.407000Z" visited="2022-05-21T20:26:32.407000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-rpm"/>
-        <bookmark:applications>
-          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2022-05-21T20:26:32.407000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/image.webp" added="2022-05-22T06:27:30.273000Z" modified="2022-05-22T06:28:12.025000Z" visited="2022-05-22T06:28:12.025000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/webp"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2022-05-22T06:28:12.025000Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/image.ico" added="2022-05-22T06:28:20.137000Z" modified="2022-05-22T06:28:27.353000Z" visited="2022-05-22T06:28:27.353000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/vnd.microsoft.icon"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2022-05-22T06:28:20.137000Z" count="1"/>
-          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2022-05-22T06:28:21.468000Z" count="1"/>
-          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2022-05-22T06:28:27.353000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Screenshot_20220522_104003.png" added="2022-05-22T07:40:19.111000Z" modified="2022-05-22T07:41:08.556566Z" visited="2022-05-22T07:40:46.657000Z">
+<xbel version="1.0" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+  <bookmark href="file:///home/tommi/Pictures/Screenshot_2.png" added="2022-05-27T10:02:20.003972Z" modified="2022-05-27T10:02:20.003974Z" visited="2022-05-27T10:02:20.003972Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %u" modified="2022-05-22T07:40:19.215000Z" count="2"/>
-          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2022-05-22T07:40:46.657000Z" count="2"/>
-          <bookmark:application name="Discord" exec="&apos;Discord %u&apos;" modified="2022-05-22T07:41:08.556562Z" count="1"/>
+          <bookmark:application name="discord" exec="'discord %u'" modified="2022-05-27T10:02:20.003973Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/tommi/Screenshot_20220522_111450.png" added="2022-05-22T08:15:37.418000Z" modified="2022-05-22T08:17:42.200000Z" visited="2022-05-22T08:17:42.200000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %u" modified="2022-05-22T08:15:37.557000Z" count="2"/>
-          <bookmark:application name="Discord" exec="&apos;Discord %u&apos;" modified="2022-05-22T08:15:48.888422Z" count="1"/>
-          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2022-05-22T08:17:42.200000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///media/pelissd/SteamLibrary/steamapps/common/Grand%20Theft%20Auto%20V/dxvk.conf" added="2022-05-22T08:43:53.653000Z" modified="2022-05-22T08:44:08.084000Z" visited="2022-05-22T08:44:08.084000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/plain"/>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.kwrite" exec="kwrite %U %u" modified="2022-05-22T08:44:08.084000Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///media/pelissd/SteamLibrary/steamapps/common/Grand%20Theft%20Auto%20V" added="2022-05-22T08:50:49.903000Z" modified="2022-05-22T08:50:49.903000Z" visited="2022-05-22T08:50:49.903000Z">
+  <bookmark href="file:///media/pelissd/Heroic" added="2022-05-27T13:05:35.673018Z" modified="2022-05-27T13:05:35.673021Z" visited="2022-05-27T13:05:35.673018Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="org.kde.dolphin" exec="dolphin %u %u" modified="2022-05-22T08:50:49.903000Z" count="1"/>
+          <bookmark:application name="heroic" exec="'heroic %u'" modified="2022-05-27T13:05:35.673019Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///media/pelissd/SteamLibrary/steamapps/common/Grand%20Theft%20Auto%20V/Installers/Social-Club-Setup.exe" added="2022-05-22T08:53:30.210000Z" modified="2022-05-22T08:53:30.210000Z" visited="2022-05-22T08:53:30.210000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-ms-dos-executable"/>
-        <bookmark:applications>
-          <bookmark:application name="wine" exec="wine start /unix %f %u" modified="2022-05-22T08:53:30.210000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///media/pelissd/SteamLibrary/steamapps/common/Grand%20Theft%20Auto%20V/Installers/Rockstar-Games-Launcher.exe" added="2022-05-22T08:53:58.820000Z" modified="2022-05-22T08:55:47.427000Z" visited="2022-05-22T08:55:47.427000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-ms-dos-executable"/>
-        <bookmark:applications>
-          <bookmark:application name="wine" exec="wine start /unix %f %u" modified="2022-05-22T08:53:58.820000Z" count="1"/>
-          <bookmark:application name="com.github.Matoking.protontricks-launch" exec="/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=protontricks-launch --file-forwarding com.github.Matoking.protontricks --no-term @@ %f @@ %u" modified="2022-05-22T08:55:47.427000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/ArmouryCrateInstallTool.zip" added="2022-05-22T09:01:21.158000Z" modified="2022-05-22T09:01:21.158000Z" visited="2022-05-22T09:01:21.158000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2022-05-22T09:01:21.158000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/ArmouryCrateInstaller_3.1.4.0/ArmouryCrateInstaller.exe" added="2022-05-22T09:03:05.138949Z" modified="2022-05-22T09:25:42.475000Z" visited="2022-05-22T09:25:42.475000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-ms-dos-executable"/>
-        <bookmark:applications>
-          <bookmark:application name="mainwindow.py" exec="&apos;mainwindow.py %u&apos;" modified="2022-05-22T09:04:18.034775Z" count="2"/>
-          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2022-05-22T09:22:28.451000Z" count="3"/>
-          <bookmark:application name="wine" exec="wine start /unix %f %u" modified="2022-05-22T09:25:42.475000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/Nobara-36-KDE-5.iso" added="2022-05-22T10:18:17.100000Z" modified="2022-05-22T10:29:42.538760Z" visited="2022-05-22T10:18:17.100000Z">
+<bookmark href="file:///home/tommi/Documents/Win10_21H2_EnglishInternational_x64.iso" added="2022-05-27T13:22:48.030000Z" modified="2022-05-27T13:54:27.039000Z" visited="2022-05-27T13:54:27.039000Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/x-cd-image"/>
         <bookmark:applications>
-          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2022-05-22T10:18:17.100000Z" count="1"/>
-          <bookmark:application name="Transmission" exec="&apos;transmission-gtk %u&apos;" modified="2022-05-22T10:29:42.538752Z" count="1"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %u" modified="2022-05-27T13:22:48.030000Z" count="1"/>
+        <bookmark:application name="VirtualBox" exec="VirtualBox %u" modified="2022-05-27T13:54:27.039000Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/tommi/Ty%C3%B6p%C3%B6yt%C3%A4/Nobara-36-KDE-5.iso.torrent" added="2022-05-22T10:30:14.503658Z" modified="2022-05-22T10:37:20.898000Z" visited="2022-05-22T10:37:20.898000Z">
+<bookmark href="file:///home/tommi/Documents/pictorial_signature.zip" added="2022-05-27T13:32:58.911000Z" modified="2022-05-27T13:33:02.324000Z" visited="2022-05-27T13:33:02.324000Z">
     <info>
       <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-bittorrent"/>
+        <mime:mime-type type="application/zip"/>
         <bookmark:applications>
-          <bookmark:application name="Transmission" exec="&apos;transmission-gtk %u&apos;" modified="2022-05-22T10:30:14.503659Z" count="1"/>
-          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2022-05-22T10:37:20.898000Z" count="2"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %u" modified="2022-05-27T13:32:58.911000Z" count="1"/>
+        <bookmark:application name="" exec="dolphin %u" modified="2022-05-27T13:33:02.324000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+<bookmark href="file:///home/tommi/Documents" added="2022-05-27T13:33:07.224000Z" modified="2022-05-27T13:33:07.224000Z" visited="2022-05-27T13:33:07.224000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u %u" modified="2022-05-27T13:33:07.224000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+<bookmark href="file:///home/tommi/Documents/Win10_21H2_EnglishInternational_x64.iso" added="2022-05-27T13:54:27.039000Z" modified="2022-05-27T13:54:27.039000Z" visited="2022-05-27T13:54:27.039000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBox" exec="VirtualBox %u" modified="2022-05-27T13:54:27.039000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+<bookmark href="file:///home/tommi/Downloads/Oracle_VM_VirtualBox_Extension_Pack-6.1.34.vbox-extpack" added="2022-05-27T13:56:28.555000Z" modified="2022-05-27T13:56:29.921000Z" visited="2022-05-27T13:56:29.921000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-virtualbox-vbox-extpack"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %u" modified="2022-05-27T13:56:28.555000Z" count="1"/>
+        <bookmark:application name="virtualbox" exec="VirtualBox %U %u" modified="2022-05-27T13:56:29.921000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+<bookmark href="file:///home/tommi/Downloads/wine-7.9-staging-amd64.tar.xz" added="2022-05-27T14:10:57.173000Z" modified="2022-05-27T14:10:57.173000Z" visited="2022-05-27T14:10:57.173000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %u" modified="2022-05-27T14:10:57.173000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+<bookmark href="file:///home/tommi/Downloads" added="2022-05-27T14:11:43.187000Z" modified="2022-05-27T14:11:43.187000Z" visited="2022-05-27T14:11:43.187000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u %u" modified="2022-05-27T14:11:43.187000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+<bookmark href="https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&amp;scope=repo%20user%20workflow&amp;state=23e72660-a3c1-49ac-968c-f01869650936" added="2022-05-27T14:14:45.150000Z" modified="2022-05-27T14:14:45.150000Z" visited="2022-05-27T14:14:45.150000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="brave-browser" exec="brave %U %u" modified="2022-05-27T14:14:45.150000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+<bookmark href="x-github-desktop-dev-auth://oauth?code=873f014e15964116ceb5&amp;state=23e72660-a3c1-49ac-968c-f01869650936" added="2022-05-27T14:14:57.111000Z" modified="2022-05-27T14:14:57.111000Z" visited="2022-05-27T14:14:57.111000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="github-desktop" exec="/usr/bin/github-desktop %U %u" modified="2022-05-27T14:14:57.111000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+<bookmark href="https://fb.watch/dfKJFhGVXh/" added="2022-05-27T14:17:26.603000Z" modified="2022-05-27T14:17:26.603000Z" visited="2022-05-27T14:17:26.603000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="brave-browser" exec="brave %U %u" modified="2022-05-27T14:17:26.603000Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

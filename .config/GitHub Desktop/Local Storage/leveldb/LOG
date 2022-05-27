@@ -1,3 +1,2 @@
-2022/05/22-15:09:17.399 7cc0 Reusing MANIFEST /home/tommi/.config/GitHub Desktop/Local Storage/leveldb/MANIFEST-000001
-2022/05/22-15:09:17.399 7cc0 Recovering log #3
-2022/05/22-15:09:17.399 7cc0 Reusing old log /home/tommi/.config/GitHub Desktop/Local Storage/leveldb/000003.log 
+2022/05/27-17:14:43.337 74c7 Creating DB /home/tommi/.config/GitHub Desktop/Local Storage/leveldb since it was missing.
+2022/05/27-17:14:43.342 74c7 Reusing MANIFEST /home/tommi/.config/GitHub Desktop/Local Storage/leveldb/MANIFEST-000001

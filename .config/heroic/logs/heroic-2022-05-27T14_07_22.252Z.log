@@ -1,0 +1,87 @@
+(17:07:22) DEBUG:   [Legendary]:       Running Legendary command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(17:07:22) INFO:    [Legendary]:       Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(17:07:22) INFO:    [Gog]:             GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(17:07:22) INFO:    [Backend]:         
+  Heroic Version: 2.3.3 Brook
+  Legendary Version:  0.20.25 Our Benefactors
+  OS: Garuda KERNEL: 5.17.9-zen1-1-zen ARCH: x64
+  CPU: Intel Core™ i5-10600K @4.1 GOVERNOR: performance
+  RAM: Total: 31.25 GiB Available: 29.34 GiB
+  GRAPHICS: GPU0: Navi 22 [Radeon RX 6700/6700 XT/6750 XT / 6800M] VRAM: 1MB DRIVER:  
+  PROTOCOL: x11
+  
+(17:07:22) WARNING: [Backend]:         Protocol already registered.
+(17:07:23) INFO:    [Frontend]:        Refreshing Library
+(17:07:23) INFO:    [Legendary]:       Refreshing library...
+(17:07:23) INFO:    [Legendary]:       Refreshing Epic Games...
+(17:07:23) DEBUG:   [Legendary]:       Running Legendary command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list
+(17:07:24) INFO:    [Legendary]:       Updating game list
+(17:07:24) INFO:    [Legendary]:       Game List Updated
+(17:07:25) INFO:    [Legendary]:       Checking for game updates: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list-installed --check-updates --tsv
+(17:07:25) DEBUG:   [Legendary]:       Running Legendary command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list-installed --check-updates --tsv
+(17:07:25) INFO:    [Legendary]:       Found 0 game(s) to update
+(17:07:25) INFO:    [Gog]:             Found 0 game(s) to update
+(17:07:25) INFO:    [Backend]:         Launching BioShock Remastered (bc2c95c6ff564a16b26644f1d3ac3c55)
+(17:07:25) DEBUG:   [Legendary]:       Running Wine command: "/usr/bin/wine" wineboot --init
+(17:07:30) ERROR:   [Backend]:         Error running Wine command: Error: Command failed: "/usr/bin/wine" wineboot --init
+002c:fixme:actctx:parse_depend_manifests Could not find dependent assembly L"Microsoft.Windows.Common-Controls" (6.0.0.0)
+002c:fixme:winediag:LdrInitializeThunk wine-staging 7.7 is a testing version containing experimental patches.
+002c:fixme:winediag:LdrInitializeThunk Please mention your exact version when filing bug reports on winehq.org.
+0050:err:winedevice:ServiceMain Failed to load L"C:\\windows\\system32\\win32k.sys"
+0050:err:winedevice:ServiceMain Failed to load L"C:\\windows\\system32\\drivers\\dxgkrnl.sys"
+0050:err:winedevice:ServiceMain Failed to load L"C:\\windows\\system32\\drivers\\dxgmms1.sys"
+0060:fixme:actctx:parse_depend_manifests Could not find dependent assembly L"Microsoft.Windows.Common-Controls" (6.0.0.0)
+0060:err:ole:StdMarshalImpl_MarshalInterface Failed to create ifstub, hr 0x80004002
+0060:err:ole:CoMarshalInterface Failed to marshal the interface {6d5140c1-7436-11ce-8034-00aa006009fa}, hr 0x80004002
+0060:err:ole:apartment_get_local_server_stream Failed: 0x80004002
+wine: could not load kernel32.dll, status c0000135
+0060:err:ole:start_rpcss Failed to open RpcSs service
+
+(17:07:30) ERROR:   [Backend]:         Unable to create Wineprefix:  TypeError: result.stderr.includes is not a function
+(17:07:30) INFO:    [Legendary]:       Launching BioShock Remastered: WINEPREFIX=/home/tommi/Games/Heroic/Prefixes/BioshockRemastered /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch bc2c95c6ff564a16b26644f1d3ac3c55 --wine /usr/bin/wine --wine-prefix /home/tommi/Games/Heroic/Prefixes/BioshockRemastered
+(17:07:30) DEBUG:   [Legendary]:       Running Legendary command: WINEPREFIX=/home/tommi/Games/Heroic/Prefixes/BioshockRemastered /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch bc2c95c6ff564a16b26644f1d3ac3c55 --wine /usr/bin/wine --wine-prefix /home/tommi/Games/Heroic/Prefixes/BioshockRemastered
+(17:07:35) DEBUG:   [Legendary]:       Running Legendary command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(17:07:36) INFO:    [Backend]:         Log was written to /home/tommi/.config/heroic/GamesConfig/bc2c95c6ff564a16b26644f1d3ac3c55-lastPlay.log
+(17:07:36) INFO:    [Frontend]:        Refreshing Library
+(17:07:36) INFO:    [Legendary]:       Refreshing library...
+(17:07:36) INFO:    [Legendary]:       Updating game list
+(17:07:36) INFO:    [Legendary]:       Game List Updated
+(17:07:43) INFO:    [Backend]:         Launching BioShock Remastered (bc2c95c6ff564a16b26644f1d3ac3c55)
+(17:07:43) WARNING: [Backend]:         You are using Proton, this can lead to some bugs. Please do not open issues with bugs related to games
+(17:07:43) WARNING: No Steam runtime found
+(17:07:43) INFO:    [Legendary]:       Launching BioShock Remastered: STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/tommi/.steam/steam STEAM_COMPAT_DATA_PATH=/home/tommi/Games/Heroic/Prefixes/BioshockRemastered /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch bc2c95c6ff564a16b26644f1d3ac3c55 --no-wine --wrapper "'/home/tommi/.steam/root/compatibilitytools.d/GE-Proton7-18/proton' run"
+(17:07:43) DEBUG:   [Legendary]:       Running Legendary command: STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/tommi/.steam/steam STEAM_COMPAT_DATA_PATH=/home/tommi/Games/Heroic/Prefixes/BioshockRemastered /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch bc2c95c6ff564a16b26644f1d3ac3c55 --no-wine --wrapper "'/home/tommi/.steam/root/compatibilitytools.d/GE-Proton7-18/proton' run"
+(17:07:45) DEBUG:   [Legendary]:       Running Legendary command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(17:07:45) INFO:    [Backend]:         Log was written to /home/tommi/.config/heroic/GamesConfig/bc2c95c6ff564a16b26644f1d3ac3c55-lastPlay.log
+(17:07:45) INFO:    [Frontend]:        Refreshing Library
+(17:07:45) INFO:    [Legendary]:       Refreshing library...
+(17:07:45) INFO:    [Legendary]:       Updating game list
+(17:07:45) INFO:    [Legendary]:       Game List Updated
+(17:07:54) INFO:    [Backend]:         Launching BioShock Remastered (bc2c95c6ff564a16b26644f1d3ac3c55)
+(17:07:54) DEBUG:   [Legendary]:       Running Wine command: "/home/tommi/.local/share/lutris/runners/wine/lutris-fshack-7.2-x86_64/bin/wine" wineboot --init
+(17:08:19) DEBUG:   [Legendary]:       Ran Wine command: "/home/tommi/.local/share/lutris/runners/wine/lutris-fshack-7.2-x86_64/bin/wine" wineboot --init
+(17:08:19) INFO:    [Backend]:         Created/Updated Wineprefix at /home/tommi/Games/Heroic/Prefixes/BioshockRemastered
+(17:08:19) INFO:    [Legendary]:       Launching BioShock Remastered: WINEPREFIX=/home/tommi/Games/Heroic/Prefixes/BioshockRemastered /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch bc2c95c6ff564a16b26644f1d3ac3c55 --wine /home/tommi/.local/share/lutris/runners/wine/lutris-fshack-7.2-x86_64/bin/wine --wine-prefix /home/tommi/Games/Heroic/Prefixes/BioshockRemastered
+(17:08:19) DEBUG:   [Legendary]:       Running Legendary command: WINEPREFIX=/home/tommi/Games/Heroic/Prefixes/BioshockRemastered /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch bc2c95c6ff564a16b26644f1d3ac3c55 --wine /home/tommi/.local/share/lutris/runners/wine/lutris-fshack-7.2-x86_64/bin/wine --wine-prefix /home/tommi/Games/Heroic/Prefixes/BioshockRemastered
+(17:08:24) DEBUG:   [Legendary]:       Running Legendary command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(17:08:25) INFO:    [Backend]:         Log was written to /home/tommi/.config/heroic/GamesConfig/bc2c95c6ff564a16b26644f1d3ac3c55-lastPlay.log
+(17:08:25) INFO:    [Frontend]:        Refreshing Library
+(17:08:25) INFO:    [Legendary]:       Refreshing library...
+(17:08:25) INFO:    [Legendary]:       Updating game list
+(17:08:25) INFO:    [Legendary]:       Game List Updated
+(17:08:31) INFO:    [DXVKInstaller]:   installing vkd3d on... /home/tommi/Games/Heroic/Prefixes/BioshockRemastered
+(17:08:32) INFO:    [DXVKInstaller]:   installing dxvk on... /home/tommi/Games/Heroic/Prefixes/BioshockRemastered
+(17:08:38) INFO:    [DXVKInstaller]:   dxvk installed on /home/tommi/Games/Heroic/Prefixes/BioshockRemastered
+(17:08:42) INFO:    [DXVKInstaller]:   vkd3d installed on /home/tommi/Games/Heroic/Prefixes/BioshockRemastered
+(17:08:44) INFO:    [Backend]:         Launching BioShock Remastered (bc2c95c6ff564a16b26644f1d3ac3c55)
+(17:08:44) DEBUG:   [Legendary]:       Running Wine command: "/usr/bin/wine" wineboot --init
+(17:08:54) DEBUG:   [Legendary]:       Ran Wine command: "/usr/bin/wine" wineboot --init
+(17:08:54) INFO:    [Backend]:         Created/Updated Wineprefix at /home/tommi/Games/Heroic/Prefixes/BioshockRemastered
+(17:08:54) INFO:    [Legendary]:       Launching BioShock Remastered: WINEPREFIX=/home/tommi/Games/Heroic/Prefixes/BioshockRemastered /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch bc2c95c6ff564a16b26644f1d3ac3c55 --wine /usr/bin/wine --wine-prefix /home/tommi/Games/Heroic/Prefixes/BioshockRemastered
+(17:08:54) DEBUG:   [Legendary]:       Running Legendary command: WINEPREFIX=/home/tommi/Games/Heroic/Prefixes/BioshockRemastered /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch bc2c95c6ff564a16b26644f1d3ac3c55 --wine /usr/bin/wine --wine-prefix /home/tommi/Games/Heroic/Prefixes/BioshockRemastered
+(17:08:59) DEBUG:   [Legendary]:       Running Legendary command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(17:09:00) INFO:    [Backend]:         Log was written to /home/tommi/.config/heroic/GamesConfig/bc2c95c6ff564a16b26644f1d3ac3c55-lastPlay.log
+(17:09:00) INFO:    [Frontend]:        Refreshing Library
+(17:09:00) INFO:    [Legendary]:       Refreshing library...
+(17:09:00) INFO:    [Legendary]:       Updating game list
+(17:09:00) INFO:    [Legendary]:       Game List Updated

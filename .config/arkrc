@@ -1,15 +1,19 @@
 [ExtractDialog]
-DirHistory[$e]=$HOME/Lataukset/
+DirHistory[$e]=$HOME/Documents/
+
+[Extraction]
+openDestinationFolderAfterExtraction=true
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME
-Recent URLs[$e]=file:$HOME/Lataukset/,file:$HOME/
+Recent Files[$e]=file:$HOME,file:$HOME
+Recent URLs[$e]=file:$HOME/Documents/
 detailViewIconSize=16
 
 [MainWindow]
 HDMI-A-0 XPosition 1920x1080=610
-HDMI-A-0 YPosition 1920x1080=282
-State=AAAA/wAAAAD9AAAAAAAAArwAAAGoAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+HDMI-A-0 YPosition 1920x1080=317
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAArwAAAHKAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 StatusBar=Disabled
 ToolBarsMovable=Disabled
-splitterSizes=466,233
+splitterSizes=464,232

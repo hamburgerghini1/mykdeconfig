@@ -8,42 +8,25 @@ SideBarPage=operations
 [KFileDialog Settings]
 Places Icons Auto-resize=false
 Places Icons Static Size=32
-Recent Files[$e]=Screenshot_20220522_104003.png,file:$HOME/Screenshot_20220522_104003.png
-Recent URLs[$e]=file:$HOME/
+Recent Files[$e]=Screenshot_2.png,file:$HOME/Pictures/Screenshot_2.png
+Recent URLs[$e]=file:$HOME/Pictures/
 detailViewIconSize=16
 
 [MainWindow]
-HDMI-0 Window-Maximized 1920x1080=true
-HDMI-0 XPosition 1920x1080=640
-HDMI-0 YPosition 1920x1080=312
-HDMI-A-1 Height 1920x1080=667
-HDMI-A-1 Width 1920x1080=804
+HDMI-A-0 Height 1920x1080=677
+HDMI-A-0 Width 1920x1080=644
+HDMI-A-0 XPosition 1920x1080=640
+HDMI-A-0 YPosition 1920x1080=327
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAAyQAAAJtAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAAoQAAAJ7AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=/media/pelissd/SteamLibrary/steamapps/common/Cyberpunk 2077/BonusContent/wallpapers/Night City/NC_ExclusiveSteamWallpapers1080x1920.png
-File10[$e]=$HOME/Screenshot_20220522_104003.png
-File2[$e]=/media/pelissd/SteamLibrary/steamapps/common/Cyberpunk 2077/BonusContent/wallpapers/Night City/NC_ExclusiveSteamWallpapers1920x1080.png
-File3[$e]=/media/pelissd/SteamLibrary/steamapps/common/Cyberpunk 2077/BonusContent/wallpapers/Trauma Team/Cyberpunk2077_Wallpapers_TraumaTeam_1920x1080_EN.png
-File4[$e]=/media/pelissd/SteamLibrary/steamapps/common/Cyberpunk 2077/BonusContent/wallpapers/Trauma Team/Cyberpunk2077_Wallpapers_TraumaTeam_1900x1200_ZHT.png
-File5[$e]=/media/pelissd/SteamLibrary/steamapps/common/Cyberpunk 2077/BonusContent/wallpapers/Trauma Team/Cyberpunk2077_Wallpapers_TraumaTeam_2560x1600_KR.png
-File6[$e]=/media/pelissd/SteamLibrary/steamapps/common/Cyberpunk 2077/BonusContent/wallpapers/Militech/Cyberpunk2077_Wallpapers_Militech_1920x1080_EN.png
-File7[$e]=/media/pelissd/SteamLibrary/steamapps/common/Cyberpunk 2077/BonusContent/wallpapers/Kang Tao/Cyberpunk2077_Wallpapers_KangTao_1920x1080_EN.png
-File8[$e]=/media/pelissd/SteamLibrary/steamapps/common/Cyberpunk 2077/BonusContent/wallpapers/Arasaka/Cyberpunk2077_Wallpapers_Arasaka_1920x1080_EN.png
-File9[$e]=$HOME/Downloads/image.ico
-Name1[$e]=NC_ExclusiveSteamWallpapers1080x1920.png
-Name10[$e]=Screenshot_20220522_104003.png
-Name2[$e]=NC_ExclusiveSteamWallpapers1920x1080.png
-Name3[$e]=Cyberpunk2077_Wallpapers_TraumaTeam_1920x1080_EN.png
-Name4[$e]=Cyberpunk2077_Wallpapers_TraumaTeam_1900x1200_ZHT.png
-Name5[$e]=Cyberpunk2077_Wallpapers_TraumaTeam_2560x1600_KR.png
-Name6[$e]=Cyberpunk2077_Wallpapers_Militech_1920x1080_EN.png
-Name7[$e]=Cyberpunk2077_Wallpapers_KangTao_1920x1080_EN.png
-Name8[$e]=Cyberpunk2077_Wallpapers_Arasaka_1920x1080_EN.png
-Name9[$e]=image.ico
+File1[$e]=$HOME/Pictures/wp5894291-minimalist-cyberpunk-wallpapers.jpg
+File2[$e]=$HOME/Pictures/Screenshot_2.png
+Name1[$e]=wp5894291-minimalist-cyberpunk-wallpapers.jpg
+Name2[$e]=Screenshot_2.png
 
 [SideBar]
 IsVisible ViewMode=true
-SideBarSplitterSizes=171,632
+SideBarSplitterSizes=213,427

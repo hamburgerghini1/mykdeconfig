@@ -1,0 +1,48 @@
+{
+	"bc2c95c6ff564a16b26644f1d3ac3c55": {
+		"game": {
+			"app_name": "bc2c95c6ff564a16b26644f1d3ac3c55",
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"cloud_saves_supported": false,
+			"external_activation": null,
+			"is_dlc": false,
+			"launch_options": [],
+			"owned_dlc": [],
+			"platform_versions": {
+				"Windows": "1.0.0_BN-177_CL-17671"
+			},
+			"title": "BioShock Remastered",
+			"version": "1.0.0_BN-177_CL-17671"
+		},
+		"install": null,
+		"manifest": {
+			"app_name": "c90b2e4cb8634ab49523ecea09b34a9f",
+			"build_id": "PLaKHghCUo562Ec0izGryzrQ6Q8",
+			"build_version": "1.0.0_BN-177_CL-17671",
+			"disk_size": 22514441376,
+			"download_size": 15860689658,
+			"feature_level": 17,
+			"install_tags": [
+				""
+			],
+			"launch_command": "",
+			"launch_exe": "2KLauncher/LauncherPatcher.exe",
+			"num_chunks": 21460,
+			"num_files": 940,
+			"prerequisites": {
+				"args": "",
+				"ids": [
+					"C1C37386EDA92EE4461988BB0631C0878D58B4F2"
+				],
+				"name": "PrereqBundle",
+				"path": "Build/FinalEpic/Prerequisites/PrerequisiteInstaller.exe"
+			},
+			"size": 1446437,
+			"tag_disk_size": [],
+			"tag_download_size": [],
+			"type": "binary",
+			"version": 17
+		}
+	}
+}

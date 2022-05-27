@@ -1,0 +1,84 @@
+030221a8-c3cf-402f-9a43-100c3badbe74:
+  message: No runtime found.
+  severity: warning
+  timestamp: '2022-05-26 19:51:53'
+38af44ff-ef38-4be7-8342-7f693353526a:
+  message: Library file not found, creating new one
+  severity: warning
+  timestamp: '2022-05-26 19:51:39'
+39fb719f-1318-41a8-a309-085682f30e63:
+  message: 'Dependency installed: times32 in Miner'
+  severity: info
+  timestamp: '2022-05-26 19:55:54'
+3e938293-2499-4406-bef4-b197878158a8:
+  message: No WineBridge found.
+  severity: warning
+  timestamp: '2022-05-26 19:52:00'
+3f94b6f7-51a0-432d-b0c5-2a65df8a099c:
+  message: No runners found.
+  severity: warning
+  timestamp: '2022-05-26 19:52:03'
+3fabfe04-752b-438b-8043-67dd02a14405:
+  message: Data file not found. Creating new one.
+  severity: error
+  timestamp: '2022-05-26 19:51:35'
+5496affa-71d1-4c1d-a470-2834efb21b41:
+  message: 'Component installed: nvapi dxvk-nvapi-v0.5.4'
+  severity: info
+  timestamp: '2022-05-26 19:51:52'
+5e703824-71a9-4ee8-9937-bb7f2b43395f:
+  message: No vkd3d found.
+  severity: warning
+  timestamp: '2022-05-26 19:51:48'
+8284b6bc-bb7d-4cb8-8f0f-38a543780c3e:
+  message: ' New template application created'
+  severity: info
+  timestamp: '2022-05-26 19:56:25'
+836fc37e-220c-409a-8dee-f34104e83ce4:
+  message: 'Component installed: latencyflex latencyflex-v0.1.0'
+  severity: info
+  timestamp: '2022-05-26 19:51:53'
+8aeb436f-4360-4e01-85eb-f53041662115:
+  message: 'New bottle created: Miner'
+  severity: info
+  timestamp: '2022-05-26 19:56:22'
+9642bfef-b7ca-487d-9a46-4dcad08ee779:
+  message: No dxvk found.
+  severity: warning
+  timestamp: '2022-05-26 19:51:42'
+a513030f-4f06-456d-9d90-aa7d7af6c2f0:
+  message: No latencyflex found.
+  severity: warning
+  timestamp: '2022-05-26 19:51:52'
+a6088157-caa6-40e9-b5a5-ddcdd55b51e8:
+  message: 'Component installed: winebridge winebridge-1.1.0'
+  severity: info
+  timestamp: '2022-05-26 19:52:03'
+af8c75e7-f3d3-425d-a10d-651df4063469:
+  message: 'Component installed: runner caffe-7.7'
+  severity: info
+  timestamp: '2022-05-26 19:52:53'
+b99031f5-7934-49f0-b161-69054470e4a3:
+  message: 'Component installed: runtime runtime-0.3'
+  severity: info
+  timestamp: '2022-05-26 19:52:00'
+c9c88dd9-1c57-4ade-9bc4-3170909a0d26:
+  message: 'Dependency installed: courie32 in Miner'
+  severity: info
+  timestamp: '2022-05-26 19:56:22'
+deb4b609-9402-4d2e-830d-a93c12674fc1:
+  message: 'Component installed: vkd3d vkd3d-proton-2.6'
+  severity: info
+  timestamp: '2022-05-26 19:51:50'
+eb413ce1-ade4-46d7-8f98-917f84ab0f28:
+  message: 'Component installed: dxvk dxvk-1.10.1'
+  severity: info
+  timestamp: '2022-05-26 19:51:48'
+f2091e86-3fd7-4c43-874f-5ad03af9e4b1:
+  message: 'Dependency installed: arial32 in Miner'
+  severity: info
+  timestamp: '2022-05-26 19:55:21'
+fcbcf706-c924-4601-ab9e-6f0a5b39931a:
+  message: No nvapi found.
+  severity: warning
+  timestamp: '2022-05-26 19:51:50'

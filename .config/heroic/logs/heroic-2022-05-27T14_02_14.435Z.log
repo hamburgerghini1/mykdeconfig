@@ -1,0 +1,31 @@
+(17:02:14) DEBUG:   [Legendary]:       Running Legendary command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(17:02:14) INFO:    [Legendary]:       Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(17:02:14) INFO:    [Gog]:             GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(17:02:14) INFO:    [Backend]:         
+  Heroic Version: 2.3.3 Brook
+  Legendary Version:  0.20.25 Our Benefactors
+  OS: Garuda KERNEL: 5.17.9-zen1-1-zen ARCH: x64
+  CPU: Intel Core™ i5-10600K @4.1 GOVERNOR: performance
+  RAM: Total: 31.25 GiB Available: 25.36 GiB
+  GRAPHICS: GPU0: Navi 22 [Radeon RX 6700/6700 XT/6750 XT / 6800M] VRAM: 1MB DRIVER:  
+  PROTOCOL: x11
+  
+(17:02:15) WARNING: [Backend]:         Protocol already registered.
+(17:02:15) INFO:    [Frontend]:        Refreshing Library
+(17:02:15) INFO:    [Legendary]:       Refreshing library...
+(17:02:15) INFO:    [Legendary]:       Refreshing Epic Games...
+(17:02:16) DEBUG:   [Legendary]:       Running Legendary command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list
+(17:02:17) INFO:    [Legendary]:       Updating game list
+(17:02:17) INFO:    [Legendary]:       Game List Updated
+(17:02:17) INFO:    [Legendary]:       Checking for game updates: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list-installed --check-updates --tsv
+(17:02:17) DEBUG:   [Legendary]:       Running Legendary command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list-installed --check-updates --tsv
+(17:02:18) INFO:    [Legendary]:       Found 0 game(s) to update
+(17:02:18) INFO:    [Gog]:             Found 0 game(s) to update
+(17:02:19) INFO:    [Backend]:         Launching BioShock Remastered (bc2c95c6ff564a16b26644f1d3ac3c55)
+(17:02:20) DEBUG:   [Legendary]:       Running Wine command: "/usr/bin/wine" wineboot --init && "/usr/bin/wineserver" --wait
+(17:04:53) INFO:    [Frontend]:        Refreshing Library
+(17:04:53) INFO:    [Legendary]:       Refreshing library...
+(17:04:53) INFO:    [Legendary]:       Updating game list
+(17:04:53) INFO:    [Legendary]:       Game List Updated
+(17:04:53) INFO:    [Legendary]:       killing bc2c95c6ff564a16b26644f1d3ac3c55
+(17:04:53) INFO:    [Legendary]:       bc2c95c6ff564a16b26644f1d3ac3c55 killed

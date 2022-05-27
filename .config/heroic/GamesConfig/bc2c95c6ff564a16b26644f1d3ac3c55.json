@@ -1,0 +1,25 @@
+{
+  "bc2c95c6ff564a16b26644f1d3ac3c55": {
+    "autoInstallDxvk": true,
+    "autoInstallVkd3d": true,
+    "maxSharpness": 2,
+    "nvidiaPrime": false,
+    "otherOptions": "",
+    "savesPath": "",
+    "showFps": false,
+    "targetExe": "",
+    "useGameMode": false,
+    "wineCrossoverBottle": "Heroic",
+    "winePrefix": "/home/tommi/Games/Heroic/Prefixes/BioshockRemastered",
+    "wineVersion": {
+      "bin": "/home/tommi/.config/heroic/tools/wine/wine-7.9-staging-amd64/bin/wine",
+      "name": "Wine - wine-7.9-staging-amd64",
+      "type": "wine",
+      "wineserver": "/home/tommi/.config/heroic/tools/wine/wine-7.9-staging-amd64/bin/wineserver",
+      "wineboot": "/home/tommi/.config/heroic/tools/wine/wine-7.9-staging-amd64/bin/wineboot"
+    },
+    "useSteamRuntime": false
+  },
+  "version": "v0",
+  "explicit": true
+}

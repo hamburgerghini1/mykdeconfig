@@ -1,3 +1,6 @@
-2022/05/22-15:08:46.262 7a8f Reusing MANIFEST /home/tommi/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
-2022/05/22-15:08:46.262 7a8f Recovering log #95
-2022/05/22-15:08:46.263 7a8f Reusing old log /home/tommi/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000095.log 
+2022/05/27-17:20:29.674 aa8a Reusing MANIFEST /home/tommi/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/05/27-17:20:29.674 aa8a Recovering log #54
+2022/05/27-17:20:29.674 aa8a Reusing old log /home/tommi/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000054.log 
+2022/05/27-17:29:37.689 aa8a Level-0 table #59: started
+2022/05/27-17:29:37.691 aa8a Level-0 table #59: 86930 bytes OK
+2022/05/27-17:29:37.693 aa8a Delete type=0 #54

@@ -1,27 +1,23 @@
 [Face-94410222150464][SensorColors]
-memory/physical/used=61,174,233
+memory/physical/used=197,14,210
 
 [Face-94410238879984][SensorColors]
-network/enp5s0/ipv4address=197,14,210
-network/enp5s0/ipv6address=27,210,14
-network/enp7s0/ipv4address=61,174,233
-network/enp7s0/ipv6address=233,120,61
+network/enp6s0/ipv4address=197,14,210
+network/enp6s0/ipv6address=27,210,14
 
 [Face-94410261307168][SensorColors]
-disk/all/used=61,174,233
+disk/all/used=197,14,210
 
 [Face-94410266684256][SensorColors]
-cpu/all/usage=61,174,233
+cpu/all/usage=197,14,210
 
 [Face-94410278989264][SensorColors]
-os/plasma/kfVersion=233,223,61
-os/plasma/plasmaVersion=233,61,105
-os/plasma/qtVersion=61,233,86
-os/system/hostname=61,174,233
-os/system/prettyName=154,61,233
+os/plasma/kfVersion=14,210,119
+os/plasma/plasmaVersion=145,210,14
+os/plasma/qtVersion=14,66,210
+os/system/hostname=197,14,210
+os/system/prettyName=210,40,14
 
 [Face-94410280144624][SensorColors]
-network/enp5s0/download=197,14,210
-network/enp5s0/upload=27,210,14
-network/enp7s0/download=61,174,233
-network/enp7s0/upload=233,120,61
+network/enp6s0/download=197,14,210
+network/enp6s0/upload=27,210,14

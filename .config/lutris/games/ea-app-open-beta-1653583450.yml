@@ -1,0 +1,10 @@
+game:
+  exe: drive_c/Program Files/Electronic Arts/EA Desktop/EA Desktop/EADesktop.exe
+  prefix: /home/tommi/Games/ea-desktop
+system:
+  env:
+    LC_ALL: en_US.utf-8
+    __GL_SHADER_DISK_CACHE: '1'
+    __GL_SHADER_DISK_CACHE_PATH: /home/tommi/Games/ea-desktop
+wine:
+  version: lutris-fshack-7.2-x86_64

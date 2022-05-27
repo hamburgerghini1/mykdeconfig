@@ -1,55 +1,13 @@
 [Devices][/org/freedesktop/UDisks2/block_devices/loop0]
 EverMounted=true
-Icon=application-vnd.snap
-LastNameSeen=multipass_6130.snap
+Icon=application-x-raw-disk-image
+LastNameSeen=android.img
 LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/loop1]
 EverMounted=true
-Icon=application-vnd.snap
-LastNameSeen=gtk-common-themes_1519.snap
-LastSeenMounted=true
-
-[Devices][/org/freedesktop/UDisks2/block_devices/loop2]
-EverMounted=true
-Icon=application-vnd.snap
-LastNameSeen=snap-store_558.snap
-LastSeenMounted=true
-
-[Devices][/org/freedesktop/UDisks2/block_devices/loop3]
-EverMounted=true
-Icon=application-vnd.snap
-LastNameSeen=bare_5.snap
-LastSeenMounted=true
-
-[Devices][/org/freedesktop/UDisks2/block_devices/loop4]
-EverMounted=true
-Icon=application-vnd.snap
-LastNameSeen=core20_1405.snap
-LastSeenMounted=true
-
-[Devices][/org/freedesktop/UDisks2/block_devices/loop5]
-EverMounted=true
-Icon=application-vnd.snap
-LastNameSeen=core_12834.snap
-LastSeenMounted=true
-
-[Devices][/org/freedesktop/UDisks2/block_devices/loop6]
-EverMounted=true
-Icon=application-vnd.snap
-LastNameSeen=anbox_186.snap
-LastSeenMounted=true
-
-[Devices][/org/freedesktop/UDisks2/block_devices/loop7]
-EverMounted=true
-Icon=application-vnd.snap
-LastNameSeen=gnome-3-38-2004_99.snap
-LastSeenMounted=true
-
-[Devices][/org/freedesktop/UDisks2/block_devices/loop8]
-EverMounted=true
-Icon=application-x-raw-disk-image
-LastNameSeen=android.img
+Icon=application-x-cd-image
+LastNameSeen=CCCOMA_X64FRE_EN-GB_DV9
 
 [Devices][/org/freedesktop/UDisks2/block_devices/nvme0n1p1]
 EverMounted=true
@@ -57,50 +15,35 @@ Icon=drive-harddisk
 LastNameSeen=pelissd
 LastSeenMounted=true
 
-[Devices][/org/freedesktop/UDisks2/block_devices/nvme0n1p3]
-EverMounted=true
-Icon=drive-harddisk
-LastNameSeen=Basic data partition
-
 [Devices][/org/freedesktop/UDisks2/block_devices/nvme1n1p1]
 EverMounted=true
 Icon=drive-harddisk
-LastNameSeen=EFI System Partition
+LastNameSeen=NO_LABEL
 LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/nvme1n1p2]
 EverMounted=true
-Icon=drive-harddisk
-LastNameSeen=1,0 GiB sisäinen asema (nvme1n1p2)
-LastSeenMounted=true
-
-[Devices][/org/freedesktop/UDisks2/block_devices/nvme1n1p3]
-EverMounted=true
 Icon=drive-harddisk-root
-LastNameSeen=fedora_localhost-live
+LastNameSeen=root
 LastSeenMounted=true
-
-[Devices][/org/freedesktop/UDisks2/block_devices/nvme1n1p4]
-Icon=drive-harddisk
-LastNameSeen=Basic data partition
-
-[Devices][/org/freedesktop/UDisks2/block_devices/sda]
-Icon=drive-removable-media-usb-pendrive
-LastNameSeen=Siirrettävä tallennusväline
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sda1]
 EverMounted=true
 Icon=drive-removable-media-usb-pendrive
-LastNameSeen=HIVE
+LastNameSeen=NTFS
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sda2]
 Icon=drive-removable-media-usb-pendrive
-LastNameSeen=NHOS
+LastNameSeen=UEFI_NTFS
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sda3]
 Icon=drive-removable-media-usb-pendrive
-LastNameSeen=SYSTEM
+LastNameSeen=ANACONDA
 
-[Devices][/org/freedesktop/UDisks2/block_devices/sda4]
+[Devices][/org/freedesktop/UDisks2/block_devices/sdb1]
 Icon=drive-removable-media-usb-pendrive
-LastNameSeen=hiveroot
+LastNameSeen=GARUDA_DR460NIZEDGAMING_TALON
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdb2]
+Icon=drive-removable-media-usb-pendrive
+LastNameSeen=MISO_EFI
